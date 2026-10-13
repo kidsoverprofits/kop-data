@@ -1118,11 +1118,6 @@
       "y": -231.9,
       "r": 13.6
     },
-    "brighter-path-courtland": {
-      "x": -1161.1,
-      "y": 102.7,
-      "r": 14.1
-    },
     "bryan-delaney": {
       "x": 418.2,
       "y": 301.9,
@@ -1582,6 +1577,11 @@
       "x": 626.2,
       "y": -130.1,
       "r": 13.5
+    },
+    "brighter-path-courtland": {
+      "x": -1161.1,
+      "y": 102.7,
+      "r": 14.1
     },
     "brighter-path-owens-cross-roads": {
       "x": -1123.9,
@@ -2412,6 +2412,11 @@
       "x": 378,
       "y": 22.8,
       "r": 13.6
+    },
+    "austin-oaks-hospital": {
+      "x": -707.2,
+      "y": -145.5,
+      "r": 4
     },
     "bell-academy": {
       "x": -103,
@@ -6288,11 +6293,6 @@
       "y": 24.7,
       "r": 13.8
     },
-    "the-brown-school-at-the-oaks": {
-      "x": -623.8,
-      "y": -133.8,
-      "r": 4
-    },
     "the-clock-tower-schools": {
       "x": -1215.4,
       "y": -254.8,
@@ -6701,11 +6701,6 @@
     "aurora-plains-academy": {
       "x": -1804.9,
       "y": -817.4,
-      "r": 4
-    },
-    "austin-oaks-hospital": {
-      "x": -707.2,
-      "y": -145.5,
       "r": 4
     },
     "avalon-hills-residential-eating-disorder-program": {
@@ -8361,6 +8356,11 @@
     "the-academy": {
       "x": -1963.5,
       "y": -499.1,
+      "r": 4
+    },
+    "the-brown-school-at-the-oaks": {
+      "x": -623.8,
+      "y": -133.8,
       "r": 4
     },
     "the-brown-schools-at-laurel-ridge": {
