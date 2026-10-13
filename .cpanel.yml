@@ -1,0 +1,13 @@
+---
+deployment:
+  tasks:
+    # This repo is the theme's js/data/ folder. Every folder and file here is
+    # copied into it; the theme's own deploy (Kids-Over-Profits, .cpanel.yml)
+    # ships only js/data/pages and js/data/glossary, which this repo never
+    # holds. Nothing is deleted: a file taken out of this repo stays on the
+    # server until an rm line here removes it.
+    - export DEPLOYPATH=/home/kidsover/public_html/wp-content/themes/child/js/data/
+    - /bin/mkdir -p $DEPLOYPATH
+    - /bin/cp -R network reporting reddit-wiki people unsilenced survivor-archives federal-funding data-audit featured az_reports ut_checklists $DEPLOYPATH
+    - /bin/cp *.json $DEPLOYPATH
+    - /bin/cp DATA-LICENSE.md $DEPLOYPATH

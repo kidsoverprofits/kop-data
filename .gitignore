@@ -1,0 +1,7 @@
+# Utah checklist PDFs live in Drive, linked from the site; never here
+ut_checklists/*.pdf
+
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/

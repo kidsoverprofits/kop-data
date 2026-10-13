@@ -1,0 +1,4 @@
+.cpanel.yml text eol=lf
+*.json text
+*.csv text
+*.md text
