@@ -17626,7 +17626,7 @@
   "facility_id": 12698,
   "verdict": "kop_wrong",
   "confidence": "medium",
-  "finding": "One program, three records. It opened as Clear View in Sandpoint, Idaho (Woodbury visit, April 2000), was Clearview Horizon in Heron, Montana by February 2006 (not around 2012, as the wiki says), traded as Clearview Academy under Elk Mountain Academy, Inc. (CARF, from 2016), and became Clearview Girls Academy, a \"Christian therapeutic boarding school\", after Montana's 2019 law took effect (KFF Health News). Record 9698 is the Sandpoint years and holds the Missoulian's 2019 series; 100124 is Clearview Horizon in Heron; 12698 is today's name. The rename year is not in any source read: give it when merging, from the clearviewhorizon.com Wayback captures if they settle it.",
+  "finding": "One program, three records. It opened as Clear View in Sandpoint, Idaho (Woodbury visit, April 2000), was Clearview Horizon in Heron, Montana by February 2006 (not around 2012, as the wiki says), traded as Clearview Academy under Elk Mountain Academy, Inc. (CARF, from 2016), and became Clearview Girls Academy, a \"Christian therapeutic boarding school\", after Montana's 2019 law took effect (KFF Health News). Record 9698 is the Sandpoint years and holds the Missoulian's 2019 series; 100124 is Clearview Horizon in Heron; 12698 is today's name. The program's own site settles the year: its home page took the Clearview Girls Academy name between the Wayback captures of October 25 and November 25, 2020.",
   "kop_now": "Clearview Horizon (#9698): Sandpoint, ID, Open, from 1996, operator \"RELOCATED\". Clearview Horizon (MT) (#100124): Heron, MT, Open, from 1996. Clearview Girls Academy (#12698): Heron, MT, Open, from 1996. None has past names or a company.",
   "sources": [
    {
@@ -17664,13 +17664,20 @@
     "title": "Montana DPHHS private alternative adolescent residential program providers, 2023",
     "date": "2023",
     "quote": "Elk Mountain Academy ... 60 Girls 13-18 ... Jason Thielbar ... 406-847-5850 ... 20 Bear Foot Ln, Heron (search summary; scanned PDF not read)"
+   },
+   {
+    "url": "https://web.archive.org/web/20201125202059/https://www.clearviewhorizon.com/",
+    "title": "clearviewhorizon.com home page, Wayback capture of 2020-11-25 (KOP copy: https://kidsoverprofits.org/wp-content/uploads/cvh-2020-11-25.pdf; the 2020-10-25 capture: https://kidsoverprofits.org/wp-content/uploads/cvh-2020-10-25.pdf)",
+    "date": "2020-11-25",
+    "quote": "Clearview Girls Academy | Residential Treatment Center for Troubled Girls (page title; the capture of 2020-10-25 is titled \"Clearview Academy | Residential Treatment Center for Troubled Girls\", and every capture through 2020-08-05 \"Residential Treatment Center for Troubled Girls\" with the Clearview Horizon name)"
    }
   ],
   "renames": [
    {
     "earlier": 100124,
     "later": 12698,
-    "why": "KFF Health News: \"Clearview Horizon, now called Clearview Girls Academy\""
+    "why": "KFF Health News: \"Clearview Horizon, now called Clearview Girls Academy\"",
+    "year": 2020
    }
   ],
   "ops": [
@@ -17685,7 +17692,8 @@
     "keep": 12698,
     "drop": 100124,
     "rename": true,
-    "text": "Merge Clearview Horizon (100124) into Clearview Girls Academy (12698) as a rename: KFF Health News (2022) says \"Clearview Horizon, now called Clearview Girls Academy\", after Montana's 2019 law was implemented. Give the rename year (2019 or later)."
+    "text": "Merge Clearview Horizon (100124) into Clearview Girls Academy (12698) as a rename in 2020: KFF Health News (2022) says \"Clearview Horizon, now called Clearview Girls Academy\", and the program's site took the new name between October 25 and November 25, 2020 (Wayback).",
+    "year": 2020
    },
    {
     "type": "list_add",
@@ -17741,11 +17749,6 @@
     "from": "reported to be one",
     "to": "Director (2000-2006, Woodbury Reports); Chief Executive Officer (NATSAP, 2026)",
     "text": "Mary Thielbahr directed Clear View in 2000 and Clearview Horizon in 2006 (Woodbury Reports); NATSAP lists Mary Louise Thielbahr as CEO of Clearview Girls Academy."
-   },
-   {
-    "type": "check",
-    "text": "Date the rename: find the year clearviewhorizon.com changed to the Clearview Girls Academy name (Wayback captures), and archive that capture as a PDF into the media library.",
-    "step_text": "Date the rename from the clearviewhorizon.com Wayback captures and archive the capture that shows it."
    },
    {
     "type": "check",
