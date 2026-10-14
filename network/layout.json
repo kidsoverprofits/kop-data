@@ -333,6 +333,11 @@
       "y": 224.7,
       "r": 14.3
     },
+    "youth-opportunity-investments": {
+      "x": -1307.7,
+      "y": -25,
+      "r": 15.1
+    },
     "acadia-healthcare": {
       "x": 762.6,
       "y": 524.1,
@@ -372,11 +377,6 @@
       "x": -253.9,
       "y": 274.7,
       "r": 14.3
-    },
-    "youth-opportunity-investments": {
-      "x": -1307.7,
-      "y": -25,
-      "r": 15.1
     },
     "adirondack-leadership-expeditions": {
       "x": 509.8,
@@ -1013,6 +1013,11 @@
       "y": -337.3,
       "r": 13.7
     },
+    "eckerd-connects": {
+      "x": 243.5,
+      "y": -737.4,
+      "r": 14.3
+    },
     "erik-yost": {
       "x": 430.6,
       "y": -212.8,
@@ -1282,11 +1287,6 @@
       "x": 158.3,
       "y": -778.2,
       "r": 14.5
-    },
-    "eckerd-connects": {
-      "x": 243.5,
-      "y": -737.4,
-      "r": 14.3
     },
     "eckerd-youth-alternatives": {
       "x": 329,
@@ -5588,6 +5588,11 @@
       "y": -834.9,
       "r": 4
     },
+    "eckerd-connects-girls-residential-academy-at-kerr-lake": {
+      "x": -1816,
+      "y": -1106.2,
+      "r": 4
+    },
     "eckerd-youth-development-center": {
       "x": 51.2,
       "y": -819.2,
@@ -7177,6 +7182,11 @@
       "x": 194.9,
       "y": -791.1,
       "r": 14.3
+    },
+    "orlando-intensive-youth-academy": {
+      "x": -1168.8,
+      "y": -513.2,
+      "r": 14.4
     },
     "orval-hagerman": {
       "x": 37.4,
@@ -8843,11 +8853,6 @@
       "y": -942.8,
       "r": 4
     },
-    "eckerd-connects-girls-residential-academy-at-kerr-lake": {
-      "x": -1816,
-      "y": -1106.2,
-      "r": 4
-    },
     "education-consultant": {
       "x": 628.1,
       "y": 629.7,
@@ -9557,11 +9562,6 @@
       "x": 547.4,
       "y": 1289.6,
       "r": 14.3
-    },
-    "orlando-intensive-youth-academy": {
-      "x": -1168.8,
-      "y": -513.2,
-      "r": 14.4
     },
     "outdoor-behavioral-healthcare-research-center": {
       "x": 631.7,
