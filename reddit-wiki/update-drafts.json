@@ -17,26 +17,32 @@
     {
      "id": "sq1",
      "old": "| [** Sequel TSI of Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) | - | - | - |",
-     "new": "| [** Sequel TSI of Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) (Brighter Path Courtland since 2022, [source](https://www.waaytv.com/news/its-a-house-of-horror-lawyer-speaks-on-unbearable-living-conditions-inside-brighter-path-courtland/article_628d2376-1a1b-11ef-a809-27aa4ca95e5c.html)) | - | Courtland, AL | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Renamed Brighter Path Courtland in 2022; still operating."
+     "new": "| [** Sequel TSI of Courtland/Brighter Path Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) | 1990 | Courtland, AL | - |",
+     "note": "Sequel audit (owner, 2026-10-12): Brighter Path Courtland since 2022, still operating. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     },
     {
      "id": "sq2",
      "old": "| [** Sequel TSI of Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) | - | - | - |",
-     "new": "| [** Sequel TSI of Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) (Brighter Path Montgomery since 2022, [source](https://eji.org/news/alabama-continues-sending-children-to-facilities-where-abusive-conditions-reported/)) | - | Montgomery, AL | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Renamed Brighter Path Montgomery in 2022; still operating."
+     "new": "| [** Sequel TSI of Montgomery/Brighter Path Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) | 2013 | Montgomery, AL | - |",
+     "note": "Sequel audit: Brighter Path Montgomery since 2022, still operating. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     },
     {
      "id": "sq3",
      "old": "| [** Sequel TSI of Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) | - | - | - |",
-     "new": "| [** Sequel TSI of Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) (Brighter Path Tuskegee since 2022, [source](https://eji.org/news/alabama-continues-sending-children-to-facilities-where-abusive-conditions-reported/)) | 1998 | Tuskegee, AL | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Renamed Brighter Path Tuskegee in 2022; opened 1998 per NBC News ([source] link could also be https://www.nbcnews.com/news/us-news/mom-sues-alabama-youth-facilty-sequel-tsi-son-died-suicide-escape-livi-rcna45729)."
+     "new": "| [** Sequel TSI of Tuskegee/Brighter Path Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) | 1998 | Tuskegee, AL | - |",
+     "note": "Sequel audit: Brighter Path Tuskegee since 2022; opened 1998 (NBC News). Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     },
     {
      "id": "sq4",
      "old": "| [** Sequel TSI of Owens Cross Roads**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) | - | - | - |",
-     "new": "| [** Sequel TSI of Owens Cross Roads**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) (closed in 2022 and reopened on the same campus as Brighter Path, now Pathway of Madison County, [source](https://www.waff.com/2022/05/03/long-troubled-sequel-tsi-youth-services-center-shut-down-reopen/), [source](https://www.waff.com/2024/09/05/troubled-youth-attorney-weighs-pathway-madison-county-riot/)) | - | Owens Cross Roads, AL | - |",
-     "note": "Sequel audit (owner, 2026-10-12): The Sequel TSI name ended in 2022; the program runs on as Pathway of Madison County."
+     "new": "| [** Sequel TSI of Owens Cross Roads/Pathway of Madison County**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) | 1996 | Owens Cross Roads, AL | - |",
+     "note": "Sequel audit: the Sequel TSI name ended in 2022; the program runs on, on the same campus, as Pathway of Madison County. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "sq5",
+     "old": "| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) | - | - | - |",
+     "new": "| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) | 1996-2019 | Madison, AL | - |",
+     "note": "Sequel audit: opened 1996 as a Three Springs program; closed in August 2019 after Madison revoked its business license (AL.com)."
     }
    ],
    "conflicts": []
@@ -56,10 +62,10 @@
    "tense": [],
    "fixes": [
     {
-     "id": "sq1",
+     "id": "ts1",
      "old": "| [** Three Springs**](https://www.reddit.com/r/troubledteens/wiki/index/threesprings) | - | - | - |",
-     "new": "| [** Three Springs**](https://www.reddit.com/r/troubledteens/wiki/index/threesprings) | 1993-2006 ([source](https://kidsoverprofits.org/three-springs-inc/)) | - | Blue Ridge, Augusta, Jesup and Darien, GA |",
-     "note": "Sequel audit (owner, 2026-10-12): Years from Woodbury June 1993 (two new Georgia programs) and KOP's Three Springs article (Georgia programs shut down in 2006); locations are the four Georgia programs KOP holds (Blue Ridge, Augusta, Wayne County Girls Program in Jesup, McIntosh YDC in Darien)."
+     "new": "| [** Three Springs**](https://www.reddit.com/r/troubledteens/wiki/index/threesprings) | 1993-2006 | - | Blue Ridge/Augusta/Jesup/Darien, GA |",
+     "note": "Three Springs' Georgia programs, 1993-2006 (KOP's Three Springs article). Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     }
    ],
    "conflicts": []
@@ -79,10 +85,10 @@
    "tense": [],
    "fixes": [
     {
-     "id": "sq1",
+     "id": "ts1",
      "old": "| [** Three Springs New Dominion Maryland**](https://www.reddit.com/r/troubledteens/wiki/index/3springsnewdominion) | - | - | - |",
-     "new": "| [** Three Springs New Dominion Maryland**](https://www.reddit.com/r/troubledteens/wiki/index/3springsnewdominion) | 1981-2008 ([source](https://kidsoverprofits.org/wp-content/uploads/2024/12/woodbury-1008.pdf#page=29)) | Old Town, MD | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Fills years and location: Woodbury Reports, October 2008, p. 29 says it had been in operation 27 years when it closed in September 2008; Old Town, MD is its address."
+     "new": "| [** Three Springs New Dominion Maryland**](https://www.reddit.com/r/troubledteens/wiki/index/3springsnewdominion) | 1981-2008 | Old Town, MD | - |",
+     "note": "Years and place from Woodbury Reports, October 2008, p. 29. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     }
    ],
    "conflicts": []
@@ -104,8 +110,15 @@
     {
      "id": "sq1",
      "old": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom) | - | - | - |",
-     "new": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom) (renamed Torii Behavioral Health; closed in 2021, [source](https://www.10tv.com/article/news/investigations/10-investigates/sequel-pomegranate-tells-state-it-will-close/530-5ec3694d-29af-46c5-92c7-d06e4310e85a)) | - | - | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Closed in October 2021 under the name Torii Behavioral Health; the page already lists Torii under closed programs."
+     "new": "",
+     "note": "Sequel Pomegranate Health Systems closed in 2021 (as Torii Behavioral Health): it moves to the Closed table (10TV).",
+     "delete": true
+    },
+    {
+     "id": "sq2",
+     "old": "| [** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) | - | - | - |",
+     "new": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom)/[** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) | 2007-2021 | Columbus, OH | - |",
+     "note": "One program under two names: Sequel Pomegranate, renamed Torii Behavioral Health, closed in 2021 (10TV). Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     }
    ],
    "conflicts": []
@@ -127,8 +140,8 @@
     {
      "id": "sq1",
      "old": "| [** Sequel Transition Academy**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) | - | - | - |",
-     "new": "| [** Sequel Transition Academy**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) (now Brighter Transition Youth Treatment Center, run by Vivant Behavioral Healthcare, [source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf#page=104)) | 2013 | Sioux Falls, SD ([source](https://dss.sd.gov/docs/childprotection/facilitylicensing/BRIGHTER_TRANSITION_YOUTH_TREATMENT_CENTER/BTYTC_2024.pdf)) | - |",
-     "note": "Sequel audit (owner, 2026-10-12): Still open, but renamed and run by Vivant; fills the year opened and location."
+     "new": "| [** Sequel Transition Academy/Brighter Transition Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) | 2013 | Sioux Falls, SD | - |",
+     "note": "Run by Vivant Behavioral Healthcare as Brighter Transition Youth Treatment Center (Senate Finance Committee, 2024; SD licensing). Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
     }
    ],
    "conflicts": []
@@ -392,94 +405,6 @@
    },
    "ops": [
     {
-     "id": "f3",
-     "op": "add_section",
-     "after_section": "Founders and Notable Employees",
-     "heading": "## **Program Structure**",
-     "separator": "---",
-     "filler": true,
-     "text": "Information about the program structure at InnerChange has not been added yet. If you have reliable descriptions or source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "f4",
-     "op": "add_section",
-     "after_section": "Program Structure",
-     "heading": "## **Rules and Punishments**",
-     "separator": "---",
-     "filler": true,
-     "text": "Information about the rules, consequences, or disciplinary practices at InnerChange has not been added yet. If you have reliable source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "f6",
-     "op": "add_section",
-     "after_section": "Abuse Allegations and Lawsuits",
-     "heading": "## **In the Media**",
-     "separator": "---",
-     "filler": true,
-     "text": "No media coverage for InnerChange has been added yet. If you have seen a news item about InnerChange and would like to share it, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "f7",
-     "op": "add_section",
-     "after_section": "In the Media",
-     "heading": "## **Survivor Testimonies**",
-     "separator": "---",
-     "filler": true,
-     "text": "No survivor testimonies for InnerChange have been added here yet. If you have a firsthand account or reliable source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "e2",
-     "op": "append_to_section",
-     "section": "History and Background Information",
-     "filler": true,
-     "text": "Background information for InnerChange has not been added yet. If you have reliable historical details or sources to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e3",
-     "op": "append_to_section",
-     "section": "Founders and Notable Employees",
-     "filler": true,
-     "text": "Information about the founders or notable staff at InnerChange has not been added yet. If you have reliable names, roles, or source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e5",
-     "op": "append_to_section",
-     "section": "Abuse Allegations and Lawsuits",
-     "filler": true,
-     "text": "Information about abuse allegations, neglect, or lawsuits involving InnerChange has not been added yet. If you have reliable reports or source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e6",
-     "op": "append_to_section",
-     "section": "Related Media",
-     "filler": true,
-     "text": "No related media links for InnerChange have been added yet. If you have reliable external resources to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
      "id": "c2",
      "op": "append_to_section",
      "section": "Founders and Notable Employees",
@@ -722,6 +647,15 @@
      "by": "opus",
      "verdict": "ok",
      "note": "Closures, lenders, Vivant ownership."
+    },
+    {
+     "id": "h-after",
+     "op": "append_to_section",
+     "section": "History and Background Information",
+     "text": "When Sequel wound down in 2021 and 2022, Vivant took over [Casa Grande Academy](https://www.reddit.com/r/troubledteens/wiki/index/casagrande), [Mingus Mountain Academy](https://www.reddit.com/r/troubledteens/wiki/index/mingus), [Woodward Academy](https://www.reddit.com/r/troubledteens/wiki/index/woodwardaca) and [Sequel Transition Academy](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans), renamed Brighter Transition Youth Treatment Center ([source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf)), and the Sequel TSI programs in [Courtland](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland), [Montgomery](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) and [Tuskegee](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee), renamed Brighter Path ([source](https://storage.courtlistener.com/recap/gov.uscourts.almd.77768/gov.uscourts.almd.77768.1.0.pdf)). [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) took over [Falcon Ridge Ranch](https://www.reddit.com/r/troubledteens/wiki/index/falconridge) and [Lava Heights Academy](https://www.reddit.com/r/troubledteens/wiki/index/lavaheights) in October 2021 ([source](https://web.archive.org/web/20211022150240/https://falconridgeranch.com/)) and [Norris Academy](https://www.reddit.com/r/troubledteens/wiki/index/norris) ([source](https://www.apmreports.org/story/2022/04/26/sequel-closes-sells-youth-treatment-centers)), and now runs [Alachua Academy](https://www.reddit.com/r/troubledteens/wiki/index/alachua), [Duval Academy](https://www.reddit.com/r/troubledteens/wiki/index/duval) and [Palm Beach Youth Academy](https://www.reddit.com/r/troubledteens/wiki/index/palmbeach) ([source](https://www.djj.state.fl.us/programs-facilities/residential-facilities)). [Capital Academy](https://www.reddit.com/r/troubledteens/wiki/index/capital) went to Willow Grove LLC ([source](https://www.apmreports.org/story/2022/04/26/sequel-closes-sells-youth-treatment-centers)), and a Kansas nonprofit, Successful Dreams, moved to keep the [Lakeside Academy](https://www.reddit.com/r/troubledteens/wiki/index/lakesidekansas) campus in Goddard open ([source](https://www.kcur.org/news/2022-04-04/a-major-treatment-facility-for-kansas-foster-kids-almost-closed-a-new-tenant-wants-to-save-it)). Sequel closed [Sequel TSI of Owens Cross Roads](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) on April 30, 2022, and it reopened on the same campus as Pathway of Madison County ([source](https://www.waff.com/2022/05/03/long-troubled-sequel-tsi-youth-services-center-shut-down-reopen/)).",
+     "by": "opus",
+     "verdict": "ok",
+     "note": "What became of each program after Sequel (moved here from the table cells, which hold only name, years, place and HEAL)."
     },
     {
      "id": "p-cox",
@@ -1017,240 +951,6 @@
    "tense": [],
    "fixes": [
     {
-     "id": "r-alachua",
-     "old": "| [** Alachua Academy**](https://www.reddit.com/r/troubledteens/wiki/index/alachua) | - | - | - |",
-     "new": "| [** Alachua Academy**](https://www.reddit.com/r/troubledteens/wiki/index/alachua) (Sequel from 2016; now run by [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) ([source](https://www.djj.state.fl.us/programs-facilities/residential-facilities))) | 2009 | Gainesville, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-bernalillo",
-     "old": "| [** Bernalillo Academy**](https://www.reddit.com/r/troubledteens/wiki/index/bernalillo) | - | - | - |",
-     "new": "| [** Bernalillo Academy**](https://www.reddit.com/r/troubledteens/wiki/index/bernalillo) (Sequel from 2011; closed in December 2021 after a New Mexico investigation found staff abused children ([source](https://www.apmreports.org/story/2021/12/03/sequel-bernalillo-academy-abuse-allegations))) | 2009 | Albuquerque, NM | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-capital",
-     "old": "| [** Capital Academy**](https://www.reddit.com/r/troubledteens/wiki/index/capital) | - | - | - |",
-     "new": "| [** Capital Academy**](https://www.reddit.com/r/troubledteens/wiki/index/capital) (Sequel from 2011; taken over by Willow Grove LLC ([source](https://www.apmreports.org/story/2022/04/26/sequel-closes-sells-youth-treatment-centers))) | 2001 | Camden, NJ | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-casagrande",
-     "old": "| [** Casa Grande Academy**](https://www.reddit.com/r/troubledteens/wiki/index/casagrande) | - | - | - |",
-     "new": "| [** Casa Grande Academy**](https://www.reddit.com/r/troubledteens/wiki/index/casagrande) (run by [Vivant Behavioral Health](https://www.reddit.com/r/troubledteens/wiki/active-programs/vivantbh) since 2021 ([source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf))) | - | Casa Grande, AZ | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-charlesbritt",
-     "old": "| [** Charles Britt Academy**](https://www.reddit.com/r/troubledteens/wiki/index/charlesbritt) | - | - | - |",
-     "new": "| [** Charles Britt Academy**](https://www.reddit.com/r/troubledteens/wiki/index/charlesbritt) (Sequel from 2016; Florida closed it in June 2022 ([source](https://www.tampabay.com/news/crime/2022/06/24/state-closes-st-pete-treatment-facility-for-boys-amid-child-abuse-allegations/))) | 2013 | St. Petersburg, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-columbusyouth",
-     "old": "| [** Columbus Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/columbusyouth) | - | - | - |",
-     "new": "| [** Columbus Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/columbusyouth) | - | Tampa, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-duval",
-     "old": "| [** Duval Academy**](https://www.reddit.com/r/troubledteens/wiki/index/duval) | - | - | - |",
-     "new": "| [** Duval Academy**](https://www.reddit.com/r/troubledteens/wiki/index/duval) (Sequel from 2016; now run by [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) ([source](https://www.djj.state.fl.us/programs-facilities/residential-facilities))) | 2013 | Jacksonville, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-forestridge",
-     "old": "| [** Forest Ridge Youth Services**](https://www.reddit.com/r/troubledteens/wiki/index/forestridge) | - | - | - |",
-     "new": "| [** Forest Ridge Youth Services**](https://www.reddit.com/r/troubledteens/wiki/index/forestridge) (Sequel from December 2014 ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm))) | 1983 | Wallingford, IA | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-lakesidekansas",
-     "old": "| [** Lakeside Academy - Kansas**](https://www.reddit.com/r/troubledteens/wiki/index/lakesidekansas) | - | - | - |",
-     "new": "| [** Lakeside Academy - Kansas**](https://www.reddit.com/r/troubledteens/wiki/index/lakesidekansas) (Sequel from 2011 to 2022; then Successful Dreams ([source](https://www.kcur.org/news/2022-04-04/a-major-treatment-facility-for-kansas-foster-kids-almost-closed-a-new-tenant-wants-to-save-it))) | 2008 | Goddard, KS | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-marionyouth",
-     "old": "| [** Marion Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/marionyouth) | - | - | - |",
-     "new": "| [** Marion Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/marionyouth) (Sequel took over from Youth Services International in 2016 ([source](https://www.djj.state.fl.us/news/press-releases/2016/florida-department-of-juvenile-justice-ends-all-contracts-with-youth-services-international))) | - | Ocala, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-mingus",
-     "old": "| [** Mingus Mountain Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mingus) | 1985 | Prescott Valley, AZ | N/A |",
-     "new": "| [** Mingus Mountain Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mingus) (managed by Sequel from 2004; run by [Vivant Behavioral Health](https://www.reddit.com/r/troubledteens/wiki/active-programs/vivantbh) since 2021 ([source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf))) | 1985 | Prescott Valley, AZ | N/A |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-norris",
-     "old": "| [** Norris Academy**](https://www.reddit.com/r/troubledteens/wiki/index/norris) | - | - | - |",
-     "new": "| [** Norris Academy**](https://www.reddit.com/r/troubledteens/wiki/index/norris) (Sequel from 2011; now a [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) program ([source](https://www.apmreports.org/story/2022/04/26/sequel-closes-sells-youth-treatment-centers))) | 2008 | Norris, TN | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-palmbeach",
-     "old": "| [** Palm Beach Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/palmbeach) | - | - | - |",
-     "new": "| [** Palm Beach Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/palmbeach) (Sequel from April 2016; now run by [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) ([source](https://www.djj.state.fl.us/programs-facilities/residential-facilities))) | 2006 | West Palm Beach, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-pompano",
-     "old": "| [** Pompano Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/pompano) | - | - | - |",
-     "new": "| [** Pompano Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/pompano) (Sequel from 2016; closed in 2021 after Florida inspectors found it fell short of state standards ([source](https://features.apmreports.org/documents/?document=21747035-sequel-pompano-youth-treatment-center-ytc_final-fy2122))) | 2014 | Pompano Beach, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequelpom",
-     "old": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom) | - | - | - |",
-     "new": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom) (bought by Sequel in 2016; renamed Torii Behavioral Health and closed in 2021 ([source](https://www.10tv.com/article/news/investigations/10-investigates/closure-embattled-teen-psychiatric-facility-sequel-pomegranate-relief-history-there/530-a77320d2-72e0-4724-8270-137918a62bfc))) | 2007 | Columbus, OH | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequeltrans",
-     "old": "| [** Sequel Transition Academy**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) | - | - | - |",
-     "new": "| [** Sequel Transition Academy**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) (run by [Vivant Behavioral Health](https://www.reddit.com/r/troubledteens/wiki/active-programs/vivantbh) as Brighter Transition ([source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf))) | 2013 | Sioux Falls, SD | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequelcourtland",
-     "old": "| [** Sequel TSI of Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) | - | - | - |",
-     "new": "| [** Sequel TSI of Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) (Brighter Path Courtland under Vivant from 2022; the town revoked its business license in April 2025 ([source](https://whnt.com/news/northwest-alabama/courtland-town-council-votes-to-revoke-mental-health-centers-business-license/))) | 1990 | Courtland, AL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequelmont",
-     "old": "| [** Sequel TSI of Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) | - | - | - |",
-     "new": "| [** Sequel TSI of Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) (Brighter Path Montgomery under Vivant from 2022 ([source](https://storage.courtlistener.com/recap/gov.uscourts.almd.77768/gov.uscourts.almd.77768.1.0.pdf))) | 2013 | Montgomery, AL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-owenscross",
-     "old": "| [** Sequel TSI of Owens Cross Roads**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) | - | - | - |",
-     "new": "| [** Sequel TSI of Owens Cross Roads**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) (closed by Sequel on April 30, 2022, later reopened as Pathway of Madison County ([source](https://www.waff.com/2022/05/03/long-troubled-sequel-tsi-youth-services-center-shut-down-reopen/))) | 1996 | Owens Cross Roads, AL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequeltuskegee",
-     "old": "| [** Sequel TSI of Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) | - | - | - |",
-     "new": "| [** Sequel TSI of Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) (Brighter Path Tuskegee under Vivant from 2022 ([source](https://storage.courtlistener.com/recap/gov.uscourts.almd.77768/gov.uscourts.almd.77768.1.0.pdf))) | 1998 | Tuskegee, AL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-stjohnsyouth",
-     "old": "| [** St. John’s Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/stjohnsyouth) | - | - | - |",
-     "new": "| [** St. John’s Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/stjohnsyouth) (Sequel from 2015; Florida ended the contract and removed all youth in October 2022 after a riot ([source](https://www.news4jax.com/news/local/2022/10/26/is-st-johns-youth-academy-shut-down/))) | 2009 | St. Augustine, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-woodwardaca",
-     "old": "| [** Woodward Academy**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardaca) | 1995 | Woodward, IA | N/A |",
-     "new": "| [** Woodward Academy**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardaca) (Sequel from 2000; run by [Vivant Behavioral Health](https://www.reddit.com/r/troubledteens/wiki/active-programs/vivantbh) since 2021 ([source](https://www.finance.senate.gov/imo/media/doc/sfc_report_warehouses_of_neglect.pdf))) | 1995 | Woodward, IA | N/A |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-woodwardcomm",
-     "old": "| [** Woodward Community Based Services**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardcomm) | - | - | - |",
-     "new": "| [** Woodward Community Based Services**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardcomm) (a Sequel program from 2006 ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm))) | 2006 | Iowa | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-auldern",
-     "old": "| [** Auldern Academy**](https://www.reddit.com/r/troubledteens/wiki/index/auldern) | - | - | - |",
-     "new": "| [** Auldern Academy**](https://www.reddit.com/r/troubledteens/wiki/index/auldern) (Sequel from 2009; closed in 2021 ([source](https://www.apmreports.org/story/2021/02/10/embattled-sequel-closes-three-more-facilities))) | 2001 | Siler City, NC | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-clarinda",
-     "old": "| [** Clarinda Academy**](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) | - | - | - |",
-     "new": "| [** Clarinda Academy**](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) (Sequel from 1999; closed in 2021 ([source](https://www.apmreports.org/story/2021/02/10/embattled-sequel-closes-three-more-facilities))) | 1992 | Clarinda, IA | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-lakesideacademy",
-     "old": "| [** Lakeside Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lakesideacademy) | - | - | - |",
-     "new": "| [** Lakeside Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lakesideacademy) (Sequel from 2007; Michigan ended its contracts in June 2020 after the death of Cornelius Frederick ([source](https://www.freep.com/story/news/local/michigan/2020/06/19/lakeside-academy-kalamazoo-cornelius-frederick/3221236001/))) | 1907 | Kalamazoo, MI | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-mountpleasant",
-     "old": "| [** Mount Pleasant Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountpleasant) | - | - | - |",
-     "new": "| [** Mount Pleasant Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountpleasant) (Sequel from 2016; closed in July 2019 ([source](https://www.stgeorgeutah.com/news/local/as-red-rock-canyon-school-gears-for-closure-parent-company-shutters-sister-institution/article_def202e9-b52b-57e6-89b9-6a17e5299fa5.html))) | 2011 | Mount Pleasant, UT | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-mountainhome",
-     "old": "| [** Mountain Home Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountainhome) | - | - | - |",
-     "new": "| [** Mountain Home Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountainhome) (Sequel from 2009 ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm))) | 2001 | Mountain Home, ID | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-normative",
-     "old": "| [** Normative Services Academy Inc.**](https://www.reddit.com/r/troubledteens/wiki/index/normative) | - | - | - |",
-     "new": "| [** Normative Services Academy Inc.**](https://www.reddit.com/r/troubledteens/wiki/index/normative) (Sequel from 2003; closed in March 2021 ([source](https://sheridanmedia.com/news/38332/normative-services-academy-in-sheridan-set-to-close-in-march/))) | 1991 | Sheridan, WY | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-northernil",
-     "old": "| [** Northern Illinois Academy**](https://www.reddit.com/r/troubledteens/wiki/index/northernil) | - | - | - |",
-     "new": "| [** Northern Illinois Academy**](https://www.reddit.com/r/troubledteens/wiki/index/northernil) (Sequel from 2011; Illinois removed all 51 children in May 2021 and it closed ([source](https://www.apmreports.org/story/2021/05/21/sequel-confronts-more-abuse-allegations-amid-concerns-about-its-finances))) | 2003 | Aurora, IL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-redrockcanyon",
-     "old": "| [** Red Rock Canyon School**](https://www.reddit.com/r/troubledteens/wiki/index/redrockcanyon) | - | - | - |",
-     "new": "| [** Red Rock Canyon School**](https://www.reddit.com/r/troubledteens/wiki/index/redrockcanyon) (Sequel from 2016; closed in 2019 ([source](https://www.stgeorgeutah.com/news/local/as-red-rock-canyon-school-gears-for-closure-parent-company-shutters-sister-institution/article_def202e9-b52b-57e6-89b9-6a17e5299fa5.html))) | 1999 | St. George, UT | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-sequelmadison",
-     "old": "| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) | - | - | - |",
-     "new": "| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) (Sequel from 2009; closed in August 2019 after the city revoked its business license ([source](https://www.al.com/news/2019/08/in-wake-of-killing-and-escapes-madison-revokes-three-springs-business-license.html))) | 1996 | Madison, AL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-starralbion",
-     "old": "| [** Starr Albion Prep**](https://www.reddit.com/r/troubledteens/wiki/index/starralbion) | - | - | - |",
-     "new": "| [** Starr Albion Prep**](https://www.reddit.com/r/troubledteens/wiki/index/starralbion) (Sequel from 2014; Starr Commonwealth ended the partnership in July 2020 ([source](https://www.battlecreekenquirer.com/story/news/2020/07/09/starr-commonwealth-cuts-ties-sequel-youth-family-services-ends-residential-programs/5383756002/))) | 1913 | Albion, MI | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12)."
-    },
-    {
-     "id": "r-torii",
-     "old": "| [** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) | - | - | - |",
-     "new": "| [** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) (Sequel Pomegranate under a new name; closed in 2021 ([source](https://www.10tv.com/article/news/investigations/10-investigates/closure-embattled-teen-psychiatric-facility-sequel-pomegranate-relief-history-there/530-a77320d2-72e0-4724-8270-137918a62bfc))) | 2007 | Columbus, OH | - |\n| ** Kingston Academy** (Sequel from 2011; closed in 2019 after Tennessee removed 18 children ([source](https://www.wbir.com/article/news/dcs-18-children-removed-from-kingston-academy-in-roane-county/51-7b3f94d6-c337-40da-b8b8-8fd6d84602e2))) | 2002 | Kingston, TN | - |\n| ** Rose Rock Academy** (Sequel from 2011; closed in May 2016 ([source](https://kfor.com/news/without-them-we-have-nothing-mother-upset-child-treatment-center-is-closing/))) | - | Oklahoma City, OK | - |\n| ** Riverside Academy** (Sequel from 2011 ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm))) | 2007 | Wichita, KS | - |\n| ** Union Juvenile Residential Facility** (Sequel from 2009; Florida removed every youth in July 2019 ([source](https://mycbs4.com/news/local/child-battery-investigation-closes-union-juvenile-residential-facility-officials-say))) | 2006 | Raiford, FL | - |",
-     "note": "Years, place and what became of the program (Sequel research, 2026-10-12). Kingston, Rose Rock, Riverside and Union Juvenile were Sequel programs missing from both tables."
-    },
-    {
-     "id": "o1",
-     "old": "| [** Falcon Ridge Ranch**](https://www.reddit.com/r/troubledteens/wiki/index/falconridge) | 2003 | Virgin, UT | [HEAL](http://www.heal-online.org/falcon.htm) |",
-     "new": "| [** Falcon Ridge Ranch**](https://www.reddit.com/r/troubledteens/wiki/index/falconridge) (Sequel from 2016; run by [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) since October 2021, [source](https://web.archive.org/web/20211022150240/https://falconridgeranch.com/)) | 2003 | Virgin, UT | [HEAL](http://www.heal-online.org/falcon.htm) |",
-     "note": "Owner (2026-10-12): Falcon Ridge Ranch is now owned by Rite of Passage, not Sequel (site footer changed to \"A Rite of Passage Program\" in October 2021; Utah license to Care Youth Corporation dba Rite of Passage from 2022-01-31)."
-    },
-    {
-     "id": "o2",
-     "old": "| [** Lava Heights Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lavaheights) | 2012 | Toquerville, UT | N/A |",
-     "new": "| [** Lava Heights Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lavaheights) (Sequel from 2016; run by [Rite of Passage](https://www.reddit.com/r/troubledteens/wiki/active-programs/riteofpassage) since October 2021, [source](https://web.archive.org/web/20211020025015/https://lavaheightsacademy.com/)) | 2012 | Toquerville, UT | N/A |",
-     "note": "Owner (2026-10-12): Lava Heights Academy is now owned by Rite of Passage, not Sequel (site footer changed to \"A Rite of Passage Program\" in October 2021; Utah license to Care Youth Corporation dba Rite of Passage from 2022-01-31)."
-    },
-    {
-     "id": "h1",
-     "old": "## ** Open Sequel Programs**",
-     "new": "## ** Sequel Programs in 2021**",
-     "note": "Sequel runs no programs now; this table lists the programs it ran in 2021 and what became of each."
-    },
-    {
-     "id": "h2",
-     "old": "*Below is a list of active residential Sequel Youth & Family Services programs.*",
-     "new": "*Below is a list of the residential programs Sequel Youth & Family Services ran in 2021, and what became of each.*",
-     "note": "As h1."
-    },
-    {
-     "id": "h3",
-     "old": "*Below is a list of inactive residential Sequel Youth & Family Services programs.*",
-     "new": "*Below is a list of residential Sequel Youth & Family Services programs that closed while Sequel ran them.*",
-     "note": "Closed table caption."
-    },
-    {
      "id": "x1",
      "old": "Sequel Youth and Family Services is a private for-profit company that runs a nationwide system of residential treatment, private pay residential, therapeutic group homes, community-based programs, and alternative education services in the United States. Sequel Youth and Family Services was formed out of Youth Services International (YSI), a for-profit juvenile corrections company. Adam Shapiro and John \"Jay\" Ripley, who both worked for YSI and currently serve as co-chairmen on company's board, co-founded Sequel Youth and Family Services on April 19, 1992. Sequel was initially founded to operate [Clarinda Academy](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) , a residential facility in Clarinda, Iowa. Sequel has expanded over the years by acquiring youth facilities, including some former YSI facilities.",
      "new": "Sequel Youth and Family Services was a private for-profit company that ran a nationwide system of residential treatment, private pay residential, therapeutic group homes, community-based programs, and alternative education services in the United States. Sequel Youth and Family Services was formed out of Youth Services International (YSI), a for-profit juvenile corrections company. Adam Shapiro, John \"Jay\" Ripley and Cindy Cox, Ripley and Shapiro having both worked for YSI, founded Sequel Youth and Family Services in 1999, when the board of the nonprofit that owned [Clarinda Academy](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) , a residential facility in Clarinda, Iowa that YSI had opened in 1992, asked them to take it over ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm)). Sequel expanded over the years by acquiring youth facilities, including some former YSI facilities.",
@@ -1279,6 +979,258 @@
      "old": "** John \"Jay\" Ripley** is the Co-Founder and Co-Chairman of Sequel Youth and Family Services. Prior to this, he was the Co-Founder of Youth Services International (YSI), beginning in 1995. He also was the President/CEO of Precision Auto Care Inc. from 1995 until 1998.",
      "new": "** John \"Jay\" Ripley** was a co-founder and the chairman of Sequel Youth and Family Services, and its chief executive from 2011 to 2013 ([source](https://www.llcp.com/levine-leichtman-capital-partners-and-sequel-youth-and-family-services-anno/)). Before this, he was a founding stockholder of Youth Services International (YSI) and its president, chief operating officer and chief financial officer from 1990 to 1995, and the president and CEO of Precision Auto Care Inc. from 1995 until 1998 ([source](https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm)). In 2021 he founded [Vivant Behavioral Healthcare](https://www.reddit.com/r/troubledteens/wiki/active-programs/vivantbh) ([source](https://www.apmreports.org/story/2022/04/26/sequel-closes-sells-youth-treatment-centers)).",
      "note": "He was at YSI from 1990 (not \"beginning in 1995\"); past tense; CEO years; Vivant."
+    },
+    {
+     "id": "h2",
+     "old": "*Below is a list of active residential Sequel Youth & Family Services programs.*",
+     "new": "*Below is a list of residential Sequel Youth & Family Services programs that are still open, now under other owners or names.*",
+     "note": "Sequel runs no programs now: the Open table lists its programs that still run (Vivant, Rite of Passage, others), as the Brown Schools page does."
+    },
+    {
+     "id": "h3",
+     "old": "*Below is a list of inactive residential Sequel Youth & Family Services programs.*",
+     "new": "*Below is a list of now closed residential Sequel Youth & Family Services programs.*",
+     "note": "Closed table caption."
+    },
+    {
+     "id": "h4",
+     "old": "|**Program Name**|** Year Opened**|** Location(s)**|** HEAL Information**|",
+     "new": "|**Program Name**|** Years Active**|** Location(s)**|** HEAL Information**|",
+     "note": "A closed program shows the years it ran, as on the Aspen Education Group and Brown Schools pages.",
+     "nth": 2
+    },
+    {
+     "id": "r-alachua",
+     "old": "| [** Alachua Academy**](https://www.reddit.com/r/troubledteens/wiki/index/alachua) | - | - | - |",
+     "new": "| [** Alachua Academy**](https://www.reddit.com/r/troubledteens/wiki/index/alachua) | 2009 | Gainesville, FL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-capital",
+     "old": "| [** Capital Academy**](https://www.reddit.com/r/troubledteens/wiki/index/capital) | - | - | - |",
+     "new": "| [** Capital Academy**](https://www.reddit.com/r/troubledteens/wiki/index/capital) | 2001 | Camden, NJ | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-casagrande",
+     "old": "| [** Casa Grande Academy**](https://www.reddit.com/r/troubledteens/wiki/index/casagrande) | - | - | - |",
+     "new": "| [** Casa Grande Academy**](https://www.reddit.com/r/troubledteens/wiki/index/casagrande) | - | Casa Grande, AZ | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-columbusyouth",
+     "old": "| [** Columbus Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/columbusyouth) | - | - | - |",
+     "new": "| [** Columbus Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/columbusyouth) | - | Tampa, FL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-duval",
+     "old": "| [** Duval Academy**](https://www.reddit.com/r/troubledteens/wiki/index/duval) | - | - | - |",
+     "new": "| [** Duval Academy**](https://www.reddit.com/r/troubledteens/wiki/index/duval) | 2013 | Jacksonville, FL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-falconridge",
+     "old": "| [** Falcon Ridge Ranch**](https://www.reddit.com/r/troubledteens/wiki/index/falconridge) | 2003 | Virgin, UT | [HEAL](http://www.heal-online.org/falcon.htm) |",
+     "new": "| [** Falcon Ridge Ranch**](https://www.reddit.com/r/troubledteens/wiki/index/falconridge) | 2003 | Virgin, UT | [HEAL](http://www.heal-online.org/falcon.htm) |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-lavaheights",
+     "old": "| [** Lava Heights Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lavaheights) | 2012 | Toquerville, UT | N/A |",
+     "new": "| [** Lava Heights Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lavaheights) | 2012 | Toquerville, UT | N/A |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-marionyouth",
+     "old": "| [** Marion Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/marionyouth) | - | - | - |",
+     "new": "| [** Marion Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/marionyouth) | - | Ocala, FL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-mingus",
+     "old": "| [** Mingus Mountain Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mingus) | 1985 | Prescott Valley, AZ | N/A |",
+     "new": "| [** Mingus Mountain Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mingus) | 1985 | Prescott Valley, AZ | N/A |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-norris",
+     "old": "| [** Norris Academy**](https://www.reddit.com/r/troubledteens/wiki/index/norris) | - | - | - |",
+     "new": "| [** Norris Academy**](https://www.reddit.com/r/troubledteens/wiki/index/norris) | 2008 | Norris, TN | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-palmbeach",
+     "old": "| [** Palm Beach Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/palmbeach) | - | - | - |",
+     "new": "| [** Palm Beach Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/palmbeach) | 2006 | West Palm Beach, FL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-sequeltrans",
+     "old": "| [** Sequel Transition Academy**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) | - | - | - |",
+     "new": "| [** Sequel Transition Academy/Brighter Transition Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltrans) | 2013 | Sioux Falls, SD | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-sequelcourtland",
+     "old": "| [** Sequel TSI of Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) | - | - | - |",
+     "new": "| [** Sequel TSI of Courtland/Brighter Path Courtland**](https://www.reddit.com/r/troubledteens/wiki/index/sequelcourtland) | 1990 | Courtland, AL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-sequelmont",
+     "old": "| [** Sequel TSI of Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) | - | - | - |",
+     "new": "| [** Sequel TSI of Montgomery/Brighter Path Montgomery**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmont) | 2013 | Montgomery, AL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-owenscross",
+     "old": "| [** Sequel TSI of Owens Cross Roads**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) | - | - | - |",
+     "new": "| [** Sequel TSI of Owens Cross Roads/Pathway of Madison County**](https://www.reddit.com/r/troubledteens/wiki/index/owenscross) | 1996 | Owens Cross Roads, AL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-sequeltuskegee",
+     "old": "| [** Sequel TSI of Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) | - | - | - |",
+     "new": "| [** Sequel TSI of Tuskegee/Brighter Path Tuskegee**](https://www.reddit.com/r/troubledteens/wiki/index/sequeltuskegee) | 1998 | Tuskegee, AL | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-woodwardaca",
+     "old": "| [** Woodward Academy**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardaca) | 1995 | Woodward, IA | N/A |",
+     "new": "| [** Woodward Academy**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardaca) | 1995 | Woodward, IA | N/A |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-woodwardcomm",
+     "old": "| [** Woodward Community Based Services**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardcomm) | - | - | - |",
+     "new": "| [** Woodward Community Based Services**](https://www.reddit.com/r/troubledteens/wiki/index/woodwardcomm) | 2006 | IA | - |",
+     "note": "Still open. Wiki table format: the cell holds the name (a later name after a slash), years, place and HEAL link; what became of the program and its sources are on its own page."
+    },
+    {
+     "id": "r-bernalillo",
+     "old": "| [** Bernalillo Academy**](https://www.reddit.com/r/troubledteens/wiki/index/bernalillo) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-charlesbritt",
+     "old": "| [** Charles Britt Academy**](https://www.reddit.com/r/troubledteens/wiki/index/charlesbritt) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-forestridge",
+     "old": "| [** Forest Ridge Youth Services**](https://www.reddit.com/r/troubledteens/wiki/index/forestridge) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-lakesidekansas",
+     "old": "| [** Lakeside Academy - Kansas**](https://www.reddit.com/r/troubledteens/wiki/index/lakesidekansas) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-pompano",
+     "old": "| [** Pompano Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/pompano) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-sequelpom",
+     "old": "| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-stjohnsyouth",
+     "old": "| [** St. John’s Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/stjohnsyouth) | - | - | - |",
+     "new": "",
+     "note": "Closed: it moves to the Closed table.",
+     "delete": true
+    },
+    {
+     "id": "r-closed",
+     "old": "| [** Auldern Academy**](https://www.reddit.com/r/troubledteens/wiki/index/auldern) | - | - | - |",
+     "new": "| [** Auldern Academy**](https://www.reddit.com/r/troubledteens/wiki/index/auldern) | 2001-2021 | Siler City, NC | - |\n| [** Bernalillo Academy**](https://www.reddit.com/r/troubledteens/wiki/index/bernalillo) | 2009-2021 | Albuquerque, NM | - |\n| [** Charles Britt Academy**](https://www.reddit.com/r/troubledteens/wiki/index/charlesbritt) | 2013-2022 | St. Petersburg, FL | - |\n| [** Clarinda Academy**](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) | 1992-2021 | Clarinda, IA | - |\n| [** Forest Ridge Youth Services**](https://www.reddit.com/r/troubledteens/wiki/index/forestridge) | 1983-2021 | Wallingford, IA | - |\n| ** Kingston Academy** | 2002-2019 | Kingston, TN | - |\n| [** Lakeside Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lakesideacademy) | 1907-2020 | Kalamazoo, MI | - |\n| [** Lakeside Academy - Kansas**](https://www.reddit.com/r/troubledteens/wiki/index/lakesidekansas) | 2008-2022 | Goddard, KS | - |\n| [** Mount Pleasant Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountpleasant) | 2011-2019 | Mount Pleasant, UT | - |\n| [** Mountain Home Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountainhome) | 2001-2020 | Mountain Home, ID | - |\n| [** Normative Services Academy Inc.**](https://www.reddit.com/r/troubledteens/wiki/index/normative) | 1991-2021 | Sheridan, WY | - |\n| [** Northern Illinois Academy**](https://www.reddit.com/r/troubledteens/wiki/index/northernil) | 2003-2021 | Aurora, IL | - |\n| [** Pompano Youth Treatment Center**](https://www.reddit.com/r/troubledteens/wiki/index/pompano) | 2014-2021 | Pompano Beach, FL | - |\n| [** Red Rock Canyon School**](https://www.reddit.com/r/troubledteens/wiki/index/redrockcanyon) | 1999-2019 | St. George, UT | - |\n| ** Riverside Academy** | 2007-2019 | Wichita, KS | - |\n| ** Rose Rock Academy** | -2016 | Oklahoma City, OK | - |\n| [** Sequel Pomegranate Health Systems**](https://www.reddit.com/r/troubledteens/wiki/index/sequelpom)/[** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) | 2007-2021 | Columbus, OH | - |\n| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) | 1996-2019 | Madison, AL | - |\n| [** St. John’s Youth Academy**](https://www.reddit.com/r/troubledteens/wiki/index/stjohnsyouth) | 2009-2022 | St. Augustine, FL | - |\n| [** Starr Albion Prep**](https://www.reddit.com/r/troubledteens/wiki/index/starralbion) | 2014-2020 | Albion, MI | - |\n| ** Union Juvenile Residential Facility** | 2006-2019 | Raiford, FL | - |",
+     "note": "The Closed table A to Z with the years each ran; Bernalillo, Charles Britt, Forest Ridge, Lakeside (Kansas), Pompano, St. John's and Sequel Pomegranate (as Torii) closed and move here; Kingston, Riverside, Rose Rock and Union are added."
+    },
+    {
+     "id": "r-clarinda",
+     "old": "| [** Clarinda Academy**](https://www.reddit.com/r/troubledteens/wiki/index/clarinda) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-lakesideacademy",
+     "old": "| [** Lakeside Academy**](https://www.reddit.com/r/troubledteens/wiki/index/lakesideacademy) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-mountpleasant",
+     "old": "| [** Mount Pleasant Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountpleasant) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-mountainhome",
+     "old": "| [** Mountain Home Academy**](https://www.reddit.com/r/troubledteens/wiki/index/mountainhome) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-normative",
+     "old": "| [** Normative Services Academy Inc.**](https://www.reddit.com/r/troubledteens/wiki/index/normative) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-northernil",
+     "old": "| [** Northern Illinois Academy**](https://www.reddit.com/r/troubledteens/wiki/index/northernil) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-redrockcanyon",
+     "old": "| [** Red Rock Canyon School**](https://www.reddit.com/r/troubledteens/wiki/index/redrockcanyon) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-sequelmadison",
+     "old": "| [** Sequel TSI of Madison**](https://www.reddit.com/r/troubledteens/wiki/index/sequelmadison) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-starralbion",
+     "old": "| [** Starr Albion Prep**](https://www.reddit.com/r/troubledteens/wiki/index/starralbion) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
+    },
+    {
+     "id": "r-torii",
+     "old": "| [** Torii Behavioral Health**](https://www.reddit.com/r/troubledteens/wiki/index/torii) | - | - | - |",
+     "new": "",
+     "note": "Now in the Closed table above, A to Z.",
+     "delete": true
     }
    ],
    "conflicts": []
@@ -27250,70 +27202,6 @@
     "status": "Open"
    },
    "ops": [
-    {
-     "id": "f4",
-     "op": "add_section",
-     "after_section": "Program Structure",
-     "heading": "## **Rules and Punishments**",
-     "separator": "---",
-     "filler": true,
-     "text": "Information about the rules, consequences, or disciplinary practices at Youth Villages has not been added yet. If you have reliable source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "f6",
-     "op": "add_section",
-     "after_section": "Abuse Allegations, Deaths, and Lawsuits",
-     "heading": "## **In the Media**",
-     "separator": "---",
-     "filler": true,
-     "text": "No media coverage for Youth Villages has been added yet. If you have seen a news item about Youth Villages and would like to share it, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: the page has none, so it asks readers for information."
-    },
-    {
-     "id": "e5",
-     "op": "append_to_section",
-     "section": "Program Structure",
-     "filler": true,
-     "text": "Information about the program structure at Youth Villages has not been added yet. If you have reliable descriptions or source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e6",
-     "op": "append_to_section",
-     "section": "Abuse Allegations, Deaths, and Lawsuits",
-     "filler": true,
-     "text": "Information about abuse allegations, neglect, or lawsuits involving Youth Villages has not been added yet. If you have reliable reports or source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e7",
-     "op": "append_to_section",
-     "section": "Survivor/Parent Testimonies",
-     "filler": true,
-     "text": "No survivor testimonies for Youth Villages have been added here yet. If you have a firsthand account or reliable source material to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
-    {
-     "id": "e8",
-     "op": "append_to_section",
-     "section": "Related Media",
-     "filler": true,
-     "text": "No related media links for Youth Villages have been added yet. If you have reliable external resources to share, please contact [r/troubledteens modmail](https://www.reddit.com/message/compose?to=/r/troubledteens).",
-     "by": "script",
-     "verdict": "ok",
-     "note": "The wiki editor's empty section: nothing is written under it, so it asks readers for information."
-    },
     {
      "id": "s1",
      "op": "append_to_section",
