@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 1760,
-    "simulated": 1757,
+    "nodes": 1762,
+    "simulated": 1759,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -103,6 +103,11 @@
       "y": 277.3,
       "r": 14.6
     },
+    "innerchange": {
+      "x": 945.4,
+      "y": 190.9,
+      "r": 14.1
+    },
     "wingate-wilderness-therapy": {
       "x": 334.8,
       "y": 42.5,
@@ -118,15 +123,15 @@
       "y": 106.7,
       "r": 15.2
     },
-    "academy-at-swift-river": {
-      "x": 390.6,
-      "y": -109.3,
-      "r": 14.3
-    },
     "embark-behavioral-health": {
       "x": 1091,
       "y": 210.7,
       "r": 15.9
+    },
+    "academy-at-swift-river": {
+      "x": 390.6,
+      "y": -109.3,
+      "r": 14.3
     },
     "northwest-academy": {
       "x": -265.9,
@@ -137,6 +142,11 @@
       "x": -871.1,
       "y": -77.3,
       "r": 15.1
+    },
+    "new-haven-rtc": {
+      "x": 913.3,
+      "y": 212.1,
+      "r": 14.3
     },
     "second-nature": {
       "x": 129.3,
@@ -168,11 +178,6 @@
       "y": -34.4,
       "r": 14.2
     },
-    "new-haven-rtc": {
-      "x": 913.3,
-      "y": 212.1,
-      "r": 14.3
-    },
     "sunrise-rtc": {
       "x": 780.5,
       "y": 184.7,
@@ -183,14 +188,14 @@
       "y": 53.9,
       "r": 14.4
     },
-    "innerchange": {
-      "x": 945.4,
-      "y": 190.9,
-      "r": 14.1
-    },
     "trails-carolina": {
       "x": 631.5,
       "y": -52,
+      "r": 14.3
+    },
+    "the-oakley-school": {
+      "x": 495.2,
+      "y": 33.8,
       "r": 14.3
     },
     "viewpoint-center": {
@@ -203,6 +208,11 @@
       "y": 524.1,
       "r": 15.6
     },
+    "fulshear-treatment-to-transition": {
+      "x": 813.7,
+      "y": 144.6,
+      "r": 14.3
+    },
     "psychiatric-solutions-inc": {
       "x": -680.8,
       "y": 55.8,
@@ -212,11 +222,6 @@
       "x": 218.8,
       "y": -217.5,
       "r": 14.2
-    },
-    "the-oakley-school": {
-      "x": 495.2,
-      "y": 33.8,
-      "r": 14.3
     },
     "youth-opportunity-investments": {
       "x": -1307.7,
@@ -237,11 +242,6 @@
       "x": 115,
       "y": 544,
       "r": 14.2
-    },
-    "fulshear-treatment-to-transition": {
-      "x": 813.7,
-      "y": 144.6,
-      "r": 14.3
     },
     "lake-house-academy": {
       "x": 1066.1,
@@ -393,6 +393,11 @@
       "y": -9.2,
       "r": 14.3
     },
+    "chrysalis-therapeutic-boarding-school": {
+      "x": 1056.9,
+      "y": 135.2,
+      "r": 14.8
+    },
     "copper-canyon-academy": {
       "x": 247,
       "y": 15.5,
@@ -448,11 +453,6 @@
       "y": -122.8,
       "r": 14.2
     },
-    "chrysalis-therapeutic-boarding-school": {
-      "x": 1056.9,
-      "y": 135.2,
-      "r": 14.8
-    },
     "david-lepere": {
       "x": -34.4,
       "y": 220.4,
@@ -467,6 +467,11 @@
       "x": 24.2,
       "y": -339.6,
       "r": 14.6
+    },
+    "la-europa-academy": {
+      "x": 281.6,
+      "y": 117.7,
+      "r": 14.2
     },
     "rebekah-home-for-girls": {
       "x": -639.9,
@@ -556,11 +561,6 @@
     "king-george-school": {
       "x": -241,
       "y": 174.9,
-      "r": 14.2
-    },
-    "la-europa-academy": {
-      "x": 281.6,
-      "y": 117.7,
       "r": 14.2
     },
     "logan-river-academy": {
@@ -773,6 +773,16 @@
       "y": 313.1,
       "r": 14.4
     },
+    "alldredge-wilderness-journey": {
+      "x": 373.4,
+      "y": 400.6,
+      "r": 14.3
+    },
+    "anthony-geraci": {
+      "x": 905.2,
+      "y": 57.9,
+      "r": 13.6
+    },
     "brian-rossiter": {
       "x": -63.2,
       "y": 399.1,
@@ -943,11 +953,6 @@
       "y": -2.3,
       "r": 14.3
     },
-    "alldredge-wilderness-journey": {
-      "x": 373.4,
-      "y": 400.6,
-      "r": 14.3
-    },
     "allynwood-academy": {
       "x": -554,
       "y": 29.5,
@@ -958,15 +963,15 @@
       "y": -308,
       "r": 15
     },
-    "anthony-geraci": {
-      "x": 905.2,
-      "y": 57.9,
-      "r": 13.6
-    },
     "ascent-companies": {
       "x": 620.7,
       "y": 308.3,
       "r": 15.1
+    },
+    "ashley-auchterlonie": {
+      "x": 581.2,
+      "y": 388.5,
+      "r": 4
     },
     "bernie-zimmerman": {
       "x": -412.5,
@@ -1216,11 +1221,6 @@
     "andy-dunn": {
       "x": 480.2,
       "y": 160.6,
-      "r": 4
-    },
-    "ashley-auchterlonie": {
-      "x": 581.2,
-      "y": 388.5,
       "r": 4
     },
     "barry-woodward": {
@@ -2882,6 +2882,11 @@
       "x": -39.3,
       "y": -190.2,
       "r": 13.5
+    },
+    "dragonfly-transitions": {
+      "x": 1418.6,
+      "y": 429.1,
+      "r": 14.2
     },
     "drew-hirsch": {
       "x": 230,
@@ -4596,6 +4601,11 @@
     "david-gibbs-jr": {
       "x": -864.7,
       "y": -1433.7,
+      "r": 4
+    },
+    "david-mayeski": {
+      "x": 665.9,
+      "y": 209.9,
       "r": 4
     },
     "david-smock": {
@@ -7268,6 +7278,11 @@
       "y": 1213.4,
       "r": 14.3
     },
+    "david-michel": {
+      "x": 1071,
+      "y": 188.4,
+      "r": 4
+    },
     "deep-creek-youth-academy": {
       "x": -1362.8,
       "y": -21,
@@ -7322,11 +7337,6 @@
       "x": 525.5,
       "y": 1257.7,
       "r": 14.3
-    },
-    "dragonfly-transitions": {
-      "x": 1418.6,
-      "y": 429.1,
-      "r": 14.2
     },
     "drumm-farm-center-for-children": {
       "x": -1508.9,
