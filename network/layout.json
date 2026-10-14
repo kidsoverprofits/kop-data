@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2058,
-    "simulated": 2055,
+    "nodes": 2060,
+    "simulated": 2057,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -158,6 +158,11 @@
       "y": 42.5,
       "r": 14.4
     },
+    "aspen-ranch": {
+      "x": 459.3,
+      "y": 420.4,
+      "r": 14.3
+    },
     "cedu-family-of-services": {
       "x": -349.9,
       "y": -103.3,
@@ -182,11 +187,6 @@
       "x": -539.1,
       "y": 106.7,
       "r": 15.2
-    },
-    "aspen-ranch": {
-      "x": 459.3,
-      "y": 420.4,
-      "r": 14.3
     },
     "oasis-ascent": {
       "x": 525.3,
@@ -233,6 +233,11 @@
       "y": -77.3,
       "r": 15.1
     },
+    "second-nature-blue-ridge": {
+      "x": 415.5,
+      "y": 460.2,
+      "r": 14.2
+    },
     "sunrise-rtc": {
       "x": 780.5,
       "y": 184.7,
@@ -252,11 +257,6 @@
       "x": 129.3,
       "y": 654.1,
       "r": 14.4
-    },
-    "second-nature-blue-ridge": {
-      "x": 415.5,
-      "y": 460.2,
-      "r": 14.2
     },
     "teen-challenge": {
       "x": -1371.4,
@@ -526,6 +526,11 @@
     "alldredge-wilderness-journey": {
       "x": 373.4,
       "y": 400.6,
+      "r": 14.3
+    },
+    "alternative-youth-adventures": {
+      "x": 910.7,
+      "y": 263.7,
       "r": 14.3
     },
     "bromley-brook-school": {
@@ -812,11 +817,6 @@
       "x": 240.9,
       "y": 161.1,
       "r": 13.2
-    },
-    "alternative-youth-adventures": {
-      "x": 910.7,
-      "y": 263.7,
-      "r": 14.3
     },
     "bethel-boys-academy": {
       "x": -297.7,
@@ -2098,6 +2098,11 @@
       "y": -86,
       "r": 13.5
     },
+    "billy-giblin": {
+      "x": 347,
+      "y": 616.8,
+      "r": 4
+    },
     "boyd-hooper": {
       "x": 778,
       "y": -32.5,
@@ -3048,11 +3053,6 @@
       "y": -239.9,
       "r": 13.5
     },
-    "billy-giblin": {
-      "x": 347,
-      "y": 616.8,
-      "r": 4
-    },
     "blake-taylor": {
       "x": 920.7,
       "y": -384.4,
@@ -3756,6 +3756,11 @@
     "keith-bishop": {
       "x": 391.5,
       "y": -81,
+      "r": 4
+    },
+    "keith-r-hooker": {
+      "x": 395,
+      "y": 96.1,
       "r": 4
     },
     "kelly-shaheen": {
@@ -5398,6 +5403,11 @@
       "y": -481.8,
       "r": 4
     },
+    "david-chappell": {
+      "x": 738.3,
+      "y": 399.9,
+      "r": 4
+    },
     "david-chiarito": {
       "x": 805.8,
       "y": -98.4,
@@ -6431,11 +6441,6 @@
     "kayla-cox-davenport": {
       "x": 795.7,
       "y": 537.5,
-      "r": 4
-    },
-    "keith-r-hooker": {
-      "x": 395,
-      "y": 96.1,
       "r": 4
     },
     "keli-huber": {
@@ -8111,6 +8116,11 @@
     "turning-d-ranch": {
       "x": -1709.4,
       "y": -807.5,
+      "r": 4
+    },
+    "tyson-farmer": {
+      "x": 695.5,
+      "y": 362.2,
       "r": 4
     },
     "uspiritus-bellewood-louisville-residential": {
