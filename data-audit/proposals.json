@@ -17516,26 +17516,6 @@
   ]
  },
  {
-  "key": "rename_years-100124-12698",
-  "kind": "rename_years",
-  "title": "Clearview Girls Academy",
-  "place": "Heron, MT",
-  "facility_id": 12698,
-  "verdict": "unsure",
-  "confidence": "low",
-  "finding": "Clearview Horizon and Clearview Girls Academy are one program under two names (the network map draws Clearview Horizon renamed Clearview Girls Academy), kept as two records, so their years disagree: Clearview Girls Academy opens 1996, the earlier name's opening year or none; Clearview Horizon has no end year; Clearview Horizon is still Open. The records do not say when the name changed: give the year when merging.",
-  "kop_now": "Clearview Horizon (#100124): Open, from 1996. Clearview Girls Academy (#12698): Open, from 1996.",
-  "sources": [],
-  "ops": [],
-  "renames": [
-   {
-    "earlier": 100124,
-    "later": 12698,
-    "why": "the network map draws Clearview Horizon renamed Clearview Girls Academy"
-   }
-  ]
- },
- {
   "key": "rename_years-100138-14148",
   "kind": "rename_years",
   "title": "Pacific Coast Academy",
@@ -17635,6 +17615,147 @@
     "earlier": 100420,
     "later": 11643,
     "why": "The Clock Tower Schools lists Glen Mills Schools as a past name"
+   }
+  ]
+ },
+ {
+  "key": "clearview-horizon-2026-10-14",
+  "kind": "rename_years",
+  "title": "Clearview Girls Academy",
+  "place": "Heron, MT",
+  "facility_id": 12698,
+  "verdict": "kop_wrong",
+  "confidence": "medium",
+  "finding": "One program, three records. It opened as Clear View in Sandpoint, Idaho (Woodbury visit, April 2000), was Clearview Horizon in Heron, Montana by February 2006 (not around 2012, as the wiki says), traded as Clearview Academy under Elk Mountain Academy, Inc. (CARF, from 2016), and became Clearview Girls Academy, a \"Christian therapeutic boarding school\", after Montana's 2019 law took effect (KFF Health News). Record 9698 is the Sandpoint years and holds the Missoulian's 2019 series; 100124 is Clearview Horizon in Heron; 12698 is today's name. The rename year is not in any source read: give it when merging, from the clearviewhorizon.com Wayback captures if they settle it.",
+  "kop_now": "Clearview Horizon (#9698): Sandpoint, ID, Open, from 1996, operator \"RELOCATED\". Clearview Horizon (MT) (#100124): Heron, MT, Open, from 1996. Clearview Girls Academy (#12698): Heron, MT, Open, from 1996. None has past names or a company.",
+  "sources": [
+   {
+    "url": "https://strugglingteens.com/archives/2000/5/visit01.html",
+    "title": "Clear View, Sandpoint, ID - Woodbury Reports visit by Loi Eberle",
+    "date": "2000-04-07",
+    "quote": "Clear View struck me as a rustic finishing school, designed to work with six girls ranging from twelve to twenty years old. ... Directed by Mary Thielbahr, MA, a licensed Educational Psychologist"
+   },
+   {
+    "url": "https://strugglingteens.com/news/press%20releases/clearview_horizon060302.htm",
+    "title": "Clearview Horizon press release - Woodbury Reports",
+    "date": "2006-02-27",
+    "quote": "Clearview Horizon, a home-based residential program in Heron, MT, for girls ages 13 to 19 ... Mary Thielbahr/ Willman, MA, Director"
+   },
+   {
+    "url": "https://carf.org/provider/elk-mountain-academy-inc-dba-clearview-academy-268130/",
+    "title": "CARF: Elk Mountain Academy, Inc. DBA Clearview Academy",
+    "date": "n.d.",
+    "quote": "Elk Mountain Academy, Inc. DBA Clearview Academy ... 54 Serenity Lane, Heron, MT 59844 ... First Accredited: 2016"
+   },
+   {
+    "url": "https://kffhealthnews.org/mental-health/state-laws-aim-to-regulate-troubled-teen-industry-but-loopholes-remain/",
+    "title": "State Laws Aim to Regulate 'Troubled Teen Industry,' but Loopholes Remain (KFF Health News, Cameron Evans)",
+    "date": "2022-01-21",
+    "quote": "After the state health department implemented the 2019 law, Clearview Horizon, now called Clearview Girls Academy, began operating as a \"Christian therapeutic boarding school\""
+   },
+   {
+    "url": "https://opencorporates.com/companies/us_mt/D264044",
+    "title": "Clearview Horizon, Inc. (Montana D264044) - OpenCorporates",
+    "date": "n.d.",
+    "quote": "CLEARVIEW HORIZON, INC. ... Involuntary Dissolution (research summary; filing dates not read)"
+   },
+   {
+    "url": "https://www.dphhs.mt.gov/assets/oig/LicensureBureau/PAARPListofProviders2023.pdf",
+    "title": "Montana DPHHS private alternative adolescent residential program providers, 2023",
+    "date": "2023",
+    "quote": "Elk Mountain Academy ... 60 Girls 13-18 ... Jason Thielbar ... 406-847-5850 ... 20 Bear Foot Ln, Heron (search summary; scanned PDF not read)"
+   }
+  ],
+  "renames": [
+   {
+    "earlier": 100124,
+    "later": 12698,
+    "why": "KFF Health News: \"Clearview Horizon, now called Clearview Girls Academy\""
+   }
+  ],
+  "ops": [
+   {
+    "type": "merge",
+    "keep": 100124,
+    "drop": 9698,
+    "text": "Merge 9698 (Clearview Horizon, Sandpoint) into 100124 (Clearview Horizon, Heron) as one program: it moved from Sandpoint, ID to Heron, MT between 2000 and 2006 under the same name, which is a move, not a rename. The Missoulian's three 2019 articles move with it."
+   },
+   {
+    "type": "merge",
+    "keep": 12698,
+    "drop": 100124,
+    "rename": true,
+    "text": "Merge Clearview Horizon (100124) into Clearview Girls Academy (12698) as a rename: KFF Health News (2022) says \"Clearview Horizon, now called Clearview Girls Academy\", after Montana's 2019 law was implemented. Give the rename year (2019 or later)."
+   },
+   {
+    "type": "list_add",
+    "facility_id": 12698,
+    "path": "identification.pastNames",
+    "value": "Clear View",
+    "text": "Add the past name \"Clear View\" (Sandpoint, ID, Woodbury Reports visit of April 7, 2000)."
+   },
+   {
+    "type": "list_add",
+    "facility_id": 12698,
+    "path": "identification.otherNames",
+    "value": "Clearview Academy",
+    "text": "Add the other name \"Clearview Academy\" (CARF: \"Elk Mountain Academy, Inc. DBA Clearview Academy\", from 2016; the 2021 lawsuits use it too)."
+   },
+   {
+    "type": "operator_create",
+    "name": "Clearview Horizon, Inc.",
+    "fields": {
+     "notes": [
+      "Montana corporation D264044, in involuntary dissolution (OpenCorporates). Named defendant in Markel American Ins. Co. v. Clearview Horizon, Inc., 9:21-cv-00073, and Kinsale Ins. Co. v. Clearview Horizon, Inc., 9:22-cv-00076 (D. Mont.)."
+     ]
+    },
+    "links": [
+     {
+      "facility_id": 12698,
+      "relationship": "past"
+     }
+    ],
+    "text": "Create the company Clearview Horizon, Inc. (Montana D264044, involuntarily dissolved) and link it to the program as a past company."
+   },
+   {
+    "type": "operator_create",
+    "name": "Elk Mountain Academy, Inc.",
+    "fields": {
+     "notes": [
+      "Does business as Clearview Academy at 54 Serenity Lane, Heron, MT (CARF, first accredited 2016). Nonprofit, EIN 82-0478366, IRS ruling 1996, principal officer Jason Thielbahr (GuideStar). Montana's 2023 provider list puts the Clearview campus under Elk Mountain Academy, Jason Thielbar."
+     ]
+    },
+    "links": [
+     {
+      "facility_id": 12698,
+      "relationship": "current"
+     }
+    ],
+    "text": "Create the company Elk Mountain Academy, Inc. (CARF: \"Elk Mountain Academy, Inc. DBA Clearview Academy\") and link it to the program as its current company."
+   },
+   {
+    "type": "staff_role",
+    "facility_id": 9698,
+    "list": "notableStaff",
+    "name": "Mary Thielbahr",
+    "from": "reported to be one",
+    "to": "Director (2000-2006, Woodbury Reports); Chief Executive Officer (NATSAP, 2026)",
+    "text": "Mary Thielbahr directed Clear View in 2000 and Clearview Horizon in 2006 (Woodbury Reports); NATSAP lists Mary Louise Thielbahr as CEO of Clearview Girls Academy."
+   },
+   {
+    "type": "check",
+    "text": "Date the rename: find the year clearviewhorizon.com changed to the Clearview Girls Academy name (Wayback captures), and archive that capture as a PDF into the media library.",
+    "step_text": "Date the rename from the clearviewhorizon.com Wayback captures and archive the capture that shows it."
+   },
+   {
+    "type": "check",
+    "text": "Elk Mountain Academy (record 9703, boys, Clark Fork ID then Heron MT from 2007): is it still a program, or only the corporation that now runs Clearview? Link it to Elk Mountain Academy, Inc. once that is known.",
+    "step_text": "Settle whether Elk Mountain Academy (9703) still runs as a program, then link it to Elk Mountain Academy, Inc."
+   },
+   {
+    "type": "check",
+    "text": "Start year: the records say 1996 (also Elk Mountain Academy, Inc.'s IRS ruling year); Woodbury's \"celebrating 11 years\" (August 2008) gives 1997.",
+    "step_text": "Settle 1996 or 1997 as the opening year."
    }
   ]
  }
