@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2060,
-    "simulated": 2057,
+    "nodes": 2057,
+    "simulated": 2054,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -113,15 +113,15 @@
       "y": -458.1,
       "r": 14.3
     },
-    "talisman-school": {
-      "x": 872.2,
-      "y": 260.4,
-      "r": 14.3
-    },
     "natsap": {
       "x": 369.5,
       "y": 59.6,
       "r": 14.2
+    },
+    "talisman-school": {
+      "x": 872.2,
+      "y": 260.4,
+      "r": 14.3
     },
     "the-oakley-school": {
       "x": 495.2,
@@ -148,11 +148,6 @@
       "y": -109.3,
       "r": 14.3
     },
-    "northwest-academy": {
-      "x": -265.9,
-      "y": -28.5,
-      "r": 14.2
-    },
     "wingate-wilderness-therapy": {
       "x": 334.8,
       "y": 42.5,
@@ -177,6 +172,11 @@
       "x": 945.4,
       "y": 190.9,
       "r": 14.1
+    },
+    "northwest-academy": {
+      "x": -265.9,
+      "y": -28.5,
+      "r": 14.2
     },
     "outback-therapeutic-expeditions": {
       "x": 456.4,
@@ -223,11 +223,6 @@
       "y": -942.2,
       "r": 14.3
     },
-    "red-rock-canyon-school": {
-      "x": -164.3,
-      "y": 164,
-      "r": 14.5
-    },
     "rite-of-passage-inc": {
       "x": -871.1,
       "y": -77.3,
@@ -252,6 +247,11 @@
       "x": 1228.9,
       "y": 217.6,
       "r": 14.2
+    },
+    "red-rock-canyon-school": {
+      "x": -164.3,
+      "y": 164,
+      "r": 14.5
     },
     "second-nature": {
       "x": 129.3,
@@ -493,11 +493,6 @@
       "y": -122.6,
       "r": 15.3
     },
-    "cinnamon-hills-youth-crisis-center": {
-      "x": -510.3,
-      "y": -570.3,
-      "r": 14.5
-    },
     "first-light-wilderness-therapy": {
       "x": 1043.2,
       "y": 376,
@@ -537,6 +532,11 @@
       "x": 323,
       "y": 174.1,
       "r": 14.3
+    },
+    "cinnamon-hills-youth-crisis-center": {
+      "x": -510.3,
+      "y": -570.3,
+      "r": 14.5
     },
     "discovery-ranch-for-girls": {
       "x": 555.8,
@@ -693,11 +693,6 @@
       "y": 220.4,
       "r": 13.5
     },
-    "elements-wilderness-program": {
-      "x": 323.9,
-      "y": 212.6,
-      "r": 14.2
-    },
     "kaizen-academy": {
       "x": -585.3,
       "y": 619,
@@ -767,6 +762,11 @@
       "x": 255,
       "y": -517,
       "r": 14.4
+    },
+    "elements-wilderness-program": {
+      "x": 323.9,
+      "y": 212.6,
+      "r": 14.2
     },
     "g4s-youth-services-llc": {
       "x": -1144.1,
@@ -1727,6 +1727,11 @@
       "x": 270.6,
       "y": 491.7,
       "r": 13.5
+    },
+    "jordan-larsen": {
+      "x": -561,
+      "y": -35.6,
+      "r": 13.7
     },
     "kaysie-dannemiller": {
       "x": -497.5,
@@ -3613,11 +3618,6 @@
       "y": 43.4,
       "r": 4
     },
-    "jennifer-rapp": {
-      "x": -46.7,
-      "y": -287.5,
-      "r": 4
-    },
     "jerry-spanos": {
       "x": -113.9,
       "y": -275.7,
@@ -3687,11 +3687,6 @@
       "x": 159.9,
       "y": -378.1,
       "r": 4
-    },
-    "jordan-larsen": {
-      "x": -561,
-      "y": -35.6,
-      "r": 13.7
     },
     "jordan-sartell": {
       "x": -212.8,
@@ -6243,11 +6238,6 @@
       "y": -108.1,
       "r": 4
     },
-    "john-sarachio": {
-      "x": -337.8,
-      "y": -76.6,
-      "r": 4
-    },
     "john-sarchio": {
       "x": -352.7,
       "y": -49.8,
@@ -6291,11 +6281,6 @@
     "jonathan-mack": {
       "x": 453,
       "y": -671.4,
-      "r": 4
-    },
-    "jordan-l-larsen": {
-      "x": -740.3,
-      "y": -900.1,
       "r": 4
     },
     "jordan-rigby": {
@@ -8028,11 +8013,6 @@
       "y": 460.7,
       "r": 14.2
     },
-    "todd-hockenberry": {
-      "x": -347.9,
-      "y": -226.8,
-      "r": 4
-    },
     "todd-merrill": {
       "x": 390.6,
       "y": 266,
@@ -9121,6 +9101,11 @@
     "jemison-group-home": {
       "x": -907.5,
       "y": 287.4,
+      "r": 4
+    },
+    "jen-rapp-sheridan": {
+      "x": -1204.3,
+      "y": -1116.9,
       "r": 4
     },
     "jim-monroe": {
