@@ -1,0 +1,48 @@
+{
+ "state": "CO",
+ "doc": "20031062896",
+ "name": "Cedar Springs Hospital, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "DE",
+ "fei": "",
+ "address": "2135 Southgate Rd, Colorado Springs, CO, 80906",
+ "city": "Colorado Springs",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1900 W Littleton Blvd, Littleton, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2003-02-25",
+   "filed": "2003-02-25",
+   "what": "Application for Authority",
+   "file": "20031062896"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20031062896",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

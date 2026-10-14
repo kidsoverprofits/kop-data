@@ -1,0 +1,61 @@
+{
+ "state": "CO",
+ "doc": "19941081055",
+ "name": "Mountain Homes Youth Ranch, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "inactive",
+ "status_label": "Administratively Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "",
+ "city": "",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 1996,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1994-07-19",
+   "filed": "1994-07-19",
+   "what": "Articles of Incorporation",
+   "file": "19941081055",
+   "name": "Mountain Homes Wilderness Ranch, Inc."
+  },
+  {
+   "date": "1994-11-14",
+   "filed": "1994-11-14",
+   "what": "Amendment",
+   "file": "19941126869"
+  },
+  {
+   "date": "1995-01-05",
+   "filed": "1995-01-05",
+   "what": "Amendment",
+   "file": "19951000870"
+  },
+  {
+   "date": "1995-06-19",
+   "filed": "1995-06-19",
+   "what": "Entity Name Change",
+   "file": "19951078913",
+   "name": "Mountain Homes Youth Ranch, Inc."
+  },
+  {
+   "date": "1997-07-21",
+   "filed": "1997-07-21",
+   "what": "Amendment",
+   "file": "19971114987"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19941081055",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

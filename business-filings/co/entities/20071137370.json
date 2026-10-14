@@ -1,0 +1,62 @@
+{
+ "state": "CO",
+ "doc": "20071137370",
+ "name": "The Link School",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "18885 County Road 367, Buena Vista, CO, 81211",
+ "city": "Buena Vista",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Jessica Michelle Orlet",
+  "kind": "person",
+  "title": "",
+  "place": "Buena Vista, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2007-03-18",
+   "filed": "2007-03-18",
+   "what": "Form a Nonprofit Corporation",
+   "file": "20071137434",
+   "name": "The Link School"
+  },
+  {
+   "date": "2007-03-18",
+   "filed": "2007-03-18",
+   "what": "Form a Nonprofit Corporation",
+   "file": "20071137434",
+   "name": "The Link School"
+  },
+  {
+   "date": "2007-05-01",
+   "filed": "2007-05-01",
+   "what": "Amend and Restate Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20071211485"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20071137370",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

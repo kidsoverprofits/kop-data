@@ -1,0 +1,66 @@
+{
+ "state": "FL",
+ "doc": "N97000001533",
+ "name": "Step Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1997-03-19",
+ "origin": "FL",
+ "fei": "593450554",
+ "address": "2101 Wakulla Street, Tallahassee, FL, 32310",
+ "city": "Tallahassee",
+ "last_activity": "1999-09-24",
+ "reports": [
+  {
+   "year": 1998,
+   "filed": "1998-04-03"
+  },
+  {
+   "year": 1998,
+   "filed": "1998-04-03"
+  }
+ ],
+ "agent": {
+  "name": "Elizabeth Ladd",
+  "kind": "person",
+  "title": "",
+  "place": "Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Elizabeth C Mccorvey-ladd",
+   "kind": "person",
+   "title": "President",
+   "place": "Tallahassee, FL"
+  },
+  {
+   "name": "Calvert Durden",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Tallahassee, FL"
+  },
+  {
+   "name": "Betty J Haynie",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Tallahassee, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-06-06",
+   "filed": "1997-06-06",
+   "what": "Amendment"
+  },
+  {
+   "date": "1999-09-24",
+   "filed": "1999-09-24",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N97000001533",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,49 @@
+{
+ "state": "FL",
+ "doc": "L03000026316",
+ "name": "Eagle Academy, Llc.",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2003-07-16",
+ "origin": "FL",
+ "fei": "200103077",
+ "address": "200 121st Avenue W., Suite 403, Treasure Island, FL, 33706",
+ "city": "Treasure Island",
+ "last_activity": "2005-09-16",
+ "reports": [
+  {
+   "year": 2004,
+   "filed": "2004-02-24"
+  },
+  {
+   "year": 2004,
+   "filed": "2004-02-24"
+  }
+ ],
+ "agent": {
+  "name": "Dreslin Financial Services, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "7985 113th Street, Seminole, FL"
+ },
+ "officers": [
+  {
+   "name": "Robert Rheintgen",
+   "kind": "person",
+   "title": "Managing Member",
+   "place": "Treasure Island, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-09-16",
+   "filed": "2005-09-16",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L03000026316",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "P39628",
+ "name": "Florida Institute for Neurologic Rehabilitation, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "1992-07-14",
+ "origin": "DE",
+ "fei": "650338754",
+ "address": "5115 Cr 675, Myakka City, FL, 34251",
+ "city": "Myakka City",
+ "last_activity": "2018-09-28",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-10-05"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-10-05"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-03-02"
+  }
+ ],
+ "agent": {
+  "name": "Brennick Joseph",
+  "kind": "person",
+  "title": "",
+  "place": "Myakka City, FL"
+ },
+ "officers": [
+  {
+   "name": "Joseph Brennick",
+   "kind": "person",
+   "title": "President",
+   "place": "Myakka City, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-09-28",
+   "filed": "2018-09-28",
+   "what": "Revoked for         annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P39628",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

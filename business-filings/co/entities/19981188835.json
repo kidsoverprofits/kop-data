@@ -1,0 +1,35 @@
+{
+ "state": "CO",
+ "doc": "19981188835",
+ "name": "Correctional Services Corporation",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "status_label": "Revoked",
+ "filed": "",
+ "origin": "DE",
+ "fei": "",
+ "address": "1819 Main St Ste 1000, Sarasota, FL, 34236",
+ "city": "Sarasota",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2000,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1998-10-21",
+   "filed": "1998-10-21",
+   "what": "Application for Authority",
+   "file": "19981188835"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19981188835",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

@@ -1,0 +1,97 @@
+{
+ "state": "FL",
+ "doc": "N93000004447",
+ "name": "Amikids Polk, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1993-10-01",
+ "origin": "FL",
+ "fei": "593208084",
+ "address": "5915 Benjamin Center Drive, Tampa, FL, 33634",
+ "city": "Tampa",
+ "last_activity": "2016-09-06",
+ "reports": [
+  {
+   "year": 2015,
+   "filed": "2015-04-27"
+  },
+  {
+   "year": 2015,
+   "filed": "2015-04-27"
+  },
+  {
+   "year": 2014,
+   "filed": "2014-03-26"
+  }
+ ],
+ "agent": {
+  "name": "David J Hull",
+  "kind": "person",
+  "title": "",
+  "place": "Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "O.b. Stander",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Claire Twomey",
+   "kind": "person",
+   "title": "Secretary, Director",
+   "place": "Lakeland, FL"
+  },
+  {
+   "name": "Michael Riskin",
+   "kind": "person",
+   "title": "Treasurer, Director",
+   "place": "Lakeland, FL"
+  },
+  {
+   "name": "Mark Codd",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Lakeland, FL"
+  },
+  {
+   "name": "Craig Hill",
+   "kind": "person",
+   "title": "Vice President, Chairman",
+   "place": "Lakeland, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-06-06",
+   "filed": "1997-06-06",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2000-11-20",
+   "filed": "2000-11-20",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2008-01-24",
+   "filed": "2008-01-24",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2009-09-02",
+   "filed": "2009-09-02",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2016-09-06",
+   "filed": "2016-09-06",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N93000004447",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

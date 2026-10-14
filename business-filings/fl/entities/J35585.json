@@ -1,0 +1,64 @@
+{
+ "state": "FL",
+ "doc": "J35585",
+ "name": "Carlton Palms Educational Center, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1986-09-30",
+ "origin": "FL",
+ "fei": "592741162",
+ "address": "28334 Churchill Smith Ln, Mount Dora, FL, 32757",
+ "city": "Mount Dora",
+ "last_activity": "2020-01-13",
+ "reports": [
+  {
+   "year": 2019,
+   "filed": "2019-04-19"
+  },
+  {
+   "year": 2019,
+   "filed": "2019-04-19"
+  },
+  {
+   "year": 2018,
+   "filed": "2018-02-08"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Michael Martin",
+   "kind": "person",
+   "title": "Chief Executive Officer",
+   "place": "Bear, DE"
+  },
+  {
+   "name": "Kyle Bailey",
+   "kind": "person",
+   "title": "Chief Financial Officer",
+   "place": "Bear, DE"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2009-12-29",
+   "filed": "2009-12-29",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2020-01-13",
+   "filed": "2020-01-13",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=J35585",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

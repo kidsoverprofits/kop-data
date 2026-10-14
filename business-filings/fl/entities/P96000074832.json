@@ -1,0 +1,49 @@
+{
+ "state": "FL",
+ "doc": "P96000074832",
+ "name": "Meridian, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1996-09-05",
+ "origin": "FL",
+ "fei": "",
+ "address": "5910 Spearman Circle, Northport, FL, 34287",
+ "city": "Northport",
+ "last_activity": "1998-10-16",
+ "reports": [
+  {
+   "year": 1997,
+   "filed": "1997-05-13"
+  },
+  {
+   "year": 1997,
+   "filed": "1997-05-13"
+  }
+ ],
+ "agent": {
+  "name": "Geralyn Y Littin",
+  "kind": "person",
+  "title": "",
+  "place": "Northport, FL"
+ },
+ "officers": [
+  {
+   "name": "Geralyn Y Littin",
+   "kind": "person",
+   "title": "Director",
+   "place": "Northport, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1998-10-16",
+   "filed": "1998-10-16",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P96000074832",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "L25000531393",
+ "name": "Cypress Creek Treatment Center LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2025-11-24",
+ "origin": "FL",
+ "fei": "412973825",
+ "address": "470 South Andrews Avenue, Pompano Beach, FL, 33069",
+ "city": "Pompano Beach",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-31"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-31"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-02"
+  }
+ ],
+ "agent": {
+  "name": "Ritvik Esq. Raturi",
+  "kind": "person",
+  "title": "",
+  "place": "Pompano Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "Ritvik Raturi",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Pompano Beach, FL"
+  },
+  {
+   "name": "David Martin",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Pompano Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L25000531393",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

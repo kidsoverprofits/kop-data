@@ -1,0 +1,105 @@
+{
+ "state": "CO",
+ "doc": "19871213368",
+ "name": "El Pueblo Boys' & Girls' Ranch, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "1 El Pueblo Ranch Way, Pueblo, CO, 81006",
+ "city": "Pueblo",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2018,
+   "filed": ""
+  },
+  {
+   "year": 2017,
+   "filed": ""
+  },
+  {
+   "year": 2016,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Douglas D Piersel",
+  "kind": "person",
+  "title": "",
+  "place": "Pueblo, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1960-04-22",
+   "filed": "1960-04-22",
+   "what": "Articles of Incorporation",
+   "file": "19871213368",
+   "name": "Youth Center, Inc."
+  },
+  {
+   "date": "1969-10-27",
+   "filed": "1969-10-27",
+   "what": "Entity Name Change",
+   "file": "Not Indexed",
+   "name": "El Pueblo Boys' Ranch"
+  },
+  {
+   "date": "1985-01-18",
+   "filed": "1985-01-18",
+   "what": "Amendment",
+   "file": "19871603087"
+  },
+  {
+   "date": "1986-03-03",
+   "filed": "1986-03-03",
+   "what": "Amendment",
+   "file": "19871660001"
+  },
+  {
+   "date": "1987-06-02",
+   "filed": "1987-06-02",
+   "what": "Amendment",
+   "file": "19871728695"
+  },
+  {
+   "date": "1988-06-14",
+   "filed": "1988-06-14",
+   "what": "Amendment",
+   "file": "19881062244"
+  },
+  {
+   "date": "1997-08-22",
+   "filed": "1997-08-22",
+   "what": "Entity Name Change",
+   "file": "19971134189",
+   "name": "El Pueblo Boys' & Girls' Ranch, Inc."
+  },
+  {
+   "date": "2001-04-16",
+   "filed": "2001-04-16",
+   "what": "Amendment",
+   "file": "20011077133"
+  },
+  {
+   "date": "2003-11-20",
+   "filed": "2003-11-20",
+   "what": "Amendment",
+   "file": "20031371581"
+  },
+  {
+   "date": "2018-12-31",
+   "filed": "2018-12-28",
+   "what": "Dissolve a Nonprofit Corporation",
+   "file": "20188038835"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19871213368",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

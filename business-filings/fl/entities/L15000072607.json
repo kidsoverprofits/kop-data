@@ -1,0 +1,47 @@
+{
+ "state": "FL",
+ "doc": "L15000072607",
+ "name": "Vernon Place LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2015-04-24",
+ "origin": "FL",
+ "fei": "",
+ "address": "1928 Vernon Place, Daytona Beach, FL, 32119",
+ "city": "Daytona Beach",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-02-13"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-13"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-07"
+  }
+ ],
+ "agent": {
+  "name": "Ralph C Pallmer",
+  "kind": "person",
+  "title": "",
+  "place": "Daytona Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "Ralph C Pallmer",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Daytona Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L15000072607",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

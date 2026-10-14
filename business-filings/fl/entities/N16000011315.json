@@ -1,0 +1,91 @@
+{
+ "state": "FL",
+ "doc": "N16000011315",
+ "name": "Tampa Bay Academy Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2016-11-28",
+ "origin": "FL",
+ "fei": "814535354",
+ "address": "14214 N. Nebraska Ave., Tampa, FL, 33613",
+ "city": "Tampa",
+ "last_activity": "2020-08-10",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-16"
+  }
+ ],
+ "agent": {
+  "name": "Luis A Soto Jr.",
+  "kind": "person",
+  "title": "",
+  "place": "Tampa, FL"
+ },
+ "officers": [
+  {
+   "name": "Soto A Luis Jr.",
+   "kind": "person",
+   "title": "President",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Rosa I Laporte",
+   "kind": "person",
+   "title": "TRE.",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Karixa Figueroa",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Riverview, FL"
+  },
+  {
+   "name": "Roger Proenza Jr.",
+   "kind": "person",
+   "title": "TR",
+   "place": "Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-10-19",
+   "filed": "2017-10-19",
+   "what": "Amendment"
+  },
+  {
+   "date": "2018-11-13",
+   "filed": "2018-11-13",
+   "what": "Amendment"
+  },
+  {
+   "date": "2020-08-10",
+   "filed": "2020-08-10",
+   "what": "Amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Tampa Bay Autism Center",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2021-04-09",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G21000048788"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N16000011315",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,67 @@
+{
+ "state": "CO",
+ "doc": "19941093769",
+ "name": "Children's Ark, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "400 E Routt, Pueblo, CO, 81004",
+ "city": "Pueblo",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2014,
+   "filed": ""
+  },
+  {
+   "year": 2013,
+   "filed": ""
+  },
+  {
+   "year": 2012,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Sabrina Haines",
+  "kind": "person",
+  "title": "",
+  "place": "Pueblo, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1994-08-19",
+   "filed": "1994-08-19",
+   "what": "Articles of Incorporation",
+   "file": "19941093769",
+   "name": "Children's Ark, Inc."
+  },
+  {
+   "date": "1994-10-13",
+   "filed": "1994-10-13",
+   "what": "Amendment",
+   "file": "19941114410"
+  },
+  {
+   "date": "1996-12-27",
+   "filed": "1996-12-27",
+   "what": "Amendment",
+   "file": "19961170485"
+  },
+  {
+   "date": "1998-08-26",
+   "filed": "1998-08-26",
+   "what": "Amendment",
+   "file": "19981155099"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19941093769",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

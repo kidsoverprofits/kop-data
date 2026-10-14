@@ -1,0 +1,48 @@
+{
+ "state": "CO",
+ "doc": "19971199045",
+ "name": "The Brown Schools, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "status_label": "Revoked",
+ "filed": "",
+ "origin": "DE",
+ "fei": "",
+ "address": "1407 West Stassney Lane, Austin, TX, 78745",
+ "city": "Austin",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2004,
+   "filed": ""
+  },
+  {
+   "year": 2003,
+   "filed": ""
+  },
+  {
+   "year": 2002,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "The Corporation Company",
+  "kind": "company",
+  "title": "",
+  "address": "7700 E Arapahoe Rd Ste 220, Centennial, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-12-11",
+   "filed": "1997-12-11",
+   "what": "Application for Authority",
+   "file": "19971199045"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19971199045",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

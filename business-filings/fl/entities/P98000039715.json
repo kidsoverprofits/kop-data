@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "P98000039715",
+ "name": "Healthcare Services of America, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1998-05-01",
+ "origin": "FL",
+ "fei": "650837081",
+ "address": "625 Sw 157 Avenue, Pembroke Pines, FL, 33027",
+ "city": "Pembroke Pines",
+ "last_activity": "2006-05-03",
+ "reports": [
+  {
+   "year": 2005,
+   "filed": "2005-04-12"
+  },
+  {
+   "year": 2005,
+   "filed": "2005-04-12"
+  },
+  {
+   "year": 2004,
+   "filed": "2004-05-01"
+  }
+ ],
+ "agent": {
+  "name": "Allen J Rapoport",
+  "kind": "person",
+  "title": "",
+  "place": "Coral Gables, FL"
+ },
+ "officers": [
+  {
+   "name": "America Lopez",
+   "kind": "person",
+   "title": "President",
+   "place": "Pembroke Pines, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2006-05-03",
+   "filed": "2006-05-03",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P98000039715",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

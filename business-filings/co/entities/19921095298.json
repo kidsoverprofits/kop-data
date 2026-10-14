@@ -1,0 +1,87 @@
+{
+ "state": "CO",
+ "doc": "19921095298",
+ "name": "Rocky Mountain Moose, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "inactive",
+ "status_label": "Administratively Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "2525 Arapahoe Ste H 12, Boulder, CO, 80302",
+ "city": "Boulder",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 1996,
+   "filed": ""
+  },
+  {
+   "year": 1994,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1992-10-01",
+   "filed": "1992-10-01",
+   "what": "Articles of Incorporation",
+   "file": "19921095298",
+   "name": "Qualla Corporation"
+  },
+  {
+   "date": "1993-06-25",
+   "filed": "1993-06-25",
+   "what": "Amendment",
+   "file": "19931066083"
+  },
+  {
+   "date": "1994-10-28",
+   "filed": "1994-10-28",
+   "what": "Entity Name Change",
+   "file": "19941121212",
+   "name": "Rocky Mountain Moose, Inc."
+  },
+  {
+   "date": "1994-11-16",
+   "filed": "1994-11-16",
+   "what": "Amendment",
+   "file": "19941128651"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Louisville Screenprinting, Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1995-05-16",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19951064988"
+  },
+  {
+   "name": "Rocky Mountain Kids, Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1993-03-23",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19931030630"
+  },
+  {
+   "name": "Rocky Mountain Kids Clothing Corp.",
+   "county": "",
+   "status": "active",
+   "filed": "1992-10-01",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19921095299"
+  }
+ ],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19921095298",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

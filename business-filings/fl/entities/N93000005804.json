@@ -1,0 +1,90 @@
+{
+ "state": "FL",
+ "doc": "N93000005804",
+ "name": "Bay Point Schools, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1993-12-30",
+ "origin": "FL",
+ "fei": "650457078",
+ "address": "25005 S.w. 133rd Ave., Miami, FL, 33032",
+ "city": "Miami",
+ "last_activity": "2002-10-04",
+ "reports": [
+  {
+   "year": 2001,
+   "filed": "2001-02-06"
+  },
+  {
+   "year": 2001,
+   "filed": "2001-02-06"
+  },
+  {
+   "year": 2000,
+   "filed": "2000-11-29"
+  }
+ ],
+ "agent": {
+  "name": "Mary Louise P Cole",
+  "kind": "person",
+  "title": "",
+  "place": "Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Mary L Cole",
+   "kind": "person",
+   "title": "Director, President",
+   "place": "Miami Beach, FL"
+  },
+  {
+   "name": "Jim Perez",
+   "kind": "person",
+   "title": "Director",
+   "place": "Miami, FL"
+  },
+  {
+   "name": "Lloyd Van Bylevelt",
+   "kind": "person",
+   "title": "Director",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1999-01-14",
+   "filed": "1999-01-14",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1999-09-24",
+   "filed": "1999-09-24",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1999-10-19",
+   "filed": "1999-10-19",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2000-09-22",
+   "filed": "2000-09-22",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2000-11-29",
+   "filed": "2000-11-29",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2002-10-04",
+   "filed": "2002-10-04",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N93000005804",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

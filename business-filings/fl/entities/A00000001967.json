@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "A00000001967",
+ "name": "Tampa Bay Academy, Ltd.",
+ "type": "DOMLP",
+ "type_label": "Florida limited partnership",
+ "status": "inactive",
+ "filed": "2000-12-19",
+ "origin": "FL",
+ "fei": "651062712",
+ "address": "2700 North Military Trail, Suite 225, Boca Raton, FL, 33431",
+ "city": "Boca Raton",
+ "last_activity": "2014-09-26",
+ "reports": [
+  {
+   "year": 2013,
+   "filed": "2013-03-26"
+  },
+  {
+   "year": 2013,
+   "filed": "2013-03-26"
+  },
+  {
+   "year": 2012,
+   "filed": "2012-03-07"
+  }
+ ],
+ "agent": {
+  "name": "Norman S Weinstein",
+  "kind": "person",
+  "title": "",
+  "place": "Boca Raton, FL"
+ },
+ "officers": [
+  {
+   "name": "Tb Academy, Inc.",
+   "kind": "company",
+   "title": "",
+   "address": "2700 North Military Trail, Boca Raton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2014-09-26",
+   "filed": "2014-09-26",
+   "what": "Revoked for         annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=A00000001967",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20231296540",
+ "name": "Rite of Passage ltd.",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "396 Belford St, Frisco, CO, 80443",
+ "city": "Frisco",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Joseph Akai Phillips",
+  "kind": "person",
+  "title": "",
+  "place": "Frisco, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2023-03-18",
+   "filed": "2023-03-18",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20231296540",
+   "name": "Rite of Passage ltd."
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20231296540",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

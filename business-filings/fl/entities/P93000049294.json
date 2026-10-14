@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "P93000049294",
+ "name": "Healthcare Services of America, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1993-07-14",
+ "origin": "FL",
+ "fei": "",
+ "address": "11181 Nw 26 Dr, Coral Springs, FL, 33065",
+ "city": "Coral Springs",
+ "last_activity": "1994-08-26",
+ "reports": [],
+ "agent": {
+  "name": "Walter V Troxel",
+  "kind": "person",
+  "title": "",
+  "place": "Coral Springs, FL"
+ },
+ "officers": [
+  {
+   "name": "Walter V Troxel",
+   "kind": "person",
+   "title": "Director",
+   "place": "Coral Springs, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1994-08-26",
+   "filed": "1994-08-26",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P93000049294",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

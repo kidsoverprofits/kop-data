@@ -1,0 +1,84 @@
+{
+ "state": "FL",
+ "doc": "P05000155462",
+ "name": "The Seed Co.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2005-11-23",
+ "origin": "FL",
+ "fei": "203858035",
+ "address": "1331 Brickell Bay Dr, #bl48, Miami, FL, 33131",
+ "city": "Miami",
+ "last_activity": "2009-09-25",
+ "reports": [
+  {
+   "year": 2008,
+   "filed": "2008-12-23"
+  },
+  {
+   "year": 2008,
+   "filed": "2008-12-23"
+  },
+  {
+   "year": 2007,
+   "filed": "2007-02-14"
+  }
+ ],
+ "agent": {
+  "name": "Business Filings Incorporated",
+  "kind": "company",
+  "title": "",
+  "address": "515 E. Park Avenue, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Amalfi Gayosso",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Miami, FL"
+  },
+  {
+   "name": "Guadalupe Gallego",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2006-08-23",
+   "filed": "2006-08-23",
+   "what": "Amendment"
+  },
+  {
+   "date": "2006-09-15",
+   "filed": "2006-09-15",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2006-10-13",
+   "filed": "2006-10-13",
+   "what": "Cancel adm diss/rev"
+  },
+  {
+   "date": "2008-09-26",
+   "filed": "2008-09-26",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2008-12-23",
+   "filed": "2008-12-23",
+   "what": "Cancel adm diss/rev"
+  },
+  {
+   "date": "2009-09-25",
+   "filed": "2009-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P05000155462",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

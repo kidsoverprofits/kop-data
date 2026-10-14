@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20161724189",
+ "name": "Wilderness Training & Consulting, LLC",
+ "type": "FLLC",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "OR",
+ "fei": "",
+ "address": "530 Center St NE Ste 700, Salem, OR, 97301",
+ "city": "Salem",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "National Registered Agents, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "7700 E Arapahoe Rd Ste 220, Centennial, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2016-10-25",
+   "filed": "2016-10-25",
+   "what": "Apply for Foreign Entity Authority To transact business in Colorado",
+   "file": "20161724189",
+   "name": "Wilderness Training & Consulting, LLC"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20161724189",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

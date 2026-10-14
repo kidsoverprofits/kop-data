@@ -1,0 +1,90 @@
+{
+ "state": "FL",
+ "doc": "N01000003536",
+ "name": "Lighthouse Christian Center of Mayo, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2001-05-21",
+ "origin": "FL",
+ "fei": "592220625",
+ "address": "772 N. State Rd. 51, Mayo, FL, 32066",
+ "city": "Mayo",
+ "last_activity": "2017-01-20",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-06"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-06"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-07"
+  }
+ ],
+ "agent": {
+  "name": "Kevin R Jackson",
+  "kind": "person",
+  "title": "",
+  "place": "Mayo, FL"
+ },
+ "officers": [
+  {
+   "name": "Kevin Jackson",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Mayo, FL"
+  },
+  {
+   "name": "William C Howland",
+   "kind": "person",
+   "title": "Trustee",
+   "place": "Live Oak, FL"
+  },
+  {
+   "name": "James Ward",
+   "kind": "person",
+   "title": "Trustee",
+   "place": "Mayo, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2002-10-04",
+   "filed": "2002-10-04",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2002-10-29",
+   "filed": "2002-10-29",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2016-09-23",
+   "filed": "2016-09-23",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2017-01-20",
+   "filed": "2017-01-20",
+   "what": "Reinstatement"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Lighthouse Christian Academy",
+   "county": "Lafayette",
+   "status": "active",
+   "filed": "2024-02-26",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000029477"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N01000003536",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

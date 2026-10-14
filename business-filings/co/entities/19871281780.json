@@ -1,0 +1,73 @@
+{
+ "state": "CO",
+ "doc": "19871281780",
+ "name": "Excelsior Youth Centers, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "15001 E. Oxford Ave, Aurora, CO, 80014",
+ "city": "Aurora",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2018,
+   "filed": ""
+  },
+  {
+   "year": 2017,
+   "filed": ""
+  },
+  {
+   "year": 2016,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Turnwall Kyle",
+  "kind": "person",
+  "title": "",
+  "place": "Aurora, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1975-01-07",
+   "filed": "1975-01-07",
+   "what": "Articles of Incorporation",
+   "file": "19871281780",
+   "name": "Excelsior Youth Centers, Inc."
+  },
+  {
+   "date": "1985-02-21",
+   "filed": "1985-02-21",
+   "what": "Amendment",
+   "file": "19871607563"
+  },
+  {
+   "date": "1990-12-06",
+   "filed": "1990-12-06",
+   "what": "Amendment",
+   "file": "19901105849"
+  },
+  {
+   "date": "1996-06-19",
+   "filed": "1996-06-19",
+   "what": "Amendment",
+   "file": "19961081736"
+  },
+  {
+   "date": "2018-07-31",
+   "filed": "2018-07-31",
+   "what": "Dissolve a Nonprofit Corporation",
+   "file": "20181609589"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19871281780",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

@@ -1,0 +1,43 @@
+{
+ "state": "FL",
+ "doc": "L25000437345",
+ "name": "Providence Pass LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2025-09-22",
+ "origin": "FL",
+ "fei": "",
+ "address": "8 the Green, Dover, DE, 33702",
+ "city": "Dover",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-12"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-12"
+  }
+ ],
+ "agent": {
+  "name": "North West Registered Agent Service, Inc",
+  "kind": "company",
+  "title": "",
+  "address": "7901 4th St N, Dover,delaware, FL"
+ },
+ "officers": [
+  {
+   "name": "Taylor Holdings Group LLC",
+   "kind": "company",
+   "title": "Manager",
+   "address": "8 the Grn Suit B, Dover, DE"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L25000437345",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

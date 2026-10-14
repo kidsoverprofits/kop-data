@@ -1,0 +1,80 @@
+{
+ "state": "FL",
+ "doc": "N11318",
+ "name": "Straight, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1985-09-26",
+ "origin": "FL",
+ "fei": "592576433",
+ "address": "3001 Gandy Blvd., St. Petersburg, FL, 33702",
+ "city": "St. Petersburg",
+ "last_activity": "1994-08-26",
+ "reports": [
+  {
+   "year": 1993,
+   "filed": "1993-02-08"
+  },
+  {
+   "year": 1993,
+   "filed": "1993-02-08"
+  },
+  {
+   "year": 1991,
+   "filed": "1991-04-17"
+  }
+ ],
+ "agent": {
+  "name": "C T Corporation System",
+  "kind": "company",
+  "title": "",
+  "address": "1200 South Pine Island Road, Plantation, FL"
+ },
+ "officers": [
+  {
+   "name": "Carr, Elliott L.",
+   "kind": "company",
+   "title": "Vice President, Secretary, Treasurer, Director",
+   "address": "296 Mirror Lake Dr., St. Petersburg, FL"
+  },
+  {
+   "name": "Sellers, Leon H., Jr.",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "3001 Gandy Blvd., St. Petersburg, FL"
+  },
+  {
+   "name": "Pennington, Wesley",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "442 Raymond Ave., Longwood, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1990-06-25",
+   "filed": "1990-06-25",
+   "what": "Amendment"
+  },
+  {
+   "date": "1992-10-09",
+   "filed": "1992-10-09",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1993-02-08",
+   "filed": "1993-02-08",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1994-08-26",
+   "filed": "1994-08-26",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N11318",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

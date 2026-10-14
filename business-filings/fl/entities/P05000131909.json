@@ -1,0 +1,59 @@
+{
+ "state": "FL",
+ "doc": "P05000131909",
+ "name": "Back to Basics Military Academy, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2005-09-26",
+ "origin": "FL",
+ "fei": "342053540",
+ "address": "216 Bayberry Dr, Plantation, FL, 33317",
+ "city": "Plantation",
+ "last_activity": "2009-09-25",
+ "reports": [
+  {
+   "year": 2008,
+   "filed": "2008-04-18"
+  },
+  {
+   "year": 2008,
+   "filed": "2008-04-18"
+  },
+  {
+   "year": 2007,
+   "filed": "2007-03-08"
+  }
+ ],
+ "agent": {
+  "name": "Edwin L Crammer",
+  "kind": "person",
+  "title": "",
+  "place": "Sunrise, FL"
+ },
+ "officers": [
+  {
+   "name": "Reginald L Browne",
+   "kind": "person",
+   "title": "Director",
+   "place": "Plantation, FL"
+  },
+  {
+   "name": "Lynda J Browne",
+   "kind": "person",
+   "title": "Director",
+   "place": "Plantation, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2009-09-25",
+   "filed": "2009-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P05000131909",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

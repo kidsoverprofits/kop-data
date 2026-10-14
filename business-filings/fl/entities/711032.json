@@ -1,0 +1,89 @@
+{
+ "state": "FL",
+ "doc": "711032",
+ "name": "Edgewood Children's Ranch, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1966-06-14",
+ "origin": "FL",
+ "fei": "591150182",
+ "address": "1451 Edgewood Ranch Rd., Orlando, FL, 32835",
+ "city": "Orlando",
+ "last_activity": "1988-07-12",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-09"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-09"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-06"
+  }
+ ],
+ "agent": {
+  "name": "Jeff Fitzgerald",
+  "kind": "person",
+  "title": "",
+  "place": "Orlando, FL"
+ },
+ "officers": [
+  {
+   "name": "Chad Barr",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Altamonte Springs, FL"
+  },
+  {
+   "name": "Mark Hess",
+   "kind": "person",
+   "title": "Vice President, Chairman",
+   "place": "Windermere, FL"
+  },
+  {
+   "name": "Scott Fosgate Sr.",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Orlando, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1986-06-11",
+   "filed": "1986-06-11",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1988-07-12",
+   "filed": "1988-07-12",
+   "what": "Name change         amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Edgewood Ranch Academy",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2024-07-08",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000081757"
+  },
+  {
+   "name": "Hope Farm",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2023-05-31",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000066873"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=711032",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

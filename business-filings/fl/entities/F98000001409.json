@@ -1,0 +1,106 @@
+{
+ "state": "FL",
+ "doc": "F98000001409",
+ "name": "Premier Behavioral Solutions of Florida, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "active",
+ "filed": "1998-03-12",
+ "origin": "DE",
+ "fei": "650816927",
+ "address": "4480 51st Street West, Bradenton, FL, 34210",
+ "city": "Bradenton",
+ "last_activity": "2005-04-28",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-27"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-27"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-09"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays St, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Steve Filton",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Matt Peterson",
+   "kind": "person",
+   "title": "President",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Cheryl K Ramagano",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Matthew D Klein",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Thomas Day",
+   "kind": "person",
+   "title": "Director",
+   "place": "King of Prussia, PA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2001-09-21",
+   "filed": "2001-09-21",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2001-11-21",
+   "filed": "2001-11-21",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2005-04-28",
+   "filed": "2005-04-28",
+   "what": "Name change         amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Suncoast Behavioral Health Center",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2013-12-06",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G13000119150"
+  },
+  {
+   "name": "Palm Shores Behavioral Health Center",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2013-05-08",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G13000044122"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F98000001409",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

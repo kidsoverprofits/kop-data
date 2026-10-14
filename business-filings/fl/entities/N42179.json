@@ -1,0 +1,103 @@
+{
+ "state": "FL",
+ "doc": "N42179",
+ "name": "Amikids Pensacola, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1991-02-21",
+ "origin": "FL",
+ "fei": "593051944",
+ "address": "3685 Muldoon Road, Pensacola, FL, 32526",
+ "city": "Pensacola",
+ "last_activity": "2021-06-21",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-22"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-22"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-07-03"
+  }
+ ],
+ "agent": {
+  "name": "David J Hull",
+  "kind": "person",
+  "title": "",
+  "place": "Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Jesse W Rigby",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Michael A Thornton",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Ryan P Hatler",
+   "kind": "person",
+   "title": "Director",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Laura J Branch",
+   "kind": "person",
+   "title": "Director",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Meredith D Bush",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Tracie W Moorer",
+   "kind": "person",
+   "title": "Director",
+   "place": "Pensacola, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "2003-05-02",
+   "filed": "2003-05-02",
+   "what": "Amendment"
+  },
+  {
+   "date": "2009-08-03",
+   "filed": "2009-08-03",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2021-06-21",
+   "filed": "2021-06-21",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Escambia Boys Base",
+   "county": "Escambia",
+   "status": "active",
+   "filed": "2019-07-12",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G19000076014"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N42179",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

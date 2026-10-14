@@ -1,0 +1,28 @@
+{
+ "state": "FL",
+ "doc": "196658",
+ "name": "The Straight Corp",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1956-10-09",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "., .",
+ "city": ".",
+ "last_activity": "1961-04-18",
+ "reports": [],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1961-04-18",
+   "filed": "1961-04-18",
+   "what": "Dissolved by        proclamation"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=196658",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

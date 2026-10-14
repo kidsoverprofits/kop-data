@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "N20000001483",
+ "name": "Growing Together, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2020-02-12",
+ "origin": "FL",
+ "fei": "",
+ "address": "5337 Gulf Drive Ste 200, Holmes Beach, FL, 34217",
+ "city": "Holmes Beach",
+ "last_activity": "2021-04-26",
+ "reports": [],
+ "agent": {
+  "name": "Spiegel & Utrera, P.A.",
+  "kind": "company",
+  "title": "",
+  "address": "1840 Sw 22nd St., Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Benjamin Bryant",
+   "kind": "person",
+   "title": "President, Secretary, Treasurer",
+   "place": "Holmes Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2021-04-26",
+   "filed": "2021-04-26",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N20000001483",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

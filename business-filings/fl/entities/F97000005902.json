@@ -1,0 +1,56 @@
+{
+ "state": "FL",
+ "doc": "F97000005902",
+ "name": "Ramsay Youth Services, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "1997-11-07",
+ "origin": "DE",
+ "fei": "650766342",
+ "address": "One Alhambra Plaza, Ste. 750, Coral Gables, FL, 33134",
+ "city": "Coral Gables",
+ "last_activity": "1999-09-24",
+ "reports": [
+  {
+   "year": 1998,
+   "filed": "1998-05-18"
+  },
+  {
+   "year": 1998,
+   "filed": "1998-05-18"
+  }
+ ],
+ "agent": null,
+ "officers": [
+  {
+   "name": "Bert G Cibran",
+   "kind": "person",
+   "title": "Chairman, President",
+   "place": "Coral Gables, FL"
+  },
+  {
+   "name": "Carol C Lang",
+   "kind": "person",
+   "title": "Chairman, Vice President",
+   "place": "Coral Gables, FL"
+  },
+  {
+   "name": "Daniel A Sims",
+   "kind": "person",
+   "title": "Secretary, Treasurer",
+   "place": "Coral Gables, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1999-09-24",
+   "filed": "1999-09-24",
+   "what": "Withdrawal"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F97000005902",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

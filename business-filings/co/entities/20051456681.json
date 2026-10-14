@@ -1,0 +1,47 @@
+{
+ "state": "CO",
+ "doc": "20051456681",
+ "name": "Royal Gorge Academy, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "615 Pike Avenue, Canon City, UT, 81212",
+ "city": "Canon City",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2007,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Brian Patrick Lemons",
+  "kind": "person",
+  "title": "",
+  "place": "Canon City, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-12-08",
+   "filed": "2005-12-08",
+   "what": "Form a Profit Corporation",
+   "file": "20051456681",
+   "name": "Royal Peak Academy, Inc."
+  },
+  {
+   "date": "2006-10-30",
+   "filed": "2006-10-30",
+   "what": "Amend Articles of Incorporation for a Profit Corporation",
+   "file": "20061443494"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20051456681",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

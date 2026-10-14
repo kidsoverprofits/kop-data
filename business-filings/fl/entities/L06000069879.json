@@ -1,0 +1,69 @@
+{
+ "state": "FL",
+ "doc": "L06000069879",
+ "name": "University Behavioral, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2006-07-13",
+ "origin": "FL",
+ "fei": "205202458",
+ "address": "2500 Discovery Drive, Orlando, FL, 32826",
+ "city": "Orlando",
+ "last_activity": "2017-01-31",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-11"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Premier Behavioral Solutions, Inc.",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "6640 Carothers Parkway, Suite 500, Franklin, TN"
+  },
+  {
+   "name": "Ramsay Managed Care, LLC",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "367 S. Gulph Rd., King of Prussia, PA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-01-31",
+   "filed": "2017-01-31",
+   "what": "Lc stmnt of         ra/ro chg"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "University Behavioral Center",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2006-09-27",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G06270900014"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L06000069879",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

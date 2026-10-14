@@ -1,0 +1,49 @@
+{
+ "state": "FL",
+ "doc": "L00000012266",
+ "name": "Kanner Academy, Llc.",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2000-10-03",
+ "origin": "FL",
+ "fei": "651072645",
+ "address": "133 Mcintosh Rd., Sarasota, FL, 34232",
+ "city": "Sarasota",
+ "last_activity": "2002-10-04",
+ "reports": [
+  {
+   "year": 2001,
+   "filed": "2001-04-26"
+  },
+  {
+   "year": 2001,
+   "filed": "2001-04-26"
+  }
+ ],
+ "agent": {
+  "name": "Joseph Charles Kanner",
+  "kind": "company",
+  "title": "",
+  "address": "5883 Brown Ln., Sarasota, FL"
+ },
+ "officers": [
+  {
+   "name": "Joseph Charles Kanner",
+   "kind": "person",
+   "title": "Managing Member",
+   "place": "Sarasota, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2002-10-04",
+   "filed": "2002-10-04",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L00000012266",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,93 @@
+{
+ "state": "FL",
+ "doc": "F94000005740",
+ "name": "Correctional Services Corporation",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "1994-11-04",
+ "origin": "DE",
+ "fei": "113182580",
+ "address": "621 Nw 53rd Street, 700, Boca Raton, FL, 33487",
+ "city": "Boca Raton",
+ "last_activity": "2013-01-07",
+ "reports": [
+  {
+   "year": 2012,
+   "filed": "2012-05-01"
+  },
+  {
+   "year": 2012,
+   "filed": "2012-05-01"
+  },
+  {
+   "year": 2011,
+   "filed": "2011-01-27"
+  }
+ ],
+ "agent": null,
+ "officers": [
+  {
+   "name": "George C Zoley",
+   "kind": "person",
+   "title": "Director, President",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "John M Hurley",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "John J Bulfin",
+   "kind": "person",
+   "title": "Director, Vice President, Secretary",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "Brian R Evans",
+   "kind": "person",
+   "title": "Vice President, Treasurer",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "Maier Marcel",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "Shayn C March",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Boca Raton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1996-09-06",
+   "filed": "1996-09-06",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1999-09-24",
+   "filed": "1999-09-24",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2000-01-31",
+   "filed": "2000-01-31",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2013-01-07",
+   "filed": "2013-01-07",
+   "what": "Withdrawal"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F94000005740",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

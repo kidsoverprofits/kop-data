@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20011070566",
+ "name": "Ridge View Academy",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "2560 Business Parkway Ste A, Denver, NV, 80203",
+ "city": "Denver",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Incorp Services, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "1500 N Grant St, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2001-04-05",
+   "filed": "2001-04-05",
+   "what": "Articles of Incorporation",
+   "file": "20011070566",
+   "name": "Ridge View Academy"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20011070566",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

@@ -1,0 +1,64 @@
+{
+ "state": "FL",
+ "doc": "M13000000165",
+ "name": "Correctional Services, LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "filed": "2013-01-08",
+ "origin": "DE",
+ "fei": "113182580",
+ "address": "4955 Technology Way, Boca Raton, FL, 33431",
+ "city": "Boca Raton",
+ "last_activity": "2017-10-19",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-18"
+  }
+ ],
+ "agent": {
+  "name": "Corporate Creations Network, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "801 Us Highway 1, North Palm Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "George C Zoley",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Boca Raton, FL"
+  },
+  {
+   "name": "Scott Schipma",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Boca Raton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-09-22",
+   "filed": "2017-09-22",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2017-10-19",
+   "filed": "2017-10-19",
+   "what": "Reinstatement"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M13000000165",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

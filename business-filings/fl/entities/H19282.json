@@ -1,0 +1,46 @@
+{
+ "state": "FL",
+ "doc": "H19282",
+ "name": "Anderson Academy, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1984-09-04",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "% Alvin H. Anderson, 1202 East Skipper Rd., Lutz, FL, 33549",
+ "city": "Lutz",
+ "last_activity": "1985-11-01",
+ "reports": [],
+ "agent": {
+  "name": "Anderson, Alvin H.",
+  "kind": "company",
+  "title": "",
+  "address": "1202 East Skipper Rd., Lutz, FL"
+ },
+ "officers": [
+  {
+   "name": "Anderson, Alvin H.",
+   "kind": "company",
+   "title": "Director",
+   "address": "326 Oak Rose Lane, #3, Tampa, FL"
+  },
+  {
+   "name": "Anderson, Kathryn P.",
+   "kind": "company",
+   "title": "Director",
+   "address": "326 Oak Rose Lane, #3, Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1985-11-01",
+   "filed": "1985-11-01",
+   "what": "Involuntarily       dissolved"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=H19282",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

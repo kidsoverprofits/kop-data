@@ -1,0 +1,47 @@
+{
+ "state": "CO",
+ "doc": "20091078062",
+ "name": "Straight LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "7915 W 18 St Rd, Greeley, CO, 80634",
+ "city": "Greeley",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2010,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Charlene Louise Voelz",
+  "kind": "person",
+  "title": "",
+  "place": "Greeley, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2009-02-04",
+   "filed": "2009-02-04",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20091078062",
+   "name": "Straight LLC"
+  },
+  {
+   "date": "2010-12-31",
+   "filed": "2010-12-21",
+   "what": "Dissolve a Limited Liability Company",
+   "file": "20101689901"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20091078062",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

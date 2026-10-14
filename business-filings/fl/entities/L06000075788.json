@@ -1,0 +1,49 @@
+{
+ "state": "FL",
+ "doc": "L06000075788",
+ "name": "Meridian LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2006-07-31",
+ "origin": "FL",
+ "fei": "205306930",
+ "address": "717 Jefferson Ave #4, Miami Beach, FL, 33139",
+ "city": "Miami Beach",
+ "last_activity": "2008-05-23",
+ "reports": [
+  {
+   "year": 2007,
+   "filed": "2007-04-03"
+  },
+  {
+   "year": 2007,
+   "filed": "2007-04-03"
+  }
+ ],
+ "agent": {
+  "name": "Albert J. Lazo P.A.",
+  "kind": "company",
+  "title": "",
+  "address": "3326 Mary Street Ste 601, Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Jennifer Harrison",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Miami Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2008-05-23",
+   "filed": "2008-05-23",
+   "what": "Lc voluntary        dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L06000075788",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

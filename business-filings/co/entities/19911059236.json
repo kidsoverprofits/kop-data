@@ -1,0 +1,35 @@
+{
+ "state": "CO",
+ "doc": "19911059236",
+ "name": "Willow Grove, Ltd.",
+ "type": "DLP",
+ "type_label": "Colorado limited partnership",
+ "status": "active",
+ "status_label": "Exists",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "3436 S Shields St Unit A, Fort Collins, CO, 80526",
+ "city": "Fort Collins",
+ "last_activity": "",
+ "reports": [],
+ "agent": {
+  "name": "Thomas R. Sibbald",
+  "kind": "person",
+  "title": "",
+  "place": "Fort Collins, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1991-07-30",
+   "filed": "1991-07-30",
+   "what": "Certificate",
+   "file": "19911059236"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19911059236",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

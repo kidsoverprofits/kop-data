@@ -1,0 +1,69 @@
+{
+ "state": "FL",
+ "doc": "N22000006614",
+ "name": "Newport Healthcare, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2022-06-13",
+ "origin": "FL",
+ "fei": "301313845",
+ "address": "6131 Us Hwy 19, New Port Richey, FL, 34652",
+ "city": "New Port Richey",
+ "last_activity": "2022-11-21",
+ "reports": [],
+ "agent": {
+  "name": "Andrew L Bocchetti",
+  "kind": "person",
+  "title": "",
+  "place": "New Port Richey, FL"
+ },
+ "officers": [
+  {
+   "name": "Andrew L Bocchetti",
+   "kind": "person",
+   "title": "President, Chairman",
+   "place": "New Port Richey, FL"
+  },
+  {
+   "name": "Tajinder Md Singh",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "New Port Richey, FL"
+  },
+  {
+   "name": "April Vegas",
+   "kind": "person",
+   "title": "Secretary, Treasurer, Director",
+   "place": "New Port Richey, FL"
+  },
+  {
+   "name": "Dottie Hall",
+   "kind": "person",
+   "title": "Director",
+   "place": "New Port Richey, FL"
+  },
+  {
+   "name": "Rafael Pretto",
+   "kind": "person",
+   "title": "Director",
+   "place": "New Port Richey, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2022-07-26",
+   "filed": "2022-07-26",
+   "what": "Amendment"
+  },
+  {
+   "date": "2022-11-21",
+   "filed": "2022-11-21",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N22000006614",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

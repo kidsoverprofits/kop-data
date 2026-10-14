@@ -1,0 +1,69 @@
+{
+ "state": "FL",
+ "doc": "N24000009407",
+ "name": "Amikids Polk, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2024-08-06",
+ "origin": "FL",
+ "fei": "994408620",
+ "address": "2145 Bob Phillips Road, Bartow, FL, 33830",
+ "city": "Bartow",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-21"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-05-09"
+  }
+ ],
+ "agent": {
+  "name": "Smith, Hulsey & Busey, LLC",
+  "kind": "company",
+  "title": "",
+  "address": "One Independent Dr. Suite 3300,, Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Rosemary Brackman",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Maria Porto-duarte",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Michael A Thornton",
+   "kind": "person",
+   "title": "President",
+   "place": "Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [
+  {
+   "name": "Escambia Boys Base",
+   "county": "Escambia",
+   "status": "active",
+   "filed": "2025-12-31",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G25000169903"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N24000009407",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

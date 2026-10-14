@@ -1,0 +1,208 @@
+{
+ "state": "FL",
+ "doc": "M16000004783",
+ "name": "Youth Opportunity Investments LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "filed": "2016-06-10",
+ "origin": "IN",
+ "fei": "270972875",
+ "address": "12775 Horseferry Road, Carmel, IN, 46032",
+ "city": "Carmel",
+ "last_activity": "2019-12-16",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-17"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-17"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-28"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "James C Hill Jr.",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Carmel, IN"
+  },
+  {
+   "name": "Ronald D Hunter",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Carmel, IN"
+  },
+  {
+   "name": "Danny K Zachary Jr.",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Carmel, IN"
+  },
+  {
+   "name": "Gary D Sallee Jr.",
+   "kind": "person",
+   "title": "Authorized Person",
+   "place": "Carmel, IN"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-09-28",
+   "filed": "2018-09-28",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2018-10-17",
+   "filed": "2018-10-17",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2019-12-16",
+   "filed": "2019-12-16",
+   "what": "Lc stmnt of         ra/ro chg"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Lake Parrish Youth Academy",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2026-05-04",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G26000064945"
+  },
+  {
+   "name": "Orange Youth Academy",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2024-08-19",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000098449"
+  },
+  {
+   "name": "Orlando Intensive Youth Academy",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2024-08-19",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000098455"
+  },
+  {
+   "name": "Silver Springs Youth Academy",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2024-08-19",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000098435"
+  },
+  {
+   "name": "St. Augustine Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-05-14",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000062689"
+  },
+  {
+   "name": "Broward Youth Treatment Center",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028280"
+  },
+  {
+   "name": "Crestview Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028284"
+  },
+  {
+   "name": "Deep Creek Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028288"
+  },
+  {
+   "name": "Everglades Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028290"
+  },
+  {
+   "name": "Kissimmee Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028294"
+  },
+  {
+   "name": "Ocala Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028295"
+  },
+  {
+   "name": "Youth Opportunity Investments, LLC",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-02-22",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000028276"
+  },
+  {
+   "name": "Brooksville Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2022-08-08",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G22000093261"
+  },
+  {
+   "name": "Brooksville Youth Academy",
+   "county": "Hernando",
+   "status": "active",
+   "filed": "2022-04-22",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G22000051143"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M16000004783",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

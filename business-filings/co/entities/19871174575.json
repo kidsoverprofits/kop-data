@@ -1,0 +1,190 @@
+{
+ "state": "CO",
+ "doc": "19871174575",
+ "name": "Griffith Centers, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "10190 Bannock St Ste 120, Northglenn, CO, 80260",
+ "city": "Northglenn",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Griffith Centers, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "10190 Bannock St Ste 120, Northglenn, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1930-06-19",
+   "filed": "1930-06-19",
+   "what": "Articles of Incorporation",
+   "file": "19871174575",
+   "name": "Number Nine Pearl Street"
+  },
+  {
+   "date": "1964-07-28",
+   "filed": "1964-07-28",
+   "what": "Entity Name Change",
+   "file": "Not Indexed",
+   "name": "The Emily Griffith Boys Home, Inc."
+  },
+  {
+   "date": "1975-06-12",
+   "filed": "1975-06-12",
+   "what": "Election To Accept",
+   "file": "19911098289"
+  },
+  {
+   "date": "1980-08-07",
+   "filed": "1980-08-07",
+   "what": "Amendment",
+   "file": "19871409147"
+  },
+  {
+   "date": "1980-10-17",
+   "filed": "1980-10-17",
+   "what": "Entity Name Change",
+   "file": "Not Indexed",
+   "name": "Griffith Center, Inc."
+  },
+  {
+   "date": "1982-04-26",
+   "filed": "1982-04-26",
+   "what": "Amendment",
+   "file": "19871473154"
+  },
+  {
+   "date": "1984-04-11",
+   "filed": "1984-04-11",
+   "what": "Amendment",
+   "file": "19871566110"
+  },
+  {
+   "date": "1990-03-28",
+   "filed": "1990-03-28",
+   "what": "Amendment",
+   "file": "19901030030"
+  },
+  {
+   "date": "1994-04-01",
+   "filed": "1994-04-01",
+   "what": "Amendment",
+   "file": "19941038629"
+  },
+  {
+   "date": "1994-04-01",
+   "filed": "1994-04-01",
+   "what": "Amendment",
+   "file": "19941038629"
+  },
+  {
+   "date": "1994-08-31",
+   "filed": "1994-08-31",
+   "what": "Amendment",
+   "file": "19941098893"
+  },
+  {
+   "date": "1995-02-24",
+   "filed": "1995-02-24",
+   "what": "Entity Name Change",
+   "file": "19951023506",
+   "name": "Emily Griffith Center, Inc."
+  },
+  {
+   "date": "1996-07-01",
+   "filed": "1996-07-01",
+   "what": "Amendment",
+   "file": "19961087538"
+  },
+  {
+   "date": "1998-06-25",
+   "filed": "1998-06-25",
+   "what": "Amendment",
+   "file": "19981117310"
+  },
+  {
+   "date": "2001-03-21",
+   "filed": "2001-03-21",
+   "what": "Reinstatement",
+   "file": "20011059374"
+  },
+  {
+   "date": "2001-03-21",
+   "filed": "2001-03-21",
+   "what": "Amendment",
+   "file": "20011059374"
+  },
+  {
+   "date": "2002-12-13",
+   "filed": "2002-12-13",
+   "what": "Amendment",
+   "file": "20021346557"
+  },
+  {
+   "date": "2005-01-31",
+   "filed": "2005-01-31",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20051045879"
+  },
+  {
+   "date": "2005-03-28",
+   "filed": "2005-03-28",
+   "what": "Register a Trademark",
+   "file": "20051131129"
+  },
+  {
+   "date": "2005-10-12",
+   "filed": "2005-10-12",
+   "what": "Register a Trademark",
+   "file": "20051379310"
+  },
+  {
+   "date": "2006-07-03",
+   "filed": "2006-07-03",
+   "what": "Register a Trademark",
+   "file": "20061271537"
+  },
+  {
+   "date": "2006-07-03",
+   "filed": "2006-07-03",
+   "what": "Register a Trademark",
+   "file": "20061271538"
+  },
+  {
+   "date": "2023-02-22",
+   "filed": "2023-02-22",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20231191840"
+  },
+  {
+   "date": "2026-04-22",
+   "filed": "2026-04-22",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20261477530"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19871174575",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

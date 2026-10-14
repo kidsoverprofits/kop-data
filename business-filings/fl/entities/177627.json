@@ -1,0 +1,52 @@
+{
+ "state": "FL",
+ "doc": "177627",
+ "name": "Life Corporation",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1954-03-04",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "C/o Jerome Fine, 350 Lincoln Ave, Miami Beach Fl",
+ "city": "Miami Beach Fl",
+ "last_activity": "1958-04-25",
+ "reports": [],
+ "agent": {
+  "name": "Fine, Jerome",
+  "kind": "company",
+  "title": "",
+  "address": "350 Lincoln Ave, Miami Beach Fl"
+ },
+ "officers": [
+  {
+   "name": "Fine, Jerome",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "350 Lincoln Ave, Miami Beach Fl"
+  },
+  {
+   "name": "Ferejohn, Helene",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "350 Lincoln Ave, Miami Beach Fl"
+  },
+  {
+   "name": "Stuppy, Clare",
+   "kind": "company",
+   "title": "Secretary, Treasurer, Director",
+   "address": "350 Lincoln Ave, Miami Beach Fl"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1958-04-25",
+   "filed": "1958-04-25",
+   "what": "Dissolved by        proclamation"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=177627",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

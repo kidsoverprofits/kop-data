@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "L15000192001",
+ "name": "Seed LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2015-11-12",
+ "origin": "FL",
+ "fei": "",
+ "address": "20 Driftwood Drive, Key West, FL, 33040",
+ "city": "Key West",
+ "last_activity": "2018-02-12",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-03-01"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-03-01"
+  },
+  {
+   "year": 2016,
+   "filed": "2016-04-11"
+  }
+ ],
+ "agent": {
+  "name": "Gregory S Oropeza",
+  "kind": "person",
+  "title": "",
+  "place": "Key West, FL"
+ },
+ "officers": [
+  {
+   "name": "Complete Credit Systems, LLC",
+   "kind": "company",
+   "title": "Manager",
+   "address": "20 Driftwood Drive, Key West, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-02-12",
+   "filed": "2018-02-12",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L15000192001",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

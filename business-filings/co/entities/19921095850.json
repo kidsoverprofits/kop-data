@@ -1,0 +1,104 @@
+{
+ "state": "CO",
+ "doc": "19921095850",
+ "name": "The Brown Schools of Colorado, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "status_label": "Revoked",
+ "filed": "",
+ "origin": "DE",
+ "fei": "",
+ "address": "1407 West Stassney Lane, Austin, TX, 78745",
+ "city": "Austin",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2004,
+   "filed": ""
+  },
+  {
+   "year": 2002,
+   "filed": ""
+  },
+  {
+   "year": 2000,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "The Corporation Company",
+  "kind": "company",
+  "title": "",
+  "address": "7700 E Arapahoe Rd Ste 220, Centennial, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1992-10-02",
+   "filed": "1992-10-02",
+   "what": "Application for Authority",
+   "file": "19921095850"
+  },
+  {
+   "date": "1993-09-01",
+   "filed": "1993-09-01",
+   "what": "Amendment",
+   "file": "19931099267"
+  },
+  {
+   "date": "1998-12-18",
+   "filed": "1998-12-18",
+   "what": "Amendment",
+   "file": "19981224963"
+  },
+  {
+   "date": "2003-06-02",
+   "filed": "2003-06-02",
+   "what": "Entity Name Change",
+   "file": "20031176102",
+   "name": "Cedar Springs Hospital, Inc."
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "The Brown Schools at Cedar Springs , Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1998-12-18",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19981224963"
+  },
+  {
+   "name": "Cedar Springs Behavioral Health System, Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1996-10-16",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19961134860"
+  },
+  {
+   "name": "Cedar Springs, A Psychiatric Hospital, Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1993-03-10",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19931025674"
+  },
+  {
+   "name": "Mountainview Place, Inc.",
+   "county": "",
+   "status": "active",
+   "filed": "1993-03-10",
+   "expires": "",
+   "cancelled": "",
+   "doc": "19931025675"
+  }
+ ],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19921095850",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

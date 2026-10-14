@@ -1,0 +1,54 @@
+{
+ "state": "CO",
+ "doc": "20031206139",
+ "name": "Rite of Passage, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "NV",
+ "fei": "",
+ "address": "2560 Business Pkwy Ste A, Minden, NV, 89423",
+ "city": "Minden",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Rite of Passage, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "1500 N Grant St, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2003-06-25",
+   "filed": "2003-06-25",
+   "what": "Application for Authority",
+   "file": "20031206139"
+  },
+  {
+   "date": "2004-03-25",
+   "filed": "2004-03-25",
+   "what": "Amendment",
+   "file": "20041110451"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20031206139",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

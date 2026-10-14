@@ -1,0 +1,51 @@
+{
+ "state": "CO",
+ "doc": "20171850438",
+ "name": "Three Strands, Ltd",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "17905 Cr 16, Oak Creek, CO, 80467",
+ "city": "Oak Creek",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2019,
+   "filed": ""
+  },
+  {
+   "year": 2018,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Christopher Hans Aschinger Jr.",
+  "kind": "person",
+  "title": "",
+  "place": "Fort Collins, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-01-01",
+   "filed": "2017-11-14",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20171850438",
+   "name": "Three Strands"
+  },
+  {
+   "date": "2018-11-16",
+   "filed": "2018-11-16",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20181895659"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20171850438",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

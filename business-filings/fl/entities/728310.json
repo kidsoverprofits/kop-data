@@ -1,0 +1,75 @@
+{
+ "state": "FL",
+ "doc": "728310",
+ "name": "L.i.f.e., Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1974-01-22",
+ "origin": "FL",
+ "fei": "237404890",
+ "address": "117 Robinwood Dr. SW, Fort Walton Beach, FL, 32548",
+ "city": "Fort Walton Beach",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-24"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-24"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-03"
+  }
+ ],
+ "agent": {
+  "name": "Anchors, C. Ledon",
+  "kind": "company",
+  "title": "",
+  "address": "909 Mar Walt Drive, Suite #1014, Fort Walton Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "Robert Brady",
+   "kind": "person",
+   "title": "President",
+   "place": "Ft. Walton Bch, FL"
+  },
+  {
+   "name": "Janie Garcia-rios",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Val Pariso, FL"
+  },
+  {
+   "name": "Pia Elsesser",
+   "kind": "person",
+   "title": "Director",
+   "place": "Niceville, FL"
+  },
+  {
+   "name": "Coleen Miller",
+   "kind": "person",
+   "title": "Director",
+   "place": "Niceville, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [
+  {
+   "name": "Fort Walton Beach Center for Women",
+   "county": "Okaloosa",
+   "status": "active",
+   "filed": "2021-10-26",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G21000143570"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=728310",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

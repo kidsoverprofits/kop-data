@@ -1,0 +1,74 @@
+{
+ "state": "CO",
+ "doc": "19871530656",
+ "name": "Adolescent and Family Institute of Colorado, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "10001 W 32nd Ave, Wheat Ridge, CO, 80033",
+ "city": "Wheat Ridge",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2012,
+   "filed": ""
+  },
+  {
+   "year": 2011,
+   "filed": ""
+  },
+  {
+   "year": 2010,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Alex M. Panio Jr.",
+  "kind": "person",
+  "title": "",
+  "place": "Wheat Ridge, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1983-07-18",
+   "filed": "1983-07-18",
+   "what": "Articles of Incorporation",
+   "file": "19871530656",
+   "name": "Personal Development Center - Adolescents,"
+  },
+  {
+   "date": "1985-06-03",
+   "filed": "1985-06-03",
+   "what": "Amendment",
+   "file": "19871623951"
+  },
+  {
+   "date": "1985-07-25",
+   "filed": "1985-07-25",
+   "what": "Entity Name Change",
+   "file": "19871630773",
+   "name": "Adolescent and Family Institute of Colorado, Inc."
+  },
+  {
+   "date": "1991-01-15",
+   "filed": "1991-01-15",
+   "what": "Reinstatement",
+   "file": "19911002714"
+  },
+  {
+   "date": "1991-01-15",
+   "filed": "1991-01-15",
+   "what": "Amendment",
+   "file": "19911002715"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19871530656",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

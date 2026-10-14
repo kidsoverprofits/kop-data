@@ -1,0 +1,70 @@
+{
+ "state": "FL",
+ "doc": "N11000006733",
+ "name": "Life Ownership Program Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2011-07-15",
+ "origin": "FL",
+ "fei": "452768174",
+ "address": "1512 Wingfield St, Lake Worth, FL, 33460",
+ "city": "Lake Worth",
+ "last_activity": "2020-07-14",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-25"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-25"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-05"
+  }
+ ],
+ "agent": {
+  "name": "Patrick A Livingston",
+  "kind": "person",
+  "title": "",
+  "place": "Wellinton, FL"
+ },
+ "officers": [
+  {
+   "name": "Patrick Amr. Livingston",
+   "kind": "person",
+   "title": "President",
+   "place": "Wellington, FL"
+  },
+  {
+   "name": "Ricardo Ruiz",
+   "kind": "person",
+   "title": "Director",
+   "place": "Kileen, TX"
+  },
+  {
+   "name": "Ashton Mmr. Irons",
+   "kind": "person",
+   "title": "Director",
+   "place": "Wellington, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2013-09-27",
+   "filed": "2013-09-27",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2020-07-14",
+   "filed": "2020-07-14",
+   "what": "Reinstatement"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N11000006733",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

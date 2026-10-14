@@ -1,0 +1,59 @@
+{
+ "state": "FL",
+ "doc": "F16000004065",
+ "name": "Rite of Passage, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "active",
+ "filed": "2016-09-12",
+ "origin": "NV",
+ "fei": "880235002",
+ "address": "2560 Business Pkwy, Ste A, Minden, NV, 89423",
+ "city": "Minden",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-05"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-05"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-07"
+  }
+ ],
+ "agent": {
+  "name": "Incorp Services, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "3458 Lakeshore Drive, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Ski J Broman",
+   "kind": "person",
+   "title": "President",
+   "place": "Minden, NV"
+  },
+  {
+   "name": "Lawrence W Howell",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Minden, NV"
+  },
+  {
+   "name": "Carolyn Jenkins-bower",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Minden, NV"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F16000004065",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

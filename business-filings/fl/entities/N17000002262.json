@@ -1,0 +1,97 @@
+{
+ "state": "FL",
+ "doc": "N17000002262",
+ "name": "Honey Lake Clinic Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2017-03-01",
+ "origin": "FL",
+ "fei": "820770125",
+ "address": "1450 Nw Honey Lake Road, Greenville, FL, 32331",
+ "city": "Greenville",
+ "last_activity": "2023-09-01",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-30"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-30"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-11"
+  }
+ ],
+ "agent": {
+  "name": "Lisa Stewart",
+  "kind": "person",
+  "title": "",
+  "place": "Greenville, FL"
+ },
+ "officers": [
+  {
+   "name": "Angela Cannon",
+   "kind": "person",
+   "title": "Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Dale Berkey",
+   "kind": "person",
+   "title": "Director",
+   "place": "Greenville, FL"
+  },
+  {
+   "name": "Roy Moore",
+   "kind": "person",
+   "title": "Director",
+   "place": "Greenville, FL"
+  },
+  {
+   "name": "Lisa Stewart",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Greenville, FL"
+  },
+  {
+   "name": "Devan Schanding",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "St. Augustine, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-07-10",
+   "filed": "2017-07-10",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2017-12-20",
+   "filed": "2017-12-20",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2022-08-31",
+   "filed": "2022-08-31",
+   "what": "Amendment"
+  },
+  {
+   "date": "2023-09-01",
+   "filed": "2023-09-01",
+   "what": "Amendment"
+  },
+  {
+   "date": "2023-09-01",
+   "filed": "2023-09-01",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N17000002262",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

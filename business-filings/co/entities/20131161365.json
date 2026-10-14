@@ -1,0 +1,73 @@
+{
+ "state": "CO",
+ "doc": "20131161365",
+ "name": "Three Points Center, LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "1500 E 2700 S, Hurricane, UT, 84737",
+ "city": "Hurricane",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2021,
+   "filed": ""
+  },
+  {
+   "year": 2020,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Colby Dalley",
+  "kind": "person",
+  "title": "",
+  "place": "Lone Tree, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2013-03-11",
+   "filed": "2013-03-11",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20131161365",
+   "name": "Three Point Center, LLC"
+  },
+  {
+   "date": "2013-03-18",
+   "filed": "2013-03-18",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20131170057"
+  },
+  {
+   "date": "2013-06-05",
+   "filed": "2013-06-05",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20131337615"
+  },
+  {
+   "date": "2023-06-05",
+   "filed": "2023-06-05",
+   "what": "Dissolve a Limited Liability Company",
+   "file": "20231607873"
+  },
+  {
+   "date": "2023-09-21",
+   "filed": "2023-09-21",
+   "what": "Articles of Reinstatement",
+   "file": "20231967885"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20131161365",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

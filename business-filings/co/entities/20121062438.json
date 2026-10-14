@@ -1,0 +1,55 @@
+{
+ "state": "CO",
+ "doc": "20121062438",
+ "name": "TrueCore Behavioral Solutions, LLC",
+ "type": "FLLC",
+ "type_label": "Foreign limited liability company",
+ "status": "inactive",
+ "status_label": "Withdrawn",
+ "filed": "",
+ "origin": "VA",
+ "fei": "",
+ "address": "1907 N US Highway 301, Suite 150, Tampa, FL, 33619",
+ "city": "Tampa",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1900 W Littleton Blvd, Littleton, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-01-27",
+   "filed": "2012-01-27",
+   "what": "Apply for Foreign Entity Authority To transact business in Colorado",
+   "file": "20121062438",
+   "name": "G4S Youth Services, LLC"
+  },
+  {
+   "date": "2026-08-25",
+   "filed": "2026-08-25",
+   "what": "Withdraw Foreign Entity Authority",
+   "file": "20268071128"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20121062438",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

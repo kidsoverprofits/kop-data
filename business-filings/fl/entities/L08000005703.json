@@ -1,0 +1,88 @@
+{
+ "state": "FL",
+ "doc": "L08000005703",
+ "name": "Inspirations for Youth and Families, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2008-01-16",
+ "origin": "FL",
+ "fei": "352321783",
+ "address": "24 Sw 10th Street, Fort Lauderdale, FL, 33315",
+ "city": "Fort Lauderdale",
+ "last_activity": "2019-09-27",
+ "reports": [
+  {
+   "year": 2018,
+   "filed": "2018-02-12"
+  },
+  {
+   "year": 2018,
+   "filed": "2018-02-12"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-04-20"
+  }
+ ],
+ "agent": {
+  "name": "David J Schottenfeld",
+  "kind": "person",
+  "title": "",
+  "place": "Plantation, FL"
+ },
+ "officers": [
+  {
+   "name": "Christopher Walsh",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Fort Lauderdale, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2008-04-23",
+   "filed": "2008-04-23",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2008-06-20",
+   "filed": "2008-06-20",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2012-11-13",
+   "filed": "2012-11-13",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2014-03-26",
+   "filed": "2014-03-26",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2014-09-12",
+   "filed": "2014-09-12",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2015-09-14",
+   "filed": "2015-09-14",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2016-12-13",
+   "filed": "2016-12-13",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2019-09-27",
+   "filed": "2019-09-27",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L08000005703",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

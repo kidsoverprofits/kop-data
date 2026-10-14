@@ -1,0 +1,66 @@
+{
+ "state": "FL",
+ "doc": "P23000010192",
+ "name": "Dr. Miriam Dickson, P.A.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "active",
+ "filed": "2023-02-01",
+ "origin": "FL",
+ "fei": "932069279",
+ "address": "601 Park Lake Dr, Pontevedra, FL, 32081",
+ "city": "Pontevedra",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-30"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-30"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-29"
+  }
+ ],
+ "agent": {
+  "name": "Jacobo & Associates Inc",
+  "kind": "company",
+  "title": "",
+  "address": "701 Promenade Drive, Pembroke Pines, FL"
+ },
+ "officers": [
+  {
+   "name": "Miriam A Dickson",
+   "kind": "person",
+   "title": "President",
+   "place": "Jacksonville, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [
+  {
+   "name": "Growing Together",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2026-05-04",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G26000064974"
+  },
+  {
+   "name": "Balanced Mind",
+   "county": "Duval",
+   "status": "active",
+   "filed": "2023-06-26",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000076562"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P23000010192",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,33 @@
+{
+ "state": "FL",
+ "doc": "576633",
+ "name": "The Meridian Corporation",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1978-06-22",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "Howard Johnson's Motor Lodge, U.s. Highway No. 1, Key Largo, FL, 33037",
+ "city": "Key Largo",
+ "last_activity": "1979-12-05",
+ "reports": [],
+ "agent": {
+  "name": "Dancu, David A.",
+  "kind": "company",
+  "title": "",
+  "address": "3101 N. Federal Hwy, Ft. Lauderdale, FL"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1979-12-05",
+   "filed": "1979-12-05",
+   "what": "Involuntarily       dissolved"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=576633",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

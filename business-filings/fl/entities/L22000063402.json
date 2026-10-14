@@ -1,0 +1,71 @@
+{
+ "state": "FL",
+ "doc": "L22000063402",
+ "name": "Growing Together LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2022-02-16",
+ "origin": "FL",
+ "fei": "611981462",
+ "address": "7950 Nw 53rd St Ste 337, Miami, FL, 33166",
+ "city": "Miami",
+ "last_activity": "2022-09-06",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-13"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-13"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-12"
+  }
+ ],
+ "agent": {
+  "name": "Incorporating Services, Ltd",
+  "kind": "company",
+  "title": "",
+  "address": "1540 Glenway Dr, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Martin Calzetti",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Argentina, OC"
+  },
+  {
+   "name": "Ignacio Basso",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2022-02-16",
+   "filed": "2022-02-16",
+   "what": "Conversion",
+   "other_doc": "700000223597",
+   "notes": "CORPORATION WAS A CONVERSION RESULT.  CONVERTING CORPORATION WAS"
+  },
+  {
+   "date": "2022-02-22",
+   "filed": "2022-02-22",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2022-09-06",
+   "filed": "2022-09-06",
+   "what": "Lc amendment"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L22000063402",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

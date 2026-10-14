@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "153058",
+ "name": "Meridian Corporation",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1947-11-13",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "1827 Purdy Ave., Miami Bch., FL",
+ "city": "Miami Bch.",
+ "last_activity": "1957-05-16",
+ "reports": [],
+ "agent": null,
+ "officers": [
+  {
+   "name": "Freeman, A.",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "1827 Purdy Ave., Miami Bch., FL"
+  },
+  {
+   "name": "Cohen, J.",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "1827 Purdy Ave., Miami Bch., FL"
+  },
+  {
+   "name": "Cohen, F.",
+   "kind": "company",
+   "title": "Treasurer, Director",
+   "address": "1827 Purdy Ave., Miami Bch., FL"
+  },
+  {
+   "name": "Arkin, J.",
+   "kind": "company",
+   "title": "Secretary, Director",
+   "address": "1827 Purdy Ave., Miami Bch., FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1957-05-16",
+   "filed": "1957-05-16",
+   "what": "Dissolved by        proclamation"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=153058",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,4723 @@
+{
+ "built": "2026-10-14",
+ "state": "FL",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files",
+ "entities": [
+  {
+   "doc": "N98000002428",
+   "name": "Advocates of Bay County Boot Camp, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1998-04-28",
+   "city": "Panama City",
+   "fei": "593517117",
+   "officers": [
+    "Ken Shaffer (President, Director)",
+    "Ken Shaffer (Treasurer, Director)",
+    "Genie Caruthers (Secretary, Treasurer, Director)",
+    "Hattie Burch (Director)",
+    "John Ammons (Director)",
+    "Joel Booth (Director)"
+   ],
+   "agent": "Michael B Duncan",
+   "trade_names": 0,
+   "last_report": 2005,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11140,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Bay County Sheriff’s Boot Camp",
+     "place": "Panama City, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N24000009596",
+   "name": "Amikids Bartow, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2024-08-09",
+   "city": "Bartow",
+   "fei": "",
+   "officers": [
+    "Rosemary Brackman (Secretary)",
+    "Michael A Thornton (President)",
+    "Maria Porto-duarte (Treasurer)"
+   ],
+   "agent": "Smith, Hulsey & Busey",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11135,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "AMIkids Polk Inc.",
+     "place": "Bartow, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N42179",
+   "name": "Amikids Pensacola, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1991-02-21",
+   "city": "Pensacola",
+   "fei": "593051944",
+   "officers": [
+    "Jesse W Rigby (Treasurer)",
+    "Michael A Thornton (Director)",
+    "Ryan P Hatler (Director)",
+    "Laura J Branch (Director)",
+    "Meredith D Bush (Chairman)",
+    "Tracie W Moorer (Director)"
+   ],
+   "agent": "David J Hull",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11170,
+     "how": "a trade name it registered",
+     "trade_name": "ESCAMBIA BOYS BASE",
+     "name": "Escambia Boys Base",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "724685",
+   "name": "Amikids Pinellas, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1972-10-31",
+   "city": "Clearwater",
+   "fei": "237228523",
+   "officers": [
+    "Gregory Porter (Director)",
+    "Michael A Thornton (Director)",
+    "Mark P Lettelleir (Director)",
+    "Jeffrey F Burzinski (Chairman)",
+    "Wanda Walker (Executive Director)",
+    "Nancy Loehr (Director)"
+   ],
+   "agent": "David J Hull",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Clearwater; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11134,
+     "how": "its name",
+     "trade_name": "",
+     "name": "AMIkids Pinellas",
+     "place": "St. Petersburg, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N24000009489",
+   "name": "Amikids Polk County Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2024-08-08",
+   "city": "Bartow",
+   "fei": "",
+   "officers": [
+    "Rosemary Brackman (Secretary)",
+    "Maria Porto-duarte (Treasurer)",
+    "Michael Thorton (President)"
+   ],
+   "agent": "Smith, Hulsey & Busey",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11135,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "AMIkids Polk Inc.",
+     "place": "Bartow, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N24000009407",
+   "name": "Amikids Polk, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2024-08-06",
+   "city": "Bartow",
+   "fei": "994408620",
+   "officers": [
+    "Rosemary Brackman (Secretary)",
+    "Maria Porto-duarte (Treasurer)",
+    "Michael A Thornton (President)"
+   ],
+   "agent": "Smith, Hulsey & Busey, LLC",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11135,
+     "how": "its name",
+     "trade_name": "",
+     "name": "AMIkids Polk Inc.",
+     "place": "Bartow, FL",
+     "status": "Open",
+     "same_town": true
+    },
+    {
+     "kind": "facility",
+     "id": 11170,
+     "how": "a trade name it registered",
+     "trade_name": "ESCAMBIA BOYS BASE",
+     "name": "Escambia Boys Base",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N93000004447",
+   "name": "Amikids Polk, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1993-10-01",
+   "city": "Tampa",
+   "fei": "593208084",
+   "officers": [
+    "O.b. Stander (Director)",
+    "Claire Twomey (Secretary, Director)",
+    "Michael Riskin (Treasurer, Director)",
+    "Mark Codd (Chairman)",
+    "Craig Hill (Vice President, Chairman)"
+   ],
+   "agent": "David J Hull",
+   "trade_names": 0,
+   "last_report": 2015,
+   "match": "check",
+   "flags": [
+    "Florida has it in Tampa; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11135,
+     "how": "its name",
+     "trade_name": "",
+     "name": "AMIkids Polk Inc.",
+     "place": "Bartow, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "H19282",
+   "name": "Anderson Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1984-09-04",
+   "city": "Lutz",
+   "fei": "000000000",
+   "officers": [
+    "Anderson, Alvin H. (Director)",
+    "Anderson, Kathryn P. (Director)"
+   ],
+   "agent": "Anderson, Alvin H.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Florida has it in Lutz; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11101,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Anderson Academy",
+     "place": "Vero Beach, FL",
+     "status": "Unknown",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11102,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Treasure Coast Boys Academy",
+     "place": "Vero Beach, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L23000554435",
+   "name": "Anderson Academy, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2023-12-18",
+   "city": "Port Charlotte",
+   "fei": "990580719",
+   "officers": [
+    "Karalee Anderson (Manager)"
+   ],
+   "agent": "Karalee Anderson",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Florida has it in Port Charlotte; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11101,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Anderson Academy",
+     "place": "Vero Beach, FL",
+     "status": "Unknown",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11102,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Treasure Coast Boys Academy",
+     "place": "Vero Beach, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P05000131909",
+   "name": "Back to Basics Military Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2005-09-26",
+   "city": "Plantation",
+   "fei": "342053540",
+   "officers": [
+    "Reginald L Browne (Director)",
+    "Lynda J Browne (Director)"
+   ],
+   "agent": "Edwin L Crammer",
+   "trade_names": 0,
+   "last_report": 2008,
+   "match": "check",
+   "flags": [
+    "Florida has it in Plantation; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11139,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Back to Basics Military Academy",
+     "place": "Hallandale, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N92000000991",
+   "name": "Bay Point Schools, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1992-12-29",
+   "city": "Palmetto Bay",
+   "fei": "650388436",
+   "officers": [
+    "Joseph P Klock, Jr. (Chairman, Secretary)",
+    "Mary Louise Cole-wood (President, Director)",
+    "Donald E Chaney (Director)"
+   ],
+   "agent": "Mary Louise Cole-wood",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "check",
+   "flags": [
+    "Florida has it in Palmetto Bay; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11141,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Bay Point Schools",
+     "place": "Miami, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N93000005804",
+   "name": "Bay Point Schools, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1993-12-30",
+   "city": "Miami",
+   "fei": "650457078",
+   "officers": [
+    "Mary L Cole (Director, President)",
+    "Jim Perez (Director)",
+    "Lloyd Van Bylevelt (Director)"
+   ],
+   "agent": "Mary Louise P Cole",
+   "trade_names": 0,
+   "last_report": 2001,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11141,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Bay Point Schools",
+     "place": "Miami, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "P17000013194",
+   "name": "Braveheart Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2017-02-08",
+   "city": "Morriston",
+   "fei": "815299136",
+   "officers": [
+    "Richard Byars (President)"
+   ],
+   "agent": "Richard Byars",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Morriston; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11238,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Braveheart Academy",
+     "place": "FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L07000015129",
+   "name": "Brighter Heights Florida LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2007-02-07",
+   "city": "Prescott Valley",
+   "fei": "900341538",
+   "officers": [
+    "Tom Kenny (Manager)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Prescott Valley; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11143,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Brighter Heights Florida",
+     "place": "Port Saint Lucie, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "848421",
+   "name": "Camelot Care Center, Inc.",
+   "type_label": "Foreign nonprofit corporation",
+   "status": "inactive",
+   "filed": "1981-03-05",
+   "city": "Palatine",
+   "fei": "362935664",
+   "officers": [
+    "Spray, Paul, M.d. (President, Director)",
+    "Weiskoph, William (Vice President, Director)",
+    "Wolfson, Karen (Secretary, Director)",
+    "Rosberg, Marjorie (Treasurer, Director)",
+    "Wolfson, Donald (Director)",
+    "Reed, Daphne (Director)"
+   ],
+   "agent": "Rhoades, John A., Jr.",
+   "trade_names": 0,
+   "last_report": 1986,
+   "match": "check",
+   "flags": [
+    "Florida has it in Palatine; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11146,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Camelot Care Center",
+     "place": "Seminole, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L25000315217",
+   "name": "Canopy Pines Recovery, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2025-07-16",
+   "city": "Tallahassee",
+   "fei": "413082082",
+   "officers": [
+    "Restore Mental Health, LLC (Authorized Member)"
+   ],
+   "agent": "Louis M Joos",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11210,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Refresh Canopy Cove Eating Disorder Treatment Center",
+     "place": "Tallahassee, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "753554",
+   "name": "Carlton Manor, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1980-07-30",
+   "city": "St Petersburg",
+   "fei": "592058176",
+   "officers": [
+    "Elizabeth Walker (Board Member)",
+    "Tonya Ruble-Richter (President)"
+   ],
+   "agent": "Tonya Ruble-richter",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11151,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Carlton Manor",
+     "place": "St. Petersburg, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "J35585",
+   "name": "Carlton Palms Educational Center, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1986-09-30",
+   "city": "Mount Dora",
+   "fei": "592741162",
+   "officers": [
+    "Michael Martin (Chief Executive Officer)",
+    "Kyle Bailey (Chief Financial Officer)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 2019,
+   "match": "check",
+   "flags": [
+    "Florida has it in Mount Dora; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11152,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Carlton Palms Educational Center",
+     "place": "Mt Dora, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N49767",
+   "name": "Charity Haven Christian Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1992-07-08",
+   "city": "Satellite Beach",
+   "fei": "593157637",
+   "officers": [
+    "Austin Bryant (President)"
+   ],
+   "agent": "Austin Bryant",
+   "trade_names": 0,
+   "last_report": 2020,
+   "match": "check",
+   "flags": [
+    "Florida has it in Satellite Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11156,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Charity Haven Christian Academy",
+     "place": "Milton, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M97000000305",
+   "name": "Charter Behavioral Health Systems, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "1997-05-29",
+   "city": "Atlanta",
+   "fei": "582295093",
+   "officers": [
+    "Magellan Executive Corporation (Managing Member)",
+    "Charter Behavioral Health Systems, Inc. (Managing Member)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 1999,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500010,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Charter Behavioral Health Systems",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L04000082584",
+   "name": "Columbus Youth Services, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2004-11-15",
+   "city": "Tampa",
+   "fei": "201860473",
+   "officers": [
+    "Sunshine Youth Services, Inc.c. (Managing Member)"
+   ],
+   "agent": "Buchanan Ingersoll Attorneys",
+   "trade_names": 0,
+   "last_report": 2008,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11093,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Columbus Youth Academy",
+     "place": "Tampa, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "F94000005740",
+   "name": "Correctional Services Corporation",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "1994-11-04",
+   "city": "Boca Raton",
+   "fei": "113182580",
+   "officers": [
+    "George C Zoley (Director, President)",
+    "John M Hurley (Vice President)",
+    "John J Bulfin (Director, Vice President, Secretary)",
+    "Brian R Evans (Vice President, Treasurer)",
+    "Maier Marcel (Vice President)",
+    "Shayn C March (Vice President)"
+   ],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2012,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 31,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Correctional Services Corporation",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M13000000165",
+   "name": "Correctional Services, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "2013-01-08",
+   "city": "Boca Raton",
+   "fei": "113182580",
+   "officers": [
+    "George C Zoley (Manager)",
+    "Scott Schipma (Manager)"
+   ],
+   "agent": "Corporate Creations Network, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 31,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Correctional Services Corporation",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L25000531393",
+   "name": "Cypress Creek Treatment Center LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2025-11-24",
+   "city": "Pompano Beach",
+   "fei": "412973825",
+   "officers": [
+    "Ritvik Raturi (Manager)",
+    "David Martin (Manager)"
+   ],
+   "agent": "Ritvik Esq. Raturi",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Pompano Beach; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11157,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Cypress Creek Treatment Center",
+     "place": "Lecanto, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N11000006581",
+   "name": "Dade City Church of God Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2011-07-12",
+   "city": "Dade City",
+   "fei": "592226443",
+   "officers": [
+    "Mark J Frier (Pastor)",
+    "Kimberly Frier (Secretary)",
+    "Dustin Atkins (Treasurer)"
+   ],
+   "agent": "Mark J Frier",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "a trade name it registered",
+     "trade_name": "LIGHTHOUSE CHRISTIAN ACADEMY",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P23000010192",
+   "name": "Dr. Miriam Dickson, P.A.",
+   "type_label": "Florida profit corporation",
+   "status": "active",
+   "filed": "2023-02-01",
+   "city": "Pontevedra",
+   "fei": "932069279",
+   "officers": [
+    "Miriam A Dickson (President)"
+   ],
+   "agent": "Jacobo & Associates Inc",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100447,
+     "how": "a trade name it registered",
+     "trade_name": "GROWING TOGETHER",
+     "name": "Growing Together",
+     "place": "Lake Worth, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P94000029079",
+   "name": "Duval Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1994-04-15",
+   "city": "Deerfield Beach",
+   "fei": "650484183",
+   "officers": [
+    "Rena Smith (President)"
+   ],
+   "agent": "Ren'a L Smith",
+   "trade_names": 0,
+   "last_report": 2002,
+   "match": "check",
+   "flags": [
+    "Florida has it in Deerfield Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11094,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Duval Academy",
+     "place": "Jacksonville, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L21000275413",
+   "name": "Eagle Academy LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2021-06-14",
+   "city": "Jacksonville",
+   "fei": "",
+   "officers": [
+    "Tresonda L Thompson (Authorized Person)"
+   ],
+   "agent": "Tresonda L Thompson",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Jacksonville; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100091,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eagle Academy",
+     "place": "Belle Glade, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P95000080580",
+   "name": "Eagle Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1995-10-20",
+   "city": "Clearwater",
+   "fei": "",
+   "officers": [
+    "J T Doerner (President, Treasurer, Director)",
+    "Joseph Schneeweis (Vice President, Director)"
+   ],
+   "agent": "J T Doerner",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Clearwater; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100091,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eagle Academy",
+     "place": "Belle Glade, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L03000026316",
+   "name": "Eagle Academy, Llc.",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2003-07-16",
+   "city": "Treasure Island",
+   "fei": "200103077",
+   "officers": [
+    "Robert Rheintgen (Managing Member)"
+   ],
+   "agent": "Dreslin Financial Services, Inc.",
+   "trade_names": 0,
+   "last_report": 2004,
+   "match": "check",
+   "flags": [
+    "Florida has it in Treasure Island; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100091,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eagle Academy",
+     "place": "Belle Glade, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N08742",
+   "name": "Eckerd Youth Alternatives, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1985-04-16",
+   "city": "Clearwater",
+   "fei": "592551416",
+   "officers": [
+    "Michael Smith (President)",
+    "Michael Goodwin (Director)",
+    "David Bennett (Director)",
+    "Joseph W. Clark (Director)",
+    "Laura Hunt (Secretary)",
+    "Laura Hunt (Secretary)"
+   ],
+   "agent": "Cogency Global Inc.",
+   "trade_names": 3,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 9,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eckerd Connects",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "711032",
+   "name": "Edgewood Children's Ranch, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1966-06-14",
+   "city": "Orlando",
+   "fei": "591150182",
+   "officers": [
+    "Chad Barr (Chairman)",
+    "Mark Hess (Vice President, Chairman)",
+    "Scott Fosgate Sr. (Treasurer)"
+   ],
+   "agent": "Jeff Fitzgerald",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11169,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Edgewood Children’s Ranch",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N26000007166",
+   "name": "Edgewood Ranch Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2026-05-20",
+   "city": "Orlando",
+   "fei": "",
+   "officers": [
+    "Chad Barr (President, Director)",
+    "Jeff Wieland (Secretary, Director)",
+    "Julie Kleffel (Treasurer, Director)",
+    "Tom Eastwood (Director)"
+   ],
+   "agent": "Jeff Fitzgerald",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11169,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Edgewood Children’s Ranch",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N44258",
+   "name": "Edgewood Ranch Endowment, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1991-07-08",
+   "city": "Orlando",
+   "fei": "593080606",
+   "officers": [
+    "James S Crenshaw (Chairman)",
+    "Mike Kelsey (Vice President, Chairman)",
+    "Mark Thompson (Treasurer)",
+    "Charlie Cramer (Director)",
+    "Julie Kleffel (Director)"
+   ],
+   "agent": "James S Crenshaw",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11169,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Edgewood Children’s Ranch",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L14000077307",
+   "name": "Family First Adolescent Services LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2014-05-13",
+   "city": "Palm Beach Gardens",
+   "fei": "471015178",
+   "officers": [
+    "John E. \"buddy\" Turner (Chief Executive Officer)",
+    "Brentcare Behavioral Health LLC (Authorized Member)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11172,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Family First Adolescent Services",
+     "place": "Palm Beach Gardens, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "P39628",
+   "name": "Florida Institute for Neurologic Rehabilitation, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "1992-07-14",
+   "city": "Myakka City",
+   "fei": "650338754",
+   "officers": [
+    "Joseph Brennick (President)"
+   ],
+   "agent": "Brennick Joseph",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Florida has it in Myakka City; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100408,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Florida Institute for Neurologic Rehabilitation Inc.",
+     "place": "Wauchula, FL",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P13000030365",
+   "name": "Florida Palms Academy, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "active",
+   "filed": "2013-04-02",
+   "city": "Delray Beach",
+   "fei": "462449539",
+   "officers": [
+    "David L Ferguson (President)",
+    "Ronald D Simon (Secretary)",
+    "Ariel D Simon (Comptroller)"
+   ],
+   "agent": "Ronald D Simon",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Delray Beach; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11173,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Florida Palms Academy",
+     "place": "Hollywood, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "704268",
+   "name": "Florida United Methodist Children's Home, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1908-06-03",
+   "city": "Enterprise",
+   "fei": "590638479",
+   "officers": [
+    "Kitwana McTyer (President)",
+    "Benjamin Stilwell-Hernandez (Treasurer)",
+    "Debbie Mcleod (Secretary)",
+    "Rachel Delaune (Chairman)"
+   ],
+   "agent": "Kitwana McTyer",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11176,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Florida United Methodist Children’s Home",
+     "place": "Enterprise, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N96000005397",
+   "name": "Gator Wilderness Camp School, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1996-10-21",
+   "city": "Punta Gorda",
+   "fei": "650704638",
+   "officers": [
+    "Jeff Miller (Chairman)",
+    "Ray Briggs (Vice President, Chairman)",
+    "Steven Schlabach (Treasurer)",
+    "Gregory A Kanagy (Director)",
+    "Peter Magnuson (Secretary)"
+   ],
+   "agent": "Sheri Emery",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11177,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Gator Wilderness Camp School",
+     "place": "Punta Gorda, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "P15000091363",
+   "name": "Global Medical and Behavioral Health Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2015-11-06",
+   "city": "Orlando",
+   "fei": "475517852",
+   "officers": [
+    "Jeffery Haynes (President)"
+   ],
+   "agent": "Jeffery Haynes",
+   "trade_names": 0,
+   "last_report": 2022,
+   "match": "check",
+   "flags": [
+    "Florida has it in Orlando; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11178,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Global Medical and Behavioral Health",
+     "place": "Avon Park, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L22000063402",
+   "name": "Growing Together LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2022-02-16",
+   "city": "Miami",
+   "fei": "611981462",
+   "officers": [
+    "Martin Calzetti (Manager)",
+    "Ignacio Basso (Manager)"
+   ],
+   "agent": "Incorporating Services, Ltd",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100447,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Growing Together",
+     "place": "Lake Worth, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "444510",
+   "name": "Growing Together, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1974-01-21",
+   "city": "No. Miami Beach",
+   "fei": "591548755",
+   "officers": [
+    "Altman, Dennis (President, Director)",
+    "Mcnamara, Stephen (Vice President, Director)",
+    "Mcnamara, Sheryl (Secretary)",
+    "Altman, Susan (Treasurer)"
+   ],
+   "agent": "Altman, Stuart H.",
+   "trade_names": 0,
+   "last_report": 1975,
+   "match": "check",
+   "flags": [
+    "Florida has it in No. Miami Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100447,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Growing Together",
+     "place": "Lake Worth, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N20000001483",
+   "name": "Growing Together, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2020-02-12",
+   "city": "Holmes Beach",
+   "fei": "",
+   "officers": [
+    "Benjamin Bryant (President, Secretary, Treasurer)"
+   ],
+   "agent": "Spiegel & Utrera, P.A.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Holmes Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100447,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Growing Together",
+     "place": "Lake Worth, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N04537",
+   "name": "Growing Together, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1984-08-03",
+   "city": "Riviera Beach",
+   "fei": "592466094",
+   "officers": [
+    "Ed Muller (President, Director)",
+    "David Nelson (Treasurer, Director)",
+    "John Terranova (Director)",
+    "James Sandberg (Director)",
+    "Bruce Rosenwater (Director)",
+    "Nicolas Scarcella (Director)"
+   ],
+   "agent": "Jordyn Realty",
+   "trade_names": 0,
+   "last_report": 2006,
+   "match": "check",
+   "flags": [
+    "Florida has it in Riviera Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100447,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Growing Together",
+     "place": "Lake Worth, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F78278",
+   "name": "Gulf Coast Treatment Center, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "active",
+   "filed": "1982-04-29",
+   "city": "Fort Walton Beach",
+   "fei": "561341134",
+   "officers": [
+    "Steve Filton (Vice President)",
+    "Matt Peterson (President)",
+    "Cheryl K Ramagano (Treasurer)",
+    "Matthew D Klein (Secretary)",
+    "Thomas Day (Vice President)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 3,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11116,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Gulf Coast Treatment Center",
+     "place": "Fort Walton Beach, FL",
+     "status": "Open",
+     "same_town": true
+    },
+    {
+     "kind": "facility",
+     "id": 11120,
+     "how": "a trade name it registered",
+     "trade_name": "OKALOOSA YOUTH ACADEMY",
+     "name": "Okaloosa Youth Academy",
+     "place": "Crestview, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P93000049294",
+   "name": "Healthcare Services of America, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1993-07-14",
+   "city": "Coral Springs",
+   "fei": "",
+   "officers": [
+    "Walter V Troxel (Director)"
+   ],
+   "agent": "Walter V Troxel",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500009,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Ramsay Youth Services",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P98000039715",
+   "name": "Healthcare Services of America, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1998-05-01",
+   "city": "Pembroke Pines",
+   "fei": "650837081",
+   "officers": [
+    "America Lopez (President)"
+   ],
+   "agent": "Allen J Rapoport",
+   "trade_names": 0,
+   "last_report": 2005,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500009,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Ramsay Youth Services",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N17000002262",
+   "name": "Honey Lake Clinic Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2017-03-01",
+   "city": "Greenville",
+   "fei": "820770125",
+   "officers": [
+    "Angela Cannon (Director)",
+    "Dale Berkey (Director)",
+    "Roy Moore (Director)",
+    "Lisa Stewart (Chairman)",
+    "Devan Schanding (Secretary)"
+   ],
+   "agent": "Lisa Stewart",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11182,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Honey Lake Clinic",
+     "place": "Greenville, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "722474",
+   "name": "Hope International Ministries, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1972-01-18",
+   "city": "Tampa",
+   "fei": "620879012",
+   "officers": [
+    "Carl Roeder (Director)",
+    "Matt Higgins (Executive Director)",
+    "David Harper (Director)",
+    "Matt Goins (Director)",
+    "Herb Hubbard (Director)",
+    "Ryan Thompson (Director)"
+   ],
+   "agent": "F&L Corp",
+   "trade_names": 5,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11183,
+     "how": "a trade name it registered",
+     "trade_name": "HOPE CHILDREN'S HOME",
+     "name": "Hope Children’s Home",
+     "place": "Tampa, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L08000005703",
+   "name": "Inspirations for Youth and Families, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2008-01-16",
+   "city": "Fort Lauderdale",
+   "fei": "352321783",
+   "officers": [
+    "Christopher Walsh (Manager)"
+   ],
+   "agent": "David J Schottenfeld",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11185,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Inspirations for Youth and Families",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L00000012266",
+   "name": "Kanner Academy, Llc.",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2000-10-03",
+   "city": "Sarasota",
+   "fei": "651072645",
+   "officers": [
+    "Joseph Charles Kanner (Managing Member)"
+   ],
+   "agent": "Joseph Charles Kanner",
+   "trade_names": 0,
+   "last_report": 2001,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11187,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Kanner Academy",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L05000091301",
+   "name": "L.i.f.e. LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2005-09-15",
+   "city": "Asheville",
+   "fei": "204438388",
+   "officers": [
+    "William E Hires Jr. (Managing Member)"
+   ],
+   "agent": "William E Hires Jr.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Asheville; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100168,
+     "how": "its name",
+     "trade_name": "",
+     "name": "LIFE",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "728310",
+   "name": "L.i.f.e., Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1974-01-22",
+   "city": "Fort Walton Beach",
+   "fei": "237404890",
+   "officers": [
+    "Robert Brady (President)",
+    "Janie Garcia-rios (Secretary)",
+    "Pia Elsesser (Director)",
+    "Coleen Miller (Director)"
+   ],
+   "agent": "Anchors, C. Ledon",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Fort Walton Beach; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100168,
+     "how": "its name",
+     "trade_name": "",
+     "name": "LIFE",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "703335",
+   "name": "Lakeview Center, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1961-12-15",
+   "city": "Pensacola",
+   "fei": "590737872",
+   "officers": [
+    "Laura E Swanson (CORP)",
+    "M. Allison Hill (Chief Executive Officer)",
+    "Hugh Hamilton (Chairman)",
+    "Sandy Whitaker (Vice President)",
+    "Shawn Salamida (President)",
+    "Eric E Barley (Vice President)"
+   ],
+   "agent": "Ronald A Christaldi",
+   "trade_names": 6,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "a trade name it registered",
+     "trade_name": "THE MERIDIAN",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "177627",
+   "name": "Life Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1954-03-04",
+   "city": "Miami Beach Fl",
+   "fei": "000000000",
+   "officers": [
+    "Fine, Jerome (President, Director)",
+    "Ferejohn, Helene (Vice President, Director)",
+    "Stuppy, Clare (Secretary, Treasurer, Director)"
+   ],
+   "agent": "Fine, Jerome",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami Beach Fl; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100168,
+     "how": "its name",
+     "trade_name": "",
+     "name": "LIFE",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L24000367390",
+   "name": "Life LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2024-08-21",
+   "city": "Jacksonville",
+   "fei": "853348617",
+   "officers": [
+    "Jhon Zuluaga (Manager)"
+   ],
+   "agent": "Jhon Zuluaga",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Jacksonville; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100168,
+     "how": "its name",
+     "trade_name": "",
+     "name": "LIFE",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N11000006733",
+   "name": "Life Ownership Program Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2011-07-15",
+   "city": "Lake Worth",
+   "fei": "452768174",
+   "officers": [
+    "Patrick Amr. Livingston (President)",
+    "Ricardo Ruiz (Director)",
+    "Ashton Mmr. Irons (Director)"
+   ],
+   "agent": "Patrick A Livingston",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Lake Worth; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100168,
+     "how": "its name",
+     "trade_name": "",
+     "name": "LIFE",
+     "place": "Sarasota, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N05000002684",
+   "name": "Lighthouse Christian Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2005-03-07",
+   "city": "Hilliard",
+   "fei": "",
+   "officers": [
+    "W. Darrell Vroman (AD)",
+    "Jeff Payne (Director)"
+   ],
+   "agent": "W. Darrell Vroman",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Hilliard; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N98000002764",
+   "name": "Lighthouse Christian Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1998-05-14",
+   "city": "Keywest",
+   "fei": "650835223",
+   "officers": [
+    "Kevin J Kerr (President)",
+    "Jeanne Sisco (Director)",
+    "Jennifer Sisco (Secretary)",
+    "Dianne G Kerr (Treasurer)"
+   ],
+   "agent": "Dianne G Kerr",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Keywest; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "768885",
+   "name": "Lighthouse Christian Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1983-06-10",
+   "city": "Jacksonville",
+   "fei": "000000000",
+   "officers": [
+    "Harrison, Danny Ray (President, Director)",
+    "Harrison, Gloria Potier (Secretary, Treasurer, Director)",
+    "Shepard, Claudia W. (Director)",
+    "Millett, Virginia (Director)"
+   ],
+   "agent": "Harrison, Gloria Potier",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Jacksonville; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N01000003536",
+   "name": "Lighthouse Christian Center of Mayo, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2001-05-21",
+   "city": "Mayo",
+   "fei": "592220625",
+   "officers": [
+    "Kevin Jackson (Treasurer)",
+    "William C Howland (Trustee)",
+    "James Ward (Trustee)"
+   ],
+   "agent": "Kevin R Jackson",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "a trade name it registered",
+     "trade_name": "LIGHTHOUSE CHRISTIAN ACADEMY",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N04000011491",
+   "name": "Lighthouse of Northwest Florida, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2004-12-10",
+   "city": "Jay",
+   "fei": "201986027",
+   "officers": [
+    "Russell Cookston (President, Vice President)",
+    "Kimbra Cookston (Secretary, Treasurer)"
+   ],
+   "agent": "Vincent J Whibbs",
+   "trade_names": 0,
+   "last_report": 2014,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11191,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Lighthouse Christian Academy",
+     "place": "Jay, FL",
+     "status": "Closed",
+     "same_town": true
+    },
+    {
+     "kind": "facility",
+     "id": 100265,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Lighthouse of Northwest Florida",
+     "place": "FL",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P14000012687",
+   "name": "Meridian Behavioral Health Corp",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2014-02-10",
+   "city": "Lauderdale By the Sea",
+   "fei": "464786525",
+   "officers": [
+    "Hotse B Langeraar (President)"
+   ],
+   "agent": "William W Trick Jr",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500016,
+     "how": "its name",
+     "trade_name": "",
+     "name": "EOSIS",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "415484",
+   "name": "Meridian Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1972-12-28",
+   "city": "Jacksonville",
+   "fei": "000000000",
+   "officers": [
+    "Anderson, Kenneth G. (Director)",
+    "Lanahan, Dennis J., Jr. (Director)",
+    "Clarke, Dorothy D. (Director)"
+   ],
+   "agent": "Anderson, Kenneth G.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Jacksonville; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "153058",
+   "name": "Meridian Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1947-11-13",
+   "city": "Miami Bch.",
+   "fei": "000000000",
+   "officers": [
+    "Freeman, A. (President, Director)",
+    "Cohen, J. (Vice President, Director)",
+    "Cohen, F. (Treasurer, Director)",
+    "Arkin, J. (Secretary, Director)"
+   ],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami Bch.; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L25000445683",
+   "name": "Meridian LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2025-09-29",
+   "city": "Cape Canaveral",
+   "fei": "",
+   "officers": [],
+   "agent": "Duane F Mallory",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Cape Canaveral; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L20000165706",
+   "name": "Meridian LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2020-06-14",
+   "city": "Virginia Gardens",
+   "fei": "364317068",
+   "officers": [
+    "Ronny Herrera (Manager)"
+   ],
+   "agent": "Ronny F Herrera",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Virginia Gardens; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L06000075788",
+   "name": "Meridian LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2006-07-31",
+   "city": "Miami Beach",
+   "fei": "205306930",
+   "officers": [
+    "Jennifer Harrison (Manager)"
+   ],
+   "agent": "Albert J. Lazo P.A.",
+   "trade_names": 0,
+   "last_report": 2007,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami Beach; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P96000074832",
+   "name": "Meridian, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1996-09-05",
+   "city": "Northport",
+   "fei": "",
+   "officers": [
+    "Geralyn Y Littin (Director)"
+   ],
+   "agent": "Geralyn Y Littin",
+   "trade_names": 0,
+   "last_report": 1997,
+   "match": "check",
+   "flags": [
+    "Florida has it in Northport; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P00000092597",
+   "name": "Meridian, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2000-10-02",
+   "city": "Englewood",
+   "fei": "582575515",
+   "officers": [
+    "Paul R Nyquist (President, Vice President, Treasurer, Secretary)"
+   ],
+   "agent": "Scott D Ittersagen",
+   "trade_names": 0,
+   "last_report": 2011,
+   "match": "check",
+   "flags": [
+    "Florida has it in Englewood; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L01000011521",
+   "name": "Meridian, L.L.C.",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2001-07-13",
+   "city": "Plantation",
+   "fei": "",
+   "officers": [],
+   "agent": "Cecil D'aguilar",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Plantation; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L12000109895",
+   "name": "Meridian, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2012-08-27",
+   "city": "Dade City",
+   "fei": "320387138",
+   "officers": [
+    "Becky K Taylor (Managing Member)"
+   ],
+   "agent": "Meridian LLC",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Florida has it in Dade City; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L04000052348",
+   "name": "Meridian, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2004-07-15",
+   "city": "Kissimmee",
+   "fei": "",
+   "officers": [
+    "Peter Latham (Manager)"
+   ],
+   "agent": "Linda E Biller",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Kissimmee; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N22000006614",
+   "name": "Newport Healthcare, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2022-06-13",
+   "city": "New Port Richey",
+   "fei": "301313845",
+   "officers": [
+    "Andrew L Bocchetti (President, Chairman)",
+    "Tajinder Md Singh (Vice President)",
+    "April Vegas (Secretary, Treasurer, Director)",
+    "Dottie Hall (Director)",
+    "Rafael Pretto (Director)"
+   ],
+   "agent": "Andrew L Bocchetti",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 16,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Newport Healthcare",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M16000009997",
+   "name": "Odle Management Group, L.L.C.",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "2016-12-12",
+   "city": "Clearwater",
+   "fei": "270093730",
+   "officers": [
+    "Michael Smith (Manager)",
+    "Laura Hunt (Manager)",
+    "Nicole Stroebel (Manager)",
+    "Martin Peters (Manager)",
+    "Alex Reed (Manager)"
+   ],
+   "agent": "Cogency Global Inc.",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 9,
+     "how": "a trade name it registered",
+     "trade_name": "ECKERD CONNECTS",
+     "name": "Eckerd Connects",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "741826",
+   "name": "Our Father's House, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1978-02-24",
+   "city": "Pembroke Pines",
+   "fei": "591843075",
+   "officers": [
+    "David G Conway (PDM)",
+    "Micheal F Mcdermott (Vice President, Director)"
+   ],
+   "agent": "David G Conway",
+   "trade_names": 0,
+   "last_report": 2010,
+   "match": "check",
+   "flags": [
+    "Florida has it in Pembroke Pines; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11202,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Our Father’s House",
+     "place": "Milton, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "761278",
+   "name": "Our Father's House, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1981-12-30",
+   "city": "Milton",
+   "fei": "592145831",
+   "officers": [
+    "Burt, Linda (President, Treasurer, Director)",
+    "Krzan, Karen (Senior Vice President)",
+    "Mary J Gratton (Director)",
+    "Linda Brown (OFFI)",
+    "Lillian Scott (OFFI)"
+   ],
+   "agent": "Linda Burt",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11202,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Our Father’s House",
+     "place": "Milton, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "N19000011468",
+   "name": "Papilio Family Foundation, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2019-10-09",
+   "city": "Sarasota",
+   "fei": "843536893",
+   "officers": [
+    "Joseph Kanner (President)",
+    "Cara Kanner (Vice President)",
+    "Adam Schiffman (Secretary)",
+    "Linda Mason (Treasurer)"
+   ],
+   "agent": "Joseph Kanner",
+   "trade_names": 3,
+   "last_report": 2024,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11159,
+     "how": "a trade name it registered",
+     "trade_name": "SARASOTA COMMUNITY SCHOOL",
+     "name": "DeSisto at Howey School",
+     "place": "Howey-in-the-Hills, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "760262",
+   "name": "Personal Enrichment Through Mental Health Services, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1981-09-29",
+   "city": "Pinellas Park",
+   "fei": "593153549",
+   "officers": [
+    "Lee Scharrer (Chairman)",
+    "Lynn Stone (Vice President, Chairman)",
+    "Ronald Knaus (Secretary)",
+    "Maxine Booker (President)",
+    "Zofia Whiting (Chief Financial Officer)"
+   ],
+   "agent": "Zofia Whiting",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11206,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Personal Enrichment Through Mental Health Services",
+     "place": "Pinellas Park, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L04000082586",
+   "name": "Polk Youth Services, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2004-11-15",
+   "city": "Bartow",
+   "fei": "201861291",
+   "officers": [
+    "Sunshine Youth Services, Inc (Manager)"
+   ],
+   "agent": "Buchanan Ingersoll Attorneys",
+   "trade_names": 0,
+   "last_report": 2008,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11135,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "AMIkids Polk Inc.",
+     "place": "Bartow, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "F98000001409",
+   "name": "Premier Behavioral Solutions of Florida, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "active",
+   "filed": "1998-03-12",
+   "city": "Bradenton",
+   "fei": "650816927",
+   "officers": [
+    "Steve Filton (Vice President)",
+    "Matt Peterson (President)",
+    "Cheryl K Ramagano (Treasurer)",
+    "Matthew D Klein (Secretary)",
+    "Thomas Day (Director)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 2,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11121,
+     "how": "a trade name it registered",
+     "trade_name": "PALM SHORES BEHAVIORAL HEALTH CENTER",
+     "name": "Palm Shores Behavioral Health Center",
+     "place": "Bradenton, FL",
+     "status": "Open",
+     "same_town": true
+    },
+    {
+     "kind": "facility",
+     "id": 11123,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Suncoast Behavioral Health Center RTP",
+     "place": "Bradenton, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L24000440914",
+   "name": "Providence Pass LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2024-10-15",
+   "city": "Dover",
+   "fei": "332402137",
+   "officers": [
+    "Gevurah Holdings LLC Mgr (Manager)"
+   ],
+   "agent": "Widerman Malek, Pl",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Dover; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11209,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Providence Pass",
+     "place": "Kissimmee, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L25000437345",
+   "name": "Providence Pass LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2025-09-22",
+   "city": "Dover",
+   "fei": "",
+   "officers": [
+    "Taylor Holdings Group LLC (Manager)"
+   ],
+   "agent": "North West Registered Agent Service, Inc",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Dover; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11209,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Providence Pass",
+     "place": "Kissimmee, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P08000018092",
+   "name": "Psychiatric Solutions Inc",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2008-02-19",
+   "city": "Orlando",
+   "fei": "",
+   "officers": [
+    "Aftab Qadir (President)",
+    "Louis Allen (Vice President)"
+   ],
+   "agent": "Aftab Qadir",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500005,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Psychiatric Solutions, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L23000168174",
+   "name": "Psychiatric Solutions, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2023-04-04",
+   "city": "St. Petersburg",
+   "fei": "923445219",
+   "officers": [
+    "Colleen Conrad (Manager)"
+   ],
+   "agent": "Northwest Registered Agent LLC",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500005,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Psychiatric Solutions, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F97000005902",
+   "name": "Ramsay Youth Services, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "1997-11-07",
+   "city": "Coral Gables",
+   "fei": "650766342",
+   "officers": [
+    "Bert G Cibran (Chairman, President)",
+    "Carol C Lang (Chairman, Vice President)",
+    "Daniel A Sims (Secretary, Treasurer)"
+   ],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 1998,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500009,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Ramsay Youth Services",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L01000004760",
+   "name": "Renaissance Healthcare Group, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2001-03-23",
+   "city": "Franklin",
+   "fei": "593730600",
+   "officers": [
+    "Brady Rush (Authorized Person)",
+    "Odyssey Behavioral Healthcare LLC (Member)"
+   ],
+   "agent": "C T Corporation System",
+   "trade_names": 6,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100283,
+     "how": "a trade name it registered",
+     "trade_name": "PASADENA VILLA",
+     "name": "Pasadena Villa",
+     "place": "Orlando, FL",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F16000004065",
+   "name": "Rite of Passage, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "active",
+   "filed": "2016-09-12",
+   "city": "Minden",
+   "fei": "880235002",
+   "officers": [
+    "Ski J Broman (President)",
+    "Lawrence W Howell (Secretary)",
+    "Carolyn Jenkins-bower (Treasurer)"
+   ],
+   "agent": "Incorp Services, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 18,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "operator",
+     "id": 832,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P10000097889",
+   "name": "Sarasota Community School, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2010-12-03",
+   "city": "Sarasota",
+   "fei": "",
+   "officers": [
+    "Elena Torres Biset (President)",
+    "Roger Biset (Treasurer)",
+    "Elena Torres Biset (Secretary)"
+   ],
+   "agent": "Elena Torres Biset",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Sarasota; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11159,
+     "how": "its name",
+     "trade_name": "",
+     "name": "DeSisto at Howey School",
+     "place": "Howey-in-the-Hills, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P20000039051",
+   "name": "Seed Corp",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2020-05-26",
+   "city": "Kissimmee",
+   "fei": "",
+   "officers": [
+    "Philip T Rasmussen (Chief Executive Officer)"
+   ],
+   "agent": "Philip T Rasmussen",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Kissimmee; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11229,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Seed",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N03000003235",
+   "name": "Seed Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2003-04-15",
+   "city": "N. Miami",
+   "fei": "",
+   "officers": [
+    "Viviane Obas (President, Director)",
+    "Gerty St. Fleur (Vice President, Secretary, Director)",
+    "Max Dubois (Director, Treasurer)"
+   ],
+   "agent": "Viviane Obas",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in N. Miami; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11229,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Seed",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L15000192001",
+   "name": "Seed LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2015-11-12",
+   "city": "Key West",
+   "fei": "",
+   "officers": [
+    "Complete Credit Systems, LLC (Manager)"
+   ],
+   "agent": "Gregory S Oropeza",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Florida has it in Key West; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11229,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Seed",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N09000011109",
+   "name": "Southeastern Military Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2009-11-17",
+   "city": "Port St Lucie",
+   "fei": "",
+   "officers": [
+    "Alan L Weierman (President)",
+    "David A Weierman (Director)",
+    "Patricia A Brink (Director)",
+    "Molly B Weierman (Director)",
+    "Jonathan W Weierman (Director)"
+   ],
+   "agent": "Alan L Weierman",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Port St Lucie; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11217,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Southeastern Military Academy",
+     "place": "Lucie, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L11000124977",
+   "name": "Step Director, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2011-11-02",
+   "city": "Coral Springs",
+   "fei": "453759191",
+   "officers": [
+    "Arnold Horn (Managing Member)",
+    "Diana Horn (Managing Member)"
+   ],
+   "agent": "Arnold Horn",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Coral Springs; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N97000001533",
+   "name": "Step Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1997-03-19",
+   "city": "Tallahassee",
+   "fei": "593450554",
+   "officers": [
+    "Elizabeth C Mccorvey-ladd (President)",
+    "Calvert Durden (Vice President)",
+    "Betty J Haynie (Treasurer)"
+   ],
+   "agent": "Elizabeth Ladd",
+   "trade_names": 0,
+   "last_report": 1998,
+   "match": "check",
+   "flags": [
+    "Florida has it in Tallahassee; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P24000033526",
+   "name": "Step Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2024-05-09",
+   "city": "Miami",
+   "fei": "",
+   "officers": [
+    "Pablo Troyse (President)"
+   ],
+   "agent": "Pablo Troyse Rodriguez",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "731842",
+   "name": "Step, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1975-02-10",
+   "city": "Cocoa",
+   "fei": "591649538",
+   "officers": [
+    "Wilson, Nancy (President)",
+    "Bradley, Shireley (Treasurer)",
+    "Mastroianni, Mike (Director)",
+    "Goodrich, Charles (President)",
+    "Morris, Opal (Secretary)",
+    "Smith, B J (Director)"
+   ],
+   "agent": "Osborne, Marleen",
+   "trade_names": 0,
+   "last_report": 1983,
+   "match": "check",
+   "flags": [
+    "Florida has it in Cocoa; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "715179",
+   "name": "Step, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1968-08-27",
+   "city": "Titusville Fla",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Titusville Fla; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N16219",
+   "name": "Step, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1986-08-06",
+   "city": "Tampa",
+   "fei": "592719550",
+   "officers": [
+    "Davis, Gordon Sgt. (President, Director)",
+    "Young, Connie (Vice President, Director)",
+    "Steves, Bill (Secretary, Director)",
+    "Stevens, Rick (Treasurer, Director)",
+    "Henley, Edward J. (Director)"
+   ],
+   "agent": "Davis, Gordon",
+   "trade_names": 0,
+   "last_report": 1991,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L02000008027",
+   "name": "Step, L.L.C.",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2002-04-04",
+   "city": "Miami",
+   "fei": "550828508",
+   "officers": [
+    "Ivetta Golovneva (Manager)"
+   ],
+   "agent": "Ivetta Golovneva",
+   "trade_names": 0,
+   "last_report": 2013,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11218,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Step, Inc.",
+     "place": "Tampa, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "726184",
+   "name": "Steppin' Stone Farm, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1973-04-20",
+   "city": "Brandon",
+   "fei": "237348139",
+   "officers": [
+    "Edward H Keiser (President, Director)",
+    "James Zetler (Vice President, Director)",
+    "Robert Loeber (Secretary, Director)",
+    "Margie Willis (Treasurer, Director)",
+    "Cynthia S Churchill (Executive Director)"
+   ],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2014,
+   "match": "check",
+   "flags": [
+    "Florida has it in Brandon; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11219,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Steppin’ Stone Farm",
+     "place": "Lithia, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "721587",
+   "name": "Stonesoup School, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1971-08-25",
+   "city": "Longwood",
+   "fei": "591377321",
+   "officers": [
+    "Samuel L Allen (Director)",
+    "Andre T Young (Director)",
+    "George N Stanley (Director)",
+    "Christine M Ortiz (O)"
+   ],
+   "agent": "Christine M Ortiz",
+   "trade_names": 0,
+   "last_report": 2011,
+   "match": "check",
+   "flags": [
+    "Florida has it in Longwood; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11221,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Stonesoup School",
+     "place": "Crescent City, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N11318",
+   "name": "Straight, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1985-09-26",
+   "city": "St. Petersburg",
+   "fei": "592576433",
+   "officers": [
+    "Carr, Elliott L. (Vice President, Secretary, Treasurer, Director)",
+    "Sellers, Leon H., Jr. (Vice President, Director)",
+    "Pennington, Wesley (President, Director)"
+   ],
+   "agent": "C T Corporation System",
+   "trade_names": 0,
+   "last_report": 1993,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 21,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Straight Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 9632,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Straight – Tampa Bay",
+     "place": "St. Petersburg, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "P18000031861",
+   "name": "Successful Dreams Corp",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2018-04-03",
+   "city": "North Miami",
+   "fei": "",
+   "officers": [
+    "Arevalo R Rodriguez (President)",
+    "Roxanna V Rodriguez (Vice President)"
+   ],
+   "agent": "Arevalo R Rodriguez",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500015,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Successful Dreams",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P11000051469",
+   "name": "Successful Dreams, Corp",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2011-05-31",
+   "city": "Miami",
+   "fei": "",
+   "officers": [
+    "Hilda Rodriguez (Director, President)"
+   ],
+   "agent": "Hilda Rodriguez",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500015,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Successful Dreams",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P14000069013",
+   "name": "Successful Dreams, Inc",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2014-08-18",
+   "city": "Miami",
+   "fei": "",
+   "officers": [
+    "Hilda L Rodriquez (President)"
+   ],
+   "agent": "Jilda L Rodriquez",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500015,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Successful Dreams",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N16000011315",
+   "name": "Tampa Bay Academy Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "2016-11-28",
+   "city": "Tampa",
+   "fei": "814535354",
+   "officers": [
+    "Soto A Luis Jr. (President)",
+    "Rosa I Laporte (TRE.)",
+    "Karixa Figueroa (Secretary)",
+    "Roger Proenza Jr. (TR)"
+   ],
+   "agent": "Luis A Soto Jr.",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11223,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Tampa Bay Academy",
+     "place": "Riverview, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "A00000001967",
+   "name": "Tampa Bay Academy, Ltd.",
+   "type_label": "Florida limited partnership",
+   "status": "inactive",
+   "filed": "2000-12-19",
+   "city": "Boca Raton",
+   "fei": "651062712",
+   "officers": [
+    "Tb Academy, Inc."
+   ],
+   "agent": "Norman S Weinstein",
+   "trade_names": 0,
+   "last_report": 2013,
+   "match": "check",
+   "flags": [
+    "Florida has it in Boca Raton; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11223,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Tampa Bay Academy",
+     "place": "Riverview, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M06000003111",
+   "name": "Tbj Behavioral Center, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "2006-06-06",
+   "city": "Jacksonville",
+   "fei": "204865566",
+   "officers": [
+    "Premier Behavioral Solutions, Inc. (Member)",
+    "Steve Filton (Authorized Person)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 14164,
+     "how": "a trade name it registered",
+     "trade_name": "RIVER POINT BEHAVIORAL HEALTH",
+     "name": "River Point Behavioral Health",
+     "place": "Jacksonville, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L99000002041",
+   "name": "Ten Broeck Jacksonville, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "1999-04-06",
+   "city": "Windermere",
+   "fei": "593568978",
+   "officers": [
+    "Donald R Dizney (CAS)",
+    "David A Dizney (PCEO)",
+    "Kevin Barkman (EVPS)",
+    "David Corddry (VPF)"
+   ],
+   "agent": "Kevin Barkman",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Florida has it in Windermere; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 14164,
+     "how": "its name",
+     "trade_name": "",
+     "name": "River Point Behavioral Health",
+     "place": "Jacksonville, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F97000006548",
+   "name": "The Brown Schools, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "1997-12-11",
+   "city": "Austin",
+   "fei": "742842483",
+   "officers": [
+    "Robert J Naples (President, Director)",
+    "Rod Young (Secretary)",
+    "George Mccown (Director)",
+    "John P Docherty (Director)",
+    "Bob Hellman (Director)",
+    "Emil J Henry (Director)"
+   ],
+   "agent": "C T Corporation System",
+   "trade_names": 0,
+   "last_report": 2004,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 4,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Brown Schools",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "747926",
+   "name": "The Children's Place at Home Safe, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1979-06-29",
+   "city": "Lake Worth",
+   "fei": "591935485",
+   "officers": [
+    "Mike Bruno (Treasurer)",
+    "Tarra L Moten (Pastor)",
+    "Lawrence Gonnello (Secretary)",
+    "Roberto Vargas (President)",
+    "Aggie Stoops (Vice President)",
+    "Steven Bernstein (Member)"
+   ],
+   "agent": "Matthew Ladika",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Lake Worth; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11226,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Children’s Place at Home Safe",
+     "place": "Lake Worth Beach, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P08048",
+   "name": "The Devereux Foundation, Inc.",
+   "type_label": "Foreign nonprofit corporation",
+   "status": "active",
+   "filed": "1985-11-08",
+   "city": "Villanova",
+   "fei": "231390618",
+   "officers": [
+    "Carl Clark (Chief Executive Officer)",
+    "Robert C Dunne (Chief Financial Officer)",
+    "David Griffith (CONT)",
+    "Leah Yaw (Vice President)",
+    "Christopher D Butler (Trustee)",
+    "James Schwab (Trustee)"
+   ],
+   "agent": "Kelly Messer",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 8,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Devereux Advanced Behavioral Health",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "656082",
+   "name": "The Meridian Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1980-02-14",
+   "city": "Hialeah",
+   "fei": "000000000",
+   "officers": [
+    "Wallis, Ernest M. (President, Secretary, Director)"
+   ],
+   "agent": "Wallis, Ernest M.",
+   "trade_names": 0,
+   "last_report": 1987,
+   "match": "check",
+   "flags": [
+    "Florida has it in Hialeah; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "576633",
+   "name": "The Meridian Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1978-06-22",
+   "city": "Key Largo",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "Dancu, David A.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in Key Largo; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "202864",
+   "name": "The Meridian Corporation",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1957-05-27",
+   "city": ".",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in .; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11227,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Meridian",
+     "place": "Pensacola, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L00000007551",
+   "name": "The National Deaf Academy, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2000-06-23",
+   "city": "Mont Dora",
+   "fei": "593653865",
+   "officers": [
+    "Zeus Endeavors, LLC (Managing Member)",
+    "Premier Behavioral Solutions, Inc (Managing Member)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Mont Dora; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11119,
+     "how": "its name",
+     "trade_name": "",
+     "name": "National Deaf Academy",
+     "place": "Mt Dora, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P05000155462",
+   "name": "The Seed Co.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2005-11-23",
+   "city": "Miami",
+   "fei": "203858035",
+   "officers": [
+    "Amalfi Gayosso (President, Director)",
+    "Guadalupe Gallego (Secretary)"
+   ],
+   "agent": "Business Filings Incorporated",
+   "trade_names": 0,
+   "last_report": 2008,
+   "match": "check",
+   "flags": [
+    "Florida has it in Miami; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11229,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Seed",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "719373",
+   "name": "The Seed, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "1970-09-23",
+   "city": "Fort Lauderdale",
+   "fei": "591354142",
+   "officers": [
+    "Barker,art (President, Director)",
+    "Barker,shelly (Treasurer, Secretary, Director)",
+    "Kienzle, Elizabeth M. (Director)",
+    "Bryant, Joan (Director)"
+   ],
+   "agent": "Barker Shelly",
+   "trade_names": 0,
+   "last_report": 2001,
+   "match": "matched",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11229,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Seed",
+     "place": "Fort Lauderdale, FL",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "196658",
+   "name": "The Straight Corp",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1956-10-09",
+   "city": ".",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 21,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Straight Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "307188",
+   "name": "Thompson Academy Incorporated",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1966-07-13",
+   "city": "",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Florida has it in no town; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11231,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Thompson Academy",
+     "place": "Pembroke Pines, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P11000060042",
+   "name": "Thompson Academy, Inc",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2011-06-29",
+   "city": "Bradenton",
+   "fei": "452639983",
+   "officers": [
+    "Cynthia J Thompson (Managing Member)"
+   ],
+   "agent": "Cynthia J Thompson",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Florida has it in Bradenton; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11231,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Thompson Academy",
+     "place": "Pembroke Pines, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M96000000448",
+   "name": "Truecore Behavioral Solutions, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "1996-11-13",
+   "city": "Tampa",
+   "fei": "541859903",
+   "officers": [
+    "Robbin Berry (Manager)",
+    "Maria Caba-MAcc (Manager)",
+    "James Martin (Manager)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 23,
+     "how": "its name",
+     "trade_name": "",
+     "name": "TrueCore Behavioral Solutions",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N98000002453",
+   "name": "Twin Oaks Juvenile Development, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "active",
+   "filed": "1998-04-27",
+   "city": "Bristol",
+   "fei": "593512790",
+   "officers": [
+    "Donnie Read (Director)",
+    "David A Read (Director)",
+    "Venisha W Buchanon (Director)",
+    "Charles R Chervanick (Director)",
+    "Benjiman D Read (Director)"
+   ],
+   "agent": "Benjie Read",
+   "trade_names": 5,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11137,
+     "how": "a trade name it registered",
+     "trade_name": "APALACHICOLA FOREST YOUTH CAMP",
+     "name": "Apalachicola Forest Youth Camp",
+     "place": "Hosford, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P17000035775",
+   "name": "Universal Health Services Inc",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2017-04-19",
+   "city": "Tampa",
+   "fei": "",
+   "officers": [],
+   "agent": "Zachee Merisier",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 25,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Universal Health Services (UHS)",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "S17513",
+   "name": "Universal Health Services, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1990-12-11",
+   "city": "Miami",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "The Prentice Hall Corporation System Inc.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 25,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Universal Health Services (UHS)",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P93000035116",
+   "name": "Universal Health Services, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1993-05-14",
+   "city": "Plantation",
+   "fei": "",
+   "officers": [
+    "Rajendra Gupta (President, Director)",
+    "Shobha Gupta (President, Director)"
+   ],
+   "agent": "Shobha Gupta",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 25,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Universal Health Services (UHS)",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "P06000102356",
+   "name": "Universal Health Services, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "2006-08-04",
+   "city": "Miami",
+   "fei": "205435339",
+   "officers": [
+    "Maria A Gonzalez (President, Director)"
+   ],
+   "agent": "Maria A Gonzalez",
+   "trade_names": 0,
+   "last_report": 2008,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 25,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Universal Health Services (UHS)",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L06000069879",
+   "name": "University Behavioral, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2006-07-13",
+   "city": "Orlando",
+   "fei": "205202458",
+   "officers": [
+    "Premier Behavioral Solutions, Inc. (Managing Member)",
+    "Ramsay Managed Care, LLC (Managing Member)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 1,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11233,
+     "how": "a trade name it registered",
+     "trade_name": "UNIVERSITY BEHAVIORAL CENTER",
+     "name": "University Behavioral Center",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "L15000072607",
+   "name": "Vernon Place LLC",
+   "type_label": "Florida limited liability company",
+   "status": "active",
+   "filed": "2015-04-24",
+   "city": "Daytona Beach",
+   "fei": "",
+   "officers": [
+    "Ralph C Pallmer (Manager)"
+   ],
+   "agent": "Ralph C Pallmer",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Florida has it in Daytona Beach; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11167,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eckerd Treatment Program for Girls",
+     "place": "Vernon, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L09000111842",
+   "name": "Vibrant Horizons, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2009-11-20",
+   "city": "Prescott Valley",
+   "fei": "271360815",
+   "officers": [
+    "Tom Kenny (Manager)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 2,
+   "last_report": 2024,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11155,
+     "how": "a trade name it registered",
+     "trade_name": "CENTRAL PASCO GIRLS ACADEMY",
+     "name": "Central Pasco Girls Academy",
+     "place": "Land O’ Lakes, FL",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N04000007901",
+   "name": "Victory Forge Military Academy, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2004-08-11",
+   "city": "Port St Lucie",
+   "fei": "562476466",
+   "officers": [
+    "Alan L Weierman (President, Director)",
+    "Molly B Weierman (Secretary, Treasurer, Director)",
+    "Fred J Gallo (Director)",
+    "Michael Roberts (Director)"
+   ],
+   "agent": "Alan L Weierman",
+   "trade_names": 0,
+   "last_report": 2011,
+   "match": "check",
+   "flags": [
+    "Florida has it in Port St Lucie; the record is somewhere else or names no town.",
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11217,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Southeastern Military Academy",
+     "place": "Lucie, FL",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F22000007323",
+   "name": "Wayne Halfway House, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "2022-12-02",
+   "city": "Waynesboro",
+   "fei": "621486898",
+   "officers": [
+    "Jason Crews (President)",
+    "Jim Biggers (Secretary)",
+    "Autry Gobbell (Director)"
+   ],
+   "agent": "Nrai Services, Inc.",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 27,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Wayne Halfway House",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M17000007603",
+   "name": "Wilderness Training & Consulting, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "2017-09-05",
+   "city": "Salem",
+   "fei": "",
+   "officers": [
+    "Steven Stradley (Manager)"
+   ],
+   "agent": "Unisearch, Inc.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 12,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Family Help & Wellness",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M20000007235",
+   "name": "Willow Grove LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "2020-08-03",
+   "city": "Key Biscayne",
+   "fei": "850999540",
+   "officers": [
+    "James Martin (Member)"
+   ],
+   "agent": "James Martin",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500012,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Willow Grove, LLC",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "N06000012691",
+   "name": "Willow Grove Owners Association, Inc.",
+   "type_label": "Florida nonprofit corporation",
+   "status": "inactive",
+   "filed": "2006-12-12",
+   "city": "Middleburg",
+   "fei": "113803422",
+   "officers": [
+    "Malcolm Burke (Director)",
+    "Kate Scanlon (Director)"
+   ],
+   "agent": "PRM Property Management, LLC.",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500012,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Willow Grove, LLC",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "396427",
+   "name": "Willow Grove, Inc.",
+   "type_label": "Florida profit corporation",
+   "status": "inactive",
+   "filed": "1972-02-25",
+   "city": "",
+   "fei": "000000000",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500012,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Willow Grove, LLC",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "L03000012071",
+   "name": "Willow Grove, LLC",
+   "type_label": "Florida limited liability company",
+   "status": "inactive",
+   "filed": "2003-04-04",
+   "city": "Melbourne",
+   "fei": "470915027",
+   "officers": [
+    "Heartsprings International Ministires, Inc (Managing Member)",
+    "Affordable Multi-family, LLC (Managing Member)"
+   ],
+   "agent": "William H Walden",
+   "trade_names": 0,
+   "last_report": 2004,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500012,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Willow Grove, LLC",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "M16000004783",
+   "name": "Youth Opportunity Investments LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "2016-06-10",
+   "city": "Carmel",
+   "fei": "270972875",
+   "officers": [
+    "James C Hill Jr. (Manager)",
+    "Ronald D Hunter (Manager)",
+    "Danny K Zachary Jr. (Manager)",
+    "Gary D Sallee Jr. (Authorized Person)"
+   ],
+   "agent": "Corporation Service Company",
+   "trade_names": 14,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 28,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Youth Opportunity Investments",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11124,
+     "how": "a trade name it registered",
+     "trade_name": "BROWARD YOUTH TREATMENT CENTER",
+     "name": "Broward Youth Treatment Center",
+     "place": "Pembroke Pines, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11127,
+     "how": "a trade name it registered",
+     "trade_name": "DEEP CREEK YOUTH ACADEMY",
+     "name": "Deep Creek Youth Academy",
+     "place": "Hastings, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11095,
+     "how": "a trade name it registered",
+     "trade_name": "SILVER SPRINGS YOUTH ACADEMY",
+     "name": "Marion Youth Academy",
+     "place": "Ocala, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11110,
+     "how": "a trade name it registered",
+     "trade_name": "ORANGE YOUTH ACADEMY",
+     "name": "Orange Youth Academy",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11111,
+     "how": "a trade name it registered",
+     "trade_name": "ORLANDO INTENSIVE YOUTH ACADEMY",
+     "name": "Orlando Intensive Youth Academy",
+     "place": "Orlando, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 11130,
+     "how": "a trade name it registered",
+     "trade_name": "ST. AUGUSTINE YOUTH ACADEMY",
+     "name": "St. Augustine Youth Academy",
+     "place": "St. Augustine, FL",
+     "status": "Open",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 9654,
+     "how": "a trade name it registered",
+     "trade_name": "ST. AUGUSTINE YOUTH ACADEMY",
+     "name": "Three Springs of St. Johns",
+     "place": "St Augustine, FL",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "F97000003822",
+   "name": "Youth Services International, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "1997-07-22",
+   "city": "Sarasota",
+   "fei": "521715690",
+   "officers": [
+    "James F Slattery (President, Director)",
+    "David A Scharoun (SRVP)",
+    "Christopher J Slattery (Vice President)"
+   ],
+   "agent": "C T Corporation System",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Not active in Florida's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 30,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Youth Services International",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  }
+ ]
+}

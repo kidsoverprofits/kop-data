@@ -1,0 +1,69 @@
+{
+ "state": "FL",
+ "doc": "M06000003111",
+ "name": "Tbj Behavioral Center, LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "filed": "2006-06-06",
+ "origin": "DE",
+ "fei": "204865566",
+ "address": "6300 Beach Blvd., Jacksonville, FL, 32216",
+ "city": "Jacksonville",
+ "last_activity": "2017-01-31",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-28"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-28"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-15"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Premier Behavioral Solutions, Inc.",
+   "kind": "company",
+   "title": "Member",
+   "address": "367 S. Gulph Rd., King of Prussia, PA"
+  },
+  {
+   "name": "Steve Filton",
+   "kind": "person",
+   "title": "Authorized Person",
+   "place": "King of Prussia, PA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-01-31",
+   "filed": "2017-01-31",
+   "what": "Lc stmnt of         ra/ro chg"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "River Point Behavioral Health",
+   "county": "Duval",
+   "status": "active",
+   "filed": "2008-10-27",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G08301900008"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M06000003111",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

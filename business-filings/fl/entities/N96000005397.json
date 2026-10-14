@@ -1,0 +1,71 @@
+{
+ "state": "FL",
+ "doc": "N96000005397",
+ "name": "Gator Wilderness Camp School, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1996-10-21",
+ "origin": "FL",
+ "fei": "650704638",
+ "address": "44930 Farabee Rd, Punta Gorda, FL, 33982",
+ "city": "Punta Gorda",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-03"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-03"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-21"
+  }
+ ],
+ "agent": {
+  "name": "Sheri Emery",
+  "kind": "person",
+  "title": "",
+  "place": "Arcadia, FL"
+ },
+ "officers": [
+  {
+   "name": "Jeff Miller",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Ray Briggs",
+   "kind": "person",
+   "title": "Vice President, Chairman",
+   "place": "Punta Gorda, FL"
+  },
+  {
+   "name": "Steven Schlabach",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Gregory A Kanagy",
+   "kind": "person",
+   "title": "Director",
+   "place": "Punta Gorda, FL"
+  },
+  {
+   "name": "Peter Magnuson",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Sarasota, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N96000005397",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

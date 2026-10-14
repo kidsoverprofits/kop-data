@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "L12000109895",
+ "name": "Meridian, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2012-08-27",
+ "origin": "FL",
+ "fei": "320387138",
+ "address": "37834 Meridian Ave., Dade City, FL, 33525",
+ "city": "Dade City",
+ "last_activity": "2018-09-28",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-04-24"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-04-24"
+  },
+  {
+   "year": 2016,
+   "filed": "2016-04-19"
+  }
+ ],
+ "agent": {
+  "name": "Meridian LLC",
+  "kind": "company",
+  "title": "",
+  "address": "37834 Meridian Ave, Dade City, FL"
+ },
+ "officers": [
+  {
+   "name": "Becky K Taylor",
+   "kind": "person",
+   "title": "Managing Member",
+   "place": "Dade City, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-09-28",
+   "filed": "2018-09-28",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L12000109895",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

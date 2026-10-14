@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "L24000440914",
+ "name": "Providence Pass LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2024-10-15",
+ "origin": "FL",
+ "fei": "332402137",
+ "address": "8 the Green, Suit B, Dover, DE, 19901",
+ "city": "Dover",
+ "last_activity": "2025-04-01",
+ "reports": [],
+ "agent": {
+  "name": "Widerman Malek, Pl",
+  "kind": "company",
+  "title": "",
+  "address": "1990 W. New Haven Ave, Melbourne, FL"
+ },
+ "officers": [
+  {
+   "name": "Gevurah Holdings LLC Mgr",
+   "kind": "company",
+   "title": "Manager",
+   "address": "8 the Green, Dover, DE"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-04-01",
+   "filed": "2025-04-01",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L24000440914",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

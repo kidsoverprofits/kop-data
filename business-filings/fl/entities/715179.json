@@ -1,0 +1,28 @@
+{
+ "state": "FL",
+ "doc": "715179",
+ "name": "Step, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1968-08-27",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "2323 South Washington Avenue, Titusville Fla, 32780",
+ "city": "Titusville Fla",
+ "last_activity": "1973-07-02",
+ "reports": [],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1973-07-02",
+   "filed": "1973-07-02",
+   "what": "Dissolved by        proclamation"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=715179",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

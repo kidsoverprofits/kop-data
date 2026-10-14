@@ -1,0 +1,33 @@
+{
+ "state": "FL",
+ "doc": "L25000445683",
+ "name": "Meridian LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2025-09-29",
+ "origin": "FL",
+ "fei": "",
+ "address": "221 Harbor Dr, Cape Canaveral, FL, 32920",
+ "city": "Cape Canaveral",
+ "last_activity": "2026-09-25",
+ "reports": [],
+ "agent": {
+  "name": "Duane F Mallory",
+  "kind": "person",
+  "title": "",
+  "place": "Cape Canaveral, FL"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2026-09-25",
+   "filed": "2026-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L25000445683",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

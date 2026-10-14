@@ -1,0 +1,42 @@
+{
+ "state": "CO",
+ "doc": "20221021065",
+ "name": "Three Springs, LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "1942 Broadway Street, Suite 314C, Boulder, CO, 80302",
+ "city": "Boulder",
+ "last_activity": "",
+ "reports": [],
+ "agent": {
+  "name": "Registered Agents Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "1500 N. Grant St, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2022-01-06",
+   "filed": "2022-01-06",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20221021065",
+   "name": "Three Springs, LLC"
+  },
+  {
+   "date": "2022-01-24",
+   "filed": "2022-01-24",
+   "what": "Dissolve a Limited Liability Company",
+   "file": "20221088355"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20221021065",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

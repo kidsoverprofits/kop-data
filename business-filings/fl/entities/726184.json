@@ -1,0 +1,97 @@
+{
+ "state": "FL",
+ "doc": "726184",
+ "name": "Steppin' Stone Farm, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1973-04-20",
+ "origin": "FL",
+ "fei": "237348139",
+ "address": "% Connett & Anagnost, Cpa's, P.a., 604 East Morgan Street, Brandon, FL, 33510",
+ "city": "Brandon",
+ "last_activity": "2014-08-20",
+ "reports": [
+  {
+   "year": 2014,
+   "filed": "2014-01-14"
+  },
+  {
+   "year": 2014,
+   "filed": "2014-01-14"
+  },
+  {
+   "year": 2013,
+   "filed": "2013-01-25"
+  }
+ ],
+ "agent": null,
+ "officers": [
+  {
+   "name": "Edward H Keiser",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Dover, FL"
+  },
+  {
+   "name": "James Zetler",
+   "kind": "person",
+   "title": "Vice President, Director",
+   "place": "Jupiter, FL"
+  },
+  {
+   "name": "Robert Loeber",
+   "kind": "person",
+   "title": "Secretary, Director",
+   "place": "Plant City, FL"
+  },
+  {
+   "name": "Margie Willis",
+   "kind": "person",
+   "title": "Treasurer, Director",
+   "place": "Plant City, FL"
+  },
+  {
+   "name": "Cynthia S Churchill",
+   "kind": "person",
+   "title": "Executive Director",
+   "place": "Lithia, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1993-01-25",
+   "filed": "1993-01-25",
+   "what": "Amendment"
+  },
+  {
+   "date": "1997-09-26",
+   "filed": "1997-09-26",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1998-12-17",
+   "filed": "1998-12-17",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2010-09-24",
+   "filed": "2010-09-24",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2010-10-15",
+   "filed": "2010-10-15",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2014-08-20",
+   "filed": "2014-08-20",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=726184",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

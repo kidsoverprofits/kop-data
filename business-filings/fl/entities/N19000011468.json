@@ -1,0 +1,99 @@
+{
+ "state": "FL",
+ "doc": "N19000011468",
+ "name": "Papilio Family Foundation, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2019-10-09",
+ "origin": "FL",
+ "fei": "843536893",
+ "address": "1808 Orchid St., Sarasota, FL, 34239",
+ "city": "Sarasota",
+ "last_activity": "2025-09-26",
+ "reports": [
+  {
+   "year": 2024,
+   "filed": "2024-06-20"
+  },
+  {
+   "year": 2024,
+   "filed": "2024-06-20"
+  },
+  {
+   "year": 2023,
+   "filed": "2023-04-08"
+  }
+ ],
+ "agent": {
+  "name": "Joseph Kanner",
+  "kind": "person",
+  "title": "",
+  "place": "Sarasota, FL"
+ },
+ "officers": [
+  {
+   "name": "Joseph Kanner",
+   "kind": "person",
+   "title": "President",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Cara Kanner",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Adam Schiffman",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "San Francisco, CA"
+  },
+  {
+   "name": "Linda Mason",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Bradenton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-09-26",
+   "filed": "2025-09-26",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Community Schools",
+   "county": "Sarasota",
+   "status": "active",
+   "filed": "2023-01-08",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000003382"
+  },
+  {
+   "name": "New Life Circles",
+   "county": "Sarasota",
+   "status": "active",
+   "filed": "2021-09-20",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G21000124202"
+  },
+  {
+   "name": "Sarasota Community School",
+   "county": "Sarasota",
+   "status": "active",
+   "filed": "2016-12-18",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G16000135944"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N19000011468",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

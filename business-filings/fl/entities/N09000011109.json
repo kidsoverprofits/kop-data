@@ -1,0 +1,64 @@
+{
+ "state": "FL",
+ "doc": "N09000011109",
+ "name": "Southeastern Military Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2009-11-17",
+ "origin": "FL",
+ "fei": "",
+ "address": "638 Sw Biltmore Street, Port St Lucie, FL, 34983",
+ "city": "Port St Lucie",
+ "last_activity": "2011-09-23",
+ "reports": [],
+ "agent": {
+  "name": "Alan L Weierman",
+  "kind": "person",
+  "title": "",
+  "place": "Port St Lucie, FL"
+ },
+ "officers": [
+  {
+   "name": "Alan L Weierman",
+   "kind": "person",
+   "title": "President",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "David A Weierman",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Patricia A Brink",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Molly B Weierman",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Jonathan W Weierman",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2011-09-23",
+   "filed": "2011-09-23",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N09000011109",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

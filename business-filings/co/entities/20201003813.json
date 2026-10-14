@@ -1,0 +1,40 @@
+{
+ "state": "CO",
+ "doc": "20201003813",
+ "name": "Sequel Youth and Family Services, LLC",
+ "type": "FLLC",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "DE",
+ "fei": "",
+ "address": "1131 Eagletree Lane SW, Huntsville, AL, 35801",
+ "city": "Huntsville",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2022,
+   "filed": ""
+  },
+  {
+   "year": 2021,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2020-01-02",
+   "filed": "2020-01-02",
+   "what": "Apply for Foreign Entity Authority To transact business in Colorado",
+   "file": "20201003813",
+   "name": "Sequel Youth and Family Services, LLC"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20201003813",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

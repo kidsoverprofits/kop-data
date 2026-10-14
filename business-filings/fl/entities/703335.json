@@ -1,0 +1,185 @@
+{
+ "state": "FL",
+ "doc": "703335",
+ "name": "Lakeview Center, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1961-12-15",
+ "origin": "FL",
+ "fei": "590737872",
+ "address": "1221 W Lakeview Ave, Pensacola, FL, 32501",
+ "city": "Pensacola",
+ "last_activity": "2023-11-01",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-20"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-20"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-03"
+  }
+ ],
+ "agent": {
+  "name": "Ronald A Christaldi",
+  "kind": "person",
+  "title": "",
+  "place": "Tampa, FL"
+ },
+ "officers": [
+  {
+   "name": "Laura E Swanson",
+   "kind": "person",
+   "title": "CORP",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "M. Allison Hill",
+   "kind": "person",
+   "title": "Chief Executive Officer",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Hugh Hamilton",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Sandy Whitaker",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Shawn Salamida",
+   "kind": "person",
+   "title": "President",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Eric E Barley",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Pensacola, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "1961-12-15",
+   "filed": "1961-12-15",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1982-01-06",
+   "filed": "1982-01-06",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1992-07-06",
+   "filed": "1992-07-06",
+   "what": "Event converted to  notes"
+  },
+  {
+   "date": "1996-07-01",
+   "filed": "1996-07-01",
+   "what": "Corporate merger",
+   "other_doc": "900000010299",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  },
+  {
+   "date": "1997-11-18",
+   "filed": "1997-11-18",
+   "what": "Amendment"
+  },
+  {
+   "date": "1997-11-18",
+   "filed": "1997-11-18",
+   "what": "Restated articles"
+  },
+  {
+   "date": "1998-05-11",
+   "filed": "1998-05-11",
+   "what": "Amendment"
+  },
+  {
+   "date": "2019-06-04",
+   "filed": "2019-06-04",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2021-09-30",
+   "filed": "2021-09-30",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2023-11-01",
+   "filed": "2023-11-01",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Lakeview Center of Walton County",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2023-03-23",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000038329"
+  },
+  {
+   "name": "211 Panhandle Helpline",
+   "county": "Walton",
+   "status": "active",
+   "filed": "2021-08-18",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G21000107242"
+  },
+  {
+   "name": "Families First Network",
+   "county": "Escambia",
+   "status": "active",
+   "filed": "2016-11-30",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G16000128472"
+  },
+  {
+   "name": "Summit Group",
+   "county": "Escambia",
+   "status": "active",
+   "filed": "2011-11-11",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G11000110144"
+  },
+  {
+   "name": "Access Behavioral Health",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2001-08-17",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G01229900143"
+  },
+  {
+   "name": "The Meridian",
+   "county": "Escambia",
+   "status": "active",
+   "filed": "1992-08-18",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G92231000169"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=703335",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

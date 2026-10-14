@@ -1,0 +1,47 @@
+{
+ "state": "FL",
+ "doc": "L05000091301",
+ "name": "L.i.f.e. LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2005-09-15",
+ "origin": "FL",
+ "fei": "204438388",
+ "address": "21 Bennington Court, Asheville, NC, 28803",
+ "city": "Asheville",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-06"
+  }
+ ],
+ "agent": {
+  "name": "William E Hires Jr.",
+  "kind": "person",
+  "title": "",
+  "place": "Mills River, FL"
+ },
+ "officers": [
+  {
+   "name": "William E Hires Jr.",
+   "kind": "person",
+   "title": "Managing Member",
+   "place": "Asheville, NC"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L05000091301",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

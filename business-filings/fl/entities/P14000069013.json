@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "P14000069013",
+ "name": "Successful Dreams, Inc",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2014-08-18",
+ "origin": "FL",
+ "fei": "",
+ "address": "1445 Sw 122 Avenue #4, Miami, FL, 33184",
+ "city": "Miami",
+ "last_activity": "2015-09-25",
+ "reports": [],
+ "agent": {
+  "name": "Jilda L Rodriquez",
+  "kind": "person",
+  "title": "",
+  "place": "Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Hilda L Rodriquez",
+   "kind": "person",
+   "title": "President",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2015-09-25",
+   "filed": "2015-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P14000069013",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

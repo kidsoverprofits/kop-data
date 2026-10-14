@@ -1,0 +1,41 @@
+{
+ "state": "CO",
+ "doc": "19981070413",
+ "name": "Three Springs, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "status_label": "Withdrawn",
+ "filed": "",
+ "origin": "AL",
+ "fei": "",
+ "address": "247 Chateau Dr Ste A, Huntsville, AL, 35801",
+ "city": "Huntsville",
+ "last_activity": "",
+ "reports": [],
+ "agent": {
+  "name": "The Corporation Company",
+  "kind": "company",
+  "title": "",
+  "address": "7700 E Arapahoe Rd Ste 220, Centennial, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1998-04-15",
+   "filed": "1998-04-15",
+   "what": "Application for Authority",
+   "file": "19981070413"
+  },
+  {
+   "date": "2000-07-03",
+   "filed": "2000-07-03",
+   "what": "Withdrawal of a Foreign Entity",
+   "file": "20001131071"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19981070413",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

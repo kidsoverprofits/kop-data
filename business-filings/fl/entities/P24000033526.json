@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "P24000033526",
+ "name": "Step Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2024-05-09",
+ "origin": "FL",
+ "fei": "",
+ "address": "86 Sw 8th St, 2103, Miami, FL, 33130",
+ "city": "Miami",
+ "last_activity": "2025-09-26",
+ "reports": [],
+ "agent": {
+  "name": "Pablo Troyse Rodriguez",
+  "kind": "person",
+  "title": "",
+  "place": "Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Pablo Troyse",
+   "kind": "person",
+   "title": "President",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-09-26",
+   "filed": "2025-09-26",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P24000033526",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

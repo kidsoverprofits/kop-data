@@ -1,0 +1,54 @@
+{
+ "state": "FL",
+ "doc": "L25000315217",
+ "name": "Canopy Pines Recovery, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2025-07-16",
+ "origin": "FL",
+ "fei": "413082082",
+ "address": "13305 Mahan Drive, Tallahassee, FL, 32029",
+ "city": "Tallahassee",
+ "last_activity": "2026-03-20",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-07-31"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-07-31"
+  }
+ ],
+ "agent": {
+  "name": "Louis M Joos",
+  "kind": "person",
+  "title": "",
+  "place": "Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Restore Mental Health, LLC",
+   "kind": "company",
+   "title": "Authorized Member",
+   "address": "C/o F3 Partners LLC, New York, NY"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-12-09",
+   "filed": "2025-12-09",
+   "what": "Lc name change"
+  },
+  {
+   "date": "2026-03-20",
+   "filed": "2026-03-20",
+   "what": "Lc amendment and    name change"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L25000315217",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

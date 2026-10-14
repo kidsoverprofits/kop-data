@@ -1,0 +1,110 @@
+{
+ "state": "FL",
+ "doc": "M96000000448",
+ "name": "Truecore Behavioral Solutions, LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "inactive",
+ "filed": "1996-11-13",
+ "origin": "VA",
+ "fei": "541859903",
+ "address": "1907 N US Highway 301, Tampa, FL, 33619",
+ "city": "Tampa",
+ "last_activity": "2026-08-05",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-02-11"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-11"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-22"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Robbin Berry",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Maria Caba-MAcc",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "James Martin",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Coral Springs,, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-03-19",
+   "filed": "1997-03-19",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2000-09-29",
+   "filed": "2000-09-29",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2000-10-19",
+   "filed": "2000-10-19",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2001-09-28",
+   "filed": "2001-09-28",
+   "what": "Revoked for         annual report"
+  },
+  {
+   "date": "2001-10-24",
+   "filed": "2001-10-24",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2005-08-17",
+   "filed": "2005-08-17",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2017-07-12",
+   "filed": "2017-07-12",
+   "what": "Lc name change"
+  },
+  {
+   "date": "2026-08-05",
+   "filed": "2026-08-05",
+   "what": "Withdrawal"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Cypress Creek",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2022-08-19",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G22000098207"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M96000000448",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

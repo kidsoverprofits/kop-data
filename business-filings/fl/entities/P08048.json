@@ -1,0 +1,87 @@
+{
+ "state": "FL",
+ "doc": "P08048",
+ "name": "The Devereux Foundation, Inc.",
+ "type": "FORNP",
+ "type_label": "Foreign nonprofit corporation",
+ "status": "active",
+ "filed": "1985-11-08",
+ "origin": "PA",
+ "fei": "231390618",
+ "address": "444 Devereux Drive, Villanova, PA, 19085",
+ "city": "Villanova",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-28"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-28"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-03"
+  }
+ ],
+ "agent": {
+  "name": "Kelly Messer",
+  "kind": "person",
+  "title": "",
+  "place": "Orlando, FL"
+ },
+ "officers": [
+  {
+   "name": "Carl Clark",
+   "kind": "person",
+   "title": "Chief Executive Officer",
+   "place": "Villanova, PA"
+  },
+  {
+   "name": "Robert C Dunne",
+   "kind": "person",
+   "title": "Chief Financial Officer",
+   "place": "Villanova, PA"
+  },
+  {
+   "name": "David Griffith",
+   "kind": "person",
+   "title": "CONT",
+   "place": "Villanova, PA"
+  },
+  {
+   "name": "Leah Yaw",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Villanova, PA"
+  },
+  {
+   "name": "Christopher D Butler",
+   "kind": "person",
+   "title": "Trustee",
+   "place": "Villanova, PA"
+  },
+  {
+   "name": "James Schwab",
+   "kind": "person",
+   "title": "Trustee",
+   "place": "Villanova, PA"
+  }
+ ],
+ "more_officers": true,
+ "events": [],
+ "trade_names": [
+  {
+   "name": "Devereux Florida",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2002-07-03",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G02184900072"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P08048",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

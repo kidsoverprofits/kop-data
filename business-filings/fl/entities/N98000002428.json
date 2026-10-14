@@ -1,0 +1,93 @@
+{
+ "state": "FL",
+ "doc": "N98000002428",
+ "name": "Advocates of Bay County Boot Camp, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1998-04-28",
+ "origin": "FL",
+ "fei": "593517117",
+ "address": "456 E 11th Street, Panama City, FL, 32401",
+ "city": "Panama City",
+ "last_activity": "2006-03-31",
+ "reports": [
+  {
+   "year": 2005,
+   "filed": "2005-04-07"
+  },
+  {
+   "year": 2005,
+   "filed": "2005-04-07"
+  },
+  {
+   "year": 2004,
+   "filed": "2004-08-02"
+  }
+ ],
+ "agent": {
+  "name": "Michael B Duncan",
+  "kind": "person",
+  "title": "",
+  "place": "Panama City, FL"
+ },
+ "officers": [
+  {
+   "name": "Ken Shaffer",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Panama City, FL"
+  },
+  {
+   "name": "Ken Shaffer",
+   "kind": "person",
+   "title": "Treasurer, Director",
+   "place": "Panama City, FL"
+  },
+  {
+   "name": "Genie Caruthers",
+   "kind": "person",
+   "title": "Secretary, Treasurer, Director",
+   "place": "Panama City, FL"
+  },
+  {
+   "name": "Hattie Burch",
+   "kind": "person",
+   "title": "Director",
+   "place": "Panama City, FL"
+  },
+  {
+   "name": "John Ammons",
+   "kind": "person",
+   "title": "Director",
+   "place": "Panama City, FL"
+  },
+  {
+   "name": "Joel Booth",
+   "kind": "person",
+   "title": "Director",
+   "place": "Panama City, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2001-09-21",
+   "filed": "2001-09-21",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2001-12-10",
+   "filed": "2001-12-10",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2006-03-31",
+   "filed": "2006-03-31",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N98000002428",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

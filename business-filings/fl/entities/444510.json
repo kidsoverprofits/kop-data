@@ -1,0 +1,67 @@
+{
+ "state": "FL",
+ "doc": "444510",
+ "name": "Growing Together, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1974-01-21",
+ "origin": "FL",
+ "fei": "591548755",
+ "address": "1619 Ne 163rd St., No. Miami Beach, FL, 33162",
+ "city": "No. Miami Beach",
+ "last_activity": "1976-12-11",
+ "reports": [
+  {
+   "year": 1975,
+   "filed": "1975-02-21"
+  },
+  {
+   "year": 1975,
+   "filed": "1975-02-21"
+  }
+ ],
+ "agent": {
+  "name": "Altman, Stuart H.",
+  "kind": "company",
+  "title": "",
+  "address": "Fifth Floor, City Nat'l Bank Bldg., Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Altman, Dennis",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "No Miami, FL"
+  },
+  {
+   "name": "Mcnamara, Stephen",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "No Miami Beach, FL"
+  },
+  {
+   "name": "Mcnamara, Sheryl",
+   "kind": "company",
+   "title": "Secretary",
+   "address": "No Miami Beach, FL"
+  },
+  {
+   "name": "Altman, Susan",
+   "kind": "company",
+   "title": "Treasurer",
+   "address": "North Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1976-12-11",
+   "filed": "1976-12-11",
+   "what": "Cancel for          non-payment"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=444510",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

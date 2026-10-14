@@ -1,0 +1,91 @@
+{
+ "state": "CO",
+ "doc": "19991088411",
+ "name": "Wilderness Opportunities, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "225 Cement Creek Rd, Po Box 2652, Crested Butte, CO, 81224",
+ "city": "Crested Butte",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2005,
+   "filed": ""
+  },
+  {
+   "year": 2004,
+   "filed": ""
+  },
+  {
+   "year": 2003,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "James H. Starr",
+  "kind": "person",
+  "title": "",
+  "place": "Crested Butte, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1999-05-10",
+   "filed": "1999-05-10",
+   "what": "Articles of Incorporation",
+   "file": "19991088411",
+   "name": "Wilderness Opportunities, Inc."
+  },
+  {
+   "date": "2002-05-13",
+   "filed": "2002-05-13",
+   "what": "Amendment",
+   "file": "20021127789"
+  },
+  {
+   "date": "2003-11-24",
+   "filed": "2003-11-24",
+   "what": "Amendment",
+   "file": "20031374305"
+  },
+  {
+   "date": "2003-11-24",
+   "filed": "2003-11-24",
+   "what": "Reinstatement",
+   "file": "20031374305"
+  },
+  {
+   "date": "2003-12-08",
+   "filed": "2003-12-08",
+   "what": "Amendment",
+   "file": "20031387406"
+  },
+  {
+   "date": "2003-12-08",
+   "filed": "2003-12-08",
+   "what": "Amendment",
+   "file": "20031387407"
+  },
+  {
+   "date": "2003-12-08",
+   "filed": "2003-12-08",
+   "what": "Amendment",
+   "file": "20031387408"
+  },
+  {
+   "date": "2005-08-22",
+   "filed": "2005-08-22",
+   "what": "Dissolve a Nonprofit Corporation",
+   "file": "20051319329"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19991088411",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

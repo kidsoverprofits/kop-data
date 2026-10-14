@@ -1,0 +1,115 @@
+{
+ "state": "FL",
+ "doc": "F78278",
+ "name": "Gulf Coast Treatment Center, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "active",
+ "filed": "1982-04-29",
+ "origin": "FL",
+ "fei": "561341134",
+ "address": "1015 Mar Walt Drive, Fort Walton Beach, FL, 32547",
+ "city": "Fort Walton Beach",
+ "last_activity": "2008-11-12",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-09"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Steve Filton",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Matt Peterson",
+   "kind": "person",
+   "title": "President",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Cheryl K Ramagano",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Matthew D Klein",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "King of Prussia, PA"
+  },
+  {
+   "name": "Thomas Day",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "King of Prussia, PA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2001-07-12",
+   "filed": "2001-07-12",
+   "what": "Amendment"
+  },
+  {
+   "date": "2008-09-26",
+   "filed": "2008-09-26",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2008-11-12",
+   "filed": "2008-11-12",
+   "what": "Cancel adm diss/rev"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Okaloosa Youth Academy",
+   "county": "Okaloosa",
+   "status": "active",
+   "filed": "2017-04-26",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G17000045544"
+  },
+  {
+   "name": "Gulf Coast Youth Services",
+   "county": "Okaloosa",
+   "status": "active",
+   "filed": "2001-02-12",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G01040900133"
+  },
+  {
+   "name": "Gulf Coast Treatment Center",
+   "county": "Okaloosa",
+   "status": "active",
+   "filed": "1996-11-04",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G96306900022"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F78278",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

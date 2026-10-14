@@ -1,0 +1,55 @@
+{
+ "state": "FL",
+ "doc": "L03000012071",
+ "name": "Willow Grove, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2003-04-04",
+ "origin": "FL",
+ "fei": "470915027",
+ "address": "295 North Drive, Suite G, Melbourne, FL, 32934",
+ "city": "Melbourne",
+ "last_activity": "2005-09-16",
+ "reports": [
+  {
+   "year": 2004,
+   "filed": "2004-03-05"
+  },
+  {
+   "year": 2004,
+   "filed": "2004-03-05"
+  }
+ ],
+ "agent": {
+  "name": "William H Walden",
+  "kind": "person",
+  "title": "",
+  "place": "Melbourne, FL"
+ },
+ "officers": [
+  {
+   "name": "Heartsprings International Ministires, Inc",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "535 Casia Blvd., Satellite Beach, FL"
+  },
+  {
+   "name": "Affordable Multi-family, LLC",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "320 Golden Shore, Suite 200, Long Beach, CA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-09-16",
+   "filed": "2005-09-16",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L03000012071",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,82 @@
+{
+ "state": "FL",
+ "doc": "N44258",
+ "name": "Edgewood Ranch Endowment, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1991-07-08",
+ "origin": "FL",
+ "fei": "593080606",
+ "address": "1451 Edgewood Ranch Road, Orlando, FL, 32858",
+ "city": "Orlando",
+ "last_activity": "1997-11-20",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-05-27"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-05-27"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-21"
+  }
+ ],
+ "agent": {
+  "name": "James S Crenshaw",
+  "kind": "person",
+  "title": "",
+  "place": "Orlando, FL"
+ },
+ "officers": [
+  {
+   "name": "James S Crenshaw",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Mike Kelsey",
+   "kind": "person",
+   "title": "Vice President, Chairman",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Mark Thompson",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Charlie Cramer",
+   "kind": "person",
+   "title": "Director",
+   "place": "Longwood, FL"
+  },
+  {
+   "name": "Julie Kleffel",
+   "kind": "person",
+   "title": "Director",
+   "place": "Longwood, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-09-26",
+   "filed": "1997-09-26",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1997-11-20",
+   "filed": "1997-11-20",
+   "what": "Reinstatement"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N44258",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

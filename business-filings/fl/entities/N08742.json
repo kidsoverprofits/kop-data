@@ -1,0 +1,126 @@
+{
+ "state": "FL",
+ "doc": "N08742",
+ "name": "Eckerd Youth Alternatives, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1985-04-16",
+ "origin": "FL",
+ "fei": "592551416",
+ "address": "100 N Starcrest Drive, Clearwater, FL, 33765",
+ "city": "Clearwater",
+ "last_activity": "2025-03-05",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-23"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-23"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-08-20"
+  }
+ ],
+ "agent": {
+  "name": "Cogency Global Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "115 North Calhoun St., Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Michael Smith",
+   "kind": "person",
+   "title": "President",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Michael Goodwin",
+   "kind": "person",
+   "title": "Director",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "David Bennett",
+   "kind": "person",
+   "title": "Director",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Joseph W. Clark",
+   "kind": "person",
+   "title": "Director",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Laura Hunt",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Laura Hunt",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Clearwater, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "1985-06-17",
+   "filed": "1985-06-17",
+   "what": "Amendment"
+  },
+  {
+   "date": "1985-08-28",
+   "filed": "1985-08-28",
+   "what": "Amendment"
+  },
+  {
+   "date": "1998-01-08",
+   "filed": "1998-01-08",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2025-03-05",
+   "filed": "2025-03-05",
+   "what": "Amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Eckerd Connects Academy",
+   "county": "Pinellas",
+   "status": "active",
+   "filed": "2021-05-13",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G21000065399"
+  },
+  {
+   "name": "Eckerd Connects",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2017-11-17",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G17000126949"
+  },
+  {
+   "name": "Eckerd Connects",
+   "county": "Pinellas",
+   "status": "active",
+   "filed": "2017-07-14",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G17000075906"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N08742",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

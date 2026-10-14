@@ -1,0 +1,117 @@
+{
+ "state": "FL",
+ "doc": "N98000002453",
+ "name": "Twin Oaks Juvenile Development, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1998-04-27",
+ "origin": "FL",
+ "fei": "593512790",
+ "address": "11939 NW State Road 20, Bristol, FL, 32321",
+ "city": "Bristol",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-29"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-29"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-06"
+  }
+ ],
+ "agent": {
+  "name": "Benjie Read",
+  "kind": "person",
+  "title": "",
+  "place": "Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Donnie Read",
+   "kind": "person",
+   "title": "Director",
+   "place": "Bristol, FL"
+  },
+  {
+   "name": "David A Read",
+   "kind": "person",
+   "title": "Director",
+   "place": "Bristol, FL"
+  },
+  {
+   "name": "Venisha W Buchanon",
+   "kind": "person",
+   "title": "Director",
+   "place": "Gainesville, FL"
+  },
+  {
+   "name": "Charles R Chervanick",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tallahassee, FL"
+  },
+  {
+   "name": "Benjiman D Read",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tallahassee, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [
+  {
+   "name": "Gluestream America",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2023-01-25",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000011937"
+  },
+  {
+   "name": "Waypoint Charter Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2023-01-25",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000011932"
+  },
+  {
+   "name": "Twin Oaks Community Services",
+   "county": "Leon",
+   "status": "active",
+   "filed": "2020-11-06",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G20000143365"
+  },
+  {
+   "name": "Apalachicola Forest Youth Camp",
+   "county": "Liberty",
+   "status": "active",
+   "filed": "2020-10-06",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G20000129820"
+  },
+  {
+   "name": "Twin Oaks",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2020-03-03",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G20000027515"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N98000002453",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

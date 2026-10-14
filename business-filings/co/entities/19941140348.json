@@ -1,0 +1,67 @@
+{
+ "state": "CO",
+ "doc": "19941140348",
+ "name": "Mount St. Vincent Home, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "4159 Lowell Blvd, Denver, CO, 80211",
+ "city": "Denver",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Incorp Services, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "1500 N Grant St, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1994-12-16",
+   "filed": "1994-12-16",
+   "what": "Articles of Incorporation",
+   "file": "19941140348",
+   "name": "Mount St. Vincent Home, Inc."
+  },
+  {
+   "date": "1997-01-15",
+   "filed": "1997-01-15",
+   "what": "Amendment",
+   "file": "19971007362"
+  },
+  {
+   "date": "2001-01-08",
+   "filed": "2001-01-08",
+   "what": "Amendment",
+   "file": "20011005049"
+  },
+  {
+   "date": "2011-03-01",
+   "filed": "2011-02-21",
+   "what": "Amend and Restate Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20111105010"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19941140348",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

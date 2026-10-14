@@ -1,0 +1,46 @@
+{
+ "state": "FL",
+ "doc": "P08000018092",
+ "name": "Psychiatric Solutions Inc",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2008-02-19",
+ "origin": "FL",
+ "fei": "",
+ "address": "2869 Wilshire Dr, Suite 201, Orlando, FL, 32835",
+ "city": "Orlando",
+ "last_activity": "2008-07-07",
+ "reports": [],
+ "agent": {
+  "name": "Aftab Qadir",
+  "kind": "person",
+  "title": "",
+  "place": "Orlando, FL"
+ },
+ "officers": [
+  {
+   "name": "Aftab Qadir",
+   "kind": "person",
+   "title": "President",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Louis Allen",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Orlando, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2008-07-07",
+   "filed": "2008-07-07",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P08000018092",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

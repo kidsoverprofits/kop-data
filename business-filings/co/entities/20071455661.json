@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20071455661",
+ "name": "Eating Recovery Center LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "7351 E Lowry Blvd Ste 200, Denver, CO, 80230",
+ "city": "Denver",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Eating Recovery Center LLC",
+  "kind": "company",
+  "title": "",
+  "address": "7351 E Lowry Blvd Ste 200, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2007-10-03",
+   "filed": "2007-10-03",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20071455661",
+   "name": "Eating Recovery Center LLC"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20071455661",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

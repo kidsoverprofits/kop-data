@@ -1,0 +1,1419 @@
+{
+ "built": "2026-10-14",
+ "state": "CO",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov",
+ "entities": [
+  {
+   "doc": "19871530656",
+   "name": "Adolescent and Family Institute of Colorado, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Wheat Ridge",
+   "fei": "",
+   "officers": [],
+   "agent": "Alex M. Panio Jr.",
+   "trade_names": 0,
+   "last_report": 2012,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12624,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Adolescent and Family Institute of Colorado",
+     "place": "Wheat Ridge, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20021205611",
+   "name": "Ashley Valley Wilderness, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Vernal",
+   "fei": "",
+   "officers": [],
+   "agent": "Bingham Marty",
+   "trade_names": 1,
+   "last_report": 2012,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100100,
+     "how": "a trade name it registered",
+     "trade_name": "Mountain Homes Youth Ranch",
+     "name": "Mountain Homes Youth Ranch",
+     "place": "Dinosaur, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20171442286",
+   "name": "Brad's House LLC",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Colorado Springs",
+   "fei": "",
+   "officers": [],
+   "agent": "Brad's House LLC",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Colorado Springs; the record is somewhere else or names no town.",
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12628,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Brad’s House",
+     "place": "Monument, CO",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20031062896",
+   "name": "Cedar Springs Hospital, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Colorado Springs",
+   "fei": "",
+   "officers": [],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100006,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Brown Schools at Cedar Springs",
+     "place": "Colorado Springs, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19941093769",
+   "name": "Children's Ark, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Pueblo",
+   "fei": "",
+   "officers": [],
+   "agent": "Sabrina Haines",
+   "trade_names": 0,
+   "last_report": 2014,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Pueblo; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12626,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Axios Youth Community",
+     "place": "Green Mountain Falls, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19981188835",
+   "name": "Correctional Services Corporation",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Sarasota",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2000,
+   "match": "check",
+   "flags": [
+    "Revoked in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 31,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Correctional Services Corporation",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20071455661",
+   "name": "Eating Recovery Center LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Denver",
+   "fei": "",
+   "officers": [],
+   "agent": "Eating Recovery Center LLC",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12636,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eating Recovery Center",
+     "place": "Denver, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20121699798",
+   "name": "Eckerd Youth Alternatives, Inc",
+   "type_label": "Foreign nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Clearwater",
+   "fei": "",
+   "officers": [],
+   "agent": "Cogency Global Inc.",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 9,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Eckerd Connects",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19871662763",
+   "name": "El Pueblo Boys' & Girls' Ranch Foundation",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Pueblo",
+   "fei": "",
+   "officers": [],
+   "agent": "Jimmy Cardinal",
+   "trade_names": 0,
+   "last_report": 2015,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12637,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "El Pueblo Boys and Girls Ranch",
+     "place": "Pueblo, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19871213368",
+   "name": "El Pueblo Boys' & Girls' Ranch, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Pueblo",
+   "fei": "",
+   "officers": [],
+   "agent": "Douglas D Piersel",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "matched",
+   "flags": [
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12637,
+     "how": "its name",
+     "trade_name": "",
+     "name": "El Pueblo Boys and Girls Ranch",
+     "place": "Pueblo, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19871281780",
+   "name": "Excelsior Youth Centers, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Aurora",
+   "fei": "",
+   "officers": [],
+   "agent": "Turnwall Kyle",
+   "trade_names": 0,
+   "last_report": 2018,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12639,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Excelsior Youth Center",
+     "place": "Aurora, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20111480758",
+   "name": "Fire Mountain Residential Treatment Center, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Estes Park",
+   "fei": "",
+   "officers": [],
+   "agent": "Christine L Porta",
+   "trade_names": 0,
+   "last_report": 2020,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12640,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Fire Mountain RTC",
+     "place": "Estes Park, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19871129507",
+   "name": "Forest Heights Lodge Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Lakewood",
+   "fei": "",
+   "officers": [],
+   "agent": "Forest Heights Lodge Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Lakewood; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12641,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Forest Heights Lodge",
+     "place": "Evergreen, CO",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19871174575",
+   "name": "Griffith Centers, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Northglenn",
+   "fei": "",
+   "officers": [],
+   "agent": "Griffith Centers, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Colorado has it in Northglenn; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12638,
+     "how": "a name it had before",
+     "trade_name": "Emily Griffith Center, Inc.",
+     "name": "Emily Griffith Center",
+     "place": "Larkspur, CO",
+     "status": "Closed",
+     "same_town": false
+    },
+    {
+     "kind": "facility",
+     "id": 12645,
+     "how": "a name it had before",
+     "trade_name": "Griffith Centers for Children, Inc.",
+     "name": "Griffith Centers for Children",
+     "place": "Lakewood, CO",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19931093247",
+   "name": "Jefferson Hills Corporation",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Lakewood",
+   "fei": "",
+   "officers": [],
+   "agent": "Karen O. Yarberry",
+   "trade_names": 0,
+   "last_report": 2022,
+   "match": "matched",
+   "flags": [
+    "Merged in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12646,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Jefferson Center",
+     "place": "Lakewood, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19991005890",
+   "name": "Kidz Ark, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Sterling",
+   "fei": "",
+   "officers": [],
+   "agent": "Jay Littlefield",
+   "trade_names": 0,
+   "last_report": 2013,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12647,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Kidz Ark",
+     "place": "Sterling, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19941140348",
+   "name": "Mount St. Vincent Home, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Denver",
+   "fei": "",
+   "officers": [],
+   "agent": "Incorp Services, Inc.",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12651,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Mount Saint Vincent QRTP",
+     "place": "Denver, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19941081055",
+   "name": "Mountain Homes Youth Ranch, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 1996,
+   "match": "check",
+   "flags": [
+    "Colorado has it in no town; the record is somewhere else or names no town.",
+    "Administratively Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100100,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Mountain Homes Youth Ranch",
+     "place": "Dinosaur, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20191730752",
+   "name": "Red Mountain Colorado, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Salem",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2024,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Salem; the record is somewhere else or names no town.",
+    "Withdrawn in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12622,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Red Mountain Colorado",
+     "place": "Greeley, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20041287260",
+   "name": "Reflections for Youth, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Loveland",
+   "fei": "",
+   "officers": [],
+   "agent": "John R. Kinnaird",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "matched",
+   "flags": [
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12657,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Reflections for Youth",
+     "place": "Loveland, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20011070566",
+   "name": "Ridge View Academy",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Denver",
+   "fei": "",
+   "officers": [],
+   "agent": "Incorp Services, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Denver; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12658,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Ridge View Academy",
+     "place": "Watkins, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20231296540",
+   "name": "Rite of Passage ltd.",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Frisco",
+   "fei": "",
+   "officers": [],
+   "agent": "Joseph Akai Phillips",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 18,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "operator",
+     "id": 832,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19981223956",
+   "name": "Rite of Passage, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Minden",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 1,
+   "last_report": 2000,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company.",
+    "Revoked in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 18,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "operator",
+     "id": 832,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20031206139",
+   "name": "Rite of Passage, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Minden",
+   "fei": "",
+   "officers": [],
+   "agent": "Rite of Passage, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "More than one record could be this company."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 18,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
+     "kind": "operator",
+     "id": 832,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rite of Passage, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20071477984",
+   "name": "Rocky Mountain Kids, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Colorado Springs",
+   "fei": "",
+   "officers": [],
+   "agent": "Felice Liquori",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12660,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Rocky Mountain Kids",
+     "place": "Colorado Springs, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "19921095298",
+   "name": "Rocky Mountain Moose, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Boulder",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 3,
+   "last_report": 1996,
+   "match": "check",
+   "flags": [
+    "Administratively Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12660,
+     "how": "a trade name it registered",
+     "trade_name": "Rocky Mountain Kids, Inc.",
+     "name": "Rocky Mountain Kids",
+     "place": "Colorado Springs, CO",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20051456681",
+   "name": "Royal Gorge Academy, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Canon City",
+   "fei": "",
+   "officers": [],
+   "agent": "Brian Patrick Lemons",
+   "trade_names": 0,
+   "last_report": 2007,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Canon City; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12623,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Royal Gorge Academy",
+     "place": "Cañon City, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20201003813",
+   "name": "Sequel Youth and Family Services, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Huntsville",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2022,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 20,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Sequel TSI",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19961000664",
+   "name": "SolTribe LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Lakewood",
+   "fei": "",
+   "officers": [],
+   "agent": "David Ventimiglia",
+   "trade_names": 0,
+   "last_report": 2012,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Lakewood; the record is somewhere else or names no town.",
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12668,
+     "how": "a name it had before",
+     "trade_name": "Monarch Center for Family Healing LLC",
+     "name": "Trailhead Wilderness School",
+     "place": "Georgetown, CO",
+     "status": "Closed",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20091078062",
+   "name": "Straight LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Greeley",
+   "fei": "",
+   "officers": [],
+   "agent": "Charlene Louise Voelz",
+   "trade_names": 0,
+   "last_report": 2010,
+   "match": "check",
+   "flags": [
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 21,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Straight Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20241619072",
+   "name": "Straight, LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Denver",
+   "fei": "",
+   "officers": [],
+   "agent": "Nicholas Ghiselli",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 21,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Straight Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19961007147",
+   "name": "Successful Dreams, Inc.",
+   "type_label": "Colorado profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": 2000,
+   "match": "check",
+   "flags": [
+    "Administratively Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500015,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Successful Dreams",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19921095850",
+   "name": "The Brown Schools of Colorado, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Austin",
+   "fei": "",
+   "officers": [],
+   "agent": "The Corporation Company",
+   "trade_names": 4,
+   "last_report": 2004,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Austin; the record is somewhere else or names no town.",
+    "Revoked in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100006,
+     "how": "a name it had before",
+     "trade_name": "Cedar Springs Hospital, Inc.",
+     "name": "The Brown Schools at Cedar Springs",
+     "place": "Colorado Springs, CO",
+     "status": "Open",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19971199045",
+   "name": "The Brown Schools, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Austin",
+   "fei": "",
+   "officers": [],
+   "agent": "The Corporation Company",
+   "trade_names": 0,
+   "last_report": 2004,
+   "match": "check",
+   "flags": [
+    "Revoked in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 4,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Brown Schools",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20121452998",
+   "name": "The Daisy Center, LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Grand Junction",
+   "fei": "",
+   "officers": [],
+   "agent": "Jenny Scott Brinton",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12634,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Daisy Center",
+     "place": "Grand Junction, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20001106111",
+   "name": "The Excelsior Youth Foundation",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Aurora",
+   "fei": "",
+   "officers": [],
+   "agent": "Susan Hebert",
+   "trade_names": 0,
+   "last_report": 2017,
+   "match": "check",
+   "flags": [
+    "Only the address matches: check it is the program and not another business in the building.",
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12639,
+     "how": "the program's street address",
+     "trade_name": "",
+     "name": "Excelsior Youth Center",
+     "place": "Aurora, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20071137370",
+   "name": "The Link School",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Buena Vista",
+   "fei": "",
+   "officers": [],
+   "agent": "Jessica Michelle Orlet",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12667,
+     "how": "its name",
+     "trade_name": "",
+     "name": "The Link School",
+     "place": "Buena Vista, CO",
+     "status": "Open",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20131161365",
+   "name": "Three Points Center, LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Hurricane",
+   "fei": "",
+   "officers": [],
+   "agent": "Colby Dalley",
+   "trade_names": 0,
+   "last_report": 2024,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500007,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Points Center",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19981070413",
+   "name": "Three Springs, Inc.",
+   "type_label": "Foreign profit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Huntsville",
+   "fei": "",
+   "officers": [],
+   "agent": "The Corporation Company",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Withdrawn in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 24,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Springs Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20221021065",
+   "name": "Three Springs, LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Boulder",
+   "fei": "",
+   "officers": [],
+   "agent": "Registered Agents Inc.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 24,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Springs Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20121261343",
+   "name": "Three Strands LLC",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Colorado Springs",
+   "fei": "",
+   "officers": [],
+   "agent": "Kenneth Joseph Leitch",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Colorado Springs; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100175,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Strands Wilderness",
+     "place": "Oak Creek, CO",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20258112990",
+   "name": "Three Strands, Inc",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "active",
+   "filed": "",
+   "city": "Colorado Springs",
+   "fei": "",
+   "officers": [],
+   "agent": "The Christian Community Foundation, Inc.",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Colorado has it in Colorado Springs; the record is somewhere else or names no town."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100175,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Strands Wilderness",
+     "place": "Oak Creek, CO",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20171850438",
+   "name": "Three Strands, Ltd",
+   "type_label": "Colorado limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Oak Creek",
+   "fei": "",
+   "officers": [],
+   "agent": "Christopher Hans Aschinger Jr.",
+   "trade_names": 0,
+   "last_report": 2019,
+   "match": "matched",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100175,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Three Strands Wilderness",
+     "place": "Oak Creek, CO",
+     "status": "Unknown",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20121062438",
+   "name": "TrueCore Behavioral Solutions, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Tampa",
+   "fei": "",
+   "officers": [],
+   "agent": "Corporation Service Company",
+   "trade_names": 0,
+   "last_report": 2025,
+   "match": "check",
+   "flags": [
+    "Withdrawn in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 23,
+     "how": "its name",
+     "trade_name": "",
+     "name": "TrueCore Behavioral Solutions",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19991088411",
+   "name": "Wilderness Opportunities, Inc.",
+   "type_label": "Colorado nonprofit corporation",
+   "status": "inactive",
+   "filed": "",
+   "city": "Crested Butte",
+   "fei": "",
+   "officers": [],
+   "agent": "James H. Starr",
+   "trade_names": 0,
+   "last_report": 2005,
+   "match": "matched",
+   "flags": [
+    "Voluntarily Dissolved in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12669,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Wilderness Opportunities",
+     "place": "Crested Butte, CO",
+     "status": "Closed",
+     "same_town": true
+    }
+   ]
+  },
+  {
+   "doc": "20161724189",
+   "name": "Wilderness Training & Consulting, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "active",
+   "filed": "",
+   "city": "Salem",
+   "fei": "",
+   "officers": [],
+   "agent": "National Registered Agents, Inc.",
+   "trade_names": 0,
+   "last_report": 2026,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 12,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Family Help & Wellness",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "19911059236",
+   "name": "Willow Grove, Ltd.",
+   "type_label": "Colorado limited partnership",
+   "status": "active",
+   "filed": "",
+   "city": "Fort Collins",
+   "fei": "",
+   "officers": [],
+   "agent": "Thomas R. Sibbald",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500012,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Willow Grove, LLC",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  },
+  {
+   "doc": "20191109092",
+   "name": "Youth Opportunity Investments, LLC",
+   "type_label": "Foreign limited liability company",
+   "status": "inactive",
+   "filed": "",
+   "city": "Carmel",
+   "fei": "",
+   "officers": [],
+   "agent": "",
+   "trade_names": 0,
+   "last_report": null,
+   "match": "check",
+   "flags": [
+    "Withdrawn in Colorado's register."
+   ],
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 28,
+     "how": "its name",
+     "trade_name": "",
+     "name": "Youth Opportunity Investments",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ]
+  }
+ ]
+}

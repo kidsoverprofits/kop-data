@@ -1,0 +1,100 @@
+{
+ "state": "FL",
+ "doc": "L14000077307",
+ "name": "Family First Adolescent Services LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2014-05-13",
+ "origin": "FL",
+ "fei": "471015178",
+ "address": "700 Village Square Crossing,, Unit 101, Palm Beach Gardens, FL, 33410",
+ "city": "Palm Beach Gardens",
+ "last_activity": "2023-08-22",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-09-25"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-09-25"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-20"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "John E. \"buddy\" Turner",
+   "kind": "person",
+   "title": "Chief Executive Officer",
+   "place": "Palm Beach Gardens, FL"
+  },
+  {
+   "name": "Brentcare Behavioral Health LLC",
+   "kind": "company",
+   "title": "Authorized Member",
+   "address": "565 Fifth Avenue 26th Floor, New York, NY"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2014-05-21",
+   "filed": "2014-05-21",
+   "what": "Lc name change"
+  },
+  {
+   "date": "2014-08-20",
+   "filed": "2014-08-20",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2015-10-15",
+   "filed": "2015-10-15",
+   "what": "Lc name change"
+  },
+  {
+   "date": "2023-08-01",
+   "filed": "2023-08-01",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2023-08-25",
+   "filed": "2023-08-22",
+   "what": "Merger",
+   "other_doc": "300000243553",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Family First Adolescent Services LLC",
+   "county": "Palm Beach",
+   "status": "active",
+   "filed": "2016-11-04",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G16000119945"
+  },
+  {
+   "name": "Family First Adolescent Services",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2015-10-11",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G15000103979"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L14000077307",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

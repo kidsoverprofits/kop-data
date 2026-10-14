@@ -1,0 +1,52 @@
+{
+ "state": "FL",
+ "doc": "P10000097889",
+ "name": "Sarasota Community School, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2010-12-03",
+ "origin": "FL",
+ "fei": "",
+ "address": "2435 Fruitville Road, Sarasota, FL, 34237",
+ "city": "Sarasota",
+ "last_activity": "2012-09-28",
+ "reports": [],
+ "agent": {
+  "name": "Elena Torres Biset",
+  "kind": "person",
+  "title": "",
+  "place": "Sarasota, FL"
+ },
+ "officers": [
+  {
+   "name": "Elena Torres Biset",
+   "kind": "person",
+   "title": "President",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Roger Biset",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Elena Torres Biset",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Sarasota, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-09-28",
+   "filed": "2012-09-28",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P10000097889",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

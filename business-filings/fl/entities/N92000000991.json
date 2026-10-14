@@ -1,0 +1,145 @@
+{
+ "state": "FL",
+ "doc": "N92000000991",
+ "name": "Bay Point Schools, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1992-12-29",
+ "origin": "FL",
+ "fei": "650388436",
+ "address": "8082 SW 173rd Ter., Palmetto Bay, FL, 33157",
+ "city": "Palmetto Bay",
+ "last_activity": "2019-09-27",
+ "reports": [
+  {
+   "year": 2018,
+   "filed": "2018-01-14"
+  },
+  {
+   "year": 2018,
+   "filed": "2018-01-14"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-01-08"
+  }
+ ],
+ "agent": {
+  "name": "Mary Louise Cole-wood",
+  "kind": "person",
+  "title": "",
+  "place": "Palmetto Bay, FL"
+ },
+ "officers": [
+  {
+   "name": "Joseph P Klock, Jr.",
+   "kind": "person",
+   "title": "Chairman, Secretary",
+   "place": "Miami, FL"
+  },
+  {
+   "name": "Mary Louise Cole-wood",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Palmetto Bay, FL"
+  },
+  {
+   "name": "Donald E Chaney",
+   "kind": "person",
+   "title": "Director",
+   "place": "Coral Gables, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1997-06-04",
+   "filed": "1997-06-04",
+   "what": "Amendment and       name change"
+  },
+  {
+   "date": "1999-09-24",
+   "filed": "1999-09-24",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1999-11-05",
+   "filed": "1999-11-05",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2000-09-22",
+   "filed": "2000-09-22",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2000-11-29",
+   "filed": "2000-11-29",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2002-10-04",
+   "filed": "2002-10-04",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2003-02-10",
+   "filed": "2003-02-10",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2003-02-10",
+   "filed": "2003-02-10",
+   "what": "Amendment and       name change"
+  },
+  {
+   "date": "2006-09-15",
+   "filed": "2006-09-15",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2006-10-06",
+   "filed": "2006-10-06",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2007-09-14",
+   "filed": "2007-09-14",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2007-10-04",
+   "filed": "2007-10-04",
+   "what": "Cancel adm diss/rev"
+  },
+  {
+   "date": "2013-09-27",
+   "filed": "2013-09-27",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2014-07-14",
+   "filed": "2014-07-14",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2015-09-25",
+   "filed": "2015-09-25",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2015-10-26",
+   "filed": "2015-10-26",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2019-09-27",
+   "filed": "2019-09-27",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N92000000991",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

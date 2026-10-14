@@ -1,0 +1,87 @@
+{
+ "state": "FL",
+ "doc": "N16219",
+ "name": "Step, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1986-08-06",
+ "origin": "FL",
+ "fei": "592719550",
+ "address": "5471 Jet Port Industrial Blvd., Tampa, FL, 33634",
+ "city": "Tampa",
+ "last_activity": "1992-10-09",
+ "reports": [
+  {
+   "year": 1991,
+   "filed": "1991-07-11"
+  },
+  {
+   "year": 1991,
+   "filed": "1991-07-11"
+  },
+  {
+   "year": 1990,
+   "filed": "1990-01-18"
+  }
+ ],
+ "agent": {
+  "name": "Davis, Gordon",
+  "kind": "company",
+  "title": "",
+  "address": "19425 Crescent Road, Odessa, FL"
+ },
+ "officers": [
+  {
+   "name": "Davis, Gordon Sgt.",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "19425 Crestent Rd, Odessa, FL"
+  },
+  {
+   "name": "Young, Connie",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "7504 Castile Palce, Tampa, FL"
+  },
+  {
+   "name": "Steves, Bill",
+   "kind": "company",
+   "title": "Secretary, Director",
+   "address": "2809 Terrace Drive, Tampa, FL"
+  },
+  {
+   "name": "Stevens, Rick",
+   "kind": "company",
+   "title": "Treasurer, Director",
+   "address": "101 E. Kennedyblvd #1500, Tampa, FL"
+  },
+  {
+   "name": "Henley, Edward J.",
+   "kind": "company",
+   "title": "Director",
+   "address": "5471 Jet Port Ind. Blvd., Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1989-10-13",
+   "filed": "1989-10-13",
+   "what": "Involuntarily       dissolved"
+  },
+  {
+   "date": "1990-01-18",
+   "filed": "1990-01-18",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1992-10-09",
+   "filed": "1992-10-09",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N16219",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

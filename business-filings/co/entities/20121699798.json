@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20121699798",
+ "name": "Eckerd Youth Alternatives, Inc",
+ "type": "FNC",
+ "type_label": "Foreign nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "FL",
+ "fei": "",
+ "address": "100 N Starcrest Dr, Clearwater, FL, 33765",
+ "city": "Clearwater",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Cogency Global Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "600 17th St Ste 1450S, Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-12-22",
+   "filed": "2012-12-22",
+   "what": "Apply for Foreign Entity Authority To transact business in Colorado",
+   "file": "20121699798",
+   "name": "Eckerd Youth Alternatives"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20121699798",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

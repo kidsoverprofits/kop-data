@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "L21000275413",
+ "name": "Eagle Academy LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2021-06-14",
+ "origin": "FL",
+ "fei": "",
+ "address": "7990 Baymeadows Road East Condo 514, Jacksonville, FL, 32256",
+ "city": "Jacksonville",
+ "last_activity": "2022-09-23",
+ "reports": [],
+ "agent": {
+  "name": "Tresonda L Thompson",
+  "kind": "person",
+  "title": "",
+  "place": "Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Tresonda L Thompson",
+   "kind": "person",
+   "title": "Authorized Person",
+   "place": "Jacksonville, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2022-09-23",
+   "filed": "2022-09-23",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L21000275413",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

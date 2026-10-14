@@ -1,0 +1,97 @@
+{
+ "state": "CO",
+ "doc": "19961000664",
+ "name": "SolTribe LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "10244 W. Arkansas Dr., Lakewood, CO, 80232",
+ "city": "Lakewood",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2012,
+   "filed": ""
+  },
+  {
+   "year": 2011,
+   "filed": ""
+  },
+  {
+   "year": 2010,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "David Ventimiglia",
+  "kind": "person",
+  "title": "",
+  "place": "Carbondale, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1996-01-02",
+   "filed": "1996-01-02",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "19961000664",
+   "name": "Trailhead Wilderness School L.L.C."
+  },
+  {
+   "date": "1998-09-14",
+   "filed": "1998-09-14",
+   "what": "Amendment",
+   "file": "19981166149"
+  },
+  {
+   "date": "1998-09-14",
+   "filed": "1998-09-14",
+   "what": "Reinstatement",
+   "file": "19981166149"
+  },
+  {
+   "date": "2002-02-11",
+   "filed": "2002-02-11",
+   "what": "Amendment",
+   "file": "20021032101"
+  },
+  {
+   "date": "2003-02-19",
+   "filed": "2003-02-19",
+   "what": "Amendment",
+   "file": "20031055170"
+  },
+  {
+   "date": "2006-01-12",
+   "filed": "2006-01-12",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20061019653"
+  },
+  {
+   "date": "2011-05-10",
+   "filed": "2011-05-10",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20111274885"
+  },
+  {
+   "date": "2011-09-28",
+   "filed": "2011-09-28",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20111546547"
+  },
+  {
+   "date": "2013-01-27",
+   "filed": "2013-01-27",
+   "what": "Dissolve a Limited Liability Company",
+   "file": "20131061381"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19961000664",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

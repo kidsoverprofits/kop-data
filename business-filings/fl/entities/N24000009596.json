@@ -1,0 +1,52 @@
+{
+ "state": "FL",
+ "doc": "N24000009596",
+ "name": "Amikids Bartow, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2024-08-09",
+ "origin": "FL",
+ "fei": "",
+ "address": "2145 Bob Philips Road, Bartow, FL, 33830",
+ "city": "Bartow",
+ "last_activity": "2025-05-09",
+ "reports": [],
+ "agent": {
+  "name": "Smith, Hulsey & Busey",
+  "kind": "company",
+  "title": "",
+  "address": "One Independent Drive, Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Rosemary Brackman",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Michael A Thornton",
+   "kind": "person",
+   "title": "President",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Maria Porto-duarte",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-05-09",
+   "filed": "2025-05-09",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N24000009596",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

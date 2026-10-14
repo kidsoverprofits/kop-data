@@ -1,0 +1,71 @@
+{
+ "state": "FL",
+ "doc": "N04000007901",
+ "name": "Victory Forge Military Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2004-08-11",
+ "origin": "FL",
+ "fei": "562476466",
+ "address": "638 Sw Biltmore St, Port St Lucie, FL, 34983",
+ "city": "Port St Lucie",
+ "last_activity": "2012-09-28",
+ "reports": [
+  {
+   "year": 2011,
+   "filed": "2011-04-14"
+  },
+  {
+   "year": 2011,
+   "filed": "2011-04-14"
+  },
+  {
+   "year": 2010,
+   "filed": "2010-02-25"
+  }
+ ],
+ "agent": {
+  "name": "Alan L Weierman",
+  "kind": "person",
+  "title": "",
+  "place": "Port Saint Lucie, FL"
+ },
+ "officers": [
+  {
+   "name": "Alan L Weierman",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Molly B Weierman",
+   "kind": "person",
+   "title": "Secretary, Treasurer, Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Fred J Gallo",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  },
+  {
+   "name": "Michael Roberts",
+   "kind": "person",
+   "title": "Director",
+   "place": "Port St Lucie, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-09-28",
+   "filed": "2012-09-28",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N04000007901",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

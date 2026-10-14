@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "L04000052348",
+ "name": "Meridian, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2004-07-15",
+ "origin": "FL",
+ "fei": "",
+ "address": "3501 W. Vine Street, Suite 517, Kissimmee, FL, 34741",
+ "city": "Kissimmee",
+ "last_activity": "2005-09-16",
+ "reports": [],
+ "agent": {
+  "name": "Linda E Biller",
+  "kind": "person",
+  "title": "",
+  "place": "Longwood, FL"
+ },
+ "officers": [
+  {
+   "name": "Peter Latham",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Rochester, Kent, UK"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-09-16",
+   "filed": "2005-09-16",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L04000052348",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

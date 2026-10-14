@@ -1,0 +1,55 @@
+{
+ "state": "CO",
+ "doc": "20111480758",
+ "name": "Fire Mountain Residential Treatment Center, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "5532 US Highway 36, Estes Park, CO, 80517",
+ "city": "Estes Park",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2020,
+   "filed": ""
+  },
+  {
+   "year": 2019,
+   "filed": ""
+  },
+  {
+   "year": 2018,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Christine L Porta",
+  "kind": "person",
+  "title": "",
+  "place": "Estes Park, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2011-08-24",
+   "filed": "2011-08-24",
+   "what": "Form a Profit Corporation",
+   "file": "20111480758",
+   "name": "Fire Mountain Sober Home, Inc."
+  },
+  {
+   "date": "2013-03-22",
+   "filed": "2013-03-22",
+   "what": "Amend Articles of Incorporation for a Profit Corporation",
+   "file": "20131178778"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20111480758",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

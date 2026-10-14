@@ -1,0 +1,71 @@
+{
+ "state": "FL",
+ "doc": "L99000002041",
+ "name": "Ten Broeck Jacksonville, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "1999-04-06",
+ "origin": "FL",
+ "fei": "593568978",
+ "address": "603 Main Street, Windermere, FL, 34786",
+ "city": "Windermere",
+ "last_activity": "2018-04-24",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-02-08"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-02-08"
+  },
+  {
+   "year": 2016,
+   "filed": "2016-02-16"
+  }
+ ],
+ "agent": {
+  "name": "Kevin Barkman",
+  "kind": "person",
+  "title": "",
+  "place": "Windermere, FL"
+ },
+ "officers": [
+  {
+   "name": "Donald R Dizney",
+   "kind": "person",
+   "title": "CAS",
+   "place": "Windermere, FL"
+  },
+  {
+   "name": "David A Dizney",
+   "kind": "person",
+   "title": "PCEO",
+   "place": "Windermere, FL"
+  },
+  {
+   "name": "Kevin Barkman",
+   "kind": "person",
+   "title": "EVPS",
+   "place": "Windermere, FL"
+  },
+  {
+   "name": "David Corddry",
+   "kind": "person",
+   "title": "VPF",
+   "place": "Windermere, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-04-25",
+   "filed": "2018-04-24",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L99000002041",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

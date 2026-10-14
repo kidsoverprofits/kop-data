@@ -1,0 +1,106 @@
+{
+ "state": "FL",
+ "doc": "704268",
+ "name": "Florida United Methodist Children's Home, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1908-06-03",
+ "origin": "FL",
+ "fei": "590638479",
+ "address": "51 Children's Way, Enterprise, FL, 32725",
+ "city": "Enterprise",
+ "last_activity": "2025-07-29",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-06"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-06"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-28"
+  }
+ ],
+ "agent": {
+  "name": "Kitwana McTyer",
+  "kind": "person",
+  "title": "",
+  "place": "Enterprise, FL"
+ },
+ "officers": [
+  {
+   "name": "Kitwana McTyer",
+   "kind": "person",
+   "title": "President",
+   "place": "Enterprise, FL"
+  },
+  {
+   "name": "Benjamin Stilwell-Hernandez",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Enterprise, FL"
+  },
+  {
+   "name": "Debbie Mcleod",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Enterprise, FL"
+  },
+  {
+   "name": "Rachel Delaune",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Winter Park, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1971-06-21",
+   "filed": "1971-06-21",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1986-01-15",
+   "filed": "1986-01-15",
+   "what": "Amendment"
+  },
+  {
+   "date": "1988-06-03",
+   "filed": "1988-06-03",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "1994-07-29",
+   "filed": "1994-07-29",
+   "what": "Restated articles"
+  },
+  {
+   "date": "2006-09-25",
+   "filed": "2006-09-25",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2025-07-29",
+   "filed": "2025-07-29",
+   "what": "Restated articles   and name change"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Residing Hope",
+   "county": "Volusia",
+   "status": "active",
+   "filed": "2024-03-15",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000038044"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=704268",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

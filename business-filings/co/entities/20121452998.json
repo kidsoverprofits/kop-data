@@ -1,0 +1,49 @@
+{
+ "state": "CO",
+ "doc": "20121452998",
+ "name": "The Daisy Center, LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "643 27 1/2 Rd, Grand Junction, CO, 81506",
+ "city": "Grand Junction",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Jenny Scott Brinton",
+  "kind": "person",
+  "title": "",
+  "place": "Grand junction, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-08-23",
+   "filed": "2012-08-22",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20121452998",
+   "name": "The Daisy Center, LLC"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20121452998",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

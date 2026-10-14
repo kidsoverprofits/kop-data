@@ -1,0 +1,83 @@
+{
+ "state": "FL",
+ "doc": "848421",
+ "name": "Camelot Care Center, Inc.",
+ "type": "FORNP",
+ "type_label": "Foreign nonprofit corporation",
+ "status": "inactive",
+ "filed": "1981-03-05",
+ "origin": "IL",
+ "fei": "362935664",
+ "address": "1502 Northwest Highway, Palatine, IL, 60067",
+ "city": "Palatine",
+ "last_activity": "1987-11-16",
+ "reports": [
+  {
+   "year": 1986,
+   "filed": "1986-04-17"
+  },
+  {
+   "year": 1986,
+   "filed": "1986-04-17"
+  },
+  {
+   "year": 1985,
+   "filed": "1985-04-29"
+  }
+ ],
+ "agent": {
+  "name": "Rhoades, John A., Jr.",
+  "kind": "company",
+  "title": "",
+  "address": "5200 Central Avenue, St. Petersburg, FL"
+ },
+ "officers": [
+  {
+   "name": "Spray, Paul, M.d.",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "507 Delaware Avenue, Oak Ridge, TN"
+  },
+  {
+   "name": "Weiskoph, William",
+   "kind": "company",
+   "title": "Vice President, Director",
+   "address": "8400 Wagon Wheel, Bayonet Point, FL"
+  },
+  {
+   "name": "Wolfson, Karen",
+   "kind": "company",
+   "title": "Secretary, Director",
+   "address": "1724 Beach Avenue, Atlantic Beach, FL"
+  },
+  {
+   "name": "Rosberg, Marjorie",
+   "kind": "company",
+   "title": "Treasurer, Director",
+   "address": "1418 Margret Street, Des Plaines, IL"
+  },
+  {
+   "name": "Wolfson, Donald",
+   "kind": "company",
+   "title": "Director",
+   "address": "1724 Beach Avenue, Atlantic Beach, FL"
+  },
+  {
+   "name": "Reed, Daphne",
+   "kind": "company",
+   "title": "Director",
+   "address": "Dade City, Fl., Glenview, IL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1987-11-16",
+   "filed": "1987-11-16",
+   "what": "Involuntarily       dissolved"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=848421",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

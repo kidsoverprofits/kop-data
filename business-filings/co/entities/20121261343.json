@@ -1,0 +1,62 @@
+{
+ "state": "CO",
+ "doc": "20121261343",
+ "name": "Three Strands LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "8585 Criterion Drive #88076, Colorado Springs, CO, 80908",
+ "city": "Colorado Springs",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Kenneth Joseph Leitch",
+  "kind": "person",
+  "title": "",
+  "place": "Colorado Springs, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-06-01",
+   "filed": "2012-06-01",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20121304042",
+   "name": "Three Strands LLC"
+  },
+  {
+   "date": "2012-06-01",
+   "filed": "2012-06-01",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20121304042",
+   "name": "Three Strands LLC"
+  },
+  {
+   "date": "2013-01-30",
+   "filed": "2013-01-30",
+   "what": "Amend Articles of Organization for an LLC",
+   "file": "20131071004"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20121261343",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

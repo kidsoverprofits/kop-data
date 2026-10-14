@@ -1,0 +1,58 @@
+{
+ "state": "FL",
+ "doc": "768885",
+ "name": "Lighthouse Christian Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1983-06-10",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "% Gloria Potier Harrison, 3236 Cathedral Lane, Jacksonville, FL, 32211",
+ "city": "Jacksonville",
+ "last_activity": "1984-11-21",
+ "reports": [],
+ "agent": {
+  "name": "Harrison, Gloria Potier",
+  "kind": "company",
+  "title": "",
+  "address": "3236 Cathedral Lane, Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Harrison, Danny Ray",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "3236 Cathedral Lane, Jacksonville, FL"
+  },
+  {
+   "name": "Harrison, Gloria Potier",
+   "kind": "company",
+   "title": "Secretary, Treasurer, Director",
+   "address": "3236 Cathedral Lane, Jacksonville, FL"
+  },
+  {
+   "name": "Shepard, Claudia W.",
+   "kind": "company",
+   "title": "Director",
+   "address": "12835 Ft. Caroline Road, Jacksonville, FL"
+  },
+  {
+   "name": "Millett, Virginia",
+   "kind": "company",
+   "title": "Director",
+   "address": "#95d University Blvd,no., Jacksonville, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1984-11-21",
+   "filed": "1984-11-21",
+   "what": "Involuntarily       dissolved"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=768885",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,47 @@
+{
+ "state": "FL",
+ "doc": "M20000007235",
+ "name": "Willow Grove LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "filed": "2020-08-03",
+ "origin": "DE",
+ "fei": "850999540",
+ "address": "755 Crandon Blvd, Key Biscayne, FL, 33149",
+ "city": "Key Biscayne",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-05"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-05"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-10"
+  }
+ ],
+ "agent": {
+  "name": "James Martin",
+  "kind": "person",
+  "title": "",
+  "place": "Key Biscayne, FL"
+ },
+ "officers": [
+  {
+   "name": "James Martin",
+   "kind": "person",
+   "title": "Member",
+   "place": "Key Biscayne, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M20000007235",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,65 @@
+{
+ "state": "FL",
+ "doc": "F22000007323",
+ "name": "Wayne Halfway House, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "2022-12-02",
+ "origin": "TN",
+ "fei": "621486898",
+ "address": "1351 Tie Camp Rd, Waynesboro, TN, 38485",
+ "city": "Waynesboro",
+ "last_activity": "2026-09-25",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": "2025-01-07"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-07"
+  },
+  {
+   "year": 2024,
+   "filed": "2024-01-30"
+  }
+ ],
+ "agent": {
+  "name": "Nrai Services, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "1200 S Pine Island Rd, Plantatyion, FL"
+ },
+ "officers": [
+  {
+   "name": "Jason Crews",
+   "kind": "person",
+   "title": "President",
+   "place": "Waynesboro, TN"
+  },
+  {
+   "name": "Jim Biggers",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Waynesboro, TN"
+  },
+  {
+   "name": "Autry Gobbell",
+   "kind": "person",
+   "title": "Director",
+   "place": "Waynesboro, TN"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2026-09-25",
+   "filed": "2026-09-25",
+   "what": "Revoked for         annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F22000007323",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

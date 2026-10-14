@@ -1,0 +1,64 @@
+{
+ "state": "FL",
+ "doc": "N04000011491",
+ "name": "Lighthouse of Northwest Florida, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2004-12-10",
+ "origin": "FL",
+ "fei": "201986027",
+ "address": "13050 Highway 89, Jay, FL, 32565",
+ "city": "Jay",
+ "last_activity": "2015-09-25",
+ "reports": [
+  {
+   "year": 2014,
+   "filed": "2014-04-30"
+  },
+  {
+   "year": 2014,
+   "filed": "2014-04-30"
+  },
+  {
+   "year": 2013,
+   "filed": "2013-02-09"
+  }
+ ],
+ "agent": {
+  "name": "Vincent J Whibbs",
+  "kind": "person",
+  "title": "",
+  "place": "Pensacola, FL"
+ },
+ "officers": [
+  {
+   "name": "Russell Cookston",
+   "kind": "person",
+   "title": "President, Vice President",
+   "place": "Jay, FL"
+  },
+  {
+   "name": "Kimbra Cookston",
+   "kind": "person",
+   "title": "Secretary, Treasurer",
+   "place": "Jay, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-03-04",
+   "filed": "2005-03-04",
+   "what": "Amendment"
+  },
+  {
+   "date": "2015-09-25",
+   "filed": "2015-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N04000011491",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

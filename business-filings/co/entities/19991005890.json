@@ -1,0 +1,74 @@
+{
+ "state": "CO",
+ "doc": "19991005890",
+ "name": "Kidz Ark, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "17282 County Rd 32, Sterling, CO, 80751",
+ "city": "Sterling",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2013,
+   "filed": ""
+  },
+  {
+   "year": 2012,
+   "filed": ""
+  },
+  {
+   "year": 2011,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Jay Littlefield",
+  "kind": "person",
+  "title": "",
+  "place": "Sterling, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1999-01-12",
+   "filed": "1999-01-12",
+   "what": "Articles of Incorporation",
+   "file": "19991005890",
+   "name": "Kid's Ranches, Inc."
+  },
+  {
+   "date": "1999-03-05",
+   "filed": "1999-03-05",
+   "what": "Entity Name Change",
+   "file": "19991042229",
+   "name": "Kidz Ark, Inc."
+  },
+  {
+   "date": "1999-07-23",
+   "filed": "1999-07-23",
+   "what": "Amendment",
+   "file": "19991138826"
+  },
+  {
+   "date": "2002-01-29",
+   "filed": "2002-01-29",
+   "what": "Amendment",
+   "file": "20021021793"
+  },
+  {
+   "date": "2007-05-07",
+   "filed": "2007-05-07",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20071219608"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19991005890",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

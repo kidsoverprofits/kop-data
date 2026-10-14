@@ -1,0 +1,59 @@
+{
+ "state": "FL",
+ "doc": "M97000000305",
+ "name": "Charter Behavioral Health Systems, LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "inactive",
+ "filed": "1997-05-29",
+ "origin": "DE",
+ "fei": "582295093",
+ "address": "3414 Peachtree Road, Ne, Suite 900, Atlanta, GA, 30326",
+ "city": "Atlanta",
+ "last_activity": "2000-09-29",
+ "reports": [
+  {
+   "year": 1999,
+   "filed": "1999-04-23"
+  },
+  {
+   "year": 1999,
+   "filed": "1999-04-23"
+  },
+  {
+   "year": 1998,
+   "filed": "1998-04-15"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Magellan Executive Corporation",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "3414 Peachtree Road, Ne, Suite 1400, Atlanta, GA"
+  },
+  {
+   "name": "Charter Behavioral Health Systems, Inc.",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "3414 Peachtree Road, Ne, Suite 900, Atlanta, GA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2000-09-29",
+   "filed": "2000-09-29",
+   "what": "Revoked for         annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M97000000305",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "P94000029079",
+ "name": "Duval Academy, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1994-04-15",
+ "origin": "FL",
+ "fei": "650484183",
+ "address": "602 Anderson Circle at Tivoli, Deerfield Beach, FL, 33441",
+ "city": "Deerfield Beach",
+ "last_activity": "2003-09-19",
+ "reports": [
+  {
+   "year": 2002,
+   "filed": "2002-04-15"
+  },
+  {
+   "year": 2002,
+   "filed": "2002-04-15"
+  },
+  {
+   "year": 2001,
+   "filed": "2001-04-04"
+  }
+ ],
+ "agent": {
+  "name": "Ren'a L Smith",
+  "kind": "person",
+  "title": "",
+  "place": "Deerfield Bch.,, FL"
+ },
+ "officers": [
+  {
+   "name": "Rena Smith",
+   "kind": "person",
+   "title": "President",
+   "place": "Deerfield Bch.,, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2003-09-19",
+   "filed": "2003-09-19",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P94000029079",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

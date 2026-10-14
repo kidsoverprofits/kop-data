@@ -1,0 +1,114 @@
+{
+ "state": "FL",
+ "doc": "L01000004760",
+ "name": "Renaissance Healthcare Group, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2001-03-23",
+ "origin": "FL",
+ "fei": "593730600",
+ "address": "720 Cool Springs Boulevard, Suite 550, Franklin, TN, 37067",
+ "city": "Franklin",
+ "last_activity": "2020-07-15",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-30"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-30"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-07"
+  }
+ ],
+ "agent": {
+  "name": "C T Corporation System",
+  "kind": "company",
+  "title": "",
+  "address": "1200 South Pine Island Road, Plantation, FL"
+ },
+ "officers": [
+  {
+   "name": "Brady Rush",
+   "kind": "person",
+   "title": "Authorized Person",
+   "place": "Franklin, TN"
+  },
+  {
+   "name": "Odyssey Behavioral Healthcare LLC",
+   "kind": "company",
+   "title": "Member",
+   "address": "720 Cool Springs Boulevard, Franklin, TN"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2020-07-15",
+   "filed": "2020-07-15",
+   "what": "Lc amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Lifeskills Orlando",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2024-02-15",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000025175"
+  },
+  {
+   "name": "Pasadena Villa Network of Services",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2015-08-07",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G15000081711"
+  },
+  {
+   "name": "Pasadena Villa",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2015-04-21",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G15000039978"
+  },
+  {
+   "name": "Pasadena Villa Psychiatric Residential Treatment Centers",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2015-02-18",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G15000017656"
+  },
+  {
+   "name": "Pasadena Villa",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2013-06-18",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G13000061192"
+  },
+  {
+   "name": "Pasadena Villa at Lake Highland",
+   "county": "Orange",
+   "status": "active",
+   "filed": "2008-12-01",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G08336900216"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L01000004760",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

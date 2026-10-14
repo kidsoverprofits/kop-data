@@ -1,0 +1,51 @@
+{
+ "state": "CO",
+ "doc": "19981223956",
+ "name": "Rite of Passage, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "status_label": "Revoked",
+ "filed": "",
+ "origin": "NV",
+ "fei": "",
+ "address": "1561 Hwy 395, Minden, NV, 89423",
+ "city": "Minden",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2000,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1998-12-17",
+   "filed": "1998-12-17",
+   "what": "Application for Authority",
+   "file": "19981223956"
+  },
+  {
+   "date": "2003-01-07",
+   "filed": "2003-01-07",
+   "what": "Amendment",
+   "file": "20031006351"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Kids at Play",
+   "county": "",
+   "status": "active",
+   "filed": "2002-03-18",
+   "expires": "",
+   "cancelled": "",
+   "doc": "20021066488"
+  }
+ ],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19981223956",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

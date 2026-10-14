@@ -1,0 +1,78 @@
+{
+ "state": "FL",
+ "doc": "N49767",
+ "name": "Charity Haven Christian Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1992-07-08",
+ "origin": "FL",
+ "fei": "593157637",
+ "address": "479 Wilson Avenue, Satellite Beach, FL, 32937",
+ "city": "Satellite Beach",
+ "last_activity": "2021-09-24",
+ "reports": [
+  {
+   "year": 2020,
+   "filed": "2020-08-28"
+  },
+  {
+   "year": 2020,
+   "filed": "2020-08-28"
+  },
+  {
+   "year": 2019,
+   "filed": "2020-08-28"
+  }
+ ],
+ "agent": {
+  "name": "Austin Bryant",
+  "kind": "person",
+  "title": "",
+  "place": "Satellite Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "Austin Bryant",
+   "kind": "person",
+   "title": "President",
+   "place": "Satellite Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1993-08-13",
+   "filed": "1993-08-13",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "1996-08-22",
+   "filed": "1996-08-22",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1996-10-17",
+   "filed": "1996-10-17",
+   "what": "Amendment and       name change"
+  },
+  {
+   "date": "2019-09-27",
+   "filed": "2019-09-27",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2020-08-28",
+   "filed": "2020-08-28",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2021-09-24",
+   "filed": "2021-09-24",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N49767",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

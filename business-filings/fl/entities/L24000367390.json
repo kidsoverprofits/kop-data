@@ -1,0 +1,47 @@
+{
+ "state": "FL",
+ "doc": "L24000367390",
+ "name": "Life LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2024-08-21",
+ "origin": "FL",
+ "fei": "853348617",
+ "address": "5515 118th Street, Lot 131, Jacksonville, FL, 32244",
+ "city": "Jacksonville",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-03-01"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-03-01"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-13"
+  }
+ ],
+ "agent": {
+  "name": "Jhon Zuluaga",
+  "kind": "person",
+  "title": "",
+  "place": "Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Jhon Zuluaga",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Jacksonville, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L24000367390",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

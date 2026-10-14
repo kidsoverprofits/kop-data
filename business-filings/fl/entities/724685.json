@@ -1,0 +1,98 @@
+{
+ "state": "FL",
+ "doc": "724685",
+ "name": "Amikids Pinellas, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1972-10-31",
+ "origin": "FL",
+ "fei": "237228523",
+ "address": "5345 Laurel Place, Clearwater, FL, 33760",
+ "city": "Clearwater",
+ "last_activity": "2020-02-24",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-22"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-22"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-03-24"
+  }
+ ],
+ "agent": {
+  "name": "David J Hull",
+  "kind": "person",
+  "title": "",
+  "place": "Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Gregory Porter",
+   "kind": "person",
+   "title": "Director",
+   "place": "St. Petersburg, FL"
+  },
+  {
+   "name": "Michael A Thornton",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Mark P Lettelleir",
+   "kind": "person",
+   "title": "Director",
+   "place": "St. Petersburg, FL"
+  },
+  {
+   "name": "Jeffrey F Burzinski",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Saint Petersburg, FL"
+  },
+  {
+   "name": "Wanda Walker",
+   "kind": "person",
+   "title": "Executive Director",
+   "place": "Saint Petersburg, FL"
+  },
+  {
+   "name": "Nancy Loehr",
+   "kind": "person",
+   "title": "Director",
+   "place": "Saint Petersburg, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "1972-11-17",
+   "filed": "1972-11-17",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2002-02-07",
+   "filed": "2002-02-07",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2009-06-22",
+   "filed": "2009-06-22",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2020-02-24",
+   "filed": "2020-02-24",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=724685",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

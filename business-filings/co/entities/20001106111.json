@@ -1,0 +1,61 @@
+{
+ "state": "CO",
+ "doc": "20001106111",
+ "name": "The Excelsior Youth Foundation",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "15001 E Oxford Ave., Aurora, CO, 80014",
+ "city": "Aurora",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": ""
+  },
+  {
+   "year": 2016,
+   "filed": ""
+  },
+  {
+   "year": 2015,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Susan Hebert",
+  "kind": "person",
+  "title": "",
+  "place": "Aurora, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2000-05-25",
+   "filed": "2000-05-25",
+   "what": "Articles of Incorporation",
+   "file": "20001106111",
+   "name": "The Excelsior Youth Foundation"
+  },
+  {
+   "date": "2001-01-23",
+   "filed": "2001-01-23",
+   "what": "Amendment",
+   "file": "20011016009"
+  },
+  {
+   "date": "2018-05-09",
+   "filed": "2018-05-09",
+   "what": "Dissolve a Nonprofit Corporation",
+   "file": "20181382255"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20001106111",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

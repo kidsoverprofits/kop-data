@@ -1,0 +1,123 @@
+{
+ "state": "FL",
+ "doc": "760262",
+ "name": "Personal Enrichment Through Mental Health Services, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1981-09-29",
+ "origin": "FL",
+ "fei": "593153549",
+ "address": "11254 58 St.no., Pinellas Park, FL, 33782",
+ "city": "Pinellas Park",
+ "last_activity": "2016-06-29",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-26"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-26"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-17"
+  }
+ ],
+ "agent": {
+  "name": "Zofia Whiting",
+  "kind": "person",
+  "title": "",
+  "place": "Pinellas Park, FL"
+ },
+ "officers": [
+  {
+   "name": "Lee Scharrer",
+   "kind": "person",
+   "title": "Chairman",
+   "place": "Pinellas Park, FL"
+  },
+  {
+   "name": "Lynn Stone",
+   "kind": "person",
+   "title": "Vice President, Chairman",
+   "place": "Pinellas Park, FL"
+  },
+  {
+   "name": "Ronald Knaus",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Pinellas Park, FL"
+  },
+  {
+   "name": "Maxine Booker",
+   "kind": "person",
+   "title": "President",
+   "place": "Pinellas Park, FL"
+  },
+  {
+   "name": "Zofia Whiting",
+   "kind": "person",
+   "title": "Chief Financial Officer",
+   "place": "Pinellas Park, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1986-10-30",
+   "filed": "1986-10-30",
+   "what": "Event converted to  notes"
+  },
+  {
+   "date": "1991-11-08",
+   "filed": "1991-11-08",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2003-09-22",
+   "filed": "2003-09-22",
+   "what": "Merger",
+   "other_doc": "100000046501",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  },
+  {
+   "date": "2013-04-01",
+   "filed": "2013-04-01",
+   "what": "Amendment"
+  },
+  {
+   "date": "2014-08-04",
+   "filed": "2014-08-04",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2016-07-01",
+   "filed": "2016-06-29",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Eleos",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2024-08-21",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000099569"
+  },
+  {
+   "name": "Pemhs",
+   "county": "Pinellas",
+   "status": "active",
+   "filed": "1991-11-22",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G91326000045"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=760262",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

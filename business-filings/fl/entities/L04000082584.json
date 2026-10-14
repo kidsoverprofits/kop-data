@@ -1,0 +1,58 @@
+{
+ "state": "FL",
+ "doc": "L04000082584",
+ "name": "Columbus Youth Services, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2004-11-15",
+ "origin": "FL",
+ "fei": "201860473",
+ "address": "9502 Columbus Drive, Tampa, FL, 33619",
+ "city": "Tampa",
+ "last_activity": "2009-09-25",
+ "reports": [
+  {
+   "year": 2008,
+   "filed": "2008-01-04"
+  },
+  {
+   "year": 2008,
+   "filed": "2008-01-04"
+  },
+  {
+   "year": 2007,
+   "filed": "2007-05-07"
+  }
+ ],
+ "agent": {
+  "name": "Buchanan Ingersoll Attorneys",
+  "kind": "company",
+  "title": "",
+  "address": "401 E. Jackson Street, Tampa, FL"
+ },
+ "officers": [
+  {
+   "name": "Sunshine Youth Services, Inc.c.",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "6302 Benjamin Road, Suite 400, Tampa, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-02-01",
+   "filed": "2005-02-01",
+   "what": "Amendment"
+  },
+  {
+   "date": "2009-09-25",
+   "filed": "2009-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L04000082584",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

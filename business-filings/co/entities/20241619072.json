@@ -1,0 +1,45 @@
+{
+ "state": "CO",
+ "doc": "20241619072",
+ "name": "Straight, LLC",
+ "type": "DLLC",
+ "type_label": "Colorado limited liability company",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "191 University Blvd, Ste. 900, Denver, CO, 80206",
+ "city": "Denver",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Nicholas Ghiselli",
+  "kind": "person",
+  "title": "",
+  "place": "Denver, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2024-06-05",
+   "filed": "2024-06-05",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20241619072",
+   "name": "Straight, LLC"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20241619072",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

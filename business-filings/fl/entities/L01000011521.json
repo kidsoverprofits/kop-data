@@ -1,0 +1,33 @@
+{
+ "state": "FL",
+ "doc": "L01000011521",
+ "name": "Meridian, L.L.C.",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2001-07-13",
+ "origin": "FL",
+ "fei": "",
+ "address": "4337 W. Sunrise Blvd., Plantation, FL, 33317",
+ "city": "Plantation",
+ "last_activity": "2002-10-04",
+ "reports": [],
+ "agent": {
+  "name": "Cecil D'aguilar",
+  "kind": "person",
+  "title": "",
+  "place": "Plantation, FL"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2002-10-04",
+   "filed": "2002-10-04",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L01000011521",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,97 @@
+{
+ "state": "FL",
+ "doc": "761278",
+ "name": "Our Father's House, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1981-12-30",
+ "origin": "FL",
+ "fei": "592145831",
+ "address": "5362 Taf Lane, Milton, FL, 32570",
+ "city": "Milton",
+ "last_activity": "2019-09-27",
+ "reports": [
+  {
+   "year": 2018,
+   "filed": "2018-03-20"
+  },
+  {
+   "year": 2018,
+   "filed": "2018-03-20"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-08-02"
+  }
+ ],
+ "agent": {
+  "name": "Linda Burt",
+  "kind": "person",
+  "title": "",
+  "place": "Milton, FL"
+ },
+ "officers": [
+  {
+   "name": "Burt, Linda",
+   "kind": "company",
+   "title": "President, Treasurer, Director",
+   "address": "5362 Taf Ln, Milton, FL"
+  },
+  {
+   "name": "Krzan, Karen",
+   "kind": "company",
+   "title": "Senior Vice President",
+   "address": "4191 Sixth Avenue, Pace, FL"
+  },
+  {
+   "name": "Mary J Gratton",
+   "kind": "person",
+   "title": "Director",
+   "place": "Pace, FL"
+  },
+  {
+   "name": "Linda Brown",
+   "kind": "person",
+   "title": "OFFI",
+   "place": "Pensacola, FL"
+  },
+  {
+   "name": "Lillian Scott",
+   "kind": "person",
+   "title": "OFFI",
+   "place": "Milton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2006-09-15",
+   "filed": "2006-09-15",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2006-10-05",
+   "filed": "2006-10-05",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2016-09-23",
+   "filed": "2016-09-23",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2017-08-02",
+   "filed": "2017-08-02",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2019-09-27",
+   "filed": "2019-09-27",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=761278",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

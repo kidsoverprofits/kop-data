@@ -1,0 +1,92 @@
+{
+ "state": "FL",
+ "doc": "L09000111842",
+ "name": "Vibrant Horizons, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2009-11-20",
+ "origin": "FL",
+ "fei": "271360815",
+ "address": "2517 N Great Western Dr, Prescott Valley, AZ, 86314",
+ "city": "Prescott Valley",
+ "last_activity": "2026-08-19",
+ "reports": [
+  {
+   "year": 2024,
+   "filed": "2024-04-15"
+  },
+  {
+   "year": 2024,
+   "filed": "2024-04-15"
+  },
+  {
+   "year": 2023,
+   "filed": "2023-06-09"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays Street, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Tom Kenny",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Prescott Valley, AZ"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2016-02-10",
+   "filed": "2016-02-10",
+   "what": "Lc stmnt of         ra/ro chg"
+  },
+  {
+   "date": "2020-11-04",
+   "filed": "2020-11-04",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2022-06-06",
+   "filed": "2022-06-06",
+   "what": "Lc amendment and    name change"
+  },
+  {
+   "date": "2025-03-06",
+   "filed": "2025-03-06",
+   "what": "Voluntary           dissolution"
+  },
+  {
+   "date": "2026-08-19",
+   "filed": "2026-08-19",
+   "what": "Lc notice of        dissolution"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Fort Myers Youth Academy",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2022-10-04",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G22000124236"
+  },
+  {
+   "name": "Central Pasco Girls Academy",
+   "county": "Pasco",
+   "status": "active",
+   "filed": "2021-09-17",
+   "expires": "2026-12-31",
+   "cancelled": "",
+   "doc": "G21000122008"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L09000111842",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

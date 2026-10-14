@@ -1,0 +1,79 @@
+{
+ "state": "CO",
+ "doc": "19931093247",
+ "name": "Jefferson Hills Corporation",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Merged",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "421 Zang St, Lakewood, CO, 80228",
+ "city": "Lakewood",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2022,
+   "filed": ""
+  },
+  {
+   "year": 2021,
+   "filed": ""
+  },
+  {
+   "year": 2020,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Karen O. Yarberry",
+  "kind": "person",
+  "title": "",
+  "place": "Lakewood, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1993-09-07",
+   "filed": "1993-09-07",
+   "what": "Articles of Incorporation",
+   "file": "19931093247",
+   "name": "Jefferson Hills Corporation"
+  },
+  {
+   "date": "1995-10-06",
+   "filed": "1995-10-06",
+   "what": "Amendment",
+   "file": "19951123924"
+  },
+  {
+   "date": "1996-04-23",
+   "filed": "1996-04-23",
+   "what": "Amendment",
+   "file": "19961055354"
+  },
+  {
+   "date": "2001-11-01",
+   "filed": "2001-11-01",
+   "what": "Amendment",
+   "file": "20011210737"
+  },
+  {
+   "date": "2005-04-07",
+   "filed": "2005-04-07",
+   "what": "Articles of Reinstatement",
+   "file": "20051146062"
+  },
+  {
+   "date": "2023-09-20",
+   "filed": "2023-09-20",
+   "what": "Statement of Merger",
+   "file": "20231966475"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19931093247",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

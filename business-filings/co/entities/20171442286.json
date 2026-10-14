@@ -1,0 +1,61 @@
+{
+ "state": "CO",
+ "doc": "20171442286",
+ "name": "Brad's House LLC",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "inactive",
+ "status_label": "Voluntarily Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "14960 Woodcarver Rd, Colorado Springs, CO, 80921",
+ "city": "Colorado Springs",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2022,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Brad's House LLC",
+  "kind": "company",
+  "title": "",
+  "address": "14960 Woodcarver Rd, Colorado Springs, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-06-13",
+   "filed": "2017-06-13",
+   "what": "Form a Limited Liability Company (LLC)",
+   "file": "20171442286",
+   "name": "Brad's House LLC"
+  },
+  {
+   "date": "2021-11-10",
+   "filed": "2021-11-10",
+   "what": "Combined Statement of Conversion and Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20218069488"
+  },
+  {
+   "date": "2026-05-01",
+   "filed": "2026-02-16",
+   "what": "Dissolve a Nonprofit Corporation",
+   "file": "20261186072"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20171442286",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

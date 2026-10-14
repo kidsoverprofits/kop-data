@@ -1,0 +1,81 @@
+{
+ "state": "FL",
+ "doc": "721587",
+ "name": "Stonesoup School, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1971-08-25",
+ "origin": "FL",
+ "fei": "591377321",
+ "address": "301 Reider Ave, Longwood, FL, 32750",
+ "city": "Longwood",
+ "last_activity": "2011-06-16",
+ "reports": [
+  {
+   "year": 2011,
+   "filed": "2011-05-02"
+  },
+  {
+   "year": 2011,
+   "filed": "2011-05-02"
+  },
+  {
+   "year": 2010,
+   "filed": "2010-01-04"
+  }
+ ],
+ "agent": {
+  "name": "Christine M Ortiz",
+  "kind": "person",
+  "title": "",
+  "place": "Longwood, FL"
+ },
+ "officers": [
+  {
+   "name": "Samuel L Allen",
+   "kind": "person",
+   "title": "Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Andre T Young",
+   "kind": "person",
+   "title": "Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "George N Stanley",
+   "kind": "person",
+   "title": "Director",
+   "place": "Winter Park, FL"
+  },
+  {
+   "name": "Christine M Ortiz",
+   "kind": "person",
+   "title": "O",
+   "place": "Sanford, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1985-11-01",
+   "filed": "1985-11-01",
+   "what": "Involuntarily       dissolved"
+  },
+  {
+   "date": "1985-11-18",
+   "filed": "1985-11-18",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2011-06-16",
+   "filed": "2011-06-16",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=721587",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

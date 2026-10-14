@@ -1,0 +1,83 @@
+{
+ "state": "FL",
+ "doc": "F97000006548",
+ "name": "The Brown Schools, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "1997-12-11",
+ "origin": "DE",
+ "fei": "742842483",
+ "address": "1407 West Stassney Lane, Austin, TX, 78745",
+ "city": "Austin",
+ "last_activity": "2005-09-16",
+ "reports": [
+  {
+   "year": 2004,
+   "filed": "2004-02-16"
+  },
+  {
+   "year": 2004,
+   "filed": "2004-02-16"
+  },
+  {
+   "year": 2003,
+   "filed": "2003-05-06"
+  }
+ ],
+ "agent": {
+  "name": "C T Corporation System",
+  "kind": "company",
+  "title": "",
+  "address": "1200 South Pine Island Road, Plantation, FL"
+ },
+ "officers": [
+  {
+   "name": "Robert J Naples",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Austin, TX"
+  },
+  {
+   "name": "Rod Young",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Austin, TX"
+  },
+  {
+   "name": "George Mccown",
+   "kind": "person",
+   "title": "Director",
+   "place": "Austin, TX"
+  },
+  {
+   "name": "John P Docherty",
+   "kind": "person",
+   "title": "Director",
+   "place": "Austin, TX"
+  },
+  {
+   "name": "Bob Hellman",
+   "kind": "person",
+   "title": "Director",
+   "place": "Austin, TX"
+  },
+  {
+   "name": "Emil J Henry",
+   "kind": "person",
+   "title": "Director",
+   "place": "Austin, TX"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2005-09-16",
+   "filed": "2005-09-16",
+   "what": "Revoked for         annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F97000006548",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,58 @@
+{
+ "state": "FL",
+ "doc": "L23000554435",
+ "name": "Anderson Academy, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2023-12-18",
+ "origin": "FL",
+ "fei": "990580719",
+ "address": "1962 Cedarwood St, Port Charlotte, FL, 33948",
+ "city": "Port Charlotte",
+ "last_activity": "2026-09-25",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": "2025-01-17"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-17"
+  },
+  {
+   "year": 2024,
+   "filed": "2024-01-29"
+  }
+ ],
+ "agent": {
+  "name": "Karalee Anderson",
+  "kind": "person",
+  "title": "",
+  "place": "Port Charlotte, FL"
+ },
+ "officers": [
+  {
+   "name": "Karalee Anderson",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Port Charlotte, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2024-09-06",
+   "filed": "2024-09-06",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2026-09-25",
+   "filed": "2026-09-25",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L23000554435",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,47 @@
+{
+ "state": "FL",
+ "doc": "L20000165706",
+ "name": "Meridian LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2020-06-14",
+ "origin": "FL",
+ "fei": "364317068",
+ "address": "6220 NW 37th Terr, Virginia Gardens, FL, 33166",
+ "city": "Virginia Gardens",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-28"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-28"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-30"
+  }
+ ],
+ "agent": {
+  "name": "Ronny F Herrera",
+  "kind": "person",
+  "title": "",
+  "place": "Virginia Gardens, FL"
+ },
+ "officers": [
+  {
+   "name": "Ronny Herrera",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Virginia Gardens, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L20000165706",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

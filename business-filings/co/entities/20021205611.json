@@ -1,0 +1,56 @@
+{
+ "state": "CO",
+ "doc": "20021205611",
+ "name": "Ashley Valley Wilderness, Inc.",
+ "type": "FPC",
+ "type_label": "Foreign profit corporation",
+ "status": "active",
+ "status_label": "Delinquent",
+ "filed": "",
+ "origin": "UT",
+ "fei": "",
+ "address": "247 S Vernal Avenue, Vernal, UT, 84078",
+ "city": "Vernal",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2012,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Bingham Marty",
+  "kind": "person",
+  "title": "",
+  "place": "Rangely, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2002-07-29",
+   "filed": "2002-07-29",
+   "what": "Application for Authority",
+   "file": "20021205611"
+  },
+  {
+   "date": "2011-08-10",
+   "filed": "2011-08-04",
+   "what": "Requalify Foreign Entity Authority",
+   "file": "20111447219"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Mountain Homes Youth Ranch",
+   "county": "",
+   "status": "active",
+   "filed": "2002-07-29",
+   "expires": "",
+   "cancelled": "",
+   "doc": "20021205641"
+  }
+ ],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20021205611",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

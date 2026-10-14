@@ -1,0 +1,159 @@
+{
+ "state": "FL",
+ "doc": "722474",
+ "name": "Hope International Ministries, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1972-01-18",
+ "origin": "FL",
+ "fei": "620879012",
+ "address": "11415 Hope International Dr, Tampa, FL, 33625",
+ "city": "Tampa",
+ "last_activity": "2014-05-27",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-06-08"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-06-08"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-13"
+  }
+ ],
+ "agent": {
+  "name": "F&L Corp",
+  "kind": "company",
+  "title": "",
+  "address": "F&L Corp, Jacksonville, FL"
+ },
+ "officers": [
+  {
+   "name": "Carl Roeder",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Matt Higgins",
+   "kind": "person",
+   "title": "Executive Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "David Harper",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Matt Goins",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Herb Hubbard",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  },
+  {
+   "name": "Ryan Thompson",
+   "kind": "person",
+   "title": "Director",
+   "place": "Tampa, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "1972-10-09",
+   "filed": "1972-10-09",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1976-09-03",
+   "filed": "1976-09-03",
+   "what": "Involuntarily       dissolved"
+  },
+  {
+   "date": "1984-11-09",
+   "filed": "1984-11-09",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1984-11-26",
+   "filed": "1984-11-26",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1985-02-13",
+   "filed": "1985-02-13",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "2013-06-20",
+   "filed": "2013-06-20",
+   "what": "Amended and restatedarticles"
+  },
+  {
+   "date": "2014-05-27",
+   "filed": "2014-05-27",
+   "what": "Amended and restatedarticles"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Hope Christian School",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2025-10-17",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G25000135959"
+  },
+  {
+   "name": "Bundles of Hope",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2023-04-25",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G23000052066"
+  },
+  {
+   "name": "Hope Children's Home",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2016-02-05",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G16000013585"
+  },
+  {
+   "name": "Faith Children's Home",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2016-02-05",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G16000013589"
+  },
+  {
+   "name": "Cottages of Hope",
+   "county": "Hillsborough",
+   "status": "active",
+   "filed": "2013-09-05",
+   "expires": "2028-12-31",
+   "cancelled": "",
+   "doc": "G13000088022"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=722474",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

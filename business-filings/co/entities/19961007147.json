@@ -1,0 +1,46 @@
+{
+ "state": "CO",
+ "doc": "19961007147",
+ "name": "Successful Dreams, Inc.",
+ "type": "DPC",
+ "type_label": "Colorado profit corporation",
+ "status": "inactive",
+ "status_label": "Administratively Dissolved",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "",
+ "city": "",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2000,
+   "filed": ""
+  },
+  {
+   "year": 1998,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1996-01-17",
+   "filed": "1996-01-17",
+   "what": "Articles of Incorporation",
+   "file": "19961007147",
+   "name": "Successful Dreams, Inc."
+  },
+  {
+   "date": "2000-01-25",
+   "filed": "2000-01-25",
+   "what": "Amendment",
+   "file": "20001015841"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19961007147",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

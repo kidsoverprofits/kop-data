@@ -1,0 +1,83 @@
+{
+ "state": "FL",
+ "doc": "N04537",
+ "name": "Growing Together, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1984-08-03",
+ "origin": "FL",
+ "fei": "592466094",
+ "address": "2129 North Congress Avenue, Riviera Beach, FL, 33404",
+ "city": "Riviera Beach",
+ "last_activity": "2007-09-14",
+ "reports": [
+  {
+   "year": 2006,
+   "filed": "2006-09-26"
+  },
+  {
+   "year": 2006,
+   "filed": "2006-09-26"
+  },
+  {
+   "year": 2006,
+   "filed": "2006-07-31"
+  }
+ ],
+ "agent": {
+  "name": "Jordyn Realty",
+  "kind": "company",
+  "title": "",
+  "address": "13833 Wellington Trace, Wellington, FL"
+ },
+ "officers": [
+  {
+   "name": "Ed Muller",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "David Nelson",
+   "kind": "person",
+   "title": "Treasurer, Director",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "John Terranova",
+   "kind": "person",
+   "title": "Director",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "James Sandberg",
+   "kind": "person",
+   "title": "Director",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "Bruce Rosenwater",
+   "kind": "person",
+   "title": "Director",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "Nicolas Scarcella",
+   "kind": "person",
+   "title": "Director",
+   "place": "West Palm Beach, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2007-09-14",
+   "filed": "2007-09-14",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N04537",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

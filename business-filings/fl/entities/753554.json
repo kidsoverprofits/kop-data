@@ -1,0 +1,93 @@
+{
+ "state": "FL",
+ "doc": "753554",
+ "name": "Carlton Manor, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1980-07-30",
+ "origin": "FL",
+ "fei": "592058176",
+ "address": "45 Westwood Terrace N., St Petersburg, FL, 33710",
+ "city": "St Petersburg",
+ "last_activity": "2005-10-12",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-16"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-16"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-05-02"
+  }
+ ],
+ "agent": {
+  "name": "Tonya Ruble-richter",
+  "kind": "person",
+  "title": "",
+  "place": "St. Petersburg, FL"
+ },
+ "officers": [
+  {
+   "name": "Elizabeth Walker",
+   "kind": "person",
+   "title": "Board Member",
+   "place": "Seminole, FL"
+  },
+  {
+   "name": "Tonya Ruble-Richter",
+   "kind": "person",
+   "title": "President",
+   "place": "St. Petersburg, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1989-10-13",
+   "filed": "1989-10-13",
+   "what": "Involuntarily       dissolved"
+  },
+  {
+   "date": "1992-10-30",
+   "filed": "1992-10-30",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "2005-09-16",
+   "filed": "2005-09-16",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2005-10-12",
+   "filed": "2005-10-12",
+   "what": "Cancel adm diss/rev"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Everforward",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2026-06-08",
+   "expires": "2031-12-31",
+   "cancelled": "",
+   "doc": "G26000081398"
+  },
+  {
+   "name": "Everforward",
+   "county": "Multiple",
+   "status": "active",
+   "filed": "2025-06-25",
+   "expires": "2030-12-31",
+   "cancelled": "",
+   "doc": "G25000080822"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=753554",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

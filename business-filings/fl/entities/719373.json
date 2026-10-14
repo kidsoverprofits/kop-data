@@ -1,0 +1,91 @@
+{
+ "state": "FL",
+ "doc": "719373",
+ "name": "The Seed, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1970-09-23",
+ "origin": "FL",
+ "fei": "591354142",
+ "address": "1313 S Andrews Ave, Fort Lauderdale, FL, 33316",
+ "city": "Fort Lauderdale",
+ "last_activity": "2001-10-01",
+ "reports": [
+  {
+   "year": 2001,
+   "filed": "2001-01-30"
+  },
+  {
+   "year": 2001,
+   "filed": "2001-01-30"
+  },
+  {
+   "year": 2000,
+   "filed": "2000-01-22"
+  }
+ ],
+ "agent": {
+  "name": "Barker Shelly",
+  "kind": "company",
+  "title": "",
+  "address": "1313 S Andrews Ave, Ft. Lauderdale, Fla.,, FL"
+ },
+ "officers": [
+  {
+   "name": "Barker,art",
+   "kind": "company",
+   "title": "President, Director",
+   "address": "1313 S Andrews Ave, Fort Lauderdale, FL"
+  },
+  {
+   "name": "Barker,shelly",
+   "kind": "company",
+   "title": "Treasurer, Secretary, Director",
+   "address": "1313 S Andrews Ave, Fort Lauderdale, FL"
+  },
+  {
+   "name": "Kienzle, Elizabeth M.",
+   "kind": "company",
+   "title": "Director",
+   "address": "1313 S Andrews Ave, Fort Lauderdale, FL"
+  },
+  {
+   "name": "Bryant, Joan",
+   "kind": "company",
+   "title": "Director",
+   "address": "1825 Se 3rd Ave, Fort Lauderdale, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1971-06-08",
+   "filed": "1971-06-08",
+   "what": "Amendment"
+  },
+  {
+   "date": "1973-07-02",
+   "filed": "1973-07-02",
+   "what": "Cancel for          non-payment"
+  },
+  {
+   "date": "1973-07-12",
+   "filed": "1973-07-12",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1976-01-30",
+   "filed": "1976-01-30",
+   "what": "Amendment"
+  },
+  {
+   "date": "2001-10-01",
+   "filed": "2001-10-01",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=719373",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

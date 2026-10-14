@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "P11000060042",
+ "name": "Thompson Academy, Inc",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2011-06-29",
+ "origin": "FL",
+ "fei": "452639983",
+ "address": "221 21st Street West, Bradenton, FL, 34205",
+ "city": "Bradenton",
+ "last_activity": "2018-09-28",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-01-19"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-01-19"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-01-03"
+  }
+ ],
+ "agent": {
+  "name": "Cynthia J Thompson",
+  "kind": "person",
+  "title": "",
+  "place": "Bradenton, FL"
+ },
+ "officers": [
+  {
+   "name": "Cynthia J Thompson",
+   "kind": "person",
+   "title": "Managing Member",
+   "place": "Bradenton, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-09-28",
+   "filed": "2018-09-28",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P11000060042",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

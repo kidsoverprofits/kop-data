@@ -1,0 +1,33 @@
+{
+ "state": "FL",
+ "doc": "S17513",
+ "name": "Universal Health Services, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1990-12-11",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "7940 N.w. 173rd St., Miami, FL, 33015",
+ "city": "Miami",
+ "last_activity": "1991-10-11",
+ "reports": [],
+ "agent": {
+  "name": "The Prentice Hall Corporation System Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "110 North Magnolia, Tallahassee, FL"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1991-10-11",
+   "filed": "1991-10-11",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=S17513",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

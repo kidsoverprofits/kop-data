@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "L23000168174",
+ "name": "Psychiatric Solutions, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2023-04-04",
+ "origin": "FL",
+ "fei": "923445219",
+ "address": "7901 4th St N, St. Petersburg, FL, 33702",
+ "city": "St. Petersburg",
+ "last_activity": "2026-04-24",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-01"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-01"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-29"
+  }
+ ],
+ "agent": {
+  "name": "Northwest Registered Agent LLC",
+  "kind": "company",
+  "title": "",
+  "address": "7901 4th St N Ste 300, St. Petersburg, FL"
+ },
+ "officers": [
+  {
+   "name": "Colleen Conrad",
+   "kind": "person",
+   "title": "Manager",
+   "place": "St. Petersburg, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2026-04-24",
+   "filed": "2026-04-24",
+   "what": "Lc stmnt of         ra/ro chg"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L23000168174",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

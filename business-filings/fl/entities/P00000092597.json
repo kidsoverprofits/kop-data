@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "P00000092597",
+ "name": "Meridian, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "2000-10-02",
+ "origin": "FL",
+ "fei": "582575515",
+ "address": "10467 Marion St., Englewood, FL, 34224",
+ "city": "Englewood",
+ "last_activity": "2012-01-20",
+ "reports": [
+  {
+   "year": 2011,
+   "filed": "2011-01-06"
+  },
+  {
+   "year": 2011,
+   "filed": "2011-01-06"
+  },
+  {
+   "year": 2010,
+   "filed": "2010-01-20"
+  }
+ ],
+ "agent": {
+  "name": "Scott D Ittersagen",
+  "kind": "person",
+  "title": "",
+  "place": "Englewood, FL"
+ },
+ "officers": [
+  {
+   "name": "Paul R Nyquist",
+   "kind": "person",
+   "title": "President, Vice President, Treasurer, Secretary",
+   "place": "Englewood, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2012-01-20",
+   "filed": "2012-01-20",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P00000092597",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

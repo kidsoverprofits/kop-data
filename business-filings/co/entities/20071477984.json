@@ -1,0 +1,55 @@
+{
+ "state": "CO",
+ "doc": "20071477984",
+ "name": "Rocky Mountain Kids, Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "2210 E La Salle St Ste 112, Colorado Springs, CO, 80909",
+ "city": "Colorado Springs",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Felice Liquori",
+  "kind": "person",
+  "title": "",
+  "place": "Colorado Springs, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2007-11-01",
+   "filed": "2007-10-17",
+   "what": "Form a Nonprofit Corporation",
+   "file": "20071477984",
+   "name": "Rocky Mountain Kids, Inc."
+  },
+  {
+   "date": "2008-09-19",
+   "filed": "2008-09-19",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20081501856"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20071477984",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

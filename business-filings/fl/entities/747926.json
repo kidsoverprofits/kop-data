@@ -1,0 +1,135 @@
+{
+ "state": "FL",
+ "doc": "747926",
+ "name": "The Children's Place at Home Safe, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1979-06-29",
+ "origin": "FL",
+ "fei": "591935485",
+ "address": "2840 Sixth Avenue South, Lake Worth, FL, 33461",
+ "city": "Lake Worth",
+ "last_activity": "2014-12-12",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-02-20"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-20"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-25"
+  }
+ ],
+ "agent": {
+  "name": "Matthew Ladika",
+  "kind": "person",
+  "title": "",
+  "place": "Lake Worth, FL"
+ },
+ "officers": [
+  {
+   "name": "Mike Bruno",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "Tarra L Moten",
+   "kind": "person",
+   "title": "Pastor",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "Lawrence Gonnello",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Palm Beach Gardens, FL"
+  },
+  {
+   "name": "Roberto Vargas",
+   "kind": "person",
+   "title": "President",
+   "place": "West Palm Beach, FL"
+  },
+  {
+   "name": "Aggie Stoops",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Delray Beach, FL"
+  },
+  {
+   "name": "Steven Bernstein",
+   "kind": "person",
+   "title": "Member",
+   "place": "Boca Raton, FL"
+  }
+ ],
+ "more_officers": true,
+ "events": [
+  {
+   "date": "1986-11-14",
+   "filed": "1986-11-14",
+   "what": "Involuntarily       dissolved"
+  },
+  {
+   "date": "1986-12-17",
+   "filed": "1986-12-17",
+   "what": "Reinstatement"
+  },
+  {
+   "date": "1992-06-22",
+   "filed": "1992-06-22",
+   "what": "Event converted to  notes"
+  },
+  {
+   "date": "1992-10-30",
+   "filed": "1992-10-30",
+   "what": "Name change         amendment"
+  },
+  {
+   "date": "1998-12-24",
+   "filed": "1998-12-24",
+   "what": "Merger",
+   "other_doc": "300000026113",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  },
+  {
+   "date": "1998-12-24",
+   "filed": "1998-12-24",
+   "what": "Merger",
+   "other_doc": "300000026113",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  },
+  {
+   "date": "1998-12-24",
+   "filed": "1998-12-24",
+   "what": "Merger              name change",
+   "notes": "CORPORATE NAME CHANGE WAS A RESULT OF A MERGER."
+  },
+  {
+   "date": "2014-12-31",
+   "filed": "2014-12-12",
+   "what": "Merger",
+   "other_doc": "900000147259",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Homesafe",
+   "county": "Palm Beach",
+   "status": "active",
+   "filed": "2012-02-15",
+   "expires": "2027-12-31",
+   "cancelled": "",
+   "doc": "G12000016209"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=747926",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

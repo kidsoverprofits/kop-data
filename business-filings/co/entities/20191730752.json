@@ -1,0 +1,50 @@
+{
+ "state": "CO",
+ "doc": "20191730752",
+ "name": "Red Mountain Colorado, LLC",
+ "type": "FLLC",
+ "type_label": "Foreign limited liability company",
+ "status": "inactive",
+ "status_label": "Withdrawn",
+ "filed": "",
+ "origin": "OR",
+ "fei": "",
+ "address": "530 Center St NE Ste 700, Salem, OR, 97301",
+ "city": "Salem",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2024,
+   "filed": ""
+  },
+  {
+   "year": 2023,
+   "filed": ""
+  },
+  {
+   "year": 2022,
+   "filed": ""
+  }
+ ],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2019-09-11",
+   "filed": "2019-09-11",
+   "what": "Apply for Foreign Entity Authority To transact business in Colorado",
+   "file": "20191730752",
+   "name": "Red Mountain Colorado, LLC"
+  },
+  {
+   "date": "2026-01-28",
+   "filed": "2026-01-28",
+   "what": "Withdraw Foreign Entity Authority",
+   "file": "20261120024"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20191730752",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

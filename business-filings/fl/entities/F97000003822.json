@@ -1,0 +1,65 @@
+{
+ "state": "FL",
+ "doc": "F97000003822",
+ "name": "Youth Services International, Inc.",
+ "type": "FORP",
+ "type_label": "Foreign profit corporation",
+ "status": "inactive",
+ "filed": "1997-07-22",
+ "origin": "MD",
+ "fei": "521715690",
+ "address": "6000 Cattleridge Drive, Suite 200, Sarasota, FL, 34232",
+ "city": "Sarasota",
+ "last_activity": "2017-08-30",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-03-14"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-03-14"
+  },
+  {
+   "year": 2016,
+   "filed": "2016-01-25"
+  }
+ ],
+ "agent": {
+  "name": "C T Corporation System",
+  "kind": "company",
+  "title": "",
+  "address": "1200 South Pine Island Road, Plantation, FL"
+ },
+ "officers": [
+  {
+   "name": "James F Slattery",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "David A Scharoun",
+   "kind": "person",
+   "title": "SRVP",
+   "place": "Sarasota, FL"
+  },
+  {
+   "name": "Christopher J Slattery",
+   "kind": "person",
+   "title": "Vice President",
+   "place": "Sarasota, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-08-30",
+   "filed": "2017-08-30",
+   "what": "Withdrawal"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=F97000003822",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

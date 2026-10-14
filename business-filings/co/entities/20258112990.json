@@ -1,0 +1,48 @@
+{
+ "state": "CO",
+ "doc": "20258112990",
+ "name": "Three Strands, Inc",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "10807 New Allegiance Dr Ste 240, Colorado Springs, CO, 80921",
+ "city": "Colorado Springs",
+ "last_activity": "",
+ "reports": [],
+ "agent": {
+  "name": "The Christian Community Foundation, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "10807 New Allegiance Dr Ste 240, Colorado Springs, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2025-10-08",
+   "filed": "2025-10-08",
+   "what": "Form a Nonprofit Corporation",
+   "file": "20258112990",
+   "name": "WaterStone Resource Foundation #4"
+  },
+  {
+   "date": "2025-10-09",
+   "filed": "2025-10-09",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20258116209"
+  },
+  {
+   "date": "2026-03-02",
+   "filed": "2026-03-02",
+   "what": "Amend Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20261269959"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=20258112990",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

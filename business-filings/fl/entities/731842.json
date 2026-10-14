@@ -1,0 +1,83 @@
+{
+ "state": "FL",
+ "doc": "731842",
+ "name": "Step, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "1975-02-10",
+ "origin": "FL",
+ "fei": "591649538",
+ "address": "1519 Clearlake Road, Cocoa, FL, 32922",
+ "city": "Cocoa",
+ "last_activity": "1984-11-21",
+ "reports": [
+  {
+   "year": 1983,
+   "filed": "1983-02-14"
+  },
+  {
+   "year": 1983,
+   "filed": "1983-02-14"
+  },
+  {
+   "year": 1982,
+   "filed": "1982-04-07"
+  }
+ ],
+ "agent": {
+  "name": "Osborne, Marleen",
+  "kind": "company",
+  "title": "",
+  "address": "759 S Tropical Trail"
+ },
+ "officers": [
+  {
+   "name": "Wilson, Nancy",
+   "kind": "company",
+   "title": "President",
+   "address": "Rt 3 Box 506, Merritt Island, Fl 00000"
+  },
+  {
+   "name": "Bradley, Shireley",
+   "kind": "company",
+   "title": "Treasurer",
+   "address": "714 Aurora St, Cocoa, Fl 00000"
+  },
+  {
+   "name": "Mastroianni, Mike",
+   "kind": "company",
+   "title": "Director",
+   "address": "1416 Wilmar Ave, Merritt Island, Fl 00000"
+  },
+  {
+   "name": "Goodrich, Charles",
+   "kind": "company",
+   "title": "President",
+   "address": "193 Coral Way, Indialatlantic, Fl 00000"
+  },
+  {
+   "name": "Morris, Opal",
+   "kind": "company",
+   "title": "Secretary",
+   "address": "3707 Brockington Cir, Cocoa, Fl 00000"
+  },
+  {
+   "name": "Smith, B J",
+   "kind": "company",
+   "title": "Director",
+   "address": "1410 Holiday Blvd, Merritt Island, Fl 00000"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1984-11-21",
+   "filed": "1984-11-21",
+   "what": "Involuntarily       dissolved"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=731842",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

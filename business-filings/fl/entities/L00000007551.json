@@ -1,0 +1,59 @@
+{
+ "state": "FL",
+ "doc": "L00000007551",
+ "name": "The National Deaf Academy, LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "active",
+ "filed": "2000-06-23",
+ "origin": "FL",
+ "fei": "593653865",
+ "address": "19650 Us Highway 441, Mont Dora, FL, 32757",
+ "city": "Mont Dora",
+ "last_activity": "2017-01-31",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-16"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-11"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays St, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Zeus Endeavors, LLC",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "367 S. Gulph Rd., King of Prussia, PA"
+  },
+  {
+   "name": "Premier Behavioral Solutions, Inc",
+   "kind": "company",
+   "title": "Managing Member",
+   "address": "367 S. Gulph Rd., King of Prussia, PA"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2017-01-31",
+   "filed": "2017-01-31",
+   "what": "Lc stmnt of         ra/ro chg"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L00000007551",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

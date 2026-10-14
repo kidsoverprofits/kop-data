@@ -1,0 +1,76 @@
+{
+ "state": "FL",
+ "doc": "N98000002764",
+ "name": "Lighthouse Christian Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "1998-05-14",
+ "origin": "FL",
+ "fei": "650835223",
+ "address": "5580 Macdonald Ave, Keywest, FL, 33040",
+ "city": "Keywest",
+ "last_activity": "2005-05-02",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-02-24"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-24"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-02-05"
+  }
+ ],
+ "agent": {
+  "name": "Dianne G Kerr",
+  "kind": "person",
+  "title": "",
+  "place": "Key West, FL"
+ },
+ "officers": [
+  {
+   "name": "Kevin J Kerr",
+   "kind": "person",
+   "title": "President",
+   "place": "Key West, FL"
+  },
+  {
+   "name": "Jeanne Sisco",
+   "kind": "person",
+   "title": "Director",
+   "place": "Key West, FL"
+  },
+  {
+   "name": "Jennifer Sisco",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Ramrod Key, FL"
+  },
+  {
+   "name": "Dianne G Kerr",
+   "kind": "person",
+   "title": "Treasurer",
+   "place": "Key West, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2004-10-01",
+   "filed": "2004-10-01",
+   "what": "Admin dissolution   for annual report"
+  },
+  {
+   "date": "2005-05-02",
+   "filed": "2005-05-02",
+   "what": "Reinstatement"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N98000002764",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,94 @@
+{
+ "state": "FL",
+ "doc": "L07000015129",
+ "name": "Brighter Heights Florida LLC",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2007-02-07",
+ "origin": "FL",
+ "fei": "900341538",
+ "address": "2517 N Great Western Dr, Prescott Valley, AZ, 86314",
+ "city": "Prescott Valley",
+ "last_activity": "2026-08-19",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-02-03"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-02-03"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-23"
+  }
+ ],
+ "agent": {
+  "name": "Corporation Service Company",
+  "kind": "company",
+  "title": "",
+  "address": "1201 Hays St, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Tom Kenny",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Prescott Valley, AZ"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2007-02-07",
+   "filed": "2007-02-07",
+   "what": "Conversion",
+   "other_doc": "700000062857",
+   "notes": "CORPORATION WAS A CONVERSION RESULT.  CONVERTING CORPORATION WAS P04000159518"
+  },
+  {
+   "date": "2007-06-21",
+   "filed": "2007-06-21",
+   "what": "Merger",
+   "other_doc": "700000066527",
+   "notes": "CORPORATION WAS A MERGER RESULT. TOTAL NUMBER OF QUALIFIED CORPORATION(S) INVOLVED WAS     1"
+  },
+  {
+   "date": "2007-06-21",
+   "filed": "2007-06-21",
+   "what": "Merger              name change",
+   "notes": "CORPORATE NAME CHANGE WAS A RESULT OF A MERGER."
+  },
+  {
+   "date": "2007-10-30",
+   "filed": "2007-10-30",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2016-06-15",
+   "filed": "2016-06-15",
+   "what": "Lc stmnt of         ra/ro chg"
+  },
+  {
+   "date": "2020-11-04",
+   "filed": "2020-11-04",
+   "what": "Lc amendment"
+  },
+  {
+   "date": "2022-06-06",
+   "filed": "2022-06-06",
+   "what": "Lc name change"
+  },
+  {
+   "date": "2026-08-19",
+   "filed": "2026-08-19",
+   "what": "Lc voluntary        dissolution",
+   "notes": "DISSOLUTION FILED WITH NOTICE"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L07000015129",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

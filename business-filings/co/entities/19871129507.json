@@ -1,0 +1,80 @@
+{
+ "state": "CO",
+ "doc": "19871129507",
+ "name": "Forest Heights Lodge Inc.",
+ "type": "DNC",
+ "type_label": "Colorado nonprofit corporation",
+ "status": "active",
+ "status_label": "Good Standing",
+ "filed": "",
+ "origin": "CO",
+ "fei": "",
+ "address": "13922 Denver West Pkwy Ste 150, Lakewood, CO, 80401",
+ "city": "Lakewood",
+ "last_activity": "",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": ""
+  },
+  {
+   "year": 2025,
+   "filed": ""
+  },
+  {
+   "year": 2024,
+   "filed": ""
+  }
+ ],
+ "agent": {
+  "name": "Forest Heights Lodge Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "13922 Denver West Pkwy Ste 150, Lakewood, CO"
+ },
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1955-05-11",
+   "filed": "1955-05-11",
+   "what": "Articles of Incorporation",
+   "file": "19871129507",
+   "name": "Pikeview House"
+  },
+  {
+   "date": "1955-06-30",
+   "filed": "1955-06-30",
+   "what": "Entity Name Change",
+   "file": "Not Indexed",
+   "name": "Forest Heights Lodge"
+  },
+  {
+   "date": "1995-05-15",
+   "filed": "1995-05-15",
+   "what": "Amendment",
+   "file": "19951064647"
+  },
+  {
+   "date": "1995-10-13",
+   "filed": "1995-10-13",
+   "what": "Amendment",
+   "file": "19951126596"
+  },
+  {
+   "date": "2001-05-10",
+   "filed": "2001-05-10",
+   "what": "Amendment",
+   "file": "20011095699"
+  },
+  {
+   "date": "2020-08-31",
+   "filed": "2020-08-31",
+   "what": "Amend and Restate Articles of Incorporation for a Nonprofit Corporation",
+   "file": "20201759031"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?masterFileId=19871129507",
+ "source": "Colorado Secretary of State, business entity data on data.colorado.gov"
+}

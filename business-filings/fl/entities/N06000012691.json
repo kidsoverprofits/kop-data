@@ -1,0 +1,59 @@
+{
+ "state": "FL",
+ "doc": "N06000012691",
+ "name": "Willow Grove Owners Association, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "inactive",
+ "filed": "2006-12-12",
+ "origin": "FL",
+ "fei": "113803422",
+ "address": "4280 Chokeberry Road, Middleburg, FL, 32068",
+ "city": "Middleburg",
+ "last_activity": "2018-09-28",
+ "reports": [
+  {
+   "year": 2017,
+   "filed": "2017-04-30"
+  },
+  {
+   "year": 2017,
+   "filed": "2017-04-30"
+  },
+  {
+   "year": 2016,
+   "filed": "2016-04-26"
+  }
+ ],
+ "agent": {
+  "name": "PRM Property Management, LLC.",
+  "kind": "company",
+  "title": "",
+  "address": "4280 Chokeberry Road, Middleburg, FL"
+ },
+ "officers": [
+  {
+   "name": "Malcolm Burke",
+   "kind": "person",
+   "title": "Director",
+   "place": "Middleburg, FL"
+  },
+  {
+   "name": "Kate Scanlon",
+   "kind": "person",
+   "title": "Director",
+   "place": "Middleburg, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-09-28",
+   "filed": "2018-09-28",
+   "what": "Admin dissolution   for annual report"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N06000012691",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

@@ -1,0 +1,40 @@
+{
+ "state": "FL",
+ "doc": "M17000007603",
+ "name": "Wilderness Training & Consulting, LLC",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "inactive",
+ "filed": "2017-09-05",
+ "origin": "OR",
+ "fei": "",
+ "address": "530 Center Street Ne Suite 700, Salem, OR, 97301",
+ "city": "Salem",
+ "last_activity": "2018-04-11",
+ "reports": [],
+ "agent": {
+  "name": "Unisearch, Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "155 Office Plaza Dr, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Steven Stradley",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Salem, OR"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2018-04-11",
+   "filed": "2018-04-11",
+   "what": "Withdrawal"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M17000007603",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

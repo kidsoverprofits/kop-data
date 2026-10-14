@@ -1,0 +1,52 @@
+{
+ "state": "FL",
+ "doc": "N26000007166",
+ "name": "Edgewood Ranch Academy, Inc.",
+ "type": "DOMNP",
+ "type_label": "Florida nonprofit corporation",
+ "status": "active",
+ "filed": "2026-05-20",
+ "origin": "FL",
+ "fei": "",
+ "address": "1451 Edgewood Ranch Road, Orlando, FL, 32835",
+ "city": "Orlando",
+ "last_activity": "",
+ "reports": [],
+ "agent": {
+  "name": "Jeff Fitzgerald",
+  "kind": "person",
+  "title": "",
+  "place": "Orlando, FL"
+ },
+ "officers": [
+  {
+   "name": "Chad Barr",
+   "kind": "person",
+   "title": "President, Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Jeff Wieland",
+   "kind": "person",
+   "title": "Secretary, Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Julie Kleffel",
+   "kind": "person",
+   "title": "Treasurer, Director",
+   "place": "Orlando, FL"
+  },
+  {
+   "name": "Tom Eastwood",
+   "kind": "person",
+   "title": "Director",
+   "place": "Orlando, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=N26000007166",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

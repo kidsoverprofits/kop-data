@@ -1,0 +1,92 @@
+{
+ "state": "FL",
+ "doc": "M16000009997",
+ "name": "Odle Management Group, L.L.C.",
+ "type": "FORL",
+ "type_label": "Foreign limited liability company",
+ "status": "active",
+ "filed": "2016-12-12",
+ "origin": "AZ",
+ "fei": "270093730",
+ "address": "100 N Starcrest Drive, Clearwater, FL, 33765",
+ "city": "Clearwater",
+ "last_activity": "2026-01-09",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-04-27"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-04-27"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-04-17"
+  }
+ ],
+ "agent": {
+  "name": "Cogency Global Inc.",
+  "kind": "company",
+  "title": "",
+  "address": "115 N Calhoun St #4, Tallahassee, FL"
+ },
+ "officers": [
+  {
+   "name": "Michael Smith",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Laura Hunt",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Nicole Stroebel",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Martin Peters",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Clearwater, FL"
+  },
+  {
+   "name": "Alex Reed",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Clearwater, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2022-03-03",
+   "filed": "2022-03-03",
+   "what": "Lc stmnt of         ra/ro chg"
+  },
+  {
+   "date": "2026-01-09",
+   "filed": "2026-01-09",
+   "what": "Lc amendment"
+  }
+ ],
+ "trade_names": [
+  {
+   "name": "Eckerd Connects",
+   "county": "Pinellas",
+   "status": "active",
+   "filed": "2024-12-04",
+   "expires": "2029-12-31",
+   "cancelled": "",
+   "doc": "G24000146632"
+  }
+ ],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=M16000009997",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

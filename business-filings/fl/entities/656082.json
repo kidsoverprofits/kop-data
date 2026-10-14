@@ -1,0 +1,53 @@
+{
+ "state": "FL",
+ "doc": "656082",
+ "name": "The Meridian Corporation",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1980-02-14",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "4380 E. 11th Avenue, Hialeah, FL, 33013",
+ "city": "Hialeah",
+ "last_activity": "1987-06-04",
+ "reports": [
+  {
+   "year": 1987,
+   "filed": "1987-03-04"
+  },
+  {
+   "year": 1987,
+   "filed": "1987-03-04"
+  },
+  {
+   "year": 1986,
+   "filed": "1986-03-07"
+  }
+ ],
+ "agent": {
+  "name": "Wallis, Ernest M.",
+  "kind": "company",
+  "title": "",
+  "address": "4380 East 11th Avenue, Hialeah, FL"
+ },
+ "officers": [
+  {
+   "name": "Wallis, Ernest M.",
+   "kind": "company",
+   "title": "President, Secretary, Director",
+   "address": "4380 East 11th Avenue, Hialeah, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1987-06-04",
+   "filed": "1987-06-04",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=656082",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

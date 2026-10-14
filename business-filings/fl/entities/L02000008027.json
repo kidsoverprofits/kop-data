@@ -1,0 +1,58 @@
+{
+ "state": "FL",
+ "doc": "L02000008027",
+ "name": "Step, L.L.C.",
+ "type": "FLAL",
+ "type_label": "Florida limited liability company",
+ "status": "inactive",
+ "filed": "2002-04-04",
+ "origin": "FL",
+ "fei": "550828508",
+ "address": "3180 South Ocean blvd, Miami, FL, 33009",
+ "city": "Miami",
+ "last_activity": "2014-04-21",
+ "reports": [
+  {
+   "year": 2013,
+   "filed": "2013-04-30"
+  },
+  {
+   "year": 2013,
+   "filed": "2013-04-30"
+  },
+  {
+   "year": 2012,
+   "filed": "2012-04-30"
+  }
+ ],
+ "agent": {
+  "name": "Ivetta Golovneva",
+  "kind": "person",
+  "title": "",
+  "place": "Miami, FL"
+ },
+ "officers": [
+  {
+   "name": "Ivetta Golovneva",
+   "kind": "person",
+   "title": "Manager",
+   "place": "Miami, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2003-09-15",
+   "filed": "2003-09-15",
+   "what": "Amendment"
+  },
+  {
+   "date": "2014-04-21",
+   "filed": "2014-04-21",
+   "what": "Lc voluntary        dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=L02000008027",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

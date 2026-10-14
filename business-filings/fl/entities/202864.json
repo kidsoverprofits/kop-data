@@ -1,0 +1,28 @@
+{
+ "state": "FL",
+ "doc": "202864",
+ "name": "The Meridian Corporation",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "inactive",
+ "filed": "1957-05-27",
+ "origin": "FL",
+ "fei": "000000000",
+ "address": "., .",
+ "city": ".",
+ "last_activity": "1970-05-01",
+ "reports": [],
+ "agent": null,
+ "officers": [],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "1970-05-01",
+   "filed": "1970-05-01",
+   "what": "Voluntary           dissolution"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=202864",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}

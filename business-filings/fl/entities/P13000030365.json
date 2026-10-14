@@ -1,0 +1,65 @@
+{
+ "state": "FL",
+ "doc": "P13000030365",
+ "name": "Florida Palms Academy, Inc.",
+ "type": "DOMP",
+ "type_label": "Florida profit corporation",
+ "status": "active",
+ "filed": "2013-04-02",
+ "origin": "FL",
+ "fei": "462449539",
+ "address": "10540 La Reina Road, Delray Beach, FL, 33446",
+ "city": "Delray Beach",
+ "last_activity": "2013-06-26",
+ "reports": [
+  {
+   "year": 2026,
+   "filed": "2026-01-18"
+  },
+  {
+   "year": 2026,
+   "filed": "2026-01-18"
+  },
+  {
+   "year": 2025,
+   "filed": "2025-01-22"
+  }
+ ],
+ "agent": {
+  "name": "Ronald D Simon",
+  "kind": "person",
+  "title": "",
+  "place": "Delray Beach, FL"
+ },
+ "officers": [
+  {
+   "name": "David L Ferguson",
+   "kind": "person",
+   "title": "President",
+   "place": "Sunrise, FL"
+  },
+  {
+   "name": "Ronald D Simon",
+   "kind": "person",
+   "title": "Secretary",
+   "place": "Delray Beach, FL"
+  },
+  {
+   "name": "Ariel D Simon",
+   "kind": "person",
+   "title": "Comptroller",
+   "place": "Sunrise, FL"
+  }
+ ],
+ "more_officers": false,
+ "events": [
+  {
+   "date": "2013-06-26",
+   "filed": "2013-06-26",
+   "what": "Amendment"
+  }
+ ],
+ "trade_names": [],
+ "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=DocumentNumber&searchTerm=P13000030365",
+ "source": "Florida Department of State, Division of Corporations, quarterly data files"
+}
