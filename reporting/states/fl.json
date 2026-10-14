@@ -1,0 +1,122 @@
+{
+  "state": "Florida",
+  "abbr": "FL",
+  "updated": "2026-09-22",
+  "note": "Florida runs every complaint about a licensed clinician through one portal at the Department of Health, whatever the profession, and it has a hard six-year deadline running from the last date of treatment. The facility is regulated separately by the Agency for Health Care Administration, which licenses residential treatment centers for children and adolescents, including therapeutic group homes.",
+  "deadlines": {
+    "verified_on": "2026-09-28",
+    "civil_injury": {
+      "summary": "Four years from the injury for assault, battery, false imprisonment or any other intentional tort. Two years from the injury for a claim based on negligence (for example, a program's careless supervision).",
+      "citation": "Fla. Stat. § 95.11(3)(n) (intentional torts); § 95.11(5)(a) (negligence)",
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html",
+      "quote": "(3) WITHIN FOUR YEARS. ... (n) An action for assault, battery, false arrest, malicious prosecution, malicious interference, false imprisonment, or any other intentional tort, except as provided in subsections (5), (6), and (8). ... (5) WITHIN TWO YEARS. (a) An action founded on negligence.",
+      "confidence": "high",
+      "note": "Negligence was cut from 4 years to 2 years by ch. 2023-15 (HB 837), effective for causes of action accruing after March 24, 2023; negligence claims that accrued before then keep the old 4-year period. Wrongful death is 2 years (§ 95.11(5)(e))."
+    },
+    "civil_minor_tolling": {
+      "summary": "Florida does not generally pause the clock for being a minor: it is paused only while the child has no parent or guardian, or the parent's interest is adverse, and never beyond 7 years from the act. But a lawsuit based on abuse (physical, mental or sexual, as defined in Florida's child-welfare law) can be filed up to 7 years after turning 18, within 4 years of leaving the abuser's dependency, or within 4 years of discovering the injury and its link to the abuse, whichever is latest.",
+      "citation": "Fla. Stat. § 95.11(8); § 95.051(1)(i), (2); § 39.01 (definition of abuse)",
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html",
+      "quote": "An action founded on alleged abuse, as defined in s. 39.01 or s. 415.102 ... may be commenced at any time within 7 years after the age of majority, or within 4 years after the injured person leaves the dependency of the abuser, or within 4 years from the time of discovery",
+      "confidence": "medium",
+      "note": "§ 39.01(2) defines abuse as 'any willful act or threatened act that results in any physical, mental, or sexual abuse, injury, or harm' that significantly impairs the child's health, so § 95.11(8) is not limited to sexual abuse. It covers intentional torts; whether it reaches a negligence claim against a program (as opposed to the abuser) is not settled by the text and was not checked against case law here. General minority tolling under § 95.051(1)(i) applies only when no parent/guardian exists or the parent's interest is adverse, capped at 7 years after the act; § 95.051(2) bars any other tolling. Source for § 95.051: https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.051.html"
+    },
+    "civil_government_claims": {
+      "summary": "Against the state, a county or another public agency, you must present a written claim to the agency (and, for state agencies, to the Department of Financial Services) within 3 years, and file the lawsuit within 4 years of the injury.",
+      "citation": "Fla. Stat. § 768.28(6)(a), (14)",
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.28.html",
+      "quote": "An action may not be instituted on a claim against the state or one of its agencies or subdivisions unless the claimant presents the claim in writing to the appropriate agency ... within 3 years after such claim accrues ... (14) ... within 4 years after such claim accrues",
+      "confidence": "high",
+      "note": "Wrongful death against the government stays at 2 years. The state is not liable for an employee acting in bad faith, with malicious purpose or wanton disregard; that employee can be sued personally instead (§ 768.28(9)(a))."
+    },
+    "criminal_child_abuse": {
+      "summary": "Aggravated child abuse (a first-degree felony) must be charged within 4 years. Child abuse without great bodily harm, and neglect, are third-degree felonies with 3 years. The clock is NOT paused until the child turns 18 for physical abuse; that rule covers only sex offenses. If the child died, there is no limit.",
+      "citation": "Fla. Stat. § 775.15(1), (2)(a)-(b); § 827.03(2)",
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0775/Sections/0775.15.html",
+      "quote": "(a) A prosecution for a felony of the first degree must be commenced within 4 years after it is committed. (b) A prosecution for any other felony must be commenced within 3 years after it is committed.",
+      "confidence": "high",
+      "note": "§ 827.03(2)(a) makes aggravated child abuse a first-degree felony; (2)(b) neglect causing great bodily harm is second degree; (2)(c)-(d) abuse or neglect without great bodily harm are third degree. The under-18 tolling in § 775.15(13) lists only ss. 794.011, 800.04, 826.04 and 847.0135(5). § 775.15(16) lets aggravated child abuse be charged at any time after DNA identifies the accused. The clock stops while the defendant is out of state (§ 775.15(5), max 3 extra years). A felony resulting in death has no limit (§ 775.15(1))."
+    },
+    "criminal_felony_assault": {
+      "summary": "Aggravated assault (third-degree felony) and aggravated battery (second-degree felony) must be charged within 3 years. Simple assault must be charged within 1 year and simple battery within 2 years.",
+      "citation": "Fla. Stat. § 775.15(2)(b)-(d); § 784.021(2); § 784.045(2)",
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0775/Sections/0775.15.html",
+      "quote": "(b) A prosecution for any other felony must be commenced within 3 years after it is committed. (c) A prosecution for a misdemeanor of the first degree must be commenced within 2 years after it is committed. (d) A prosecution for a misdemeanor of the second degree ... within 1 year",
+      "confidence": "high",
+      "note": "Aggravated assault is a third-degree felony (§ 784.021(2)); aggravated battery is a second-degree felony (§ 784.045(2)). Simple assault is a second-degree misdemeanor and simple battery a first-degree misdemeanor (§§ 784.011, 784.03; degrees from general knowledge of those sections, not re-read here). DNA exception in § 775.15(16) covers aggravated battery and false imprisonment."
+    }
+  },
+  "channels": [
+    {
+      "id": "fl-doh-mqa",
+      "category": "professional-board",
+      "profession": "Multiple professions",
+      "name": "Florida Department of Health, Medical Quality Assurance",
+      "what_it_can_do": "Investigates complaints against every health care practitioner the Department licenses - psychologists, clinical social workers, marriage and family therapists, mental health counselors and physicians - and can reprimand, fine, restrict practice, impose probation, suspend or revoke a licence.",
+      "what_it_cannot_do": "Everything it can do is administrative. It cannot award you damages, and it may require you to pay for copies of medical records it needs.",
+      "who_to_report": "Any licensed clinician who treated you or your child in Florida. Verify the licence first through the Department's lookup, which also shows any disciplinary history.",
+      "how": "File through the Florida Health Care Complaint Portal. It cannot be done over the phone, and Florida law requires the complaint to be signed. Unlicensed practice is the exception and can be reported by phone.",
+      "complaint_url": "https://complaint-portal.mqa.flhealthsource.gov/",
+      "info_url": "https://www.floridahealth.gov/licensing-regulations/complaints-enforcement/",
+      "phone": "1-877-425-8852",
+      "phone_note": "877-HALT-ULA, for unlicensed activity only. A complaint against a licensee has to be in writing.",
+      "email": "MQA.ConsumerServices@FLHealth.gov",
+      "anonymous": "not-allowed",
+      "deadline": "Six years from the last date of treatment, and the whole investigation and probable cause finding has to be finished inside it, so filing late in the window may leave too little time.",
+      "note": "Complaints stay confidential until ten days after probable cause is found, and permanently if it is not. Patient identity and records stay confidential either way. If the case is opened, the practitioner gets a copy of the complaint.",
+      "verified_on": "2026-09-22",
+      "sources": ["https://www.floridahealth.gov/licensing-regulations/complaints-enforcement/"]
+    },
+    {
+      "id": "fl-ahca",
+      "category": "facility-licensing",
+      "name": "Florida Agency for Health Care Administration, Complaint Administration Unit",
+      "what_it_can_do": "Licenses and regulates Residential Treatment Centers for Children and Adolescents - 24-hour residential programs including therapeutic group homes - and investigates complaints about the care they give.",
+      "who_to_report": "The facility. Check first on FloridaHealthFinder.gov whether AHCA regulates it; if it is not AHCA-licensed it may be licensed by the Department of Children and Families instead, or by nobody.",
+      "how": "Use the online Health Care Facility Complaint Form, or call the complaint line. There is a separate form for reporting a facility operating without a licence.",
+      "complaint_url": "https://apps.ahca.myflorida.com/hcfc/",
+      "info_url": "https://ahca.myflorida.com/health-quality-assurance/bureau-of-health-facility-regulation/hospital-outpatient-services-unit/residential-treatment-centers-for-children-and-adolescents.html",
+      "phone": "1-888-419-3456",
+      "phone_note": "Monday to Friday, 8am to 5pm Eastern. Florida Relay TDD 1-800-955-8771.",
+      "anonymous": "allowed",
+      "verified_on": "2026-09-22",
+      "sources": [
+        "https://ahca.myflorida.com/health-quality-assurance/bureau-of-field-operations/complaint-administration-unit.html",
+        "https://ahca.myflorida.com/health-quality-assurance/bureau-of-health-facility-regulation/hospital-outpatient-services-unit/residential-treatment-centers-for-children-and-adolescents.html"
+      ]
+    },
+    {
+      "id": "fl-abuse-hotline",
+      "category": "legal",
+      "name": "Florida Abuse Hotline",
+      "what_it_can_do": "The statutory report line for child abuse, neglect and abandonment in Florida. Where the person accused is a caregiver, the Department of Children and Families investigates; where they are not, the report is transferred electronically to the local law enforcement agency where the child lives.",
+      "who_to_report": "A child at a Florida program. Florida law requires anyone who suspects a child has been abused by any person to report it here.",
+      "how": "Call, report online, or fax. Florida Relay 711 and TTY 1-800-453-5145.",
+      "complaint_url": "https://reportabuse.myflfamilies.com/s/",
+      "info_url": "https://www.myflfamilies.com/services/abuse/abuse-hotline/how-report-abuse/",
+      "phone": "1-800-962-2873",
+      "phone_note": "24 hours a day, every day. Fax 1-800-914-0004.",
+      "anonymous": "allowed",
+      "mandatory_reporter": true,
+      "verified_on": "2026-09-22",
+      "sources": [
+        "https://www.myflfamilies.com/services/abuse/abuse-hotline",
+        "https://www.myflfamilies.com/services/abuse/abuse-hotline/about/"
+      ]
+    },
+    {
+      "id": "fl-disability-rights-florida",
+      "category": "oversight",
+      "name": "Disability Rights Florida",
+      "what_it_can_do": "Florida's Protection and Advocacy agency, with federal authority to investigate abuse and neglect of people with disabilities in facilities and a right of access to them. Free legal advocacy for eligible clients.",
+      "who_to_report": "A Florida program where the young person has a disability or a mental health diagnosis.",
+      "how": "Contact the intake line.",
+      "info_url": "https://disabilityrightsflorida.org/",
+      "phone": "1-800-342-0823",
+      "phone_note": "Main line 850-488-9071; TDD 1-800-346-4127.",
+      "anonymous": "discouraged",
+      "verified_on": "2026-09-22",
+      "sources": ["https://www.ndrn.org/about/ndrn-member-agencies/?agency_location=florida"]
+    }
+  ]
+}
