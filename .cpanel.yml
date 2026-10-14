@@ -8,6 +8,6 @@ deployment:
     # server until an rm line here removes it.
     - export DEPLOYPATH=/home/kidsover/public_html/wp-content/themes/child/js/data/
     - /bin/mkdir -p $DEPLOYPATH
-    - /bin/cp -R network reporting reddit-wiki people unsilenced survivor-archives federal-funding nonprofit-filings data-audit featured az_reports ut_checklists $DEPLOYPATH
+    - /bin/cp -R network reporting reddit-wiki people unsilenced survivor-archives federal-funding nonprofit-filings business-filings data-audit featured az_reports ut_checklists $DEPLOYPATH
     - /bin/cp *.json $DEPLOYPATH
     - /bin/cp DATA-LICENSE.md $DEPLOYPATH
