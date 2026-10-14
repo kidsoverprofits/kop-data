@@ -1,0 +1,88 @@
+{
+ "ein": "042631391",
+ "name": "Seven Hills Foundation Inc",
+ "address": "81 Hope Ave",
+ "city": "Worcester",
+ "state": "MA",
+ "zip": "01603",
+ "ntee": "P82Z",
+ "subsection": "3",
+ "ruling": "1999-03",
+ "url": "https://projects.propublica.org/nonprofits/organizations/042631391",
+ "filings": [
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_12_EO%2F04-2631391_990_201206.pdf",
+   "revenue": 11752076,
+   "expenses": 12371877,
+   "assets": 1967693,
+   "liabilities": 873426,
+   "officer_pay": 422025,
+   "other_salaries": 7231491,
+   "program_revenue": 11398891,
+   "gifts_grants": 345964
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_11_EO%2F04-2631391_990_201106.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_12_EO%2F04-2631391_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_11_EO%2F04-2631391_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F04-2631391_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_03_EO%2F04-2631391_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_12_EO%2F04-2631391_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_12_EO%2F04-2631391_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_12_EO%2F04-2631391_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_01_EO%2F04-2631391_990_200306.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_12_EO%2F04-2631391_990_200206.pdf"
+  }
+ ]
+}

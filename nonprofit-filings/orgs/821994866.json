@@ -1,0 +1,56 @@
+{
+ "ein": "821994866",
+ "name": "Lifes Right Direction Inc",
+ "address": "32 Alpha Park",
+ "city": "Cleveland",
+ "state": "OH",
+ "zip": "44143",
+ "ntee": "L40",
+ "subsection": "3",
+ "ruling": "2017-12",
+ "url": "https://projects.propublica.org/nonprofits/organizations/821994866",
+ "filings": [
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2023_prefixes_81-99%2F821994866_202112_990_2023020220886683.pdf",
+   "revenue": 311214,
+   "expenses": 288829,
+   "assets": 22385,
+   "liabilities": 0,
+   "officer_pay": 33000,
+   "other_salaries": 33086,
+   "program_revenue": 311214,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 144919,
+   "expenses": 157163,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 117740,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_82-84%2F821994866_201912_990_2020100817359604.pdf",
+   "revenue": 97119,
+   "expenses": 90488,
+   "assets": 12244,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 62855,
+   "program_revenue": 97119,
+   "gifts_grants": 0
+  }
+ ]
+}

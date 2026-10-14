@@ -1,0 +1,28 @@
+{
+ "ein": "863111588",
+ "name": "Bettys House Of Care Inc",
+ "address": "12913 Harbor Blvd Ste Q3 Pmb 353",
+ "city": "Garden Grove",
+ "state": "CA",
+ "zip": "92840",
+ "ntee": "P99",
+ "subsection": "3",
+ "ruling": "2021-08",
+ "url": "https://projects.propublica.org/nonprofits/organizations/863111588",
+ "filings": [
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_85-86%2F863111588_202212_990EZ_2024012922262485.pdf",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

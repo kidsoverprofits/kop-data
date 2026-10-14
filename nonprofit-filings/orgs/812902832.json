@@ -1,0 +1,28 @@
+{
+ "ein": "812902832",
+ "name": "Phoenix House",
+ "address": "Po Box 3001",
+ "city": "W Brentwood",
+ "state": "NY",
+ "zip": "11717",
+ "ntee": "P20",
+ "subsection": "3",
+ "ruling": "2017-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/812902832",
+ "filings": [
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=09_2018_prefixes_81-82%2F812902832_201706_990EZ_2018092015709417.pdf",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

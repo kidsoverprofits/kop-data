@@ -1,0 +1,76 @@
+{
+ "ein": "900656444",
+ "name": "Raven House",
+ "address": "9349 Gaylord Ave",
+ "city": "Cleveland",
+ "state": "OH",
+ "zip": "44105",
+ "ntee": "F33",
+ "subsection": "3",
+ "ruling": "2020-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/900656444",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F900656444_202406_990_2026012223859162.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_86-99%2F900656444_202306_990_2024031222312915.pdf",
+   "revenue": 472438,
+   "expenses": 458984,
+   "assets": 14378,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 158279,
+   "program_revenue": 421113,
+   "gifts_grants": 1000
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F900656444_202206_990_2023051921272177.pdf",
+   "revenue": 309189,
+   "expenses": 222082,
+   "assets": 7641,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 94646,
+   "program_revenue": 268610,
+   "gifts_grants": 40579
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 63189,
+   "expenses": 64954,
+   "assets": 1726,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 11460,
+   "expenses": 7969,
+   "assets": 3491,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

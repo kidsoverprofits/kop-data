@@ -1,0 +1,96 @@
+{
+ "ein": "710247120",
+ "name": "Ophelia Polk Moore Home Inc",
+ "address": "625 Pecan",
+ "city": "Helena",
+ "state": "AR",
+ "zip": "72342",
+ "ntee": "T22",
+ "subsection": "3",
+ "ruling": "2018-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/710247120",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990-PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F710247120_202312_990PF_2024112122909289.pdf",
+   "revenue": 38435,
+   "expenses": 25348,
+   "assets": 867846,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990-PF",
+   "pdf": "",
+   "revenue": 34736,
+   "expenses": 28139,
+   "assets": 854759,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990-PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F710247120_202112_990PF_2023050521161794.pdf",
+   "revenue": 42613,
+   "expenses": 24059,
+   "assets": 848162,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990-PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F710247120_202012_990PF_2022082920300664.pdf",
+   "revenue": 30135,
+   "expenses": 16815,
+   "assets": 829608,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990-PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2022_prefixes_61-74%2F710247120_201912_990PF_2022031519758298.pdf",
+   "revenue": 21752,
+   "expenses": 25636,
+   "assets": 816288,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_64-73%2F710247120_201812_990PF_2019100716724389.pdf"
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=09_2018_prefixes_65-74%2F710247120_201712_990PF_2018091715695984.pdf"
+  }
+ ]
+}

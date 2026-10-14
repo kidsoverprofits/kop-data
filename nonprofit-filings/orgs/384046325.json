@@ -1,0 +1,42 @@
+{
+ "ein": "384046325",
+ "name": "Freedom Youth Program",
+ "address": "1241 E 174th Street",
+ "city": "Cleveland",
+ "state": "OH",
+ "zip": "44110",
+ "ntee": "I21",
+ "subsection": "3",
+ "ruling": "2019-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/384046325",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_37-39%2F384046325_202306_990_2024010522186445.pdf",
+   "revenue": 282597,
+   "expenses": 340039,
+   "assets": 1911,
+   "liabilities": 40194,
+   "officer_pay": 74300,
+   "other_salaries": 82846,
+   "program_revenue": 0,
+   "gifts_grants": 282597
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F384046325_202206_990_2023050921189374.pdf",
+   "revenue": 370328,
+   "expenses": 275431,
+   "assets": 25181,
+   "liabilities": 0,
+   "officer_pay": 67850,
+   "other_salaries": 54964,
+   "program_revenue": 0,
+   "gifts_grants": 370328
+  }
+ ]
+}

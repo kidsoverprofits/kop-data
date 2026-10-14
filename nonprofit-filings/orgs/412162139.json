@@ -1,0 +1,136 @@
+{
+ "ein": "412162139",
+ "name": "Machaseh Childrens Ranch Inc",
+ "address": "238 Sand Gulch Rd",
+ "city": "Shoshoni",
+ "state": "WY",
+ "zip": "82649",
+ "ntee": "L41",
+ "subsection": "3",
+ "ruling": "2005-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/412162139",
+ "filings": [
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 27538,
+   "expenses": 24387,
+   "assets": 191781,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=12_2017_prefixes_39-43%2F412162139_201612_990EZ_2017122915064405.pdf",
+   "revenue": 89128,
+   "expenses": 127315,
+   "assets": 194925,
+   "liabilities": 6295,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2017_01_EO%2F41-2162139_990EZ_201512.pdf",
+   "revenue": 190804,
+   "expenses": 186767,
+   "assets": 230390,
+   "liabilities": 3573,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_09_EO%2F41-2162139_990EZ_201412.pdf",
+   "revenue": 46894,
+   "expenses": 62120,
+   "assets": 225395,
+   "liabilities": 2615,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_03_EO%2F41-2162139_990EZ_201312.pdf",
+   "revenue": 59798,
+   "expenses": 44590,
+   "assets": 238005,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_09_EO%2F41-2162139_990EZ_201212.pdf",
+   "revenue": 60208,
+   "expenses": 44010,
+   "assets": 222797,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_11_EO%2F41-2162139_990EZ_201112.pdf",
+   "revenue": 107998,
+   "expenses": 93347,
+   "assets": 206599,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_09_EO%2F41-2162139_990EZ_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_08_EO%2F41-2162139_990EZ_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F41-2162139_990EZ_200712.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200512",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_06_EO%2F41-2162139_990EZ_200512.pdf"
+  }
+ ]
+}

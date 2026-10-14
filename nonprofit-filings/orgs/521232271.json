@@ -1,0 +1,20 @@
+{
+ "ein": "521232271",
+ "name": "New Life Center Inc",
+ "address": "315 E Cork St",
+ "city": "Winchester",
+ "state": "VA",
+ "zip": "22601",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "1982-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/521232271",
+ "filings": [
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F52-1232271_990_200206.pdf"
+  }
+ ]
+}

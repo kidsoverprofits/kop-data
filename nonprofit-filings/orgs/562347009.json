@@ -1,0 +1,128 @@
+{
+ "ein": "562347009",
+ "name": "Grace Of Serenity Living Inc",
+ "address": "8340 N 86th Ln",
+ "city": "Peoria",
+ "state": "AZ",
+ "zip": "85345",
+ "ntee": "L41",
+ "subsection": "3",
+ "ruling": "2004-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/562347009",
+ "filings": [
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_12_EO%2F56-2347009_990_201512.pdf",
+   "revenue": 1117725,
+   "expenses": 1083257,
+   "assets": 16080,
+   "liabilities": 276803,
+   "officer_pay": 0,
+   "other_salaries": 564556,
+   "program_revenue": 1117725,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_07_EO%2F56-2347009_990_201412.pdf",
+   "revenue": 1036104,
+   "expenses": 1031259,
+   "assets": 39013,
+   "liabilities": 334204,
+   "officer_pay": 0,
+   "other_salaries": 416893,
+   "program_revenue": 1008787,
+   "gifts_grants": 27317
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_11_EO%2F56-2347009_990_201312.pdf",
+   "revenue": 1176662,
+   "expenses": 1160096,
+   "assets": 26000,
+   "liabilities": 326036,
+   "officer_pay": 0,
+   "other_salaries": 500361,
+   "program_revenue": 1116942,
+   "gifts_grants": 59720
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_12_EO%2F56-2347009_990_201212.pdf",
+   "revenue": 785570,
+   "expenses": 820733,
+   "assets": 25927,
+   "liabilities": 342529,
+   "officer_pay": 0,
+   "other_salaries": 272691,
+   "program_revenue": 676346,
+   "gifts_grants": 109224
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_11_EO%2F56-2347009_990_201112.pdf",
+   "revenue": 891141,
+   "expenses": 821356,
+   "assets": 33497,
+   "liabilities": 229097,
+   "officer_pay": 24000,
+   "other_salaries": 320149,
+   "program_revenue": 729684,
+   "gifts_grants": 161457
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_01_EO%2F56-2347009_990_201012.pdf",
+   "revenue": 1012148,
+   "expenses": 1127424,
+   "assets": 0,
+   "liabilities": 0,
+   "officer_pay": 119000,
+   "other_salaries": 488389,
+   "program_revenue": 787966,
+   "gifts_grants": 224172
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_EO%2F56-2347009_990_200912.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F56-2347009_990O_200712.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_07_EO%2F56-2347009_990_200612.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_12_EO%2F56-2347009_990_200512.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200412",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_09_EO%2F56-2347009_990O_200412.pdf"
+  }
+ ]
+}

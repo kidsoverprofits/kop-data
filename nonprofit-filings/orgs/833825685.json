@@ -1,0 +1,90 @@
+{
+ "ein": "833825685",
+ "name": "Gateway To Success",
+ "address": "3493 Craig Ave",
+ "city": "Cincinnati",
+ "state": "OH",
+ "zip": "45211",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "2019-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/833825685",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F833825685_202412_990_2025073023618206.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F833825685_202312_990_2024061122520524.pdf",
+   "revenue": 1685248,
+   "expenses": 1326281,
+   "assets": 499173,
+   "liabilities": 0,
+   "officer_pay": 196471,
+   "other_salaries": 597553,
+   "program_revenue": 1685248,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1475457,
+   "expenses": 897073,
+   "assets": 397003,
+   "liabilities": -294373,
+   "officer_pay": 157033,
+   "other_salaries": 386376,
+   "program_revenue": 1475457,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "",
+   "revenue": 618335,
+   "expenses": 541482,
+   "assets": 51091,
+   "liabilities": -61900,
+   "officer_pay": 114678,
+   "other_salaries": 201660,
+   "program_revenue": 618335,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F833825685_202012_990_2022013119582918.pdf",
+   "revenue": 360635,
+   "expenses": 319167,
+   "assets": 39305,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 154547,
+   "program_revenue": 360635,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2022_prefixes_82-98%2F833825685_201912_990_2022020819653787.pdf",
+   "revenue": 13250,
+   "expenses": 10590,
+   "assets": 4428,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 13250,
+   "gifts_grants": 0
+  }
+ ]
+}

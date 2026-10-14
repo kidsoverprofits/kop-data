@@ -1,0 +1,70 @@
+{
+ "ein": "753136514",
+ "name": "Nawa Academy",
+ "address": "Po Box 458",
+ "city": "Shasta",
+ "state": "CA",
+ "zip": "96087",
+ "ntee": "B25",
+ "subsection": "3",
+ "ruling": "2007-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/753136514",
+ "filings": [
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_03_EO%2F75-3136514_990_201106.pdf",
+   "revenue": 1477653,
+   "expenses": 1592483,
+   "assets": 428095,
+   "liabilities": 553076,
+   "officer_pay": 0,
+   "other_salaries": 794472,
+   "program_revenue": 1412898,
+   "gifts_grants": 58825
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_03_EO%2F75-3136514_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_12_EO%2F75-3136514_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_12_EO%2F75-3136514_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_10_EO%2F75-3136514_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_07_EO%2F75-3136514_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_12_EO%2F75-3136514_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_12_EO%2F75-3136514_990EZ_200406.pdf"
+  }
+ ]
+}

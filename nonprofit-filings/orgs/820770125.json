@@ -1,0 +1,110 @@
+{
+ "ein": "820770125",
+ "name": "Honey Lake Clinic Inc",
+ "address": "1450 Nw Honey Lake Rd",
+ "city": "Greenville",
+ "state": "FL",
+ "zip": "32331",
+ "ntee": "F30",
+ "subsection": "3",
+ "ruling": "2018-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/820770125",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F820770125_202412_990_2026030223965091.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F820770125_202312_990_2025042523393215.pdf"
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_11_2023_prefixes_81-82%2F820770125_202212_990_2023110121832099.pdf",
+   "revenue": 15585931,
+   "expenses": 15275921,
+   "assets": 14434687,
+   "liabilities": 10720543,
+   "officer_pay": 0,
+   "other_salaries": 6079293,
+   "program_revenue": 15207978,
+   "gifts_grants": 374859
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F820770125_202112_990_2023051021192568.pdf",
+   "revenue": 16537943,
+   "expenses": 16788559,
+   "assets": 14302159,
+   "liabilities": 10898025,
+   "officer_pay": 0,
+   "other_salaries": 6013942,
+   "program_revenue": 15991922,
+   "gifts_grants": 417310
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_81-82%2F820770125_202012_990_2021052418177942.pdf",
+   "revenue": 16441952,
+   "expenses": 15292012,
+   "assets": 14199418,
+   "liabilities": 10544668,
+   "officer_pay": 387535,
+   "other_salaries": 6183811,
+   "program_revenue": 13838708,
+   "gifts_grants": 2514031
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=02_2021_prefixes_81-83%2F820770125_201912_990_2021022217738366.pdf",
+   "revenue": 11669025,
+   "expenses": 11157750,
+   "assets": 13010568,
+   "liabilities": 10505758,
+   "officer_pay": 157493,
+   "other_salaries": 4972833,
+   "program_revenue": 11645271,
+   "gifts_grants": 23754
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_81-82%2F820770125_201812_990_2019102516782617.pdf",
+   "revenue": 8059893,
+   "expenses": 7778208,
+   "assets": 7919993,
+   "liabilities": 5824346,
+   "officer_pay": 95950,
+   "other_salaries": 2560894,
+   "program_revenue": 8038893,
+   "gifts_grants": 21000
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=03_2019_prefixes_81-84%2F820770125_201712_990_2019030616150956.pdf",
+   "revenue": 5580812,
+   "expenses": 3654006,
+   "assets": 7859303,
+   "liabilities": 5932497,
+   "officer_pay": 0,
+   "other_salaries": 819607,
+   "program_revenue": 3245659,
+   "gifts_grants": 2335153
+  }
+ ]
+}

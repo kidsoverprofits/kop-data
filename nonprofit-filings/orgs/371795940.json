@@ -1,0 +1,96 @@
+{
+ "ein": "371795940",
+ "name": "Meadowlark Academy Inc",
+ "address": "3304 East I-80 Service Road",
+ "city": "Cheyenne",
+ "state": "WY",
+ "zip": "82009",
+ "ntee": "B28",
+ "subsection": "3",
+ "ruling": "2016-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/371795940",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371795940_202506_990_2026030223959162.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371795940_202406_990_2026030223956316.pdf"
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_06_2023_prefixes_36-41%2F371795940_202206_990_2023060521372112.pdf",
+   "revenue": 945849,
+   "expenses": 824747,
+   "assets": 5951176,
+   "liabilities": 5580684,
+   "officer_pay": 0,
+   "other_salaries": 244465,
+   "program_revenue": 397458,
+   "gifts_grants": 355022
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371795940_202106_990_2022030919706504.pdf",
+   "revenue": 769813,
+   "expenses": 839751,
+   "assets": 6038829,
+   "liabilities": 5789439,
+   "officer_pay": 0,
+   "other_salaries": 244396,
+   "program_revenue": 343838,
+   "gifts_grants": 138379
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=02_2021_prefixes_36-38%2F371795940_202006_990_2021022417752783.pdf",
+   "revenue": 1154014,
+   "expenses": 957836,
+   "assets": 6335047,
+   "liabilities": 6015719,
+   "officer_pay": 0,
+   "other_salaries": 296805,
+   "program_revenue": 934629,
+   "gifts_grants": 60213
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2021_prefixes_36-41%2F371795940_201906_990_2021012117612908.pdf",
+   "revenue": 1271443,
+   "expenses": 1050410,
+   "assets": 6272690,
+   "liabilities": 6149540,
+   "officer_pay": 0,
+   "other_salaries": 357916,
+   "program_revenue": 0,
+   "gifts_grants": 1105987
+  },
+  {
+   "year": 2018,
+   "period": "201806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2019_prefixes_36-39%2F371795940_201806_990_2019042516242900.pdf",
+   "revenue": 918275,
+   "expenses": 831604,
+   "assets": 6149459,
+   "liabilities": 6247342,
+   "officer_pay": 0,
+   "other_salaries": 198018,
+   "program_revenue": 0,
+   "gifts_grants": 761963
+  }
+ ]
+}

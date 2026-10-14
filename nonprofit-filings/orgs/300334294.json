@@ -1,0 +1,104 @@
+{
+ "ein": "300334294",
+ "name": "Bruce & Nelson Residential Facility",
+ "address": "1722 W 165th St",
+ "city": "Compton",
+ "state": "CA",
+ "zip": "90220",
+ "ntee": "P20",
+ "subsection": "3",
+ "ruling": "2023-06",
+ "url": "https://projects.propublica.org/nonprofits/organizations/300334294",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300334294_202412_990_2025073023615292.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300334294_202312_990_2024061022508143.pdf",
+   "revenue": 416206,
+   "expenses": 396645,
+   "assets": 157767,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 114457,
+   "program_revenue": 416206,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2023_prefixes_27-35%2F300334294_202212_990_2023091121660260.pdf",
+   "revenue": 300000,
+   "expenses": 295900,
+   "assets": 157767,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 85000,
+   "program_revenue": 300000,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "",
+   "revenue": 257550,
+   "expenses": 262037,
+   "assets": 153667,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 55000,
+   "program_revenue": 257550,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201812_990EZ_2019102416778725.pdf"
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201712_990EZ_2019102316775712.pdf"
+  },
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201612_990EZ_2019102216768155.pdf"
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201512_990EZ_2019102316775386.pdf"
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201412_990EZ_2019102316775385.pdf"
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990EO",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201312_990EO_2019102316775332.pdf"
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990EO",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2019_prefixes_27-31%2F300334294_201212_990EO_2019102316775331.pdf"
+  }
+ ]
+}

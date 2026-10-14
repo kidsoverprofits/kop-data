@@ -1,0 +1,62 @@
+{
+ "ein": "272547368",
+ "name": "Beloved Ones",
+ "address": "7840 Fernwood Ave",
+ "city": "Calif City",
+ "state": "CA",
+ "zip": "93505",
+ "ntee": "P70",
+ "subsection": "3",
+ "ruling": "2021-05",
+ "url": "https://projects.propublica.org/nonprofits/organizations/272547368",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F272547368_202412_990_2026021923936258.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F272547368_202312_990_2025020623076160.pdf",
+   "revenue": 8861722,
+   "expenses": 8453589,
+   "assets": 410083,
+   "liabilities": -434288,
+   "officer_pay": 785879,
+   "other_salaries": 4158297,
+   "program_revenue": 0,
+   "gifts_grants": 8861722
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "",
+   "revenue": 5784972,
+   "expenses": 5491459,
+   "assets": 826073,
+   "liabilities": 389835,
+   "officer_pay": 926411,
+   "other_salaries": 2915203,
+   "program_revenue": 0,
+   "gifts_grants": 5784972
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F272547368_202112_990_2023020620917389.pdf",
+   "revenue": 2520623,
+   "expenses": 2377898,
+   "assets": 213755,
+   "liabilities": 71030,
+   "officer_pay": 279667,
+   "other_salaries": 1159376,
+   "program_revenue": 0,
+   "gifts_grants": 2520623
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "ein": "301243460",
+ "name": "Haven Of Rest Care Home",
+ "address": "7921 Meadow View Trl",
+ "city": "Fort Worth",
+ "state": "TX",
+ "zip": "76120",
+ "ntee": "F33",
+ "subsection": "3",
+ "ruling": "2020-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/301243460",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202505",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301243460_202505_990_2026031124008414.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202405",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301243460_202405_990_2025042523386566.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202305",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301243460_202305_990_2024042322369748.pdf",
+   "revenue": 688242,
+   "expenses": 700880,
+   "assets": 126653,
+   "liabilities": 135334,
+   "officer_pay": 36587,
+   "other_salaries": 352891,
+   "program_revenue": 687085,
+   "gifts_grants": 640
+  },
+  {
+   "year": 2022,
+   "period": "202205",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301243460_202205_990_2023060521375186.pdf",
+   "revenue": 403768,
+   "expenses": 361681,
+   "assets": 72886,
+   "liabilities": 69928,
+   "officer_pay": 0,
+   "other_salaries": 160123,
+   "program_revenue": 403634,
+   "gifts_grants": 0
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "ein": "753058514",
+ "name": "Ascending Roots",
+ "address": "631 E Cottonwood Ln",
+ "city": "Casa Grande",
+ "state": "AZ",
+ "zip": "85122",
+ "ntee": "B29",
+ "subsection": "3",
+ "ruling": "2004-08",
+ "url": "https://projects.propublica.org/nonprofits/organizations/753058514",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_74-81%2F753058514_202312_990EZ_2024052822435265.pdf",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 0,
+   "expenses": 5398,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "",
+   "revenue": 445959,
+   "expenses": 379085,
+   "assets": 17670,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 443248,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F753058514_202012_990EZ_2022080220264910.pdf",
+   "revenue": 127122,
+   "expenses": 139395,
+   "assets": 145398,
+   "liabilities": 140000,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_11_2021_prefixes_73-82%2F753058514_201906_990_2021111919179247.pdf"
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_74-80%2F753058514_201912_990_2020102917407140.pdf"
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_04_2022_prefixes_59-75%2F753058514_201812_990EZ_2022041519875370.pdf",
+   "revenue": 300,
+   "expenses": 300,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_05_EO%2F75-3058514_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_12_EO%2F75-3058514_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_01_EO%2F75-3058514_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_06_EO%2F75-3058514_990_200306.pdf"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "ein": "371662596",
+ "name": "Option To Success",
+ "address": "3155 Commerce Center Pl",
+ "city": "Louisville",
+ "state": "KY",
+ "zip": "40211",
+ "ntee": "P73",
+ "subsection": "3",
+ "ruling": "2014-03",
+ "url": "https://projects.propublica.org/nonprofits/organizations/371662596",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371662596_202412_990_2025073023619392.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371662596_202312_990_2025011723018098.pdf",
+   "revenue": 1109908,
+   "expenses": 360302,
+   "assets": 1285136,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 211396,
+   "program_revenue": 0,
+   "gifts_grants": 1109908
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "",
+   "revenue": 427787,
+   "expenses": 300221,
+   "assets": 535530,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 291642,
+   "program_revenue": 427787,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F371662596_202112_990_2023020220883161.pdf",
+   "revenue": 420004,
+   "expenses": 323974,
+   "assets": 407964,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 163224,
+   "program_revenue": 420004,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 360916,
+   "expenses": 324697,
+   "assets": 311934,
+   "liabilities": 0,
+   "officer_pay": 101835,
+   "other_salaries": 31849,
+   "program_revenue": 360916,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "",
+   "revenue": 493108,
+   "expenses": 339643,
+   "assets": 275715,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 225543,
+   "program_revenue": 493108,
+   "gifts_grants": 0
+  }
+ ]
+}

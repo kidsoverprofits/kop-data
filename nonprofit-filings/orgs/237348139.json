@@ -1,0 +1,130 @@
+{
+ "ein": "237348139",
+ "name": "Steppin Stone Farm Inc",
+ "address": "604 E Morgan St",
+ "city": "Brandon",
+ "state": "FL",
+ "zip": "33510",
+ "ntee": "",
+ "subsection": "",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/237348139",
+ "filings": [
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_01_EO%2F13-154210_33510_237348139.pdf",
+   "revenue": 361208,
+   "expenses": 928669,
+   "assets": 40103,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 578263,
+   "program_revenue": 87539,
+   "gifts_grants": 114449
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F23-7348139_990_201312.pdf",
+   "revenue": 919633,
+   "expenses": 949626,
+   "assets": 2251440,
+   "liabilities": 18961,
+   "officer_pay": 60932,
+   "other_salaries": 385605,
+   "program_revenue": 534851,
+   "gifts_grants": 281413
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_09_EO%2F23-7348139_990_201212.pdf",
+   "revenue": 900873,
+   "expenses": 853719,
+   "assets": 2353628,
+   "liabilities": 51916,
+   "officer_pay": 52685,
+   "other_salaries": 326755,
+   "program_revenue": 531779,
+   "gifts_grants": 286222
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_10_EO%2F23-7348139_990_201112.pdf",
+   "revenue": 887083,
+   "expenses": 810380,
+   "assets": 2255432,
+   "liabilities": 56612,
+   "officer_pay": 51150,
+   "other_salaries": 314516,
+   "program_revenue": 518070,
+   "gifts_grants": 315250
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_09_EO%2F23-7348139_990_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_EO%2F23-7348139_990_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_07_EO%2F23-7348139_990EZ_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_07_EO%2F23-7348139_990_200712.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_08_EO%2F23-7348139_990_200612.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_12_EO%2F23-7348139_990_200512.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_09_EO%2F23-7348139_990_200412.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_11_EO%2F23-7348139_990_200312.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_08_EO%2F23-7348139_990_200212.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_10_EO%2F23-7348139_990_200112.pdf"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "ein": "941172768",
+ "name": "Faith Home Teen Ranch",
+ "address": "6643 Faith Home Road",
+ "city": "Ceres",
+ "state": "CA",
+ "zip": "95307",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/941172768",
+ "filings": [
+  {
+   "year": 2016,
+   "period": "201603",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2017_prefixes_93-95%2F941172768_201603_990EZ_2017011714082450.pdf"
+  },
+  {
+   "year": 2015,
+   "period": "201503",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_09_EO%2F94-1172768_990EZ_201503.pdf",
+   "revenue": 0,
+   "expenses": 4065,
+   "assets": 197073,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2014,
+   "period": "201403",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-1172768_990EZ_201403.pdf",
+   "revenue": 0,
+   "expenses": 4065,
+   "assets": 201138,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2013,
+   "period": "201303",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_08_EO%2F94-1172768_990EZ_201303.pdf",
+   "revenue": 0,
+   "expenses": 4421,
+   "assets": 205203,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2012,
+   "period": "201203",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_09_EO%2F94-1172768_990EZ_201203.pdf",
+   "revenue": 0,
+   "expenses": 5878,
+   "assets": 209624,
+   "liabilities": 1,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2011,
+   "period": "201103",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_08_EO%2F94-1172768_990EZ_201103.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201003",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_08_EO%2F94-1172768_990EZ_201003.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200903",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_12_EO%2F94-1172768_990EZ_200903.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200803",
+   "form": "990ER",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_10_EO%2F94-1172768_990ER_200803.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200703",
+   "form": "990ER",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_09_EO%2F94-1172768_990ER_200703.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200603",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_09_EO%2F94-1172768_990_200603.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200503",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_08_EO%2F94-1172768_990_200503.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200403",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_08_EO%2F94-1172768_990_200403.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200303",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_08_EO%2F94-1172768_990_200303.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200203",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F94-1172768_990_200203.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200103",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_03_EO%2F94-1172768_990_200103.pdf"
+  },
+  {
+   "year": 2000,
+   "period": "200003",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_03_EO%2F94-1172768_990_200003.pdf"
+  }
+ ]
+}

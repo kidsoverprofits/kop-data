@@ -1,0 +1,56 @@
+{
+ "ein": "822669617",
+ "name": "Brads House",
+ "address": "14960 Woodcarver Rd 203",
+ "city": "Colorado Springs",
+ "state": "CO",
+ "zip": "80921",
+ "ntee": "P30",
+ "subsection": "3",
+ "ruling": "2021-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/822669617",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F822669617_202312_990_2025041023346540.pdf",
+   "revenue": 278367,
+   "expenses": 308926,
+   "assets": 22746,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 256197,
+   "gifts_grants": 22170
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F822669617_202212_990_2024121122947285.pdf",
+   "revenue": 347185,
+   "expenses": 361503,
+   "assets": 53305,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 136557,
+   "program_revenue": 255296,
+   "gifts_grants": 91888
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 166822,
+   "expenses": 216651,
+   "assets": -49829,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

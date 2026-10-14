@@ -1,0 +1,96 @@
+{
+ "ein": "301118960",
+ "name": "Chaddock",
+ "address": "205 S 24th St",
+ "city": "Quincy",
+ "state": "IL",
+ "zip": "62301",
+ "ntee": "P20",
+ "subsection": "3",
+ "ruling": "2019-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/301118960",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301118960_202506_990_2026031124003752.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301118960_202406_990_2025042223370293.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_25-31%2F301118960_202306_990_2024022022298926.pdf",
+   "revenue": 18379764,
+   "expenses": 18372029,
+   "assets": 770583,
+   "liabilities": 762848,
+   "officer_pay": 459428,
+   "other_salaries": 12880170,
+   "program_revenue": 18379752,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F301118960_202206_990_2023053121333571.pdf",
+   "revenue": 15390482,
+   "expenses": 15496254,
+   "assets": 570922,
+   "liabilities": 570922,
+   "officer_pay": 449046,
+   "other_salaries": 11305726,
+   "program_revenue": 15338435,
+   "gifts_grants": 190
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2022_prefixes_26-31%2F301118960_202106_990_2022030219680169.pdf",
+   "revenue": 14124888,
+   "expenses": 14030379,
+   "assets": 410235,
+   "liabilities": 304463,
+   "officer_pay": 396824,
+   "other_salaries": 10059909,
+   "program_revenue": 12294969,
+   "gifts_grants": 1828478
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_27-31%2F301118960_202006_990_2021041217922993.pdf",
+   "revenue": 13346638,
+   "expenses": 13336121,
+   "assets": 2258138,
+   "liabilities": 2246875,
+   "officer_pay": 415464,
+   "other_salaries": 9552087,
+   "program_revenue": 13346309,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=11_2020_prefixes_27-37%2F301118960_201906_990_2020111317421391.pdf",
+   "revenue": 6668140,
+   "expenses": 6667394,
+   "assets": 343788,
+   "liabilities": 343042,
+   "officer_pay": 390605,
+   "other_salaries": 4424673,
+   "program_revenue": 6667708,
+   "gifts_grants": 0
+  }
+ ]
+}

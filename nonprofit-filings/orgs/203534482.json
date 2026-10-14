@@ -1,0 +1,160 @@
+{
+ "ein": "203534482",
+ "name": "Back To Life Incorporated",
+ "address": "Po Box 8237",
+ "city": "Phoenix",
+ "state": "AZ",
+ "zip": "85066",
+ "ntee": "P74",
+ "subsection": "3",
+ "ruling": "2020-01",
+ "url": "https://projects.propublica.org/nonprofits/organizations/203534482",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F203534482_202406_990_2025052323453328.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1651770,
+   "expenses": 1447311,
+   "assets": 319704,
+   "liabilities": 62881,
+   "officer_pay": 205505,
+   "other_salaries": 695348,
+   "program_revenue": 0,
+   "gifts_grants": 1651770
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F203534482_202206_990_2023060921423140.pdf",
+   "revenue": 1409277,
+   "expenses": 1388828,
+   "assets": 110645,
+   "liabilities": 58281,
+   "officer_pay": 208398,
+   "other_salaries": 629090,
+   "program_revenue": 0,
+   "gifts_grants": 1409277
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F203534482_202106_990_2023053121330829.pdf",
+   "revenue": 1307901,
+   "expenses": 1507373,
+   "assets": 58855,
+   "liabilities": 26940,
+   "officer_pay": 208509,
+   "other_salaries": 764757,
+   "program_revenue": 0,
+   "gifts_grants": 1307901
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1242390,
+   "expenses": 1056438,
+   "assets": 244964,
+   "liabilities": 40766,
+   "officer_pay": 141406,
+   "other_salaries": 557718,
+   "program_revenue": 0,
+   "gifts_grants": 1242390
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2021_prefixes_20-22%2F203534482_201906_990_2021012817669715.pdf",
+   "revenue": 820972,
+   "expenses": 780856,
+   "assets": 115560,
+   "liabilities": 95322,
+   "officer_pay": 84049,
+   "other_salaries": 364838,
+   "program_revenue": 820972,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2018,
+   "period": "201806",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=08_2019_prefixes_20-20%2F203534482_201806_990PF_2019080916555503.pdf"
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2018_prefixes_13-20%2F203534482_201506_990_2018042415269894.pdf"
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_01_EO%2F20-3534482_990_201306.pdf",
+   "revenue": 1189392,
+   "expenses": 1115170,
+   "assets": 296382,
+   "liabilities": 68216,
+   "officer_pay": 181479,
+   "other_salaries": 559919,
+   "program_revenue": 1188164,
+   "gifts_grants": 853
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_03_EO%2F20-3534482_990_201206.pdf",
+   "revenue": 1160076,
+   "expenses": 1204948,
+   "assets": 329745,
+   "liabilities": 103625,
+   "officer_pay": 173993,
+   "other_salaries": 598680,
+   "program_revenue": 1156752,
+   "gifts_grants": 1665
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_01_EO%2F20-3534482_990_201106.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_03_EO%2F20-3534482_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_01_EO%2F20-3534482_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F20-3534482_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_02_EO%2F20-3534482_990EZ_200706.pdf"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ein": "811665735",
+ "name": "Indiana Sheriffs Youth Ranch",
+ "address": "1346 N Delaware St",
+ "city": "Indianapolis",
+ "state": "IN",
+ "zip": "46202",
+ "ntee": "O50",
+ "subsection": "3",
+ "ruling": "2017-03",
+ "url": "https://projects.propublica.org/nonprofits/organizations/811665735",
+ "filings": [
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=02_2019_prefixes_77-81%2F811665735_201712_990EZ_2019021916105349.pdf",
+   "revenue": 153104,
+   "expenses": 91860,
+   "assets": 61244,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

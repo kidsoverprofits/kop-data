@@ -1,0 +1,62 @@
+{
+ "ein": "841939789",
+ "name": "Texas Tranquility Estates",
+ "address": "15814 Champion Forest Dr",
+ "city": "Spring",
+ "state": "TX",
+ "zip": "77379",
+ "ntee": "O50",
+ "subsection": "3",
+ "ruling": "2019-06",
+ "url": "https://projects.propublica.org/nonprofits/organizations/841939789",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F841939789_202412_990_2026030623978340.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F841939789_202312_990_2025022423118779.pdf",
+   "revenue": 417506,
+   "expenses": 450140,
+   "assets": 172378,
+   "liabilities": 116612,
+   "officer_pay": 91750,
+   "other_salaries": 129518,
+   "program_revenue": 417499,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_83-84%2F841939789_202212_990_2024010922194898.pdf",
+   "revenue": 376926,
+   "expenses": 483024,
+   "assets": 219510,
+   "liabilities": 131112,
+   "officer_pay": 166098,
+   "other_salaries": 130510,
+   "program_revenue": 376299,
+   "gifts_grants": 600
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_74-86%2F841939789_202112_990_2024031222313969.pdf",
+   "revenue": 598022,
+   "expenses": 294487,
+   "assets": 368954,
+   "liabilities": 174458,
+   "officer_pay": 30600,
+   "other_salaries": 111182,
+   "program_revenue": 598022,
+   "gifts_grants": 0
+  }
+ ]
+}

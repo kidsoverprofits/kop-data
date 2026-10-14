@@ -1,0 +1,34 @@
+{
+ "ein": "922303384",
+ "name": "Our Healing Center",
+ "address": "225 Altair Ave",
+ "city": "Lompoc",
+ "state": "CA",
+ "zip": "93436",
+ "ntee": "P73",
+ "subsection": "3",
+ "ruling": "2023-03",
+ "url": "https://projects.propublica.org/nonprofits/organizations/922303384",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202507",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F922303384_202507_990_2026031124009581.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202407",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F922303384_202407_990_2025020623076156.pdf",
+   "revenue": 529391,
+   "expenses": 525844,
+   "assets": 111575,
+   "liabilities": 108028,
+   "officer_pay": 0,
+   "other_salaries": 279780,
+   "program_revenue": 528391,
+   "gifts_grants": 1000
+  }
+ ]
+}

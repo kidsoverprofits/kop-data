@@ -1,0 +1,76 @@
+{
+ "ein": "821446429",
+ "name": "The One Way Farm",
+ "address": "6131 E River Rd",
+ "city": "Fairfield",
+ "state": "OH",
+ "zip": "45014",
+ "ntee": "P73",
+ "subsection": "3",
+ "ruling": "2020-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/821446429",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821446429_202406_990_2025121623815605.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821446429_202306_990_2025081423661325.pdf",
+   "revenue": 0,
+   "expenses": 22605,
+   "assets": 783943,
+   "liabilities": 316231,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_74-86%2F821446429_202206_990_2024031222315503.pdf",
+   "revenue": 1909900,
+   "expenses": 1710663,
+   "assets": 806548,
+   "liabilities": 316231,
+   "officer_pay": 0,
+   "other_salaries": 797000,
+   "program_revenue": 1472000,
+   "gifts_grants": 430000
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821446429_202106_990_2023020720935234.pdf",
+   "revenue": 1899199,
+   "expenses": 1700660,
+   "assets": 834811,
+   "liabilities": 600356,
+   "officer_pay": 0,
+   "other_salaries": 796839,
+   "program_revenue": 1471214,
+   "gifts_grants": 420125
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821446429_202006_990_2022010719416440.pdf",
+   "revenue": 344348,
+   "expenses": 292613,
+   "assets": 673766,
+   "liabilities": 637850,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 278164,
+   "gifts_grants": 66179
+  }
+ ]
+}

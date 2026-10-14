@@ -1,0 +1,76 @@
+{
+ "ein": "821093291",
+ "name": "Unique Avenue",
+ "address": "11911 Conifer Springs Ln",
+ "city": "Houston",
+ "state": "TX",
+ "zip": "77067",
+ "ntee": "P20",
+ "subsection": "3",
+ "ruling": "2017-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/821093291",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821093291_202412_990_2026012223874700.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F821093291_202312_990_2025021023083359.pdf",
+   "revenue": 390764,
+   "expenses": 335352,
+   "assets": 62990,
+   "liabilities": -321,
+   "officer_pay": 96348,
+   "other_salaries": 141625,
+   "program_revenue": 390764,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_08_2023_prefixes_81-95%2F821093291_202212_990_2023083021583472.pdf",
+   "revenue": 371596,
+   "expenses": 280121,
+   "assets": 57947,
+   "liabilities": 49415,
+   "officer_pay": 85250,
+   "other_salaries": 121281,
+   "program_revenue": 371596,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2023_prefixes_74-94%2F821093291_202112_990_2023010620725273.pdf",
+   "revenue": 427478,
+   "expenses": 352356,
+   "assets": 42478,
+   "liabilities": -19276,
+   "officer_pay": 86667,
+   "other_salaries": 156203,
+   "program_revenue": 427478,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 166047,
+   "expenses": 192453,
+   "assets": 5209,
+   "liabilities": 34697,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

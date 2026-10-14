@@ -1,0 +1,152 @@
+{
+ "ein": "020330184",
+ "name": "Malley Farm Boys Home Inc",
+ "address": "234 Green St",
+ "city": "Somersworth",
+ "state": "NH",
+ "zip": "03878",
+ "ntee": "P73Z",
+ "subsection": "3",
+ "ruling": "1977-06",
+ "url": "https://projects.propublica.org/nonprofits/organizations/020330184",
+ "filings": [
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 30762,
+   "expenses": 68060,
+   "assets": 69441,
+   "liabilities": 38507,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_07_EO%2F02-0330184_990_201506.pdf",
+   "revenue": 225948,
+   "expenses": 236732,
+   "assets": 110566,
+   "liabilities": 42334,
+   "officer_pay": 0,
+   "other_salaries": 127221,
+   "program_revenue": 124685,
+   "gifts_grants": 92889
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_01_EO%2F02-0330184_990_201406.pdf",
+   "revenue": 390295,
+   "expenses": 379774,
+   "assets": 125483,
+   "liabilities": 46467,
+   "officer_pay": 0,
+   "other_salaries": 216635,
+   "program_revenue": 304671,
+   "gifts_grants": 85622
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_03_EO%2F02-0330184_990_201306.pdf",
+   "revenue": 354070,
+   "expenses": 362576,
+   "assets": 119369,
+   "liabilities": 50874,
+   "officer_pay": 0,
+   "other_salaries": 208089,
+   "program_revenue": 303091,
+   "gifts_grants": 50956
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_03_EO%2F02-0330184_990_201206.pdf",
+   "revenue": 375527,
+   "expenses": 397405,
+   "assets": 128394,
+   "liabilities": 51393,
+   "officer_pay": 0,
+   "other_salaries": 245219,
+   "program_revenue": 321372,
+   "gifts_grants": 54144
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_03_EO%2F02-0330184_990_201106.pdf",
+   "revenue": 455627,
+   "expenses": 433015,
+   "assets": 205485,
+   "liabilities": 58053,
+   "officer_pay": 0,
+   "other_salaries": 244903,
+   "program_revenue": 406525,
+   "gifts_grants": 49070
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_03_EO%2F02-0330184_990EZ_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_EO%2F02-0330184_990EZ_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_06_EO%2F02-0330184_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_06_EO%2F02-0330184_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_03_EO%2F02-0330184_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_03_EO%2F02-0330184_990O_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_10_EO%2F02-0330184_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_12_EO%2F02-0330184_990_200306.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_11_EO%2F02-0330184_990_200206.pdf"
+  }
+ ]
+}

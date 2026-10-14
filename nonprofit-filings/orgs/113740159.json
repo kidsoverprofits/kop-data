@@ -1,0 +1,26 @@
+{
+ "ein": "113740159",
+ "name": "Animal Refuge Kingdom",
+ "address": "4825 Conveyor Dr",
+ "city": "Cleburne",
+ "state": "TX",
+ "zip": "76031",
+ "ntee": "D60",
+ "subsection": "3",
+ "ruling": "2005-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/113740159",
+ "filings": [
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_07_EO%2F11-3740159_990EZ_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_05_EO%2F11-3740159_990EZ_200712.pdf"
+  }
+ ]
+}

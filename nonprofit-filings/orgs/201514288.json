@@ -1,0 +1,140 @@
+{
+ "ein": "201514288",
+ "name": "Reflections For Youth Inc",
+ "address": "1000 S Lincoln Ave Suite 200",
+ "city": "Loveland",
+ "state": "CO",
+ "zip": "80537",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/201514288",
+ "filings": [
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=12_2017_prefixes_15-20%2F201514288_201706_990_2017120515005166.pdf"
+  },
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2017_02_EO%2F20-1514288_990_201606.pdf",
+   "revenue": 2426620,
+   "expenses": 2578008,
+   "assets": 506101,
+   "liabilities": 189189,
+   "officer_pay": 83405,
+   "other_salaries": 1440085,
+   "program_revenue": 2389455,
+   "gifts_grants": 37047
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_03_EO%2F20-1514288_990_201506.pdf",
+   "revenue": 2623298,
+   "expenses": 2526856,
+   "assets": 584825,
+   "liabilities": 116525,
+   "officer_pay": 80405,
+   "other_salaries": 1400092,
+   "program_revenue": 2548276,
+   "gifts_grants": 74394
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_02_EO%2F20-1514288_990_201406.pdf",
+   "revenue": 2298111,
+   "expenses": 2329542,
+   "assets": 538722,
+   "liabilities": 169595,
+   "officer_pay": 60841,
+   "other_salaries": 1368535,
+   "program_revenue": 2183654,
+   "gifts_grants": 117587
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_06_EO%2F20-1514288_990_201306.pdf",
+   "revenue": 2521164,
+   "expenses": 2501493,
+   "assets": 558929,
+   "liabilities": 158371,
+   "officer_pay": 331824,
+   "other_salaries": 1157829,
+   "program_revenue": 2343592,
+   "gifts_grants": 177424
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_03_EO%2F20-1514288_990_201206.pdf",
+   "revenue": 2402609,
+   "expenses": 2448921,
+   "assets": 488731,
+   "liabilities": 107844,
+   "officer_pay": 95427,
+   "other_salaries": 1369945,
+   "program_revenue": 2221454,
+   "gifts_grants": 181116
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_03_EO%2F20-1514288_990_201106.pdf",
+   "revenue": 2030735,
+   "expenses": 2175617,
+   "assets": 494048,
+   "liabilities": 66849,
+   "officer_pay": 90743,
+   "other_salaries": 1186402,
+   "program_revenue": 2008742,
+   "gifts_grants": 21951
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_09_EO%2F20-1514288_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_06_EO%2F20-1514288_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_11_EO%2F20-1514288_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_12_EO%2F20-1514288_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_01_EO%2F20-1514288_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_09_EO%2F20-1514288_990_200506.pdf"
+  }
+ ]
+}

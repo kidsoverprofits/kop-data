@@ -1,0 +1,50 @@
+{
+ "ein": "352274901",
+ "name": "Father Flanagans Boys Home",
+ "address": "14100 Crawford St",
+ "city": "Boys Town",
+ "state": "NE",
+ "zip": "68010",
+ "ntee": "P70",
+ "subsection": "3",
+ "ruling": "2003-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/352274901",
+ "filings": [
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_06_EO%2F35-2274901_990_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_12_EO%2F35-2274901_990_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_12_EO%2F35-2274901_990_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F35-2274901_990_200712.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_02_EO%2F35-2274901_990_200612.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_12_EO%2F35-2274901_990_200512.pdf"
+  }
+ ]
+}

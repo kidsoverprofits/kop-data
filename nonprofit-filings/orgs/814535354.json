@@ -1,0 +1,90 @@
+{
+ "ein": "814535354",
+ "name": "Tampa Bay Academy Inc",
+ "address": "14214 N Nebraska Ave",
+ "city": "Tampa",
+ "state": "FL",
+ "zip": "33613",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "2021-05",
+ "url": "https://projects.propublica.org/nonprofits/organizations/814535354",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F814535354_202406_990_2025042523393543.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "",
+   "revenue": 862476,
+   "expenses": 916237,
+   "assets": 231718,
+   "liabilities": 0,
+   "officer_pay": 50214,
+   "other_salaries": 349623,
+   "program_revenue": 861406,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_08_2022_prefixes_81-83%2F814535354_202012_990_2022082920304549.pdf",
+   "revenue": 558562,
+   "expenses": 583952,
+   "assets": 68894,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 379029,
+   "program_revenue": 538477,
+   "gifts_grants": 20085
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "",
+   "revenue": 466587,
+   "expenses": 491984,
+   "assets": 84335,
+   "liabilities": 0,
+   "officer_pay": 33846,
+   "other_salaries": 215428,
+   "program_revenue": 466587,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990",
+   "pdf": "",
+   "revenue": 278502,
+   "expenses": 222136,
+   "assets": 109732,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 141419,
+   "program_revenue": 268235,
+   "gifts_grants": 10267
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990",
+   "pdf": "",
+   "revenue": 54584,
+   "expenses": 100483,
+   "assets": 53366,
+   "liabilities": 99265,
+   "officer_pay": 0,
+   "other_salaries": 38341,
+   "program_revenue": 46784,
+   "gifts_grants": 7800
+  }
+ ]
+}

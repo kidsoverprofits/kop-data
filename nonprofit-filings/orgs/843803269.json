@@ -1,0 +1,90 @@
+{
+ "ein": "843803269",
+ "name": "Compass Rose Academy",
+ "address": "5233 S 50 E",
+ "city": "Wabash",
+ "state": "IN",
+ "zip": "46992",
+ "ntee": "B25",
+ "subsection": "3",
+ "ruling": "2020-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/843803269",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F843803269_202412_990_2026012023854203.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F843803269_202312_990_2025022823135633.pdf",
+   "revenue": 2897231,
+   "expenses": 4576815,
+   "assets": 13324667,
+   "liabilities": 5091427,
+   "officer_pay": 0,
+   "other_salaries": 2287325,
+   "program_revenue": 2897231,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "",
+   "revenue": 3168659,
+   "expenses": 4339824,
+   "assets": 14206315,
+   "liabilities": 5404304,
+   "officer_pay": 0,
+   "other_salaries": 2188063,
+   "program_revenue": 3168659,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F843803269_202112_990_2023051221219915.pdf",
+   "revenue": 2839697,
+   "expenses": 3347610,
+   "assets": 13509764,
+   "liabilities": 5188702,
+   "officer_pay": 0,
+   "other_salaries": 1792140,
+   "program_revenue": 2839697,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F843803269_202012_990_2023053021317647.pdf",
+   "revenue": 2393826,
+   "expenses": 2723819,
+   "assets": 6843952,
+   "liabilities": 869340,
+   "officer_pay": 0,
+   "other_salaries": 1299040,
+   "program_revenue": 2393826,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "",
+   "revenue": 281969,
+   "expenses": 661241,
+   "assets": 395888,
+   "liabilities": 35693,
+   "officer_pay": 0,
+   "other_salaries": 319363,
+   "program_revenue": 281969,
+   "gifts_grants": 0
+  }
+ ]
+}

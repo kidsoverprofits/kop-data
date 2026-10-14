@@ -1,0 +1,160 @@
+{
+ "ein": "760718560",
+ "name": "Eagles Wings Ranch",
+ "address": "15634 Quartz Valley Dr",
+ "city": "Fort Jones",
+ "state": "CA",
+ "zip": "96032",
+ "ntee": "P73",
+ "subsection": "3",
+ "ruling": "2004-02",
+ "url": "https://projects.propublica.org/nonprofits/organizations/760718560",
+ "filings": [
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 34363,
+   "expenses": 71142,
+   "assets": 0,
+   "liabilities": 0,
+   "officer_pay": 14255,
+   "other_salaries": 30270,
+   "program_revenue": 29886,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2021_prefixes_75-82%2F760718560_201912_990_2021012117623483.pdf",
+   "revenue": 501845,
+   "expenses": 521800,
+   "assets": 180427,
+   "liabilities": 38232,
+   "officer_pay": 42687,
+   "other_salaries": 320919,
+   "program_revenue": 501831,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=09_2019_prefixes_75-81%2F760718560_201812_990_2019091616653371.pdf",
+   "revenue": 476346,
+   "expenses": 527630,
+   "assets": 197047,
+   "liabilities": 34897,
+   "officer_pay": 49692,
+   "other_salaries": 299836,
+   "program_revenue": 476283,
+   "gifts_grants": 55
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990",
+   "pdf": "",
+   "revenue": 478872,
+   "expenses": 510345,
+   "assets": 252145,
+   "liabilities": 38711,
+   "officer_pay": 50407,
+   "other_salaries": 297583,
+   "program_revenue": 468846,
+   "gifts_grants": 10020
+  },
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F760718560_201612_990_2017083014686689.pdf",
+   "revenue": 537625,
+   "expenses": 467456,
+   "assets": 213967,
+   "liabilities": 2373,
+   "officer_pay": 47952,
+   "other_salaries": 264097,
+   "program_revenue": 536565,
+   "gifts_grants": 60
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_09_EO%2F76-0718560_990_201512.pdf",
+   "revenue": 498870,
+   "expenses": 484934,
+   "assets": 143989,
+   "liabilities": 2564,
+   "officer_pay": 52082,
+   "other_salaries": 253634,
+   "program_revenue": 498870,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_08_EO%2F76-0718560_990_201412.pdf",
+   "revenue": 473380,
+   "expenses": 482232,
+   "assets": 130097,
+   "liabilities": 2608,
+   "officer_pay": 54049,
+   "other_salaries": 253289,
+   "program_revenue": 473380,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_11_PF%2F76-0718560_990PF_201312.pdf"
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_09_PF%2F76-0718560_990PF_201212.pdf"
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_06_PF%2F76-0718560_990PF_201112.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_05_PF%2F76-0718560_990PF_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_PF%2F76-0718560_990PF_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_05_EO%2F76-0718560_990EZ_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_05_PF%2F76-0718560_990PF_200712.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200212",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_06_EO%2F76-0718560_990EZ_200212.pdf"
+  }
+ ]
+}

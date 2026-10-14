@@ -1,0 +1,46 @@
+{
+ "ein": "863947506",
+ "name": "Masters Ranch Christian Academy Inc",
+ "address": "287 County Road 275",
+ "city": "Myrtle",
+ "state": "MO",
+ "zip": "65778",
+ "ntee": "P30",
+ "subsection": "3",
+ "ruling": "2022-06",
+ "url": "https://projects.propublica.org/nonprofits/organizations/863947506",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F863947506_202412_990_2026021023923404.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F863947506_202312_990_2025041123352897.pdf",
+   "revenue": 3299796,
+   "expenses": 3161797,
+   "assets": 2665913,
+   "liabilities": 1980121,
+   "officer_pay": 172806,
+   "other_salaries": 1306927,
+   "program_revenue": 3242485,
+   "gifts_grants": 57311
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_86-88%2F863947506_202212_990_2024010922197966.pdf"
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_86-88%2F863947506_202112_990_2024010922200144.pdf"
+  }
+ ]
+}

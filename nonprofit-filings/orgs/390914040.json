@@ -1,0 +1,76 @@
+{
+ "ein": "390914040",
+ "name": "St Charles Youth And Family Services Inc",
+ "address": "151 S 84th St",
+ "city": "Milwaukee",
+ "state": "WI",
+ "zip": "53214",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "2021-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/390914040",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F390914040_202412_990_2026020223884590.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F390914040_202312_990_2025021023085781.pdf",
+   "revenue": 15917052,
+   "expenses": 15911369,
+   "assets": 10079688,
+   "liabilities": 7010195,
+   "officer_pay": 490861,
+   "other_salaries": 9373594,
+   "program_revenue": 15328515,
+   "gifts_grants": 776476
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "",
+   "revenue": 14355381,
+   "expenses": 14219109,
+   "assets": 9099254,
+   "liabilities": 6035444,
+   "officer_pay": 550627,
+   "other_salaries": 8118158,
+   "program_revenue": 13421360,
+   "gifts_grants": 703504
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2023_prefixes_36-39%2F390914040_202112_990_2023051221222064.pdf",
+   "revenue": 12461282,
+   "expenses": 12550109,
+   "assets": 8959168,
+   "liabilities": 6031630,
+   "officer_pay": 468403,
+   "other_salaries": 7071337,
+   "program_revenue": 11278315,
+   "gifts_grants": 1110887
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 13046091,
+   "expenses": 12831468,
+   "assets": 8831116,
+   "liabilities": 5814751,
+   "officer_pay": 439239,
+   "other_salaries": 7348551,
+   "program_revenue": 10975449,
+   "gifts_grants": 2186138
+  }
+ ]
+}

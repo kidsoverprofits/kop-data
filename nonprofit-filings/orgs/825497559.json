@@ -1,0 +1,62 @@
+{
+ "ein": "825497559",
+ "name": "Mindful Growth Foundation",
+ "address": "4900 Angeles Vista Blvd",
+ "city": "View Park",
+ "state": "CA",
+ "zip": "90043",
+ "ntee": "P32",
+ "subsection": "3",
+ "ruling": "2018-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/825497559",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F825497559_202312_990_2026020923917263.pdf"
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_82-83%2F825497559_202212_990_2024010322155734.pdf",
+   "revenue": 1449028,
+   "expenses": 1474541,
+   "assets": 202205,
+   "liabilities": 574573,
+   "officer_pay": 74500,
+   "other_salaries": 731065,
+   "program_revenue": 1449028,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2023_prefixes_76-83%2F825497559_202112_990_2023031021070571.pdf",
+   "revenue": 1910354,
+   "expenses": 2384281,
+   "assets": 219510,
+   "liabilities": 566365,
+   "officer_pay": 307000,
+   "other_salaries": 1117107,
+   "program_revenue": 1910353,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1195197,
+   "expenses": 1008949,
+   "assets": 305635,
+   "liabilities": 119384,
+   "officer_pay": 57000,
+   "other_salaries": 559371,
+   "program_revenue": 1195197,
+   "gifts_grants": 0
+  }
+ ]
+}

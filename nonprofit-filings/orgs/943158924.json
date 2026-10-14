@@ -1,0 +1,62 @@
+{
+ "ein": "943158924",
+ "name": "Teen Reach",
+ "address": "2601 E Thomas Rd Ste 110",
+ "city": "Phoenix",
+ "state": "AZ",
+ "zip": "85016",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "1964-08",
+ "url": "https://projects.propublica.org/nonprofits/organizations/943158924",
+ "filings": [
+  {
+   "year": 2003,
+   "period": "200312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_07_EO%2F94-3158924_990_200312.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F94-3158924_990_200206.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_07_EO%2F94-3158924_990_200212.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F94-3158924_990_200106.pdf"
+  },
+  {
+   "year": 2000,
+   "period": "200006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_11_EO%2F94-3158924_990_200006.pdf"
+  },
+  {
+   "year": 1999,
+   "period": "199906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F94-3158924_990_199906.pdf"
+  },
+  {
+   "year": 1998,
+   "period": "199806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_12_EO%2F94-3158924_990_199806.pdf"
+  },
+  {
+   "year": 1997,
+   "period": "199706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_12_EO%2F94-3158924_990_199706.pdf"
+  }
+ ]
+}

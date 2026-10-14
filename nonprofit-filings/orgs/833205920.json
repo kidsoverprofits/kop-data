@@ -1,0 +1,28 @@
+{
+ "ein": "833205920",
+ "name": "Summits View",
+ "address": "44 County Road 772",
+ "city": "Walnut",
+ "state": "MS",
+ "zip": "38683",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "2019-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/833205920",
+ "filings": [
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_82-83%2F833205920_201912_990_2021041417947513.pdf",
+   "revenue": 97147,
+   "expenses": 36006,
+   "assets": 61141,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 30274,
+   "gifts_grants": 66873
+  }
+ ]
+}

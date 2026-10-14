@@ -1,0 +1,144 @@
+{
+ "ein": "561641919",
+ "name": "King Family Ministries Inc",
+ "address": "1095 Damascus Road",
+ "city": "Danbury",
+ "state": "NC",
+ "zip": "27016",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/561641919",
+ "filings": [
+  {
+   "year": 2015,
+   "period": "201510",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_07_EO%2F56-1641919_990EZ_201510.pdf",
+   "revenue": 96236,
+   "expenses": 94118,
+   "assets": 64572,
+   "liabilities": 1832,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2014,
+   "period": "201410",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_03_EO%2F56-1641919_990_201410.pdf",
+   "revenue": 98389,
+   "expenses": 107353,
+   "assets": 62454,
+   "liabilities": 1832,
+   "officer_pay": 13785,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 96289
+  },
+  {
+   "year": 2013,
+   "period": "201310",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_03_EO%2F56-1641919_990_201310.pdf",
+   "revenue": 105737,
+   "expenses": 97357,
+   "assets": 73115,
+   "liabilities": 3527,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 102093
+  },
+  {
+   "year": 2012,
+   "period": "201210",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_02_EO%2F56-1641919_990_201210.pdf",
+   "revenue": 94114,
+   "expenses": 109352,
+   "assets": 65492,
+   "liabilities": 4284,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 94114
+  },
+  {
+   "year": 2011,
+   "period": "201110",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_03_EO%2F56-1641919_990_201110.pdf",
+   "revenue": 104611,
+   "expenses": 119132,
+   "assets": 80600,
+   "liabilities": 4155,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 104611
+  },
+  {
+   "year": 2010,
+   "period": "201010",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_03_EO%2F56-1641919_990_201010.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200910",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_03_EO%2F56-1641919_990_200910.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200810",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_03_EO%2F56-1641919_990_200810.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200710",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_03_EO%2F56-1641919_990_200710.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200610",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_07_EO%2F56-1641919_990_200610.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200510",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_02_EO%2F56-1641919_990_200510.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200410",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_06_EO%2F56-1641919_990_200410.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200310",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_06_EO%2F56-1641919_990_200310.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200210",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_08_EO%2F56-1641919_990_200210.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200110",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_03_EO%2F56-1641919_990_200110.pdf"
+  }
+ ]
+}

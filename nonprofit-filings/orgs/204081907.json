@@ -1,0 +1,150 @@
+{
+ "ein": "204081907",
+ "name": "Minnesota Girls Academy",
+ "address": "63 County Rd",
+ "city": "Bricelyn",
+ "state": "MN",
+ "zip": "56014",
+ "ntee": "B28",
+ "subsection": "3",
+ "ruling": "2007-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/204081907",
+ "filings": [
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_20-20%2F204081907_202212_990_2023120522066269.pdf",
+   "revenue": 598084,
+   "expenses": 947177,
+   "assets": 257927,
+   "liabilities": 607265,
+   "officer_pay": 0,
+   "other_salaries": 539679,
+   "program_revenue": 451397,
+   "gifts_grants": 146666
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2023_prefixes_20-22%2F204081907_202112_990_2023051721253456.pdf",
+   "revenue": 1109975,
+   "expenses": 1184380,
+   "assets": 639622,
+   "liabilities": 639867,
+   "officer_pay": 0,
+   "other_salaries": 562046,
+   "program_revenue": 848644,
+   "gifts_grants": 261308
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F204081907_202012_990_2022011319471056.pdf",
+   "revenue": 933304,
+   "expenses": 925416,
+   "assets": 375617,
+   "liabilities": 301457,
+   "officer_pay": 136899,
+   "other_salaries": 413696,
+   "program_revenue": 758034,
+   "gifts_grants": 175258
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_20-20%2F204081907_201912_990_2021040517877744.pdf",
+   "revenue": 820940,
+   "expenses": 815005,
+   "assets": 230876,
+   "liabilities": 164604,
+   "officer_pay": 0,
+   "other_salaries": 549219,
+   "program_revenue": 696050,
+   "gifts_grants": 124890
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=02_2020_prefixes_16-20%2F204081907_201812_990_2020021417149589.pdf",
+   "revenue": 868342,
+   "expenses": 811378,
+   "assets": 233608,
+   "liabilities": 173271,
+   "officer_pay": 152272,
+   "other_salaries": 464844,
+   "program_revenue": 708062,
+   "gifts_grants": 160280
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=02_2019_prefixes_20-20%2F204081907_201712_990_2019022216121552.pdf",
+   "revenue": 764174,
+   "expenses": 707944,
+   "assets": 187402,
+   "liabilities": 184029,
+   "officer_pay": 130277,
+   "other_salaries": 307735,
+   "program_revenue": 225812,
+   "gifts_grants": 538362
+  },
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_20-20%2F204081907_201612_990_2018011115118272.pdf",
+   "revenue": 145362,
+   "expenses": 119663,
+   "assets": 137323,
+   "liabilities": 79986,
+   "officer_pay": 0,
+   "other_salaries": 62894,
+   "program_revenue": 0,
+   "gifts_grants": 145362
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_02_EO%2F20-4081907_990_201112.pdf",
+   "revenue": 405118,
+   "expenses": 377296,
+   "assets": 88952,
+   "liabilities": 67266,
+   "officer_pay": 28462,
+   "other_salaries": 164521,
+   "program_revenue": 94668,
+   "gifts_grants": 310450
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_12_EO%2F20-4081907_990_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_12_EO%2F20-4081907_990EZ_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_12_EO%2F20-4081907_990EZ_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F20-4081907_990EZ_200712.pdf"
+  }
+ ]
+}

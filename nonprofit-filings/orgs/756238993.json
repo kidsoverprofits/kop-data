@@ -1,0 +1,186 @@
+{
+ "ein": "756238993",
+ "name": "Vergie B Smallwood-scholarships Cal Farley Boys Ranch",
+ "address": "5656 Main St",
+ "city": "Frisco",
+ "state": "TX",
+ "zip": "75033",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "1980-04",
+ "url": "https://projects.propublica.org/nonprofits/organizations/756238993",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202405",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756238993_202405_990PF_2025011022985411.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202305",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756238993_202305_990PF_2024040522339978.pdf"
+  },
+  {
+   "year": 2022,
+   "period": "202205",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2023_prefixes_62-76%2F756238993_202205_990PF_2023030221013031.pdf"
+  },
+  {
+   "year": 2020,
+   "period": "202005",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=06_2021_prefixes_75-81%2F756238993_202005_990PF_2021061518358576.pdf"
+  },
+  {
+   "year": 2019,
+   "period": "201905",
+   "form": "990PR",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_74-80%2F756238993_201905_990PR_2020100617351969.pdf"
+  },
+  {
+   "year": 2018,
+   "period": "201805",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=08_2019_prefixes_74-77%2F756238993_201805_990EZ_2019080616547008.pdf"
+  },
+  {
+   "year": 2017,
+   "period": "201705",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756238993_201705_990EZ_2018061515425538.pdf",
+   "revenue": 27820,
+   "expenses": 40573,
+   "assets": 425955,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2016,
+   "period": "201605",
+   "form": "990PF",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756238993_201605_990PF_2017042014304076.pdf"
+  },
+  {
+   "year": 2015,
+   "period": "201505",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_07_EO%2F75-6238993_990EZ_201505.pdf",
+   "revenue": 25688,
+   "expenses": 23711,
+   "assets": 437340,
+   "liabilities": 11462,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2014,
+   "period": "201405",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_10_EO%2F75-6238993_990EZ_201405.pdf",
+   "revenue": 38336,
+   "expenses": 35509,
+   "assets": 446480,
+   "liabilities": 22579,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2013,
+   "period": "201305",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_09_EO%2F75-6238993_990EZ_201305.pdf",
+   "revenue": 40048,
+   "expenses": 37340,
+   "assets": 444966,
+   "liabilities": 23892,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2012,
+   "period": "201205",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_11_EO%2F75-6238993_990EZ_201205.pdf",
+   "revenue": 46002,
+   "expenses": 42724,
+   "assets": 448807,
+   "liabilities": 30441,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2011,
+   "period": "201105",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_09_EO%2F75-6238993_990EZ_201105.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201005",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_11_EO%2F75-6238993_990EZ_201005.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200905",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_09_EO%2F75-6238993_990EZ_200905.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200805",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_10_EO%2F75-6238993_990_200805.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200705",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_09_EO%2F75-6238993_990_200705.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200605",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_09_EO%2F75-6238993_990_200605.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200505",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_08_EO%2F75-6238993_990_200505.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200405",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_07_EO%2F75-6238993_990_200405.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200305",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_07_EO%2F75-6238993_990_200305.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200205",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_09_EO%2F75-6238993_990_200205.pdf"
+  }
+ ]
+}

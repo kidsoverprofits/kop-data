@@ -1,0 +1,214 @@
+{
+ "ein": "841594506",
+ "name": "Ridge View Academy",
+ "address": "800 N Grant St Ste 335",
+ "city": "Denver",
+ "state": "CO",
+ "zip": "80203",
+ "ntee": "B29",
+ "subsection": "3",
+ "ruling": "2025-01",
+ "url": "https://projects.propublica.org/nonprofits/organizations/841594506",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F841594506_202506_990_2026012223862460.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F841594506_202406_990_2025042323382562.pdf"
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1156847,
+   "expenses": 1757840,
+   "assets": 1001539,
+   "liabilities": 549878,
+   "officer_pay": 0,
+   "other_salaries": 1116032,
+   "program_revenue": 703581,
+   "gifts_grants": 368252
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_83-84%2F841594506_202006_990_2021041417943792.pdf",
+   "revenue": 1962127,
+   "expenses": 2089479,
+   "assets": 1265870,
+   "liabilities": 72222,
+   "officer_pay": 0,
+   "other_salaries": 1287344,
+   "program_revenue": 1459751,
+   "gifts_grants": 486823
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_82-85%2F841594506_201906_990_2021030817788411.pdf",
+   "revenue": 2332778,
+   "expenses": 2575241,
+   "assets": 1385826,
+   "liabilities": 96040,
+   "officer_pay": 0,
+   "other_salaries": 1526696,
+   "program_revenue": 1870064,
+   "gifts_grants": 416857
+  },
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F841594506_201706_990_2017110114908039.pdf",
+   "revenue": 3436071,
+   "expenses": 3001907,
+   "assets": 1487331,
+   "liabilities": 248537,
+   "officer_pay": 0,
+   "other_salaries": 1701951,
+   "program_revenue": 2907011,
+   "gifts_grants": 519312
+  },
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_11_EO%2F84-1594506_990_201606.pdf",
+   "revenue": 3246543,
+   "expenses": 3391536,
+   "assets": 1077312,
+   "liabilities": 272682,
+   "officer_pay": 0,
+   "other_salaries": 1866610,
+   "program_revenue": 2745927,
+   "gifts_grants": 432106
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_12_EO%2F84-1594506_990_201506.pdf",
+   "revenue": 3445608,
+   "expenses": 3389851,
+   "assets": 1222115,
+   "liabilities": 272492,
+   "officer_pay": 0,
+   "other_salaries": 1796426,
+   "program_revenue": 2793558,
+   "gifts_grants": 588367
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_07_EO%2F84-1594506_990_201406.pdf",
+   "revenue": 3331230,
+   "expenses": 3085244,
+   "assets": 1119624,
+   "liabilities": 225758,
+   "officer_pay": 0,
+   "other_salaries": 1601036,
+   "program_revenue": 2839379,
+   "gifts_grants": 436862
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_10_EO%2F84-1594506_990_201306.pdf",
+   "revenue": 2900007,
+   "expenses": 3153447,
+   "assets": 831930,
+   "liabilities": 184050,
+   "officer_pay": 0,
+   "other_salaries": 1719672,
+   "program_revenue": 2241872,
+   "gifts_grants": 613768
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_01_EO%2F84-1594506_990_201206.pdf",
+   "revenue": 3162550,
+   "expenses": 3298464,
+   "assets": 1092540,
+   "liabilities": 191220,
+   "officer_pay": 0,
+   "other_salaries": 1810433,
+   "program_revenue": 2269854,
+   "gifts_grants": 831486
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_01_EO%2F84-1594506_990_201106.pdf",
+   "revenue": 3958167,
+   "expenses": 3977110,
+   "assets": 1332622,
+   "liabilities": 295390,
+   "officer_pay": 0,
+   "other_salaries": 2054743,
+   "program_revenue": 2775289,
+   "gifts_grants": 1171405
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_06_EO%2F84-1594506_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_06_EO%2F84-1594506_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_07_EO%2F84-1594506_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_03_EO%2F84-1594506_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_11_EO%2F84-1594506_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_12_EO%2F84-1594506_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_06_EO%2F84-1594506_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_03_EO%2F84-1594506_990_200306.pdf"
+  }
+ ]
+}

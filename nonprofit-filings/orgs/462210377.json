@@ -1,0 +1,42 @@
+{
+ "ein": "462210377",
+ "name": "Nothing Just Happens Incorporated",
+ "address": "1618 Driftwood Dr",
+ "city": "Dallas",
+ "state": "TX",
+ "zip": "75224",
+ "ntee": "P70",
+ "subsection": "3",
+ "ruling": "2014-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/462210377",
+ "filings": [
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_11_2023_prefixes_45-46%2F462210377_202212_990_2023111621945429.pdf",
+   "revenue": 412549,
+   "expenses": 452824,
+   "assets": 130224,
+   "liabilities": 145659,
+   "officer_pay": 99000,
+   "other_salaries": 226824,
+   "program_revenue": 402523,
+   "gifts_grants": 10014
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 404188,
+   "expenses": 0,
+   "assets": 0,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 404188,
+   "gifts_grants": 0
+  }
+ ]
+}

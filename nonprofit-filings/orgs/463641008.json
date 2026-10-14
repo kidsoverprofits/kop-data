@@ -1,0 +1,42 @@
+{
+ "ein": "463641008",
+ "name": "Victory Boys Academy Corporation",
+ "address": "677 Jewel Rd",
+ "city": "Sarcoxie",
+ "state": "MO",
+ "zip": "64862",
+ "ntee": "O50",
+ "subsection": "3",
+ "ruling": "2014-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/463641008",
+ "filings": [
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_46-46%2F463641008_202012_990_2021052118166215.pdf",
+   "revenue": 277785,
+   "expenses": 230662,
+   "assets": 50434,
+   "liabilities": 500,
+   "officer_pay": 55635,
+   "other_salaries": 0,
+   "program_revenue": 273785,
+   "gifts_grants": 4000
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_46-46%2F463641008_201912_990EZ_2021042718018721.pdf",
+   "revenue": 130321,
+   "expenses": 131766,
+   "assets": 5648,
+   "liabilities": 2837,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

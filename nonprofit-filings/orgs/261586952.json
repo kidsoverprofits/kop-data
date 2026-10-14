@@ -1,0 +1,130 @@
+{
+ "ein": "261586952",
+ "name": "Second Chance Ministry",
+ "address": "7237 Sky View Drive",
+ "city": "College Grove",
+ "state": "TN",
+ "zip": "37046",
+ "ntee": "L40",
+ "subsection": "3",
+ "ruling": "2008-12",
+ "url": "https://projects.propublica.org/nonprofits/organizations/261586952",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F261586952_202412_990_2025073023612201.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F261586952_202312_990_2024061122512002.pdf",
+   "revenue": 72300,
+   "expenses": 72300,
+   "assets": 0,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 72300
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F261586952_202212_990_2023082921570628.pdf",
+   "revenue": 129232,
+   "expenses": 129232,
+   "assets": 0,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 129232
+  },
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 4795,
+   "expenses": 0,
+   "assets": 4795,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=09_2018_prefixes_25-26%2F261586952_201712_990EZ_2018091315687573.pdf",
+   "revenue": 41586,
+   "expenses": 41786,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_08_EO%2F26-1586952_990EZ_201512.pdf",
+   "revenue": 41590,
+   "expenses": 41787,
+   "assets": 5137,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_12_EO%2F26-1586952_990EZ_201312.pdf",
+   "revenue": 44375,
+   "expenses": 44192,
+   "assets": 8820,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_07_EO%2F26-1586952_990EZ_201212.pdf",
+   "revenue": 36318,
+   "expenses": 35910,
+   "assets": 8637,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990ER",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_10_EO%2F26-1586952_990ER_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990EO",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_06_EO%2F26-1586952_990EO_200912.pdf"
+  }
+ ]
+}

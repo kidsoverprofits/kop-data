@@ -1,0 +1,56 @@
+{
+ "ein": "832453469",
+ "name": "Gold Star Academy",
+ "address": "2950 Spring Creek Dr",
+ "city": "Spring",
+ "state": "TX",
+ "zip": "77373",
+ "ntee": "P32",
+ "subsection": "3",
+ "ruling": "2021-10",
+ "url": "https://projects.propublica.org/nonprofits/organizations/832453469",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F832453469_202312_990_2024061122522234.pdf",
+   "revenue": 1044750,
+   "expenses": 984467,
+   "assets": 150329,
+   "liabilities": 118444,
+   "officer_pay": 0,
+   "other_salaries": 479025,
+   "program_revenue": 1044750,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_11_2023_prefixes_82-83%2F832453469_202212_990_2023112021974446.pdf",
+   "revenue": 1453920,
+   "expenses": 1410137,
+   "assets": 120004,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 679335,
+   "program_revenue": 1453920,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F832453469_202112_990_2023012520811967.pdf",
+   "revenue": 1508318,
+   "expenses": 1615234,
+   "assets": 142353,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 927423,
+   "program_revenue": 1508318,
+   "gifts_grants": 0
+  }
+ ]
+}

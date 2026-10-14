@@ -1,0 +1,122 @@
+{
+ "ein": "411705642",
+ "name": "Mapletree Group Home",
+ "address": "2837 Southlawn Dr",
+ "city": "Maplewood",
+ "state": "MN",
+ "zip": "55109",
+ "ntee": "",
+ "subsection": "4",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/411705642",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990EO",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F411705642_202506_990EO_2026060124212449.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F411705642_202406_990O_2025032023244343.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F411705642_202306_990O_2024061822540506.pdf"
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_06_2023_prefixes_41-46%2F411705642_202206_990O_2023060821407689.pdf"
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_37-41%2F411705642_201906_990O_2020082617259768.pdf"
+  },
+  {
+   "year": 2018,
+   "period": "201806",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=12_2019_prefixes_38-42%2F411705642_201806_990O_2019122616977999.pdf"
+  },
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2018_prefixes_39-45%2F411705642_201706_990O_2018041715261599.pdf"
+  },
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F411705642_201606_990O_2017071114558474.pdf"
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_03_EO%2F41-1705642_990O_201506.pdf"
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_02_EO%2F41-1705642_990O_201406.pdf"
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_07_EO%2F41-1705642_990O_201306.pdf"
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_08_EO%2F41-1705642_990O_201206.pdf"
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_06_EO%2F41-1705642_990O_201106.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_04_EO%2F41-1705642_990O_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_EO%2F41-1705642_990O_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_07_EO%2F41-1705642_990O_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_06_EO%2F41-1705642_990O_200706.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_03_EO%2F41-1705642_990O_200506.pdf"
+  }
+ ]
+}

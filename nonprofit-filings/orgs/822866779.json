@@ -1,0 +1,56 @@
+{
+ "ein": "822866779",
+ "name": "Stand Fast In Freedom",
+ "address": "2916 S 132nd St 138",
+ "city": "Omaha",
+ "state": "NE",
+ "zip": "68144",
+ "ntee": "P62",
+ "subsection": "3",
+ "ruling": "2017-12",
+ "url": "https://projects.propublica.org/nonprofits/organizations/822866779",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_82-83%2F822866779_202312_990EZ_2024052222412135.pdf",
+   "revenue": 13981,
+   "expenses": 22120,
+   "assets": 159511,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F822866779_202212_990EZ_2023083121593154.pdf",
+   "revenue": 54469,
+   "expenses": 25306,
+   "assets": 167650,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2022_prefixes_47-94%2F822866779_202112_990EZ_2022090120316155.pdf",
+   "revenue": 70117,
+   "expenses": 6290,
+   "assets": 138487,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

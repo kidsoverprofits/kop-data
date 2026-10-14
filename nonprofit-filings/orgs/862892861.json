@@ -1,0 +1,42 @@
+{
+ "ein": "862892861",
+ "name": "Support Our Afterschool Resources",
+ "address": "3743 Havenwood Rd",
+ "city": "Charlotte",
+ "state": "NC",
+ "zip": "28205",
+ "ntee": "B20",
+ "subsection": "3",
+ "ruling": "2022-02",
+ "url": "https://projects.propublica.org/nonprofits/organizations/862892861",
+ "filings": [
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F862892861_202312_990EZ_2025041023327097.pdf",
+   "revenue": 128889,
+   "expenses": 86365,
+   "assets": 126096,
+   "liabilities": 283,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2023_prefixes_85-87%2F862892861_202212_990EZ_2023091321679430.pdf",
+   "revenue": 133808,
+   "expenses": 116519,
+   "assets": 83289,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

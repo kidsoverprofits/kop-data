@@ -1,0 +1,262 @@
+{
+ "ein": "010322532",
+ "name": "Day One",
+ "address": "Po Box 1360",
+ "city": "Windham",
+ "state": "ME",
+ "zip": "04062",
+ "ntee": "F20Z",
+ "subsection": "3",
+ "ruling": "1974-02",
+ "url": "https://projects.propublica.org/nonprofits/organizations/010322532",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F010322532_202506_990_2026030623990132.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F010322532_202406_990_2025042323384116.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_01-06%2F010322532_202306_990_2024051722395611.pdf",
+   "revenue": 4740212,
+   "expenses": 4580082,
+   "assets": 2914366,
+   "liabilities": 1719160,
+   "officer_pay": 140086,
+   "other_salaries": 2606399,
+   "program_revenue": 4486347,
+   "gifts_grants": 239961
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F010322532_202206_990_2023060921419992.pdf",
+   "revenue": 4725182,
+   "expenses": 4771992,
+   "assets": 2062054,
+   "liabilities": 1026978,
+   "officer_pay": 210147,
+   "other_salaries": 2691328,
+   "program_revenue": 4320617,
+   "gifts_grants": 369799
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "",
+   "revenue": 5088545,
+   "expenses": 4864044,
+   "assets": 2100542,
+   "liabilities": 1018656,
+   "officer_pay": 245891,
+   "other_salaries": 2816051,
+   "program_revenue": 4004728,
+   "gifts_grants": 1068078
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_01-04%2F010322532_202006_990_2021052518187414.pdf",
+   "revenue": 3624569,
+   "expenses": 4107013,
+   "assets": 1919299,
+   "liabilities": 1364616,
+   "officer_pay": 212935,
+   "other_salaries": 2405442,
+   "program_revenue": 3305652,
+   "gifts_grants": 342306
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2021_prefixes_01-11%2F010322532_201906_990_2021012117608349.pdf",
+   "revenue": 4123492,
+   "expenses": 4368526,
+   "assets": 1785776,
+   "liabilities": 748649,
+   "officer_pay": 224582,
+   "other_salaries": 2565170,
+   "program_revenue": 3615798,
+   "gifts_grants": 361335
+  },
+  {
+   "year": 2018,
+   "period": "201806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=05_2019_prefixes_01-04%2F010322532_201806_990_2019051416297490.pdf",
+   "revenue": 4680170,
+   "expenses": 4295450,
+   "assets": 2165049,
+   "liabilities": 882889,
+   "officer_pay": 214750,
+   "other_salaries": 2566919,
+   "program_revenue": 3956550,
+   "gifts_grants": 748596
+  },
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F010322532_201706_990_2018031215213844.pdf",
+   "revenue": 4295179,
+   "expenses": 4128858,
+   "assets": 1473470,
+   "liabilities": 576030,
+   "officer_pay": 245026,
+   "other_salaries": 2441776,
+   "program_revenue": 3946714,
+   "gifts_grants": 349545
+  },
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F010322532_201606_990_2017071914574237.pdf",
+   "revenue": 4330345,
+   "expenses": 4110649,
+   "assets": 1334564,
+   "liabilities": 603445,
+   "officer_pay": 217846,
+   "other_salaries": 2381384,
+   "program_revenue": 3845985,
+   "gifts_grants": 466586
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_08_EO%2F01-0322532_990_201506.pdf",
+   "revenue": 3997651,
+   "expenses": 3900185,
+   "assets": 1112398,
+   "liabilities": 600975,
+   "officer_pay": 222999,
+   "other_salaries": 2180643,
+   "program_revenue": 3581047,
+   "gifts_grants": 407128
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_02_EO%2F01-0322532_990_201406.pdf",
+   "revenue": 3439858,
+   "expenses": 3312019,
+   "assets": 1194972,
+   "liabilities": 781015,
+   "officer_pay": 218513,
+   "other_salaries": 1670798,
+   "program_revenue": 3069269,
+   "gifts_grants": 369397
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_01_EO%2F01-0322532_990_201306.pdf",
+   "revenue": 2775218,
+   "expenses": 3043540,
+   "assets": 945198,
+   "liabilities": 637807,
+   "officer_pay": 183437,
+   "other_salaries": 1426418,
+   "program_revenue": 2443537,
+   "gifts_grants": 309938
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_12_EO%2F01-0322532_990_201206.pdf",
+   "revenue": 2712041,
+   "expenses": 2739106,
+   "assets": 1259246,
+   "liabilities": 683533,
+   "officer_pay": 178812,
+   "other_salaries": 1410080,
+   "program_revenue": 1041448,
+   "gifts_grants": 1688693
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_02_EO%2F01-0322532_990_201106.pdf",
+   "revenue": 2685523,
+   "expenses": 2829192,
+   "assets": 1474903,
+   "liabilities": 872125,
+   "officer_pay": 159877,
+   "other_salaries": 1588184,
+   "program_revenue": 1076904,
+   "gifts_grants": 1625240
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_06_EO%2F01-0322532_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_07_EO%2F01-0322532_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_03_EO%2F01-0322532_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_03_EO%2F01-0322532_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_07_EO%2F01-0322532_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_03_EO%2F01-0322532_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_01_EO%2F01-0322532_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_12_EO%2F01-0322532_990_200306.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_03_EO%2F01-0322532_990_200206.pdf"
+  }
+ ]
+}

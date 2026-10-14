@@ -1,0 +1,150 @@
+{
+ "ein": "050478786",
+ "name": "Turning Point",
+ "address": "Five Kids Way",
+ "city": "Pawtucket",
+ "state": "RI",
+ "zip": "02860",
+ "ntee": "",
+ "subsection": "3",
+ "ruling": "",
+ "url": "https://projects.propublica.org/nonprofits/organizations/050478786",
+ "filings": [
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2017_01_EO%2F05-0478786_990_201606.pdf",
+   "revenue": 498381,
+   "expenses": 531437,
+   "assets": 366544,
+   "liabilities": 32717,
+   "officer_pay": 51136,
+   "other_salaries": 299338,
+   "program_revenue": 495827,
+   "gifts_grants": 2554
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_01_EO%2F13-160278_02860_050478786.pdf",
+   "revenue": 503752,
+   "expenses": 544174,
+   "assets": 386424,
+   "liabilities": 19541,
+   "officer_pay": 52490,
+   "other_salaries": 291175,
+   "program_revenue": 487610,
+   "gifts_grants": 652
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_10_EO%2F05-0478786_990_201406.pdf",
+   "revenue": 596890,
+   "expenses": 632735,
+   "assets": 439471,
+   "liabilities": 32166,
+   "officer_pay": 55187,
+   "other_salaries": 340082,
+   "program_revenue": 596378,
+   "gifts_grants": 466
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_11_EO%2F05-0478786_990_201306.pdf",
+   "revenue": 612577,
+   "expenses": 567270,
+   "assets": 472294,
+   "liabilities": 29144,
+   "officer_pay": 50433,
+   "other_salaries": 299749,
+   "program_revenue": 612123,
+   "gifts_grants": 454
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_11_EO%2F05-0478786_990_201206.pdf",
+   "revenue": 553218,
+   "expenses": 566518,
+   "assets": 431631,
+   "liabilities": 33788,
+   "officer_pay": 52326,
+   "other_salaries": 302921,
+   "program_revenue": 552664,
+   "gifts_grants": 454
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_11_EO%2F05-0478786_990_201106.pdf"
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_11_EO%2F05-0478786_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_11_EO%2F05-0478786_990EZ_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_10_EO%2F05-0478786_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2007_11_EO%2F05-0478786_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_12_EO%2F05-0478786_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990O",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_02_EO%2F05-0478786_990O_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_12_EO%2F05-0478786_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_01_EO%2F05-0478786_990_200306.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_02_EO%2F05-0478786_990_200206.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_01_EO%2F05-0478786_990_200106.pdf"
+  }
+ ]
+}

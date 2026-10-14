@@ -1,0 +1,216 @@
+{
+ "ein": "953930285",
+ "name": "Murrells Farm And Boys Home",
+ "address": "43862 Cedar Ave",
+ "city": "Lancaster",
+ "state": "CA",
+ "zip": "93534",
+ "ntee": "P30",
+ "subsection": "3",
+ "ruling": "1984-12",
+ "url": "https://projects.propublica.org/nonprofits/organizations/953930285",
+ "filings": [
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F953930285_202012_990_2022010719414615.pdf",
+   "revenue": 0,
+   "expenses": 96854,
+   "assets": 90069,
+   "liabilities": 3819,
+   "officer_pay": 9500,
+   "other_salaries": 15341,
+   "program_revenue": 0,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2022_prefixes_82-98%2F953930285_201912_990_2022020919654584.pdf",
+   "revenue": 1679474,
+   "expenses": 1695147,
+   "assets": 183219,
+   "liabilities": 6631,
+   "officer_pay": 26500,
+   "other_salaries": 1113308,
+   "program_revenue": 1679474,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2018,
+   "period": "201812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=11_2019_prefixes_95-99%2F953930285_201812_990_2019112216879624.pdf",
+   "revenue": 1872933,
+   "expenses": 1828616,
+   "assets": 413788,
+   "liabilities": 164601,
+   "officer_pay": 127200,
+   "other_salaries": 971383,
+   "program_revenue": 1872933,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2017,
+   "period": "201712",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1741191,
+   "expenses": 1553217,
+   "assets": 409141,
+   "liabilities": 204271,
+   "officer_pay": 133200,
+   "other_salaries": 835631,
+   "program_revenue": 1741191,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F953930285_201612_990_2017111614958741.pdf",
+   "revenue": 1302747,
+   "expenses": 1287077,
+   "assets": 207425,
+   "liabilities": 113843,
+   "officer_pay": 127200,
+   "other_salaries": 647737,
+   "program_revenue": 1286697,
+   "gifts_grants": 16050
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_11_EO%2F95-3930285_990_201512.pdf",
+   "revenue": 1185018,
+   "expenses": 1167388,
+   "assets": 198834,
+   "liabilities": 89492,
+   "officer_pay": 74200,
+   "other_salaries": 620995,
+   "program_revenue": 1185018,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_01_EO%2F13-078121_93534_953930285.pdf",
+   "revenue": 1229262,
+   "expenses": 1254330,
+   "assets": 160603,
+   "liabilities": 74866,
+   "officer_pay": 64300,
+   "other_salaries": 677772,
+   "program_revenue": 1229062,
+   "gifts_grants": 200
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_12_EO%2F95-3930285_990_201312.pdf",
+   "revenue": 1567250,
+   "expenses": 1537790,
+   "assets": 191462,
+   "liabilities": 130059,
+   "officer_pay": 63600,
+   "other_salaries": 763157,
+   "program_revenue": 1536828,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_12_EO%2F95-3930285_990_201212.pdf",
+   "revenue": 1497532,
+   "expenses": 1373929,
+   "assets": 214433,
+   "liabilities": 197977,
+   "officer_pay": 63600,
+   "other_salaries": 470804,
+   "program_revenue": 1497532,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_12_EO%2F95-3930285_990_201112.pdf",
+   "revenue": 1372287,
+   "expenses": 1305146,
+   "assets": 196021,
+   "liabilities": 299794,
+   "officer_pay": 709796,
+   "other_salaries": 0,
+   "program_revenue": 1372287,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_12_EO%2F95-3930285_990_201012.pdf",
+   "revenue": 1109578,
+   "expenses": 1004105,
+   "assets": 144880,
+   "liabilities": 315794,
+   "officer_pay": 0,
+   "other_salaries": 518115,
+   "program_revenue": 1109578,
+   "gifts_grants": 0
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_01_EO%2F95-3930285_990_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_08_EO%2F95-3930285_990_200812.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200712",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_04_EO%2F95-3930285_990_200712.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200612",
+   "form": "990R",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_06_EO%2F95-3930285_990R_200612.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_03_EO%2F95-3930285_990_200412.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_12_EO%2F95-3930285_990_200212.pdf"
+  },
+  {
+   "year": 2001,
+   "period": "200112",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2002_06_EO%2F95-3930285_990_200112.pdf"
+  },
+  {
+   "year": 2000,
+   "period": "200012",
+   "form": "990R",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_01_EO%2F95-3930285_990R_200012.pdf"
+  }
+ ]
+}

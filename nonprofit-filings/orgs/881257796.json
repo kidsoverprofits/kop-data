@@ -1,0 +1,34 @@
+{
+ "ein": "881257796",
+ "name": "Living Water Youth Ranch Inc",
+ "address": "8382 N Wayne Dr Ste 201",
+ "city": "Hayden",
+ "state": "ID",
+ "zip": "83835",
+ "ntee": "F20",
+ "subsection": "3",
+ "ruling": "2022-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/881257796",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F881257796_202412_990_2025081423647755.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F881257796_202312_990EZ_2024070322654554.pdf",
+   "revenue": 150924,
+   "expenses": 106043,
+   "assets": 44881,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "ein": "610445834",
+ "name": "Home Of The Innocents",
+ "address": "1100 E Market St",
+ "city": "Louisville",
+ "state": "KY",
+ "zip": "40206",
+ "ntee": "P300",
+ "subsection": "3",
+ "ruling": "1984-01",
+ "url": "https://projects.propublica.org/nonprofits/organizations/610445834",
+ "filings": [
+  {
+   "year": 2025,
+   "period": "202506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F610445834_202506_990_2026031124002486.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F610445834_202406_990_2025041023346758.pdf",
+   "revenue": 61384407,
+   "expenses": 53577271,
+   "assets": 76718683,
+   "liabilities": 18014854,
+   "officer_pay": 1360827,
+   "other_salaries": 27897962,
+   "program_revenue": 41851823,
+   "gifts_grants": 16752514
+  },
+  {
+   "year": 2023,
+   "period": "202306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_58-65%2F610445834_202306_990_2024022022296958.pdf",
+   "revenue": 50001065,
+   "expenses": 51155738,
+   "assets": 62688609,
+   "liabilities": 15463268,
+   "officer_pay": 967943,
+   "other_salaries": 26842609,
+   "program_revenue": 38954687,
+   "gifts_grants": 8009896
+  },
+  {
+   "year": 2022,
+   "period": "202206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F610445834_202206_990_2023053021323181.pdf",
+   "revenue": 44982651,
+   "expenses": 48163590,
+   "assets": 65936373,
+   "liabilities": 18644476,
+   "officer_pay": 457479,
+   "other_salaries": 25476201,
+   "program_revenue": 33251760,
+   "gifts_grants": 9795629
+  },
+  {
+   "year": 2021,
+   "period": "202106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2022_prefixes_54-61%2F610445834_202106_990_2022030919705259.pdf",
+   "revenue": 46815022,
+   "expenses": 48909773,
+   "assets": 69813046,
+   "liabilities": 15428723,
+   "officer_pay": 484485,
+   "other_salaries": 25351331,
+   "program_revenue": 32592822,
+   "gifts_grants": 11800535
+  },
+  {
+   "year": 2020,
+   "period": "202006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2021_prefixes_59-61%2F610445834_202006_990_2021040617902555.pdf",
+   "revenue": 43019588,
+   "expenses": 46088186,
+   "assets": 65831769,
+   "liabilities": 14199034,
+   "officer_pay": 440100,
+   "other_salaries": 24034104,
+   "program_revenue": 32382799,
+   "gifts_grants": 9024104
+  },
+  {
+   "year": 2019,
+   "period": "201906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_58-61%2F610445834_201906_990_2020102217398049.pdf",
+   "revenue": 40055610,
+   "expenses": 44282179,
+   "assets": 66644884,
+   "liabilities": 11668360,
+   "officer_pay": 419393,
+   "other_salaries": 23347146,
+   "program_revenue": 32136004,
+   "gifts_grants": 5930049
+  },
+  {
+   "year": 2018,
+   "period": "201806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=03_2019_prefixes_58-62%2F610445834_201806_990_2019030816158916.pdf",
+   "revenue": 38442346,
+   "expenses": 41072922,
+   "assets": 70716898,
+   "liabilities": 12208010,
+   "officer_pay": 396671,
+   "other_salaries": 20996784,
+   "program_revenue": 30390844,
+   "gifts_grants": 6326055
+  },
+  {
+   "year": 2017,
+   "period": "201706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F610445834_201706_990_2018031315214553.pdf",
+   "revenue": 34740226,
+   "expenses": 39082992,
+   "assets": 68846266,
+   "liabilities": 8375800,
+   "officer_pay": 514967,
+   "other_salaries": 18698175,
+   "program_revenue": 28441973,
+   "gifts_grants": 5218571
+  },
+  {
+   "year": 2016,
+   "period": "201606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2017_04_EO%2F61-0445834_990_201606.pdf",
+   "revenue": 33053725,
+   "expenses": 35376584,
+   "assets": 76684733,
+   "liabilities": 14289911,
+   "officer_pay": 405161,
+   "other_salaries": 17104280,
+   "program_revenue": 27092682,
+   "gifts_grants": 5233484
+  },
+  {
+   "year": 2015,
+   "period": "201506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_03_EO%2F61-0445834_990_201506.pdf",
+   "revenue": 33532057,
+   "expenses": 32564518,
+   "assets": 87331373,
+   "liabilities": 22427329,
+   "officer_pay": 398978,
+   "other_salaries": 15248238,
+   "program_revenue": 25463205,
+   "gifts_grants": 6623497
+  },
+  {
+   "year": 2014,
+   "period": "201406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_12_EO%2F61-0445834_990_201406.pdf",
+   "revenue": 32974682,
+   "expenses": 31150764,
+   "assets": 93480850,
+   "liabilities": 29967246,
+   "officer_pay": 391208,
+   "other_salaries": 15141209,
+   "program_revenue": 22756539,
+   "gifts_grants": 7664434
+  },
+  {
+   "year": 2013,
+   "period": "201306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_01_EO%2F61-0445834_990_201306.pdf",
+   "revenue": 28088135,
+   "expenses": 30671887,
+   "assets": 93039358,
+   "liabilities": 31878314,
+   "officer_pay": 448168,
+   "other_salaries": 15207804,
+   "program_revenue": 21693923,
+   "gifts_grants": 4638559
+  },
+  {
+   "year": 2012,
+   "period": "201206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_12_EO%2F61-0445834_990_201206.pdf",
+   "revenue": 27458772,
+   "expenses": 29574101,
+   "assets": 96494826,
+   "liabilities": 34138305,
+   "officer_pay": 365093,
+   "other_salaries": 14771393,
+   "program_revenue": 21096476,
+   "gifts_grants": 5264258
+  },
+  {
+   "year": 2011,
+   "period": "201106",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_03_EO%2F61-0445834_990_201106.pdf",
+   "revenue": 22286767,
+   "expenses": 25364610,
+   "assets": 98221791,
+   "liabilities": 34015104,
+   "officer_pay": 374784,
+   "other_salaries": 13095489,
+   "program_revenue": 16868272,
+   "gifts_grants": 4680491
+  },
+  {
+   "year": 2010,
+   "period": "201006",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_03_EO%2F61-0445834_990_201006.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200906",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_03_EO%2F61-0445834_990_200906.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200806",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_01_EO%2F61-0445834_990_200806.pdf"
+  },
+  {
+   "year": 2007,
+   "period": "200706",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2008_03_EO%2F61-0445834_990_200706.pdf"
+  },
+  {
+   "year": 2006,
+   "period": "200606",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2006_12_EO%2F61-0445834_990_200606.pdf"
+  },
+  {
+   "year": 2005,
+   "period": "200506",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2005_12_EO%2F61-0445834_990_200506.pdf"
+  },
+  {
+   "year": 2004,
+   "period": "200406",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2004_12_EO%2F61-0445834_990_200406.pdf"
+  },
+  {
+   "year": 2003,
+   "period": "200306",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_12_EO%2F61-0445834_990_200306.pdf"
+  },
+  {
+   "year": 2002,
+   "period": "200206",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2003_12_EO%2F61-0445834_990_200206.pdf"
+  }
+ ]
+}

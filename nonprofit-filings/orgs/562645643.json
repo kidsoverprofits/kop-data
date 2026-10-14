@@ -1,0 +1,122 @@
+{
+ "ein": "562645643",
+ "name": "Big Sky Academy",
+ "address": "Po Box 8569",
+ "city": "Missoula",
+ "state": "MT",
+ "zip": "59807",
+ "ntee": "B25",
+ "subsection": "3",
+ "ruling": "2008-07",
+ "url": "https://projects.propublica.org/nonprofits/organizations/562645643",
+ "filings": [
+  {
+   "year": 2022,
+   "period": "202208",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2023_prefixes_54-61%2F562645643_202208_990EZ_2023091121664785.pdf"
+  },
+  {
+   "year": 2021,
+   "period": "202108",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_08_2022_prefixes_53-59%2F562645643_202108_990EZ_2022080320267528.pdf",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 23127,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2020,
+   "period": "202008",
+   "form": "990-EZ",
+   "pdf": "",
+   "revenue": 0,
+   "expenses": 0,
+   "assets": 23127,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2019,
+   "period": "201908",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2021_prefixes_54-58%2F562645643_201908_990_2021012817667692.pdf",
+   "revenue": 257509,
+   "expenses": 280382,
+   "assets": 0,
+   "liabilities": 22873,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 67861
+  },
+  {
+   "year": 2013,
+   "period": "201308",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_07_EO%2F56-2645643_990EZ_201308.pdf",
+   "revenue": 64372,
+   "expenses": 62429,
+   "assets": 39708,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2012,
+   "period": "201208",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_08_EO%2F56-2645643_990_201208.pdf",
+   "revenue": 32215,
+   "expenses": 59654,
+   "assets": 5407,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 32215
+  },
+  {
+   "year": 2011,
+   "period": "201108",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_08_EO%2F56-2645643_990_201108.pdf",
+   "revenue": 170982,
+   "expenses": 87414,
+   "assets": 222394,
+   "liabilities": 689920,
+   "officer_pay": 0,
+   "other_salaries": 0,
+   "program_revenue": 15250,
+   "gifts_grants": 53934
+  },
+  {
+   "year": 2010,
+   "period": "201008",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_07_EO%2F56-2645643_990_201008.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200908",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_08_EO%2F56-2645643_990_200908.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200808",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_03_EO%2F56-2645643_990_200808.pdf"
+  }
+ ]
+}
