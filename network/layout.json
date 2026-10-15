@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2062,
-    "simulated": 2059,
+    "nodes": 2061,
+    "simulated": 2058,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -268,11 +268,6 @@
       "y": 180.8,
       "r": 14.3
     },
-    "red-rock-canyon-school": {
-      "x": -164.3,
-      "y": 164,
-      "r": 14.5
-    },
     "solstice-east": {
       "x": 816.7,
       "y": -398.6,
@@ -282,6 +277,11 @@
       "x": 1066.1,
       "y": -3.2,
       "r": 14.3
+    },
+    "red-rock-canyon-school": {
+      "x": -164.3,
+      "y": 164,
+      "r": 14.5
     },
     "silverado-academy": {
       "x": -25.6,
@@ -423,11 +423,6 @@
       "y": -339.9,
       "r": 14.2
     },
-    "falcon-ridge-ranch": {
-      "x": -620,
-      "y": -23.1,
-      "r": 14.3
-    },
     "jeff-johnson": {
       "x": 87,
       "y": 173.5,
@@ -452,6 +447,11 @@
       "x": 605.8,
       "y": 1212.2,
       "r": 15.1
+    },
+    "falcon-ridge-ranch": {
+      "x": -620,
+      "y": -23.1,
+      "r": 14.3
     },
     "gateway-academy-rite-of-passage": {
       "x": -709.3,
@@ -6637,11 +6637,6 @@
       "x": -602,
       "y": -233.2,
       "r": 13.6
-    },
-    "mariah-pogue": {
-      "x": -430.4,
-      "y": 97.6,
-      "r": 4
     },
     "marianne-birmingham": {
       "x": -1025,
