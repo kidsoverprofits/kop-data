@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2061,
-    "simulated": 2058,
+    "nodes": 2066,
+    "simulated": 2063,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -38,15 +38,15 @@
       "y": -91.4,
       "r": 15.2
     },
-    "correctional-services-corporation": {
-      "x": -1116.9,
-      "y": -249.7,
-      "r": 4
-    },
     "aspen-achievement-academy": {
       "x": 478.4,
       "y": 470.3,
       "r": 14.5
+    },
+    "correctional-services-corporation": {
+      "x": -1116.9,
+      "y": -249.7,
+      "r": 4
     },
     "three-springs-inc": {
       "x": -882.7,
@@ -143,6 +143,11 @@
       "y": -109.3,
       "r": 14.3
     },
+    "aspen-ranch": {
+      "x": 459.3,
+      "y": 420.4,
+      "r": 14.3
+    },
     "magnolia-mill-school": {
       "x": 826.6,
       "y": -468.1,
@@ -157,11 +162,6 @@
       "x": 334.8,
       "y": 42.5,
       "r": 14.4
-    },
-    "aspen-ranch": {
-      "x": 459.3,
-      "y": 420.4,
-      "r": 14.3
     },
     "cedu-family-of-services": {
       "x": -349.9,
@@ -258,6 +258,11 @@
       "y": -1147.6,
       "r": 15.3
     },
+    "aspiro-wilderness-adventure-therapy": {
+      "x": 362,
+      "y": 220.1,
+      "r": 14.6
+    },
     "copper-hills-youth-center": {
       "x": -21.6,
       "y": -390.8,
@@ -308,6 +313,11 @@
       "y": 586.9,
       "r": 14.2
     },
+    "hidden-lake-academy": {
+      "x": 322.3,
+      "y": 5.8,
+      "r": 14.3
+    },
     "redcliff-ascent": {
       "x": 613.6,
       "y": 224.9,
@@ -328,20 +338,15 @@
       "y": 524.1,
       "r": 15.6
     },
-    "aspiro-wilderness-adventure-therapy": {
-      "x": 362,
-      "y": 220.1,
-      "r": 14.6
+    "aspiro-group": {
+      "x": 161.3,
+      "y": 553,
+      "r": 14.2
     },
     "auldern-academy": {
       "x": -663.8,
       "y": 131.6,
       "r": 14.2
-    },
-    "hidden-lake-academy": {
-      "x": 322.3,
-      "y": 5.8,
-      "r": 14.3
     },
     "la-europa-academy": {
       "x": 281.6,
@@ -407,11 +412,6 @@
       "x": 24.2,
       "y": -339.6,
       "r": 14.6
-    },
-    "aspiro-group": {
-      "x": 161.3,
-      "y": 553,
-      "r": 14.2
     },
     "carlbrook-school": {
       "x": -28.7,
@@ -1493,6 +1493,11 @@
       "y": -408.6,
       "r": 4
     },
+    "anchor-home-for-boys": {
+      "x": -678.7,
+      "y": -1405.9,
+      "r": 14.3
+    },
     "bernie-zimmerman": {
       "x": -412.5,
       "y": 726.9,
@@ -1943,11 +1948,6 @@
       "y": 70.1,
       "r": 4
     },
-    "anchor-home-for-boys": {
-      "x": -678.7,
-      "y": -1405.9,
-      "r": 14.3
-    },
     "anderson-academy": {
       "x": -1361.3,
       "y": -1082.7,
@@ -2137,6 +2137,11 @@
       "x": 158.9,
       "y": -245.8,
       "r": 13.6
+    },
+    "daryn-reiner": {
+      "x": 663.3,
+      "y": 408.4,
+      "r": 4
     },
     "dave-hampton": {
       "x": -310.6,
@@ -2843,6 +2848,11 @@
       "y": -91.2,
       "r": 4
     },
+    "anchor-academy": {
+      "x": -719.9,
+      "y": -1392.1,
+      "r": 14.3
+    },
     "andy-sapp": {
       "x": 28.2,
       "y": 439.5,
@@ -3207,11 +3217,6 @@
       "x": -69,
       "y": -1144.4,
       "r": 14.2
-    },
-    "daryn-reiner": {
-      "x": 663.3,
-      "y": 408.4,
-      "r": 4
     },
     "david-allred": {
       "x": -413.4,
@@ -4608,11 +4613,6 @@
       "y": -121.2,
       "r": 4
     },
-    "anchor-academy": {
-      "x": -719.9,
-      "y": -1392.1,
-      "r": 14.3
-    },
     "andrea-burgess": {
       "x": 736.3,
       "y": 453.9,
@@ -4843,6 +4843,11 @@
       "y": 196.5,
       "r": 4
     },
+    "brad-carpenter": {
+      "x": 302.3,
+      "y": 98.6,
+      "r": 4
+    },
     "bradley-evans": {
       "x": 169.3,
       "y": -91,
@@ -4951,6 +4956,11 @@
     "caitlin-crolley": {
       "x": 918.4,
       "y": -546.3,
+      "r": 4
+    },
+    "caitlin-galt": {
+      "x": 260,
+      "y": 410.1,
       "r": 4
     },
     "cameron-armstrong": {
@@ -5102,6 +5112,11 @@
       "x": 244.1,
       "y": 112.3,
       "r": 13.6
+    },
+    "christina-oakley": {
+      "x": 254.2,
+      "y": 427.2,
+      "r": 4
     },
     "christine-aron": {
       "x": -1088.2,
@@ -6457,6 +6472,11 @@
       "x": -477,
       "y": -344.7,
       "r": 13.6
+    },
+    "larry-bray": {
+      "x": 528.1,
+      "y": 570.1,
+      "r": 4
     },
     "larry-katz": {
       "x": -307,
@@ -7981,6 +8001,11 @@
     "trevor-earl": {
       "x": -248.3,
       "y": -740,
+      "r": 4
+    },
+    "trevor-spencer": {
+      "x": -605.5,
+      "y": -1378.1,
       "r": 4
     },
     "trina-grater": {
