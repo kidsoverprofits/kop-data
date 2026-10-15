@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2058,
-    "simulated": 2055,
+    "nodes": 2061,
+    "simulated": 2058,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -268,6 +268,11 @@
       "y": 164,
       "r": 14.5
     },
+    "lake-house-academy": {
+      "x": 1066.1,
+      "y": -3.2,
+      "r": 14.3
+    },
     "silverado-academy": {
       "x": -25.6,
       "y": -51.5,
@@ -282,11 +287,6 @@
       "x": -225.6,
       "y": 53.9,
       "r": 14.4
-    },
-    "lake-house-academy": {
-      "x": 1066.1,
-      "y": -3.2,
-      "r": 14.3
     },
     "redcliff-ascent": {
       "x": 613.6,
@@ -323,6 +323,11 @@
       "y": 220.1,
       "r": 14.6
     },
+    "auldern-academy": {
+      "x": -663.8,
+      "y": 131.6,
+      "r": 14.2
+    },
     "la-europa-academy": {
       "x": 281.6,
       "y": 117.7,
@@ -346,11 +351,6 @@
     "alpine-academy": {
       "x": 843.8,
       "y": -300.6,
-      "r": 14.2
-    },
-    "auldern-academy": {
-      "x": -663.8,
-      "y": 131.6,
       "r": 14.2
     },
     "daniels-academy": {
@@ -393,6 +393,11 @@
       "y": -339.6,
       "r": 14.6
     },
+    "ridge-creek-school": {
+      "x": 550.9,
+      "y": 88.1,
+      "r": 14.2
+    },
     "aspiro-group": {
       "x": 161.3,
       "y": 553,
@@ -427,11 +432,6 @@
       "x": 87,
       "y": 173.5,
       "r": 4
-    },
-    "ridge-creek-school": {
-      "x": 550.9,
-      "y": 88.1,
-      "r": 14.2
     },
     "agape-boarding-school": {
       "x": -888.9,
@@ -1073,11 +1073,6 @@
       "y": 106.7,
       "r": 13.6
     },
-    "magnolia-mill-school": {
-      "x": 826.6,
-      "y": -468.1,
-      "r": 14.3
-    },
     "maple-hall-academy": {
       "x": 651.3,
       "y": 234.6,
@@ -1362,6 +1357,11 @@
       "x": -0.7,
       "y": -544.4,
       "r": 14.2
+    },
+    "magnolia-mill-school": {
+      "x": 826.6,
+      "y": -468.1,
+      "r": 14.3
     },
     "marion-youth-academy": {
       "x": -1009,
@@ -2533,6 +2533,11 @@
       "y": 402.3,
       "r": 13.5
     },
+    "leonard-len-buccellato": {
+      "x": 276.2,
+      "y": -99.8,
+      "r": 13.7
+    },
     "linda-cathcart": {
       "x": -5.4,
       "y": 279.8,
@@ -2987,6 +2992,11 @@
       "x": -707.2,
       "y": -145.5,
       "r": 4
+    },
+    "avalon-hills-residential-eating-disorder-program": {
+      "x": 750.5,
+      "y": -853.8,
+      "r": 14.7
     },
     "bain-capital": {
       "x": 855.5,
@@ -3847,11 +3857,6 @@
       "x": 95.2,
       "y": -110.1,
       "r": 13.6
-    },
-    "leonard-len-buccellato": {
-      "x": 276.2,
-      "y": -99.8,
-      "r": 13.7
     },
     "lexington-academy": {
       "x": -963.6,
@@ -4777,11 +4782,6 @@
       "x": 111.4,
       "y": -285.6,
       "r": 14.2
-    },
-    "avalon-hills-residential-eating-disorder-program": {
-      "x": 750.5,
-      "y": -853.8,
-      "r": 14.7
     },
     "ballard-sheppard": {
       "x": -460,
@@ -6467,11 +6467,6 @@
       "x": -636,
       "y": 56.7,
       "r": 14.8
-    },
-    "kim-gregor": {
-      "x": 884.5,
-      "y": -533.1,
-      "r": 4
     },
     "kim-lira": {
       "x": 823.5,
@@ -9163,6 +9158,11 @@
       "y": -229.9,
       "r": 13.7
     },
+    "julius-jessup": {
+      "x": -741.9,
+      "y": 246.4,
+      "r": 4
+    },
     "juneau-youth-services-lighthouse-program": {
       "x": -1856.1,
       "y": -929.5,
@@ -9198,6 +9198,11 @@
       "y": -470.3,
       "r": 4
     },
+    "kim-gregory": {
+      "x": 916.2,
+      "y": -518.7,
+      "r": 4
+    },
     "king-county-juvenile-detention-center": {
       "x": -1675.7,
       "y": -1018.6,
@@ -9221,6 +9226,11 @@
     "kristie-campbell": {
       "x": -378.6,
       "y": -109,
+      "r": 4
+    },
+    "krys-olyler": {
+      "x": 814.3,
+      "y": -969.7,
       "r": 4
     },
     "kvc-hospitals": {
@@ -9376,6 +9386,11 @@
     "mike-balotti": {
       "x": 1053.2,
       "y": -98.7,
+      "r": 4
+    },
+    "mike-grove": {
+      "x": 1213.1,
+      "y": -12,
       "r": 4
     },
     "mingus-mountain-estate-residential-center-inc": {
