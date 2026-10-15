@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2066,
-    "simulated": 2063,
+    "nodes": 2069,
+    "simulated": 2066,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -158,10 +158,20 @@
       "y": 249.7,
       "r": 14.3
     },
+    "northwest-academy": {
+      "x": -265.9,
+      "y": -28.5,
+      "r": 14.2
+    },
     "wingate-wilderness-therapy": {
       "x": 334.8,
       "y": 42.5,
       "r": 14.4
+    },
+    "aspiro-wilderness-adventure-therapy": {
+      "x": 362,
+      "y": 220.1,
+      "r": 14.6
     },
     "cedu-family-of-services": {
       "x": -349.9,
@@ -173,11 +183,6 @@
       "y": 190.9,
       "r": 14.1
     },
-    "northwest-academy": {
-      "x": -265.9,
-      "y": -28.5,
-      "r": 14.2
-    },
     "oasis-ascent": {
       "x": 525.3,
       "y": 119.1,
@@ -187,6 +192,11 @@
       "x": 706.1,
       "y": -312.5,
       "r": 15.3
+    },
+    "ascent-wilderness-therapy": {
+      "x": -225.6,
+      "y": 53.9,
+      "r": 14.4
     },
     "blue-ridge-therapeutic-wilderness": {
       "x": 481.3,
@@ -258,11 +268,6 @@
       "y": -1147.6,
       "r": 15.3
     },
-    "aspiro-wilderness-adventure-therapy": {
-      "x": 362,
-      "y": 220.1,
-      "r": 14.6
-    },
     "copper-hills-youth-center": {
       "x": -21.6,
       "y": -390.8,
@@ -302,11 +307,6 @@
       "x": 574.9,
       "y": 224.7,
       "r": 14.3
-    },
-    "ascent-wilderness-therapy": {
-      "x": -225.6,
-      "y": 53.9,
-      "r": 14.4
     },
     "evoke-entrada": {
       "x": 179.3,
@@ -403,6 +403,11 @@
       "y": -247,
       "r": 14.6
     },
+    "carlbrook-school": {
+      "x": -28.7,
+      "y": -122.8,
+      "r": 14.2
+    },
     "havenwood-academy": {
       "x": -289.5,
       "y": 492.9,
@@ -412,11 +417,6 @@
       "x": 24.2,
       "y": -339.6,
       "r": 14.6
-    },
-    "carlbrook-school": {
-      "x": -28.7,
-      "y": -122.8,
-      "r": 14.2
     },
     "equinox-rtc": {
       "x": 676,
@@ -988,6 +988,11 @@
       "y": 213.5,
       "r": 13.4
     },
+    "dan-kemp": {
+      "x": 504.3,
+      "y": 96.6,
+      "r": 4
+    },
     "deschutes-wilderness-therapy": {
       "x": 948.3,
       "y": 420.3,
@@ -1231,11 +1236,6 @@
     "cypress-creek-academy": {
       "x": -924.4,
       "y": -195.9,
-      "r": 4
-    },
-    "dan-kemp": {
-      "x": 504.3,
-      "y": 96.6,
       "r": 4
     },
     "david-gilcrease": {
@@ -1682,6 +1682,11 @@
       "x": 193.7,
       "y": 448,
       "r": 13.6
+    },
+    "jodi-escalante": {
+      "x": 270.6,
+      "y": 491.7,
+      "r": 13.5
     },
     "julio-sandoval": {
       "x": -976.5,
@@ -2303,6 +2308,11 @@
       "y": -346.8,
       "r": 14.5
     },
+    "jamie-kaczmarek": {
+      "x": 278.9,
+      "y": 669,
+      "r": 4
+    },
     "jane-samuel": {
       "x": -788.4,
       "y": 214.7,
@@ -2357,11 +2367,6 @@
       "x": 164.7,
       "y": -134.6,
       "r": 13.3
-    },
-    "jodi-escalante": {
-      "x": 270.6,
-      "y": 491.7,
-      "r": 13.5
     },
     "jordan-larsen": {
       "x": -561,
@@ -3413,6 +3418,11 @@
       "y": 166.4,
       "r": 4
     },
+    "guy-hardcastle": {
+      "x": 103.7,
+      "y": 183.7,
+      "r": 4
+    },
     "hawks-landing-therapeutic-home-for-boys": {
       "x": -678.5,
       "y": -125.2,
@@ -3462,11 +3472,6 @@
       "x": 937.1,
       "y": 649.7,
       "r": 13.6
-    },
-    "jamie-kaczmarek": {
-      "x": 278.9,
-      "y": 669,
-      "r": 4
     },
     "jan-andrew": {
       "x": -809.3,
@@ -3616,6 +3621,11 @@
     "josh-prince": {
       "x": 926.1,
       "y": 371.7,
+      "r": 4
+    },
+    "josh-watson": {
+      "x": 391.1,
+      "y": 379.4,
       "r": 4
     },
     "judge-roger-hashem-center": {
@@ -4408,6 +4418,11 @@
       "y": 164.7,
       "r": 4
     },
+    "todd-merrill": {
+      "x": 390.6,
+      "y": 266,
+      "r": 4
+    },
     "tom-bratter": {
       "x": -700,
       "y": -744.2,
@@ -4422,6 +4437,16 @@
       "x": -1399.7,
       "y": -1083.5,
       "r": 14.2
+    },
+    "trevor-allen": {
+      "x": 296.8,
+      "y": 670.8,
+      "r": 4
+    },
+    "troy-knight": {
+      "x": 160.9,
+      "y": -198.1,
+      "r": 4
     },
     "turning-winds-academic-institute": {
       "x": -545.7,
@@ -5578,6 +5603,11 @@
       "y": 49.3,
       "r": 4
     },
+    "fridrik-gudmundsson": {
+      "x": 134.1,
+      "y": 50.1,
+      "r": 4
+    },
     "gail-carpenter": {
       "x": 772.3,
       "y": 501.5,
@@ -5686,11 +5716,6 @@
     "guy-finicum": {
       "x": -191.7,
       "y": -349.8,
-      "r": 4
-    },
-    "guy-hardcastle": {
-      "x": 103.7,
-      "y": 183.7,
       "r": 4
     },
     "guy-leguyonne": {
@@ -6018,6 +6043,11 @@
       "y": 57.3,
       "r": 4
     },
+    "jim-powell": {
+      "x": -895.2,
+      "y": -159.9,
+      "r": 4
+    },
     "jim-salisbury": {
       "x": 612.3,
       "y": 199.9,
@@ -6161,11 +6191,6 @@
     "josh-nordean": {
       "x": 1088.3,
       "y": 145.8,
-      "r": 4
-    },
-    "josh-watson": {
-      "x": 391.1,
-      "y": 379.4,
       "r": 4
     },
     "joshua-cluff": {
@@ -6382,6 +6407,11 @@
       "x": -1266.3,
       "y": -632,
       "r": 14.3
+    },
+    "kidsquest-wagon-train": {
+      "x": -1965.6,
+      "y": -470.3,
+      "r": 4
     },
     "kim-lira": {
       "x": 823.5,
@@ -7016,6 +7046,11 @@
     "nikki-preece": {
       "x": 893.4,
       "y": -90,
+      "r": 4
+    },
+    "nikole-brown": {
+      "x": -376.8,
+      "y": 46.5,
       "r": 4
     },
     "norm-thibault": {
@@ -7938,11 +7973,6 @@
       "y": 460.7,
       "r": 14.2
     },
-    "todd-merrill": {
-      "x": 390.6,
-      "y": 266,
-      "r": 4
-    },
     "tom-courtney": {
       "x": -303.7,
       "y": 231.9,
@@ -7993,11 +8023,6 @@
       "y": 145.5,
       "r": 4
     },
-    "trevor-allen": {
-      "x": 296.8,
-      "y": 670.8,
-      "r": 4
-    },
     "trevor-earl": {
       "x": -248.3,
       "y": -740,
@@ -8011,11 +8036,6 @@
     "trina-grater": {
       "x": 397,
       "y": 684.5,
-      "r": 4
-    },
-    "troy-knight": {
-      "x": 160.9,
-      "y": -198.1,
       "r": 4
     },
     "turnabout-academy": {
@@ -9202,11 +9222,6 @@
       "x": -1431.8,
       "y": -440.9,
       "r": 14.4
-    },
-    "kidsquest-wagon-train": {
-      "x": -1965.6,
-      "y": -470.3,
-      "r": 4
     },
     "kim-gregory": {
       "x": 916.2,
