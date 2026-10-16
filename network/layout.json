@@ -1353,11 +1353,6 @@
       "y": 130.8,
       "r": 15.2
     },
-    "pathway-of-madison-county": {
-      "x": -1079.5,
-      "y": 213.3,
-      "r": 14.5
-    },
     "positive-impact-rtc": {
       "x": 219.5,
       "y": -585.8,
@@ -1812,6 +1807,11 @@
       "x": -182.8,
       "y": 74.7,
       "r": 14.3
+    },
+    "pathway-of-madison-county": {
+      "x": -1079.5,
+      "y": 213.3,
+      "r": 14.5
     },
     "peninsula-village": {
       "x": 308,
@@ -2706,11 +2706,6 @@
     "sequel-transition-academy": {
       "x": -1074.9,
       "y": 49.7,
-      "r": 4
-    },
-    "sequel-tsi-madison": {
-      "x": -973.5,
-      "y": 165.2,
       "r": 4
     },
     "sequel-tsi-montgomery": {
@@ -4237,6 +4232,11 @@
       "x": -1099.9,
       "y": 165,
       "r": 14.1
+    },
+    "sequel-tsi-madison": {
+      "x": -973.5,
+      "y": 165.2,
+      "r": 4
     },
     "shane-whiting": {
       "x": 141.4,
