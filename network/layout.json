@@ -83,15 +83,15 @@
       "y": -131.5,
       "r": 14.3
     },
-    "cross-creek-programs": {
-      "x": -151.3,
-      "y": -873.1,
-      "r": 14.4
-    },
     "universal-health-services": {
       "x": -539.1,
       "y": 106.7,
       "r": 15.2
+    },
+    "cross-creek-programs": {
+      "x": -151.3,
+      "y": -873.1,
+      "r": 14.4
     },
     "island-view-rtc": {
       "x": 839.7,
@@ -333,6 +333,11 @@
       "y": -308.9,
       "r": 4
     },
+    "youth-opportunity-investments": {
+      "x": -1307.7,
+      "y": -25,
+      "r": 15.1
+    },
     "acadia-healthcare": {
       "x": 762.6,
       "y": 524.1,
@@ -357,11 +362,6 @@
       "x": 264.2,
       "y": 207.7,
       "r": 14.3
-    },
-    "youth-opportunity-investments": {
-      "x": -1307.7,
-      "y": -25,
-      "r": 15.1
     },
     "alpine-academy": {
       "x": 843.8,
@@ -513,6 +513,11 @@
       "y": -122.6,
       "r": 15.3
     },
+    "truecore-behavioral-solutions": {
+      "x": -1123.8,
+      "y": -440.7,
+      "r": 15.1
+    },
     "wilderness-quest": {
       "x": 78.4,
       "y": 70.9,
@@ -562,11 +567,6 @@
       "x": 501.5,
       "y": 273.6,
       "r": 14.3
-    },
-    "truecore-behavioral-solutions": {
-      "x": -1123.8,
-      "y": -440.7,
-      "r": 15.1
     },
     "turn-about-ranch": {
       "x": 740.9,
@@ -1158,6 +1158,11 @@
       "y": -308,
       "r": 15
     },
+    "amikids-polk-inc": {
+      "x": -1157.1,
+      "y": -408.6,
+      "r": 4
+    },
     "andy-dunn": {
       "x": 480.2,
       "y": 160.6,
@@ -1488,11 +1493,6 @@
       "y": -57.6,
       "r": 14.1
     },
-    "amikids-polk-inc": {
-      "x": -1157.1,
-      "y": -408.6,
-      "r": 4
-    },
     "anchor-home-for-boys": {
       "x": -678.7,
       "y": -1405.9,
@@ -1513,15 +1513,15 @@
       "y": 102.7,
       "r": 14.1
     },
+    "brooksville-youth-academy": {
+      "x": -622.2,
+      "y": -803,
+      "r": 4
+    },
     "bruce-wilson": {
       "x": -157.1,
       "y": -193.4,
       "r": 13.6
-    },
-    "camp-e-how-kee": {
-      "x": -436.4,
-      "y": -802.1,
-      "r": 4
     },
     "carla-shorts": {
       "x": 502.3,
@@ -2453,6 +2453,11 @@
       "y": 402.3,
       "r": 13.5
     },
+    "leonard-len-buccellato": {
+      "x": 276.2,
+      "y": -99.8,
+      "r": 13.7
+    },
     "linda-cathcart": {
       "x": -5.4,
       "y": 279.8,
@@ -2728,6 +2733,11 @@
       "y": 388.9,
       "r": 14.3
     },
+    "texas-neurorehab-center": {
+      "x": -778.1,
+      "y": 19.2,
+      "r": 4
+    },
     "the-meadows-ranch": {
       "x": 406.6,
       "y": -890.7,
@@ -2802,6 +2812,11 @@
       "x": -1445.8,
       "y": -177.2,
       "r": 14.2
+    },
+    "youth-villages-inner-harbour-campus": {
+      "x": 202.1,
+      "y": -481.8,
+      "r": 4
     },
     "brother-bryan-clemensen": {
       "x": -920,
@@ -3046,11 +3061,6 @@
     "brooke-judkins": {
       "x": 889.7,
       "y": 282.7,
-      "r": 4
-    },
-    "brooksville-youth-academy": {
-      "x": -622.2,
-      "y": -803,
       "r": 4
     },
     "bryan-cook": {
@@ -3312,11 +3322,6 @@
       "x": -1649.9,
       "y": -308.7,
       "r": 14.7
-    },
-    "eckerd-academy-at-brooksville": {
-      "x": -634.1,
-      "y": -838.9,
-      "r": 4
     },
     "eckerd-academy-of-the-blue-ridge": {
       "x": 158.3,
@@ -3762,11 +3767,6 @@
       "x": 95.2,
       "y": -110.1,
       "r": 13.6
-    },
-    "leonard-len-buccellato": {
-      "x": 276.2,
-      "y": -99.8,
-      "r": 13.7
     },
     "lexington-academy": {
       "x": -963.6,
@@ -4358,19 +4358,9 @@
       "y": 24.7,
       "r": 13.8
     },
-    "texas-neurorehab-center": {
-      "x": -778.1,
-      "y": 19.2,
-      "r": 4
-    },
     "the-brown-schools-at-cedar-springs": {
       "x": -662.6,
       "y": -49.4,
-      "r": 4
-    },
-    "the-brown-schools-rehabilitation-center": {
-      "x": -697.5,
-      "y": -66.7,
       "r": 4
     },
     "the-clock-tower-schools": {
@@ -4507,11 +4497,6 @@
       "x": 519.1,
       "y": 1034,
       "r": 15
-    },
-    "youth-villages-inner-harbour-campus": {
-      "x": 202.1,
-      "y": -481.8,
-      "r": 4
     },
     "zion-hills-academy": {
       "x": -443.5,
@@ -5496,6 +5481,11 @@
     "eagle-springs-teen-boys-center": {
       "x": -1420.3,
       "y": -1210.8,
+      "r": 4
+    },
+    "eckerd-academy-at-brooksville": {
+      "x": -634.1,
+      "y": -838.9,
       "r": 4
     },
     "eckerd-connects-boys-residential-academy-at-boomer": {
@@ -8568,6 +8558,11 @@
       "y": -1355.8,
       "r": 4
     },
+    "camp-e-how-kee": {
+      "x": -436.4,
+      "y": -802.1,
+      "r": 4
+    },
     "camp-e-ku-sumee": {
       "x": -35.9,
       "y": -876.6,
@@ -10036,6 +10031,11 @@
     "the-brown-schools-at-san-marcos": {
       "x": -455.8,
       "y": -192.3,
+      "r": 4
+    },
+    "the-brown-schools-rehabilitation-center": {
+      "x": -697.5,
+      "y": -66.7,
       "r": 4
     },
     "the-brown-schools-seguin-community-living-center": {
