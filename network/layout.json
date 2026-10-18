@@ -1503,6 +1503,11 @@
       "y": -1405.9,
       "r": 14.3
     },
+    "aspen-youth-alternatives": {
+      "x": 776.4,
+      "y": 313.8,
+      "r": 14.3
+    },
     "bernie-zimmerman": {
       "x": -412.5,
       "y": 726.9,
@@ -1992,11 +1997,6 @@
       "x": -842.6,
       "y": 262.8,
       "r": 4
-    },
-    "aspen-youth-alternatives": {
-      "x": 776.4,
-      "y": 313.8,
-      "r": 14.3
     },
     "audrey-everson": {
       "x": 378,
@@ -4707,6 +4707,11 @@
       "x": 111.4,
       "y": -285.6,
       "r": 14.2
+    },
+    "aspen-youth-alternatives-of-south-carolina": {
+      "x": -1861.2,
+      "y": -1174.8,
+      "r": 4
     },
     "ballard-sheppard": {
       "x": -460,
@@ -8322,11 +8327,6 @@
       "x": -222.8,
       "y": -408.3,
       "r": 14.2
-    },
-    "aspen-youth-alternatives-of-south-carolina": {
-      "x": -1861.2,
-      "y": -1174.8,
-      "r": 4
     },
     "athenas-circle-of-providence": {
       "x": -1149.8,
