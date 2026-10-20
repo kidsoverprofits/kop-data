@@ -5,7 +5,7 @@
   "counts": {
    "nodes": 2071,
    "edges": 4071,
-   "facilityMatches": 699,
+   "facilityMatches": 700,
    "withYears": 510,
    "withDeaths": 32,
    "rebranded": 236,
@@ -52360,8 +52360,8 @@
    "degreeByCategory": {
     "corporate": 1
    },
-   "facilityId": null,
-   "uniqueName": null,
+   "facilityId": 100640,
+   "uniqueName": "Julian Youth Academy",
    "dates": "",
    "isolated": false,
    "board": {
