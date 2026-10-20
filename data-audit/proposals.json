@@ -2121,35 +2121,6 @@
   ]
  },
  {
-  "key": "status_years-318",
-  "kind": "status_years",
-  "title": "Camp E-How-Kee",
-  "place": "Brooksville, FL",
-  "facility_id": 100014,
-  "verdict": "kop_right",
-  "confidence": "medium",
-  "finding": "Camp E-How-Kee opened in 1968 as Eckerd's first outdoor program. KOP's record (Transferred, now run by Youth Opportunity Investments as Brooksville Youth Academy) stands; the only fix is the opening year.",
-  "kop_now": "Status Transferred, no years; current operator Youth Opportunity Investments; past operators none; company links: Eckerd Connects (current).",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/archives/2005/4/e-how-kee0504np.html",
-    "title": "New Perspectives 3/05 - Camp E-How-Kee",
-    "date": "2005",
-    "quote": "established in 1968, E-How-Kee was the first of 18 Outdoor Therapeutic Treatment Programs"
-   }
-  ],
-  "notes": "The owner's research has this as one program on one site that changed hands. A school directory's \"Closed 2014\" was dropped: it is not a source against that.",
-  "ops": [
-   {
-    "type": "field",
-    "facility_id": 100014,
-    "path": "operatingPeriod.startYear",
-    "from": null,
-    "to": 1968
-   }
-  ]
- },
- {
   "key": "status_years-319",
   "kind": "status_years",
   "title": "Timberline Academy",
@@ -8909,66 +8880,6 @@
     "operator_id": 20,
     "from": "current",
     "to": "past"
-   }
-  ]
- },
- {
-  "key": "sequel-union-link",
-  "kind": "transferred",
-  "title": "Union Juvenile Residential Facility",
-  "place": "Raiford, FL",
-  "facility_id": 9660,
-  "verdict": "kop_wrong",
-  "confidence": "medium",
-  "finding": "Sequel ran Union Juvenile Residential Facility from 2009 until July 2019, when Florida's Department of Juvenile Justice removed all 22 youth after a battery on a 13-year-old the facility did not report for over a week. KOP still has Sequel as its current company.",
-  "kop_now": "Open, from 2009; current operator \"Sequel TSI\"; Sequel and Three Springs both linked as current.",
-  "notes": "KOP's Sequel research sheet says Wayne Halfway House runs it now as Redwood Youth Academy; not set here.",
-  "sources": [
-   {
-    "url": "https://mycbs4.com/news/local/child-battery-investigation-closes-union-juvenile-residential-facility-officials-say",
-    "title": "CBS4",
-    "date": "2019-07",
-    "quote": "Child battery investigation closes Union Juvenile Residential Facility, officials say"
-   },
-   {
-    "url": "https://www.sec.gov/Archives/edgar/data/1643953/000121390017000665/prem14a0117_globalpartner.htm",
-    "title": "Global Partner Acquisition Corp., merger proxy for Sequel (PREM14A), program table",
-    "date": "2017-01-25",
-    "quote": "Union Juvenile Residential Facility ... 24 ... 2006 2009"
-   }
-  ],
-  "ops": [
-   {
-    "type": "field",
-    "facility_id": 9660,
-    "path": "identification.currentOperator",
-    "from": "Sequel TSI",
-    "to": null
-   },
-   {
-    "type": "list_add",
-    "facility_id": 9660,
-    "path": "identification.pastOperators",
-    "value": "Sequel Youth and Family Services (2009-2019)"
-   },
-   {
-    "type": "operator_link",
-    "facility_id": 9660,
-    "operator_id": 20,
-    "from": "current",
-    "to": "past"
-   },
-   {
-    "type": "operator_link",
-    "facility_id": 9660,
-    "operator_id": 24,
-    "from": "current",
-    "to": "past"
-   },
-   {
-    "type": "note",
-    "facility_id": 9660,
-    "text": "Florida's Department of Juvenile Justice removed all 22 youth in July 2019 after a battery on a 13-year-old that Sequel's staff did not report for over a week."
    }
   ]
  },
@@ -16099,151 +16010,6 @@
   ]
  },
  {
-  "key": "sequel_history-9660",
-  "kind": "sequel_history",
-  "title": "Union Juvenile Residential Facility (Redwood Youth Academy)",
-  "place": "Raiford, FL",
-  "facility_id": 9660,
-  "verdict": "kop_wrong",
-  "confidence": "medium",
-  "finding": "Three Springs opened the 24-bed secure DJJ program in Raiford in 2006; Sequel TSI of Florida ran it from the 2010 takeover until July 2019, when DJJ revoked the contract and removed all 22 youth after an unreported battery. Youth Opportunity Investments took the contract in 2019 (DJJ, August 2019) and ran it as Redwood Youth Academy at least through June 2021; the owner's sheet and KOP's note name Wayne Halfway House as the later provider. A DJJ request for information posted July 29, 2026 calls the site the 'former Redwood Youth Academy', so the program has closed. KOP still shows Sequel TSI as current and the program open.",
-  "kop_now": "Open, start 2009, Sequel TSI current (and as other operator), current name Redwood Youth Academy, yearsOfOperation 2006-2009, linked to Sequel and Three Springs as current.",
-  "sources": [
-   {
-    "url": "tmp/sequel-audit/research-notes.md (owner's notes: Sequel investor deck, table of residential programs as of 9/30/16)",
-    "title": "Sequel Youth and Family Services investor deck, residential treatment center table",
-    "date": "2016-09-30",
-    "quote": "6 Union Juvenile Residential Facility | Secure residential | Raiford, FL | 24 | Male, ages 12-19 | 2006 | 2009"
-   },
-   {
-    "url": "https://web.archive.org/web/20150423100247/https://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/union-juvenile-residential-facility",
-    "title": "Florida DJJ: Union Juvenile Residential Facility",
-    "date": "2015-04-23",
-    "quote": "14692 NE County Road 199 FL 32083-2519 ... mike.smith@sequelyouthservices.com 24, Ages 12-19 Sequel TSI of Florida, LLC"
-   },
-   {
-    "url": "https://web.archive.org/web/20190604111535/https://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/union-juvenile-residential-facility",
-    "title": "Florida DJJ: Union Juvenile Residential Facility",
-    "date": "2019-06-04",
-    "quote": "napoleon.dubois@sequelyouthservices.com 24, Ages 12-19 Sequel TSI of Florida, LLC"
-   },
-   {
-    "url": "https://mycbs4.com/news/local/child-battery-investigation-closes-union-juvenile-residential-facility-officials-say",
-    "title": "Child battery investigation closes Union Juvenile Residential Facility, officials say (CBS4)",
-    "date": "2019-07-17",
-    "quote": "(KOP summary) The Florida Department of Juvenile Justice revoked its contract with Sequel TSI and initiated the removal of all youth from the Union Juvenile Residential Facility."
-   },
-   {
-    "url": "https://web.archive.org/web/20190805231632/https://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/union-juvenile-residential-facility",
-    "title": "Florida DJJ: Union Juvenile Residential Facility",
-    "date": "2019-08-05",
-    "quote": "24, Ages 12-19 Youth Opportunity Investments, LLC http://www.youthopportunity.com/"
-   },
-   {
-    "url": "https://web.archive.org/web/20191109085547/https://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/redwood-youth-academy",
-    "title": "Florida DJJ: Redwood Youth Academy",
-    "date": "2019-11-09",
-    "quote": "(386) 259-2117 (386) 431-1089 kenneth.owens@youthopportunity.com 24, Ages 12-19 Youth Opportunity Investments, LLC ... Raiford"
-   },
-   {
-    "url": "https://web.archive.org/web/20210604063842/https://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/redwood-youth-academy",
-    "title": "Florida DJJ: Redwood Youth Academy",
-    "date": "2021-06-04",
-    "quote": "kenneth.owens@youthopportunity.com 24, Ages 12-19 Youth Opportunity Investments, LLC"
-   },
-   {
-    "url": "tmp/sequel-audit/sheet-operators.csv",
-    "title": "Owner's sheet row: Union Juvenile Residential Facility/Redwood Youth Academy",
-    "date": "",
-    "quote": "Three Springs 2006-2009 ... Sequel 2009-2019 ... Current Operator: Wayne Halfway House ... History: Rebranded to Redwood Youth Academy"
-   },
-   {
-    "url": "https://app.govly.com/public/opportunities/16885374",
-    "title": "Florida DJJ RFI #11107 (MyFloridaMarketplace), secure female residential programs",
-    "date": "2026-07-29",
-    "quote": "The RFI includes an optional site visit and a vendor's conference to discuss operating such programs at the former Redwood Youth Academy in Raiford, Florida."
-   },
-   {
-    "url": "https://news4jax.com/news/local/2022/10/28/i-team-closer-look-at-recent-facility-closures-in-florida-following-st-johns-youth-academys-sudden-shutdown",
-    "title": "I-TEAM: Closer look at recent facility closures in Florida following St. Johns Youth Academy's sudden shutdown",
-    "date": "2022-10-28",
-    "quote": "According to the DJJ, four facilities in Union, St. Johns, St. Petersburg and Pompano counties [...] privately contracted under Sequel Youth and Family Services [...] have closed within the last four years."
-   }
-  ],
-  "notes": "Sequel's years: the deck says joined 2009, the established fact is the Three Springs takeover on 2010-01-02; 2010 used. Three Springs' own page for the program in 2019 (threesprings.com/secure-residential/sequel-program-union.php, on the owner's sheet) not re-read. Confidence medium because Wayne Halfway House rests on the owner's sheet and KOP's note only. History: Three Springs, Inc. 2006-2010 as Union Juvenile Residential Facility; Sequel TSI 2010-2019 as Union Juvenile Residential Facility; Youth Opportunity Investments 2019-2021 as Redwood Youth Academy; Wayne Halfway House (owner's sheet and KOP note; no dated source found) 2021-2026 as Redwood Youth Academy; closed: DJJ calls it the 'former Redwood Youth Academy' 2026-2026 as .",
-  "ops": [
-   {
-    "type": "field",
-    "facility_id": 9660,
-    "path": "operatingPeriod.startYear",
-    "from": 2009,
-    "to": 2006
-   },
-   {
-    "type": "field",
-    "facility_id": 9660,
-    "path": "operatingPeriod.status",
-    "from": "Open",
-    "to": "Closed"
-   },
-   {
-    "type": "operator_link",
-    "facility_id": 9660,
-    "operator_id": 28,
-    "from": null,
-    "to": "past"
-   },
-   {
-    "type": "operator_link",
-    "facility_id": 9660,
-    "operator_id": 27,
-    "from": null,
-    "to": "current"
-   },
-   {
-    "type": "note",
-    "facility_id": 9660,
-    "text": "Florida DJJ revoked Sequel TSI's contract for Union Juvenile Residential Facility in July 2019; Youth Opportunity Investments ran the Raiford program as Redwood Youth Academy from 2019 (DJJ program pages, Wayback 2019-08-05, 2021-06-04), and a DJJ request for information posted 2026-07-29 calls the site the 'former Redwood Youth Academy'."
-   },
-   {
-    "type": "merge",
-    "keep": 9660,
-    "drop": 100071,
-    "rename": false,
-    "year": null,
-    "text": "Merge record 100071 Redwood Youth Academy into 9660 as a rename (Union Juvenile Residential Facility 2006-2019, Redwood Youth Academy 2019-), or the other way round if the owner prefers the current name."
-   },
-   {
-    "type": "check",
-    "text": "9660 already carries Redwood Youth Academy as its current name, so 100071 merges as a plain duplicate; the rename year is 2019 (Union Juvenile Residential Facility 2006-2019, Redwood Youth Academy 2019-)."
-   },
-   {
-    "type": "list_remove",
-    "facility_id": 9660,
-    "path": "identification.otherOperators",
-    "value": "Sequel TSI",
-    "text": "Remove 'Sequel TSI' from identification.otherOperators and fix yearsOfOperation '2006-2009' (Three Springs' years) to '2006-2026' or clear it."
-   },
-   {
-    "type": "field",
-    "facility_id": 9660,
-    "path": "operatingPeriod.yearsOfOperation",
-    "from": "2006-2009",
-    "to": ""
-   },
-   {
-    "type": "check",
-    "text": "Closure year of Redwood Youth Academy is not pinned (after June 2021, before July 2026): set operatingPeriod.endYear once found. Wayne Halfway House's years at Redwood also need a dated source.",
-    "step_text": "End year: the closure year is not pinned (after June 2021, before July 2026); set operatingPeriod.endYear once found. Wayne Halfway House's years at Redwood also need a dated source (DJJ program page captures after 2021 were not found)."
-   },
-   {
-    "type": "check",
-    "text": "(same merge as step 5 on this card) Keep 9660.",
-    "step_text": "Merge duplicates (KOP Tools > Merge Duplicates): records 9660, 100071 are one program; keep 9660. Redwood Youth Academy is the 2019 name of the Union Juvenile Residential Facility program at 14692 NE County Road 199, Raiford (same phone fax (386) 431-1089 on DJJ pages); 9660 holds the data"
-   }
-  ]
- },
- {
   "key": "sequel_history-9661",
   "kind": "sequel_history",
   "title": "Wayne County Girls Program",
@@ -16696,26 +16462,6 @@
     "later": 13641,
     "year": 2009,
     "why": "Three Springs School of Tuskegee says it is now Brighter Path Tuskegee"
-   }
-  ]
- },
- {
-  "key": "rename_years-9660-100071",
-  "kind": "rename_years",
-  "title": "Redwood Youth Academy",
-  "place": "Raiford, FL",
-  "facility_id": 100071,
-  "verdict": "unsure",
-  "confidence": "low",
-  "finding": "Union Juvenile Residential Facility and Redwood Youth Academy are one program under two names (Union Juvenile Residential Facility says it is now Redwood Youth Academy), kept as two records, so their years disagree: Redwood Youth Academy opens (no year), the earlier name's opening year or none; Union Juvenile Residential Facility has no end year; Union Juvenile Residential Facility is still Open. The records do not say when the name changed: give the year when merging.",
-  "kop_now": "Union Juvenile Residential Facility (#9660): Open, from 2009. Redwood Youth Academy (#100071): Open, no years.",
-  "sources": [],
-  "ops": [],
-  "renames": [
-   {
-    "earlier": 9660,
-    "later": 100071,
-    "why": "Union Juvenile Residential Facility says it is now Redwood Youth Academy"
    }
   ]
  },
@@ -17348,26 +17094,6 @@
     "earlier": 100013,
     "later": 10943,
     "why": "Texas NeuroRehab Center lists The Brown Schools Rehabilitation Center as a past name"
-   }
-  ]
- },
- {
-  "key": "rename_years-100014-11145",
-  "kind": "rename_years",
-  "title": "Brooksville Youth Academy",
-  "place": "Brooksville, FL",
-  "facility_id": 11145,
-  "verdict": "unsure",
-  "confidence": "low",
-  "finding": "Camp E-How-Kee and Brooksville Youth Academy are one program under two names (Brooksville Youth Academy lists Camp E-How-Kee as a past name), kept as two records, so their years disagree: Brooksville Youth Academy opens (no year), the earlier name's opening year or none; Camp E-How-Kee has no end year. The records do not say when the name changed: give the year when merging.",
-  "kop_now": "Camp E-How-Kee (#100014): Transferred, from 1968. Brooksville Youth Academy (#11145): Open, no years.",
-  "sources": [],
-  "ops": [],
-  "renames": [
-   {
-    "earlier": 100014,
-    "later": 11145,
-    "why": "Brooksville Youth Academy lists Camp E-How-Kee as a past name"
    }
   ]
  },

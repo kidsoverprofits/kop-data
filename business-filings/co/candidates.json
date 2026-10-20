@@ -629,23 +629,11 @@
    "trade_names": 0,
    "last_report": 2026,
    "match": "check",
-   "flags": [
-    "More than one record could be this company."
-   ],
+   "flags": [],
    "candidates": [
     {
      "kind": "operator",
      "id": 18,
-     "how": "its name",
-     "trade_name": "",
-     "name": "Rite of Passage, Inc.",
-     "place": "",
-     "status": "",
-     "same_town": false
-    },
-    {
-     "kind": "operator",
-     "id": 832,
      "how": "its name",
      "trade_name": "",
      "name": "Rite of Passage, Inc.",
@@ -669,23 +657,12 @@
    "last_report": 2000,
    "match": "check",
    "flags": [
-    "More than one record could be this company.",
     "Revoked in Colorado's register."
    ],
    "candidates": [
     {
      "kind": "operator",
      "id": 18,
-     "how": "its name",
-     "trade_name": "",
-     "name": "Rite of Passage, Inc.",
-     "place": "",
-     "status": "",
-     "same_town": false
-    },
-    {
-     "kind": "operator",
-     "id": 832,
      "how": "its name",
      "trade_name": "",
      "name": "Rite of Passage, Inc.",
@@ -708,23 +685,11 @@
    "trade_names": 0,
    "last_report": 2026,
    "match": "check",
-   "flags": [
-    "More than one record could be this company."
-   ],
+   "flags": [],
    "candidates": [
     {
      "kind": "operator",
      "id": 18,
-     "how": "its name",
-     "trade_name": "",
-     "name": "Rite of Passage, Inc.",
-     "place": "",
-     "status": "",
-     "same_town": false
-    },
-    {
-     "kind": "operator",
-     "id": 832,
      "how": "its name",
      "trade_name": "",
      "name": "Rite of Passage, Inc.",
