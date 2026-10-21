@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2071,
-    "simulated": 2068,
+    "nodes": 2070,
+    "simulated": 2067,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -178,11 +178,6 @@
       "y": -103.3,
       "r": 15.3
     },
-    "innerchange": {
-      "x": 945.4,
-      "y": 190.9,
-      "r": 14.1
-    },
     "oasis-ascent": {
       "x": 525.3,
       "y": 119.1,
@@ -192,6 +187,11 @@
       "x": 706.1,
       "y": -312.5,
       "r": 15.3
+    },
+    "innerchange": {
+      "x": 945.4,
+      "y": 190.9,
+      "r": 14.1
     },
     "ascent-wilderness-therapy": {
       "x": -225.6,
@@ -212,11 +212,6 @@
       "x": 418.8,
       "y": 263.9,
       "r": 14.3
-    },
-    "embark-behavioral-health": {
-      "x": 1091,
-      "y": 210.7,
-      "r": 15.9
     },
     "phoenix-outdoor": {
       "x": 682,
@@ -247,6 +242,11 @@
       "x": 1228.9,
       "y": 217.6,
       "r": 14.2
+    },
+    "embark-behavioral-health": {
+      "x": 1091,
+      "y": 210.7,
+      "r": 15.9
     },
     "rite-of-passage-inc": {
       "x": -871.1,
@@ -363,20 +363,10 @@
       "y": 207.7,
       "r": 14.3
     },
-    "alpine-academy": {
-      "x": 843.8,
-      "y": -300.6,
-      "r": 14.2
-    },
     "daniels-academy": {
       "x": 115,
       "y": 544,
       "r": 14.2
-    },
-    "fulshear-treatment-to-transition": {
-      "x": 813.7,
-      "y": 144.6,
-      "r": 14.3
     },
     "shortridge-academy": {
       "x": 218.8,
@@ -392,6 +382,11 @@
       "x": 509.8,
       "y": 315.6,
       "r": 14.7
+    },
+    "alpine-academy": {
+      "x": 843.8,
+      "y": -300.6,
+      "r": 14.2
     },
     "carlbrook-school": {
       "x": -28.7,
@@ -446,6 +441,11 @@
     "falcon-ridge-ranch": {
       "x": -620,
       "y": -23.1,
+      "r": 14.3
+    },
+    "fulshear-treatment-to-transition": {
+      "x": 813.7,
+      "y": 144.6,
       "r": 14.3
     },
     "gateway-academy-rite-of-passage": {
@@ -3322,11 +3322,6 @@
       "x": -27.6,
       "y": 144.7,
       "r": 4
-    },
-    "dragonfly-transitions": {
-      "x": 1418.6,
-      "y": 429.1,
-      "r": 14.2
     },
     "east-ridge-recovery-center": {
       "x": -1649.9,
@@ -7043,11 +7038,6 @@
       "y": -89,
       "r": 4
     },
-    "nikki-preece": {
-      "x": 893.4,
-      "y": -90,
-      "r": 4
-    },
     "nikole-brown": {
       "x": -376.8,
       "y": 46.5,
@@ -8802,6 +8792,11 @@
       "x": 525.5,
       "y": 1257.7,
       "r": 14.3
+    },
+    "dragonfly-transitions": {
+      "x": 1418.6,
+      "y": 429.1,
+      "r": 14.2
     },
     "drumm-farm-center-for-children": {
       "x": -1508.9,
