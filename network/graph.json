@@ -5,7 +5,7 @@
   "counts": {
    "nodes": 2070,
    "edges": 4065,
-   "facilityMatches": 697,
+   "facilityMatches": 698,
    "withYears": 507,
    "withDeaths": 32,
    "rebranded": 236,
@@ -32283,8 +32283,8 @@
    "degreeByCategory": {
     "corporate": 2
    },
-   "facilityId": null,
-   "uniqueName": null,
+   "facilityId": 100656,
+   "uniqueName": "Escuela Caribe",
    "dates": "",
    "isolated": false,
    "board": {
