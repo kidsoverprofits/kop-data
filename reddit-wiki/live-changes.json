@@ -1,0 +1,1558 @@
+{
+ "about": "Wiki pages that changed on r/troubledteens since the last read, from scripts/reddit-wiki-live.py watch",
+ "checked": "2026-10-23",
+ "changes": [
+  {
+   "page": "index/academysister",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-02-17",
+   "kind": "edited",
+   "changed": 885,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2025"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/achreekranch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2025-11-18",
+   "kind": "edited",
+   "changed": 202,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2021"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/active-programs/active-programs-arizona",
+   "detected": "2026-10-23",
+   "revised": "2025-11-19",
+   "revised_before": "2025-11-19",
+   "kind": "edited",
+   "changed": 2,
+   "samples": [
+    {
+     "before": "",
+     "after": "rimrock az"
+    }
+   ]
+  },
+  {
+   "page": "index/alpineacademy",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-05-27",
+   "kind": "edited",
+   "changed": 1400,
+   "samples": [
+    {
+     "before": "",
+     "after": "a"
+    },
+    {
+     "before": "affilated",
+     "after": "affiliated"
+    },
+    {
+     "before": "therpist",
+     "after": "therapist"
+    }
+   ]
+  },
+  {
+   "page": "index/arivaca",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-03-01",
+   "kind": "edited",
+   "changed": 493,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2022"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/ascentwild",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-03-03",
+   "kind": "edited",
+   "changed": 516,
+   "samples": [
+    {
+     "before": "2005",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "previous alternate names caribou ridge intervention"
+    },
+    {
+     "before": "",
+     "after": "ascent wilderness program was formerly called caribou ridge intervention"
+    }
+   ]
+  },
+  {
+   "page": "index/aspenachievement",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2021-11-06",
+   "kind": "edited",
+   "changed": 3243,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names wilderness academy until 1989"
+    },
+    {
+     "before": "has",
+     "after": "was"
+    },
+    {
+     "before": "been",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/atlantisleadership",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2024-03-12",
+   "kind": "edited",
+   "changed": 323,
+   "samples": [
+    {
+     "before": "",
+     "after": "a"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "presently",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/azleway",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2021-10-13",
+   "kind": "edited",
+   "changed": 199,
+   "samples": [
+    {
+     "before": "",
+     "after": "information about the program structure at azleway boys ranch has not been added yet if..."
+    },
+    {
+     "before": "survivor parent testimonials related media",
+     "after": "christopher ladell hill 17 and harry tyrone rutledge 15 wards of the state ran away from"
+    },
+    {
+     "before": "website homepage",
+     "after": "on september 16 2006 and were struck and killed by a train in hawkins texas on septembe..."
+    }
+   ]
+  },
+  {
+   "page": "index/bluefireidaho",
+   "detected": "2026-10-23",
+   "revised": "2026-03-20",
+   "revised_before": "2026-03-20",
+   "kind": "edited",
+   "changed": 1,
+   "samples": [
+    {
+     "before": "",
+     "after": "gulch"
+    }
+   ]
+  },
+  {
+   "page": "index/blueridge",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-02-09",
+   "kind": "edited",
+   "changed": 486,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names second nature blue ridge 2002 2016"
+    },
+    {
+     "before": "",
+     "after": "bryan delaney was the field director of second nature blue ridge delaney was also a res..."
+    },
+    {
+     "before": "where",
+     "after": "were"
+    }
+   ]
+  },
+  {
+   "page": "index/bssanmarcos",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-02-15",
+   "kind": "edited",
+   "changed": 414,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names the brown schools at san marcos 1940 2005"
+    },
+    {
+     "before": "intially",
+     "after": "initially"
+    },
+    {
+     "before": "",
+     "after": "san marcos treatment center was formerly called the brown schools at san marcos it is o..."
+    }
+   ]
+  },
+  {
+   "page": "index/calo",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-10-21",
+   "kind": "edited",
+   "changed": 537,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names calo programs"
+    },
+    {
+     "before": "previuosly",
+     "after": "previously"
+    },
+    {
+     "before": "where he served as",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/canyonstate",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-03-01",
+   "kind": "edited",
+   "changed": 2395,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names arizona boys ranch until 2000"
+    },
+    {
+     "before": "arizon",
+     "after": "arizona"
+    },
+    {
+     "before": "",
+     "after": "rules and punishments information about the rules consequences or disciplinary practice..."
+    }
+   ]
+  },
+  {
+   "page": "index/chamberlain",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-08-24",
+   "kind": "edited",
+   "changed": 395,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names f l chamberlain school"
+    },
+    {
+     "before": "artciels has",
+     "after": "articles have"
+    },
+    {
+     "before": "",
+     "after": "sarah norfleet was the director of business development of chamberlain international sc..."
+    }
+   ]
+  },
+  {
+   "page": "index/cherokeecreek",
+   "detected": "2026-10-23",
+   "revised": "2026-10-12",
+   "revised_before": "2022-05-10",
+   "kind": "edited",
+   "changed": 464,
+   "samples": [
+    {
+     "before": "austism",
+     "after": "autism"
+    },
+    {
+     "before": "school and",
+     "after": "schooland"
+    },
+    {
+     "before": "",
+     "after": "also genelle petrey boeggeman"
+    }
+   ]
+  },
+  {
+   "page": "index/cherrygulch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-01-05",
+   "kind": "edited",
+   "changed": 188,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names cherry gulch boys ranch"
+    },
+    {
+     "before": "assistive",
+     "after": "assisted"
+    },
+    {
+     "before": "relgiion",
+     "after": "religion"
+    }
+   ]
+  },
+  {
+   "page": "index/clarinda",
+   "detected": "2026-10-23",
+   "revised": "2026-10-12",
+   "revised_before": "2024-01-30",
+   "kind": "edited",
+   "changed": 805,
+   "samples": [
+    {
+     "before": "",
+     "after": "opened in february 1992 by youth services international ysi as its first academy source..."
+    },
+    {
+     "before": "opened",
+     "after": "run"
+    },
+    {
+     "before": "",
+     "after": "source"
+    }
+   ]
+  },
+  {
+   "page": "index/copperhills",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-06-03",
+   "kind": "edited",
+   "changed": 593,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names rivendell of utah 1986 1997"
+    },
+    {
+     "before": "are",
+     "after": ""
+    },
+    {
+     "before": "avergae",
+     "after": "average"
+    }
+   ]
+  },
+  {
+   "page": "index/crossroads",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2023-02-14",
+   "kind": "edited",
+   "changed": 148,
+   "samples": [
+    {
+     "before": "therpist",
+     "after": "therapist"
+    },
+    {
+     "before": "",
+     "after": "michael alger was the founder and executive director of crossroads academy rtc from 200..."
+    },
+    {
+     "before": "",
+     "after": "please contact rules and punishments information about the rules consequences or discip..."
+    }
+   ]
+  },
+  {
+   "page": "index/daniels",
+   "detected": "2026-10-23",
+   "revised": "2023-08-24",
+   "revised_before": "2023-08-24",
+   "kind": "edited",
+   "changed": 2,
+   "samples": [
+    {
+     "before": "20th",
+     "after": "20 th"
+    }
+   ]
+  },
+  {
+   "page": "index/deschuteswild",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-04-12",
+   "kind": "edited",
+   "changed": 192,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/diamondranch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2025-11-18",
+   "kind": "edited",
+   "changed": 542,
+   "samples": [
+    {
+     "before": "recieving",
+     "after": "receiving"
+    },
+    {
+     "before": "however it is important to note that",
+     "after": ""
+    },
+    {
+     "before": "it is to be assumed that",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/discoveryaca",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-06-05",
+   "kind": "edited",
+   "changed": 502,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2022"
+    },
+    {
+     "before": "",
+     "after": "previous alternate names oasis ascent from 2022"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/discoveryranch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2025-03-15",
+   "kind": "edited",
+   "changed": 731,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names discovery ranch academy discovery ranch for boys discovery ran..."
+    },
+    {
+     "before": "maxmimum",
+     "after": "maximum"
+    },
+    {
+     "before": "seperate",
+     "after": "separate"
+    }
+   ]
+  },
+  {
+   "page": "index/discoveryranchgirls",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2022-06-05",
+   "kind": "edited",
+   "changed": 353,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names discovery ranch south ascent inc discovery ranch for girls"
+    },
+    {
+     "before": "of",
+     "after": ""
+    },
+    {
+     "before": "commision",
+     "after": "commission"
+    }
+   ]
+  },
+  {
+   "page": "index/eagleranch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2025-11-18",
+   "kind": "edited",
+   "changed": 204,
+   "samples": [
+    {
+     "before": "as",
+     "after": "at"
+    },
+    {
+     "before": "it is important to note that",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "also"
+    }
+   ]
+  },
+  {
+   "page": "index/elevationsrtc",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2024-03-08",
+   "kind": "edited",
+   "changed": 1184,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names island view rtc 1994 2014"
+    },
+    {
+     "before": "elevation",
+     "after": "elevations"
+    },
+    {
+     "before": "was",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/elkmountain",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2023-01-08",
+   "kind": "edited",
+   "changed": 138,
+   "samples": [
+    {
+     "before": "",
+     "after": "and"
+    },
+    {
+     "before": "",
+     "after": "at"
+    },
+    {
+     "before": "and confirmedly",
+     "after": "andconfirmedly"
+    }
+   ]
+  },
+  {
+   "page": "index/elkriver",
+   "detected": "2026-10-23",
+   "revised": "2026-10-12",
+   "revised_before": "2022-03-08",
+   "kind": "edited",
+   "changed": 327,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/evokecascades",
+   "detected": "2026-10-23",
+   "revised": "2022-12-09",
+   "revised_before": "2022-12-09",
+   "kind": "edited",
+   "changed": 3,
+   "samples": [
+    {
+     "before": "youtu be hm6qnyznf14",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/explorations",
+   "detected": "2026-10-23",
+   "revised": "2026-10-12",
+   "revised_before": "2023-01-08",
+   "kind": "edited",
+   "changed": 121,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names explorations montana"
+    },
+    {
+     "before": "",
+     "after": "lorne riddell was the owner and operator of explorations source dan ward was a summer c..."
+    },
+    {
+     "before": "",
+     "after": "please contact rules and punishments information about the rules consequences or discip..."
+    }
+   ]
+  },
+  {
+   "page": "index/falconridge",
+   "detected": "2026-10-23",
+   "revised": "2026-10-15",
+   "revised_before": "2022-06-07",
+   "kind": "edited",
+   "changed": 1773,
+   "samples": [
+    {
+     "before": "sequel youth family services",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "sequel youth family services owned it from august 2016 source until october 2021 when r..."
+    },
+    {
+     "before": "",
+     "after": "under sequel"
+    }
+   ]
+  },
+  {
+   "page": "index/fulshear",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-10-14",
+   "kind": "edited",
+   "changed": 508,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names fulshear ranch academy until 2013"
+    },
+    {
+     "before": "tuitino",
+     "after": "tuition"
+    },
+    {
+     "before": "sandler is",
+     "after": "sandleris"
+    }
+   ]
+  },
+  {
+   "page": "index/gatewayaca",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-06-07",
+   "kind": "edited",
+   "changed": 131,
+   "samples": [
+    {
+     "before": "that",
+     "after": "than"
+    },
+    {
+     "before": "it is important to note that",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "carrie shoumatoff was the admissions director of gateway academy source shoumatoff was ..."
+    }
+   ]
+  },
+  {
+   "page": "index/grove",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-03-01",
+   "kind": "edited",
+   "changed": 399,
+   "samples": [
+    {
+     "before": "at",
+     "after": ""
+    },
+    {
+     "before": "unti",
+     "after": "until"
+    },
+    {
+     "before": "propriety",
+     "after": "proprietary"
+    }
+   ]
+  },
+  {
+   "page": "index/havenwood",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-03-15",
+   "kind": "edited",
+   "changed": 681,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names integrity house rtc integrity house until 2014 havenwood south"
+    },
+    {
+     "before": "interestingly",
+     "after": ""
+    },
+    {
+     "before": "in addition further research has revealed that",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/heartlightmini",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-10-15",
+   "kind": "edited",
+   "changed": 440,
+   "samples": [
+    {
+     "before": "seperate",
+     "after": "separate"
+    },
+    {
+     "before": "hearlight",
+     "after": "heartlight"
+    },
+    {
+     "before": "she",
+     "after": "he"
+    }
+   ]
+  },
+  {
+   "page": "index/heritageschools",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-09-13",
+   "kind": "edited",
+   "changed": 311,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names heritage community"
+    },
+    {
+     "before": "with",
+     "after": "which"
+    },
+    {
+     "before": "are",
+     "after": "is"
+    }
+   ]
+  },
+  {
+   "page": "index/hydeme",
+   "detected": "2026-10-23",
+   "revised": "2026-10-08",
+   "revised_before": "2021-11-09",
+   "kind": "edited",
+   "changed": 842,
+   "samples": [
+    {
+     "before": "",
+     "after": "hyde has been run by the gauld family since it opened tuition is 68 300 a year in 2020 ..."
+    },
+    {
+     "before": "",
+     "after": "before founding hyde joe gauld taught and worked in administration at berwick academy a..."
+    },
+    {
+     "before": "no information",
+     "after": "hyde calls its approach character education it"
+    }
+   ]
+  },
+  {
+   "page": "index/jrotenberg",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-06-25",
+   "kind": "edited",
+   "changed": 1748,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names judge rotenberg educational center"
+    },
+    {
+     "before": "",
+     "after": "on september 7 2023 the massachusetts supreme judicial court ruled that the judge roten..."
+    },
+    {
+     "before": "",
+     "after": "rules and punishments information about the rules consequences or disciplinary practice..."
+    }
+   ]
+  },
+  {
+   "page": "index/kansascitytc",
+   "detected": "2026-10-23",
+   "revised": "2026-10-08",
+   "revised_before": "2025-12-10",
+   "kind": "edited",
+   "changed": 355,
+   "samples": [
+    {
+     "before": "",
+     "after": "kansas city girls academy was formerly called highland girls academy"
+    },
+    {
+     "before": "globals",
+     "after": "global s"
+    },
+    {
+     "before": "",
+     "after": "jeff pirtle worked at kansas city girls academy pirtle was also a therapist admin at ne..."
+    }
+   ]
+  },
+  {
+   "page": "index/laeuropa",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-07-20",
+   "kind": "edited",
+   "changed": 386,
+   "samples": [
+    {
+     "before": "it is important to note that",
+     "after": ""
+    },
+    {
+     "before": "in fact",
+     "after": ""
+    },
+    {
+     "before": "most well",
+     "after": "best"
+    }
+   ]
+  },
+  {
+   "page": "index/lakehouse",
+   "detected": "2026-10-23",
+   "revised": "2026-10-08",
+   "revised_before": "2025-11-18",
+   "kind": "edited",
+   "changed": 561,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/laurelridge",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-03-02",
+   "kind": "edited",
+   "changed": 640,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names laurel ridge treatment center rtc the brown schools at laurel ..."
+    },
+    {
+     "before": "",
+     "after": "laurel ridge treatment center was formerly called the brown schools at laurel ridge it ..."
+    },
+    {
+     "before": "",
+     "after": "jacob cuellar is a former ceo of laurel ridge treatment center in june 2025 ksat report..."
+    }
+   ]
+  },
+  {
+   "page": "index/lavaheights",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-07-20",
+   "kind": "edited",
+   "changed": 887,
+   "samples": [
+    {
+     "before": "sequel youth family services",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "sequel youth family services owned it from august 2016 source until october 2021 when r..."
+    },
+    {
+     "before": "it is also important",
+     "after": "from 2016"
+    }
+   ]
+  },
+  {
+   "page": "index/lifelineut",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-07-12",
+   "kind": "edited",
+   "changed": 357,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/maplehall",
+   "detected": "2026-10-23",
+   "revised": "2026-10-08",
+   "revised_before": "2022-05-15",
+   "kind": "edited",
+   "changed": 125,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/maplelake",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-08-08",
+   "kind": "edited",
+   "changed": 287,
+   "samples": [
+    {
+     "before": "it is important to note that",
+     "after": ""
+    },
+    {
+     "before": "in fact",
+     "after": ""
+    },
+    {
+     "before": "most well",
+     "after": "best"
+    }
+   ]
+  },
+  {
+   "page": "index/maryville",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-03-19",
+   "kind": "edited",
+   "changed": 206,
+   "samples": [
+    {
+     "before": "",
+     "after": "information about the founders or notable staff at maryville academy has not been added..."
+    },
+    {
+     "before": "",
+     "after": "information about the program structure at maryville academy has not been added yet if ..."
+    },
+    {
+     "before": "",
+     "after": "victoria petersilka 14 died by suicide at maryville in february 2002 source waketta roy..."
+    }
+   ]
+  },
+  {
+   "page": "index/mingus",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-03-01",
+   "kind": "edited",
+   "changed": 1094,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names mingus mountain youth treatment center"
+    },
+    {
+     "before": "sequel youth and family services",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "sequel youth and family services ran it under a management agreement with mingus mounta..."
+    }
+   ]
+  },
+  {
+   "page": "index/mountainhome",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-03-04",
+   "kind": "edited",
+   "changed": 586,
+   "samples": [
+    {
+     "before": "",
+     "after": "2001 2021 mountain home id previous alternate names three springs of mountain home unti..."
+    },
+    {
+     "before": "",
+     "after": "mountain home academy in mountain home idaho was also known as sequel tsi of idaho and ..."
+    },
+    {
+     "before": "",
+     "after": "kelly stone was the executive director of mountain home academy from 2015 to 2017 stone..."
+    }
+   ]
+  },
+  {
+   "page": "index/mountainsprings",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-04-17",
+   "kind": "edited",
+   "changed": 256,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names academy at cedar mountain until 2004"
+    },
+    {
+     "before": "the academy",
+     "after": "theacademy"
+    },
+    {
+     "before": "is",
+     "after": "it"
+    }
+   ]
+  },
+  {
+   "page": "index/mountvalley",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-11-09",
+   "kind": "edited",
+   "changed": 139,
+   "samples": [
+    {
+     "before": "",
+     "after": "gregory vogel was the executive director of mountain valley treatment center source vog..."
+    },
+    {
+     "before": "",
+     "after": "rules and punishments information about the rules consequences or disciplinary practice..."
+    },
+    {
+     "before": "",
+     "after": "in the media no media coverage for mountain valley treatment center has been added yet ..."
+    }
+   ]
+  },
+  {
+   "page": "index/natsap",
+   "detected": "2026-10-23",
+   "revised": "2022-05-10",
+   "revised_before": "2022-05-10",
+   "kind": "edited",
+   "changed": 18,
+   "samples": [
+    {
+     "before": "38 9849362 77 0891874 149m data 3m1 1e3 4m5 3m4 1s0x0 0x93783671aed27748 8m2 3d38 98498...",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/newhavenrtc",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2024-02-12",
+   "kind": "edited",
+   "changed": 858,
+   "samples": [
+    {
+     "before": "conection",
+     "after": "connection"
+    },
+    {
+     "before": "has",
+     "after": "had"
+    },
+    {
+     "before": "the",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/newleaforegon",
+   "detected": "2026-10-23",
+   "revised": "2026-10-08",
+   "revised_before": "2022-09-15",
+   "kind": "edited",
+   "changed": 140,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2011"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/outbackexp",
+   "detected": "2026-10-23",
+   "revised": "2026-10-14",
+   "revised_before": "2022-08-02",
+   "kind": "edited",
+   "changed": 818,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2023"
+    },
+    {
+     "before": "",
+     "after": "previous alternate names walkabout therapeutic expeditions until 2001 walkabout"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/pinehaven",
+   "detected": "2026-10-23",
+   "revised": "2021-04-17",
+   "revised_before": "2021-04-17",
+   "kind": "edited",
+   "changed": 2,
+   "samples": [
+    {
+     "before": "26th",
+     "after": "26 th"
+    }
+   ]
+  },
+  {
+   "page": "index/provocanyon",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-08-04",
+   "kind": "edited",
+   "changed": 2302,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2026"
+    },
+    {
+     "before": "",
+     "after": "previous alternate names pcs uhs of provo canyon dba provo campus"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/shilohrtc",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-10-17",
+   "kind": "edited",
+   "changed": 852,
+   "samples": [
+    {
+     "before": "with",
+     "after": ""
+    },
+    {
+     "before": "",
+     "after": "rules and punishments information about the rules consequences or disciplinary practice..."
+    },
+    {
+     "before": "the dhs has cited 9 critical incidents at shiloh treatment center between 2020 and 2021...",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/snentrada",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-04-14",
+   "kind": "edited",
+   "changed": 363,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names evoke entrada 2015 2024"
+    },
+    {
+     "before": "are",
+     "after": "were"
+    },
+    {
+     "before": "",
+     "after": "second nature entrada later operated under the name evoke entrada"
+    }
+   ]
+  },
+  {
+   "page": "index/snuintas",
+   "detected": "2026-10-23",
+   "revised": "2024-03-05",
+   "revised_before": "2024-03-05",
+   "kind": "edited",
+   "changed": 2,
+   "samples": [
+    {
+     "before": "aholes",
+     "after": "a holes"
+    }
+   ]
+  },
+  {
+   "page": "index/solsticewest",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2024-03-08",
+   "kind": "edited",
+   "changed": 501,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names solstice west from 2008 samaya rtc until 2008"
+    },
+    {
+     "before": "",
+     "after": "eliza hitz was the equine therapy director of solstice rtc hitz was also a therapist at..."
+    },
+    {
+     "before": "hosptials",
+     "after": "hospitals"
+    }
+   ]
+  },
+  {
+   "page": "index/springridge",
+   "detected": "2026-10-23",
+   "revised": "2026-10-14",
+   "revised_before": "2022-07-11",
+   "kind": "edited",
+   "changed": 721,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2023"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/summitme",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2021-11-06",
+   "kind": "edited",
+   "changed": 366,
+   "samples": [
+    {
+     "before": "serving",
+     "after": "serves"
+    },
+    {
+     "before": "previuosly",
+     "after": "previously"
+    },
+    {
+     "before": "in",
+     "after": ""
+    }
+   ]
+  },
+  {
+   "page": "index/trailscarolina",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2024-02-13",
+   "kind": "edited",
+   "changed": 1962,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "",
+     "after": "previous alternate names trails academy the academy at trails"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/tranquilitybay",
+   "detected": "2026-10-23",
+   "revised": "2022-09-24",
+   "revised_before": "2022-09-24",
+   "kind": "edited",
+   "changed": 1,
+   "samples": [
+    {
+     "before": "",
+     "after": "cove"
+    }
+   ]
+  },
+  {
+   "page": "index/tripledivide",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-01-08",
+   "kind": "edited",
+   "changed": 102,
+   "samples": [
+    {
+     "before": "present",
+     "after": "2024"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    },
+    {
+     "before": "is",
+     "after": "was"
+    }
+   ]
+  },
+  {
+   "page": "index/tulsaboys",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2025-10-24",
+   "kind": "edited",
+   "changed": 65,
+   "samples": [
+    {
+     "before": "",
+     "after": "october 2025 a 17 year old boy died by suicide on october 21 2025 during an archery cla..."
+    },
+    {
+     "before": "",
+     "after": "tulsa boys home on kids over profits"
+    }
+   ]
+  },
+  {
+   "page": "index/turnbridge",
+   "detected": "2026-10-23",
+   "revised": "2026-07-21",
+   "revised_before": "2026-07-21",
+   "kind": "edited",
+   "changed": 10,
+   "samples": [
+    {
+     "before": "",
+     "after": "turning point institutional due diligence and public review evidence memo"
+    }
+   ]
+  },
+  {
+   "page": "index/waypoint",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2022-12-14",
+   "kind": "edited",
+   "changed": 244,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names green valley academy"
+    },
+    {
+     "before": "forest",
+     "after": "forrest"
+    },
+    {
+     "before": "an",
+     "after": "a"
+    }
+   ]
+  },
+  {
+   "page": "index/yellowstoneranch",
+   "detected": "2026-10-23",
+   "revised": "2026-10-13",
+   "revised_before": "2023-01-08",
+   "kind": "edited",
+   "changed": 468,
+   "samples": [
+    {
+     "before": "",
+     "after": "previous alternate names yellowstone girls and boys ranch ybgr"
+    },
+    {
+     "before": "od",
+     "after": "of"
+    },
+    {
+     "before": "previuosly",
+     "after": "previously"
+    }
+   ]
+  },
+  {
+   "page": "index/youthvillagestn",
+   "detected": "2026-10-23",
+   "revised": "2026-10-09",
+   "revised_before": "2024-01-22",
+   "kind": "edited",
+   "changed": 241,
+   "samples": [
+    {
+     "before": "",
+     "after": "information about the program structure at youth villages has not been added yet if you..."
+    },
+    {
+     "before": "",
+     "after": "fox13 memphis reported that alegend jones a 17 year old in the care of youth villages i..."
+    },
+    {
+     "before": "",
+     "after": "no survivor testimonies for youth villages have been added here yet if you have a first..."
+    }
+   ]
+  }
+ ]
+}

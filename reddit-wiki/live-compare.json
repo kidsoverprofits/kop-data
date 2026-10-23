@@ -1,6 +1,6 @@
 {
  "about": "Program wiki entries against the live r/troubledteens wiki, from scripts/reddit-wiki-live.py",
- "checked": "2026-10-05",
+ "checked": "2026-10-23",
  "pages": {
   "acadiahealth": {
    "exists": false,
@@ -525,7 +525,7 @@
   "index": {
    "exists": true,
    "revised": "2026-09-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/180ministries": {
    "exists": false,
@@ -540,7 +540,7 @@
   "index/2bootcamp": {
    "exists": true,
    "revised": "2022-04-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/3springsnewdominion": {
    "exists": false,
@@ -555,7 +555,7 @@
   "index/aarc": {
    "exists": true,
    "revised": "2021-12-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/abilene": {
    "exists": false,
@@ -589,8 +589,8 @@
   },
   "index/academysister": {
    "exists": true,
-   "revised": "2023-02-17",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/acadiahealth": {
    "exists": true,
@@ -605,7 +605,7 @@
   "index/acadiamt": {
    "exists": true,
    "revised": "2022-05-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/accendo": {
    "exists": false,
@@ -619,33 +619,33 @@
   },
   "index/achreekranch": {
    "exists": true,
-   "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-alabama": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-alaska": {
    "exists": true,
    "revised": "2025-04-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-arizona": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-arkansas": {
    "exists": true,
    "revised": "2023-10-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-california": {
    "exists": true,
    "revised": "2023-06-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-colorado": {
    "exists": true,
@@ -665,217 +665,217 @@
   "index/active-programs/active-programs-florida": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-georgia": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-hawaii": {
    "exists": true,
    "revised": "2025-04-10",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-idaho": {
    "exists": true,
    "revised": "2023-10-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-illinois": {
    "exists": true,
    "revised": "2025-04-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-indiana": {
    "exists": true,
    "revised": "2023-10-04",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-iowa": {
    "exists": true,
    "revised": "2026-04-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-kansas": {
    "exists": true,
    "revised": "2021-11-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-kentucky": {
    "exists": true,
    "revised": "2025-10-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-louisiana": {
    "exists": true,
    "revised": "2022-03-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-maine": {
    "exists": true,
    "revised": "2024-01-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-maryland": {
    "exists": true,
    "revised": "2022-04-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-massachusetts": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-michigan": {
    "exists": true,
    "revised": "2023-02-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-minnesota": {
    "exists": true,
    "revised": "2025-04-10",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-mississippi": {
    "exists": true,
    "revised": "2025-04-10",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-missouri": {
    "exists": true,
    "revised": "2025-09-30",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-montana": {
    "exists": true,
    "revised": "2023-02-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-nebraska": {
    "exists": true,
    "revised": "2023-02-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-nevada": {
    "exists": true,
    "revised": "2025-03-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-newhampshire": {
    "exists": true,
    "revised": "2026-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-newjersey": {
    "exists": true,
    "revised": "2022-01-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-newmexico": {
    "exists": true,
    "revised": "2022-06-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-newyork": {
    "exists": true,
    "revised": "2022-03-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-nonusa": {
    "exists": true,
    "revised": "2025-11-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-northcarolina": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-northdakota": {
    "exists": true,
    "revised": "2022-01-04",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-ohio": {
    "exists": true,
    "revised": "2023-04-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-oklahoma": {
    "exists": true,
    "revised": "2023-02-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-oregon": {
    "exists": true,
    "revised": "2026-04-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-pennsylvania": {
    "exists": true,
    "revised": "2023-05-25",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-rhodeisland": {
    "exists": true,
    "revised": "2022-07-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-southcarolina": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-southdakota": {
    "exists": true,
    "revised": "2023-07-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-tennessee": {
    "exists": true,
    "revised": "2025-04-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-texas": {
    "exists": true,
    "revised": "2023-02-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-utah": {
    "exists": true,
    "revised": "2025-09-29",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-vermont": {
    "exists": true,
    "revised": "2021-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-virginia": {
    "exists": true,
    "revised": "2023-04-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-washington": {
    "exists": true,
    "revised": "2024-02-29",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-westvirginia": {
    "exists": true,
    "revised": "2025-02-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-wisconsin": {
    "exists": true,
    "revised": "2024-02-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/active-programs-wyoming": {
    "exists": true,
    "revised": "2022-04-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/active-programs/altior": {
    "exists": false,
@@ -1435,12 +1435,12 @@
   "index/adeonasovereign": {
    "exists": true,
    "revised": "2021-03-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/adirondackleader": {
    "exists": true,
    "revised": "2021-09-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/adobemountain": {
    "exists": false,
@@ -1455,12 +1455,12 @@
   "index/adolescentguidance": {
    "exists": true,
    "revised": "2022-07-29",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/adolescentservices": {
    "exists": true,
    "revised": "2022-04-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/adventhome": {
    "exists": false,
@@ -1470,7 +1470,7 @@
   "index/adventureranchtc": {
    "exists": true,
    "revised": "2023-08-30",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/affinity": {
    "exists": false,
@@ -1505,12 +1505,12 @@
   "index/alldredge": {
    "exists": true,
    "revised": "2021-03-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/allegany": {
    "exists": true,
    "revised": "2023-05-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/allendale": {
    "exists": false,
@@ -1524,8 +1524,8 @@
   },
   "index/alpineacademy": {
    "exists": true,
-   "revised": "2022-05-27",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/alpineboys": {
    "exists": false,
@@ -1535,7 +1535,7 @@
   "index/alternativeyouth": {
    "exists": true,
    "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/altior": {
    "exists": true,
@@ -1565,12 +1565,12 @@
   "index/anchoracademy": {
    "exists": true,
    "revised": "2022-06-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/anchorboys": {
    "exists": true,
    "revised": "2022-03-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/anchorhos": {
    "exists": false,
@@ -1585,7 +1585,7 @@
   "index/anneewakee": {
    "exists": true,
    "revised": "2022-07-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/appalachiantc": {
    "exists": false,
@@ -1599,8 +1599,8 @@
   },
   "index/arivaca": {
    "exists": true,
-   "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/arthurbrisbane": {
    "exists": false,
@@ -1614,13 +1614,13 @@
   },
   "index/ascentwild": {
    "exists": true,
-   "revised": "2022-03-03",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/ashbyacademy": {
    "exists": true,
    "revised": "2022-04-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ashcreekranch": {
    "exists": true,
@@ -1630,7 +1630,7 @@
   "index/ashevilleacademy": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ashleyvalley": {
    "exists": false,
@@ -1644,8 +1644,8 @@
   },
   "index/aspenachievement": {
    "exists": true,
-   "revised": "2021-11-06",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/aspeneducation": {
    "exists": true,
@@ -1655,17 +1655,17 @@
   "index/aspeninstitute": {
    "exists": true,
    "revised": "2024-03-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/aspenranch": {
    "exists": true,
    "revised": "2021-09-30",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/aspiro": {
    "exists": true,
    "revised": "2024-02-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/athena": {
    "exists": false,
@@ -1674,8 +1674,8 @@
   },
   "index/atlantisleadership": {
    "exists": true,
-   "revised": "2024-03-12",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/auldern": {
    "exists": false,
@@ -1694,13 +1694,13 @@
   },
   "index/azleway": {
    "exists": true,
-   "revised": "2021-10-13",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/baldeaglesboys": {
    "exists": true,
    "revised": "2023-05-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/banham": {
    "exists": false,
@@ -1730,7 +1730,7 @@
   "index/bell": {
    "exists": true,
    "revised": "2022-08-31",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/belloni": {
    "exists": false,
@@ -1745,7 +1745,7 @@
   "index/benchmark": {
    "exists": true,
    "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/beneto": {
    "exists": false,
@@ -1760,12 +1760,12 @@
   "index/bethelboys": {
    "exists": true,
    "revised": "2022-04-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bethelgirls": {
    "exists": true,
    "revised": "2021-05-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bethesdagirls": {
    "exists": true,
@@ -1785,7 +1785,7 @@
   "index/billlane": {
    "exists": true,
    "revised": "2021-11-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/birdseye": {
    "exists": false,
@@ -1800,7 +1800,7 @@
   "index/blackmountain": {
    "exists": true,
    "revised": "2021-12-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/blackwater": {
    "exists": false,
@@ -1810,7 +1810,7 @@
   "index/bloomtc": {
    "exists": true,
    "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bluecreek": {
    "exists": false,
@@ -1820,12 +1820,12 @@
   "index/bluefireidaho": {
    "exists": true,
    "revised": "2026-03-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bluehills": {
    "exists": true,
    "revised": "2021-05-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bluemountainwild": {
    "exists": false,
@@ -1834,8 +1834,8 @@
   },
   "index/blueridge": {
    "exists": true,
-   "revised": "2022-02-09",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/blueridgevq": {
    "exists": false,
@@ -1845,17 +1845,17 @@
   "index/boisegirls": {
    "exists": true,
    "revised": "2023-10-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bootcampsforteens": {
    "exists": true,
    "revised": "2021-05-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bouldercreek": {
    "exists": true,
    "revised": "2022-07-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/boystown": {
    "exists": true,
@@ -1865,7 +1865,7 @@
   "index/bradleycenter": {
    "exists": true,
    "revised": "2021-11-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bridgesboys": {
    "exists": false,
@@ -1880,7 +1880,7 @@
   "index/brightway": {
    "exists": true,
    "revised": "2022-09-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bristolyouth": {
    "exists": false,
@@ -1890,17 +1890,17 @@
   "index/brokenshackle": {
    "exists": true,
    "revised": "2021-10-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bromelybrook": {
    "exists": true,
    "revised": "2021-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/brookhaven": {
    "exists": true,
    "revised": "2021-10-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/browningacademy": {
    "exists": true,
@@ -1915,7 +1915,7 @@
   "index/brushcreek": {
    "exists": true,
    "revised": "2021-08-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/brycecanyon": {
    "exists": false,
@@ -1925,7 +1925,7 @@
   "index/bscedarsprings": {
    "exists": true,
    "revised": "2021-02-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/bscomm": {
    "exists": false,
@@ -1959,8 +1959,8 @@
   },
   "index/bssanmarcos": {
    "exists": true,
-   "revised": "2021-02-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/bsshadowmountain": {
    "exists": false,
@@ -1989,8 +1989,8 @@
   },
   "index/calo": {
    "exists": true,
-   "revised": "2022-10-21",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/calopre": {
    "exists": false,
@@ -2005,7 +2005,7 @@
   "index/camasranch": {
    "exists": true,
    "revised": "2022-04-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cambio": {
    "exists": false,
@@ -2039,8 +2039,8 @@
   },
   "index/canyonstate": {
    "exists": true,
-   "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/capital": {
    "exists": false,
@@ -2050,17 +2050,17 @@
   "index/capstonetc": {
    "exists": true,
    "revised": "2023-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/carlbrook": {
    "exists": true,
    "revised": "2021-10-31",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/carolinasprings": {
    "exists": true,
    "revised": "2022-10-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/carribeanmountain": {
    "exists": true,
@@ -2070,7 +2070,7 @@
   "index/casabythesea": {
    "exists": true,
    "revised": "2022-04-23",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/casagrande": {
    "exists": false,
@@ -2080,7 +2080,7 @@
   "index/cascade": {
    "exists": true,
    "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cascadeacademy": {
    "exists": true,
@@ -2090,12 +2090,12 @@
   "index/catalyst": {
    "exists": true,
    "revised": "2022-04-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/catherinefreer": {
    "exists": true,
    "revised": "2022-02-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cedarbreaks": {
    "exists": true,
@@ -2105,7 +2105,7 @@
   "index/cedarcrest": {
    "exists": true,
    "revised": "2021-10-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cedargrove": {
    "exists": false,
@@ -2120,7 +2120,7 @@
   "index/cedarridge": {
    "exists": true,
    "revised": "2023-07-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cedarridgeok": {
    "exists": false,
@@ -2130,7 +2130,7 @@
   "index/cedarsacademy": {
    "exists": true,
    "revised": "2021-09-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cedu": {
    "exists": true,
@@ -2140,22 +2140,22 @@
   "index/ceduhs": {
    "exists": true,
    "revised": "2023-01-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ceduime": {
    "exists": true,
    "revised": "2021-04-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cedums": {
    "exists": true,
    "revised": "2022-06-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/certs": {
    "exists": true,
    "revised": "2021-12-11",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/chadyouth": {
    "exists": false,
@@ -2169,8 +2169,8 @@
   },
   "index/chamberlain": {
    "exists": true,
-   "revised": "2022-08-24",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/charlesbritt": {
    "exists": false,
@@ -2179,13 +2179,13 @@
   },
   "index/cherokeecreek": {
    "exists": true,
-   "revised": "2022-05-10",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-12",
+   "fetched": "2026-10-23"
   },
   "index/cherrygulch": {
    "exists": true,
-   "revised": "2022-01-05",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/chilanko": {
    "exists": false,
@@ -2195,7 +2195,7 @@
   "index/childfarm": {
    "exists": true,
    "revised": "2022-03-25",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/chrysalis": {
    "exists": true,
@@ -2219,18 +2219,18 @@
   },
   "index/clarinda": {
    "exists": true,
-   "revised": "2024-01-30",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-12",
+   "fetched": "2026-10-23"
   },
   "index/clearviewhorizon": {
    "exists": true,
    "revised": "2022-09-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cleowallace": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cmphuntington": {
    "exists": false,
@@ -2255,7 +2255,7 @@
   "index/columbusgirls": {
    "exists": true,
    "revised": "2023-05-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/columbustc": {
    "exists": false,
@@ -2275,17 +2275,17 @@
   "index/cooksonhills": {
    "exists": true,
    "revised": "2021-11-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/coppercanyon": {
    "exists": true,
    "revised": "2021-05-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/copperhills": {
    "exists": true,
-   "revised": "2022-06-03",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/coralisland": {
    "exists": true,
@@ -2295,7 +2295,7 @@
   "index/coralreef": {
    "exists": true,
    "revised": "2021-08-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/cornerstoneid": {
    "exists": false,
@@ -2315,7 +2315,7 @@
   "index/cougarmtn": {
    "exists": true,
    "revised": "2023-02-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/craterlake": {
    "exists": false,
@@ -2335,12 +2335,12 @@
   "index/crosscreek": {
    "exists": true,
    "revised": "2022-09-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/crossroads": {
    "exists": true,
-   "revised": "2023-02-14",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/crosswinds": {
    "exists": false,
@@ -2375,12 +2375,12 @@
   "index/daniels": {
    "exists": true,
    "revised": "2023-08-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/darrington": {
    "exists": true,
    "revised": "2022-09-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/dayone": {
    "exists": false,
@@ -2414,8 +2414,8 @@
   },
   "index/deschuteswild": {
    "exists": true,
-   "revised": "2022-04-12",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/deserthills": {
    "exists": false,
@@ -2430,7 +2430,7 @@
   "index/devereux": {
    "exists": true,
    "revised": "2021-04-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/devereuxfoundation": {
    "exists": false,
@@ -2444,13 +2444,13 @@
   },
   "index/diamondranch": {
    "exists": true,
-   "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/discoveryaca": {
    "exists": true,
-   "revised": "2022-06-05",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/discoveryacademy": {
    "exists": false,
@@ -2460,17 +2460,17 @@
   "index/discoveryconnect": {
    "exists": true,
    "revised": "2022-06-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/discoveryranch": {
    "exists": true,
-   "revised": "2025-03-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/discoveryranchgirls": {
    "exists": true,
-   "revised": "2022-06-05",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/discoveryva": {
    "exists": false,
@@ -2500,7 +2500,7 @@
   "index/dundee": {
    "exists": true,
    "revised": "2023-02-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/duval": {
    "exists": false,
@@ -2529,8 +2529,8 @@
   },
   "index/eagleranch": {
    "exists": true,
-   "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/eaglesnest": {
    "exists": false,
@@ -2585,7 +2585,7 @@
   "index/elan": {
    "exists": true,
    "revised": "2022-05-10",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/elementswild": {
    "exists": true,
@@ -2594,8 +2594,8 @@
   },
   "index/elevationsrtc": {
    "exists": true,
-   "revised": "2024-03-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/eliada": {
    "exists": false,
@@ -2604,13 +2604,13 @@
   },
   "index/elkmountain": {
    "exists": true,
-   "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/elkriver": {
    "exists": true,
-   "revised": "2022-03-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-12",
+   "fetched": "2026-10-23"
   },
   "index/elmcrest": {
    "exists": false,
@@ -2650,7 +2650,7 @@
   "index/equinox": {
    "exists": true,
    "revised": "2024-02-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/escuelacariba": {
    "exists": true,
@@ -2660,27 +2660,27 @@
   "index/evacarlston": {
    "exists": true,
    "revised": "2022-06-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/evangelhouse": {
    "exists": true,
    "revised": "2022-03-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/evokecascades": {
    "exists": true,
    "revised": "2022-12-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/evokeentrada": {
    "exists": true,
    "revised": "2022-06-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/excelacademy": {
    "exists": true,
    "revised": "2021-09-23",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/excelsior": {
    "exists": false,
@@ -2689,8 +2689,8 @@
   },
   "index/explorations": {
    "exists": true,
-   "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-12",
+   "fetched": "2026-10-23"
   },
   "index/fairfaxbh": {
    "exists": false,
@@ -2709,8 +2709,8 @@
   },
   "index/falconridge": {
    "exists": true,
-   "revised": "2022-06-07",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-15",
+   "fetched": "2026-10-23"
   },
   "index/famhelp": {
    "exists": true,
@@ -2720,7 +2720,7 @@
   "index/familyfoundation": {
    "exists": true,
    "revised": "2021-11-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/firemountain": {
    "exists": true,
@@ -2740,7 +2740,7 @@
   "index/flatheadvalley": {
    "exists": true,
    "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/focalpoint": {
    "exists": false,
@@ -2780,7 +2780,7 @@
   "index/fourcirclesnc": {
    "exists": true,
    "revised": "2021-09-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/fourwindsranch": {
    "exists": false,
@@ -2824,8 +2824,8 @@
   },
   "index/fulshear": {
    "exists": true,
-   "revised": "2021-10-14",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/futureexpectations": {
    "exists": false,
@@ -2854,8 +2854,8 @@
   },
   "index/gatewayaca": {
    "exists": true,
-   "revised": "2022-06-07",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/gatewayfreedom": {
    "exists": true,
@@ -2865,12 +2865,12 @@
   "index/gatewaytc": {
    "exists": true,
    "revised": "2023-06-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/gatorwild": {
    "exists": true,
    "revised": "2021-09-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/genesisbythesea": {
    "exists": false,
@@ -2940,22 +2940,22 @@
   "index/greenbrier": {
    "exists": true,
    "revised": "2023-03-23",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/greenchimneys": {
    "exists": true,
    "revised": "2022-03-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/grove": {
    "exists": true,
-   "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/gulfcoast": {
    "exists": true,
    "revised": "2022-09-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/gulfcoasttc": {
    "exists": false,
@@ -2970,12 +2970,12 @@
   "index/harboroaks": {
    "exists": true,
    "revised": "2025-10-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/harborpoint": {
    "exists": true,
    "revised": "2021-06-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/harmonyhill": {
    "exists": false,
@@ -2994,8 +2994,8 @@
   },
   "index/havenwood": {
    "exists": true,
-   "revised": "2023-03-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/havenwyck": {
    "exists": false,
@@ -3029,8 +3029,8 @@
   },
   "index/heartlightmini": {
    "exists": true,
-   "revised": "2021-10-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/heartmountain": {
    "exists": false,
@@ -3050,7 +3050,7 @@
   "index/helpmyteen": {
    "exists": true,
    "revised": "2022-10-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/hephzibah": {
    "exists": true,
@@ -3064,8 +3064,8 @@
   },
   "index/heritageschools": {
    "exists": true,
-   "revised": "2022-09-13",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/hermitage": {
    "exists": false,
@@ -3080,7 +3080,7 @@
   "index/hiddenlake": {
    "exists": true,
    "revised": "2022-07-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/highfrontier": {
    "exists": false,
@@ -3090,7 +3090,7 @@
   "index/highimpact": {
    "exists": true,
    "revised": "2022-05-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/highlandridge": {
    "exists": false,
@@ -3115,7 +3115,7 @@
   "index/hillcrestbh": {
    "exists": true,
    "revised": "2026-06-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/hillsideatlanta": {
    "exists": false,
@@ -3130,7 +3130,7 @@
   "index/hobblecreek": {
    "exists": true,
    "revised": "2024-03-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/hollyhill": {
    "exists": false,
@@ -3155,7 +3155,7 @@
   "index/horizonacademy": {
    "exists": true,
    "revised": "2021-04-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/horseshoe": {
    "exists": true,
@@ -3204,8 +3204,8 @@
   },
   "index/hydeme": {
    "exists": true,
-   "revised": "2021-11-09",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-08",
+   "fetched": "2026-10-23"
   },
   "index/ibicuy": {
    "exists": false,
@@ -3275,7 +3275,7 @@
   "index/integrity": {
    "exists": true,
    "revised": "2023-03-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/intermountain": {
    "exists": false,
@@ -3285,17 +3285,17 @@
   "index/ironwoodme": {
    "exists": true,
    "revised": "2025-10-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/islandview": {
    "exists": true,
    "revised": "2024-03-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ivyridge": {
    "exists": true,
    "revised": "2022-04-25",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/jamyouth": {
    "exists": false,
@@ -3325,12 +3325,12 @@
   "index/joannbridges": {
    "exists": true,
    "revised": "2021-10-26",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/johndewey": {
    "exists": true,
    "revised": "2023-02-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/journeymtpleasant": {
    "exists": true,
@@ -3344,8 +3344,8 @@
   },
   "index/jrotenberg": {
    "exists": true,
-   "revised": "2021-06-25",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/jubileemaster": {
    "exists": false,
@@ -3355,17 +3355,17 @@
   "index/julianyouth": {
    "exists": true,
    "revised": "2026-06-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/kaizenbirdseye": {
    "exists": true,
    "revised": "2021-02-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/kansascitytc": {
    "exists": true,
-   "revised": "2025-12-10",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-08",
+   "fetched": "2026-10-23"
   },
   "index/kempsville": {
    "exists": false,
@@ -3405,7 +3405,7 @@
   "index/kidscenters": {
    "exists": true,
    "revised": "2021-11-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/kidspeace": {
    "exists": false,
@@ -3415,7 +3415,7 @@
   "index/kinggeorge": {
    "exists": true,
    "revised": "2021-09-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/kingwoodpines": {
    "exists": false,
@@ -3425,12 +3425,12 @@
   "index/kolobcanyon": {
    "exists": true,
    "revised": "2023-02-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/kwlegacy": {
    "exists": true,
    "revised": "2021-08-04",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/laamistad": {
    "exists": false,
@@ -3444,13 +3444,13 @@
   },
   "index/laeuropa": {
    "exists": true,
-   "revised": "2022-07-20",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/lakehouse": {
    "exists": true,
-   "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-08",
+   "fetched": "2026-10-23"
   },
   "index/lakeland": {
    "exists": true,
@@ -3490,17 +3490,17 @@
   "index/laureloaksbhc": {
    "exists": true,
    "revised": "2023-10-04",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/laurelridge": {
    "exists": true,
-   "revised": "2022-03-02",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/lavaheights": {
    "exists": true,
-   "revised": "2022-07-20",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/leakandwatts": {
    "exists": false,
@@ -3510,7 +3510,7 @@
   "index/liahona": {
    "exists": true,
    "revised": "2022-09-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/libertypt": {
    "exists": false,
@@ -3524,8 +3524,8 @@
   },
   "index/lifelineut": {
    "exists": true,
-   "revised": "2023-07-12",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/lifequestut": {
    "exists": true,
@@ -3545,7 +3545,7 @@
   "index/lighthousefl": {
    "exists": true,
    "revised": "2023-06-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/lincolnprairie": {
    "exists": false,
@@ -3560,7 +3560,7 @@
   "index/lindenhouse": {
    "exists": true,
    "revised": "2021-05-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/linkschool": {
    "exists": false,
@@ -3585,7 +3585,7 @@
   "index/loganriver": {
    "exists": true,
    "revised": "2022-07-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/lonestarexp": {
    "exists": true,
@@ -3635,7 +3635,7 @@
   "index/magnoliamill": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/majesticranch": {
    "exists": true,
@@ -3649,13 +3649,13 @@
   },
   "index/maplehall": {
    "exists": true,
-   "revised": "2022-05-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-08",
+   "fetched": "2026-10-23"
   },
   "index/maplelake": {
    "exists": true,
-   "revised": "2023-08-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/marionyouth": {
    "exists": false,
@@ -3670,12 +3670,12 @@
   "index/marvelousgrace": {
    "exists": true,
    "revised": "2023-07-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/maryville": {
    "exists": true,
-   "revised": "2022-03-19",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/mastersranch": {
    "exists": true,
@@ -3725,7 +3725,7 @@
   "index/meadowridge": {
    "exists": true,
    "revised": "2022-08-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/meadowsac": {
    "exists": false,
@@ -3755,7 +3755,7 @@
   "index/meridellachievement": {
    "exists": true,
    "revised": "2022-08-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/mesillavalley": {
    "exists": false,
@@ -3795,7 +3795,7 @@
   "index/milestones": {
    "exists": true,
    "revised": "2022-03-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/millcreekbh": {
    "exists": true,
@@ -3819,8 +3819,8 @@
   },
   "index/mingus": {
    "exists": true,
-   "revised": "2022-03-01",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/miraclemeadows": {
    "exists": true,
@@ -3850,7 +3850,7 @@
   "index/monarch": {
    "exists": true,
    "revised": "2021-04-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/montanaaca": {
    "exists": true,
@@ -3885,12 +3885,12 @@
   "index/moonridge": {
    "exists": true,
    "revised": "2022-07-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/morava": {
    "exists": true,
    "revised": "2022-09-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/morningside": {
    "exists": false,
@@ -3900,7 +3900,7 @@
   "index/morningstar": {
    "exists": true,
    "revised": "2021-10-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/morningstarboysmtwa": {
    "exists": false,
@@ -3919,18 +3919,18 @@
   },
   "index/mountainhome": {
    "exists": true,
-   "revised": "2022-03-04",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/mountainhomes": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/mountainmeadow": {
    "exists": true,
    "revised": "2023-02-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/mountainpark": {
    "exists": false,
@@ -3939,13 +3939,13 @@
   },
   "index/mountainsprings": {
    "exists": true,
-   "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/mountbachelor": {
    "exists": true,
    "revised": "2022-09-30",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/mountcarmel": {
    "exists": false,
@@ -3964,8 +3964,8 @@
   },
   "index/mountvalley": {
    "exists": true,
-   "revised": "2021-11-09",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/mtnyouth": {
    "exists": true,
@@ -3990,17 +3990,17 @@
   "index/natcheztrace": {
    "exists": true,
    "revised": "2021-11-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/natsap": {
    "exists": true,
    "revised": "2022-05-10",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ncboystc": {
    "exists": true,
    "revised": "2021-09-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/neurorestorative": {
    "exists": false,
@@ -4010,7 +4010,7 @@
   "index/nevergiveup": {
    "exists": true,
    "revised": "2025-03-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/newbeginnings": {
    "exists": false,
@@ -4049,8 +4049,8 @@
   },
   "index/newhavenrtc": {
    "exists": true,
-   "revised": "2024-02-12",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/newhopesamoa": {
    "exists": false,
@@ -4065,7 +4065,7 @@
   "index/newhopetc": {
    "exists": true,
    "revised": "2021-10-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/newhorizonin": {
    "exists": false,
@@ -4075,7 +4075,7 @@
   "index/newhorizonsme": {
    "exists": true,
    "revised": "2021-11-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/newleafnc": {
    "exists": false,
@@ -4084,8 +4084,8 @@
   },
   "index/newleaforegon": {
    "exists": true,
-   "revised": "2022-09-15",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-08",
+   "fetched": "2026-10-23"
   },
   "index/newlifehouse": {
    "exists": false,
@@ -4115,7 +4115,7 @@
   "index/newvisionwild": {
    "exists": true,
    "revised": "2024-02-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/normative": {
    "exists": false,
@@ -4160,7 +4160,7 @@
   "index/northwest": {
    "exists": true,
    "revised": "2023-11-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/northwestacademy": {
    "exists": true,
@@ -4170,7 +4170,7 @@
   "index/northwoods": {
    "exists": true,
    "revised": "2021-09-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/northwoodswi": {
    "exists": false,
@@ -4180,7 +4180,7 @@
   "index/novitas": {
    "exists": true,
    "revised": "2021-09-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/nwac": {
    "exists": true,
@@ -4195,12 +4195,12 @@
   "index/oakley": {
    "exists": true,
    "revised": "2023-04-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/oakplains": {
    "exists": true,
    "revised": "2022-01-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/oasis": {
    "exists": false,
@@ -4240,17 +4240,17 @@
   "index/oldwest": {
    "exists": true,
    "revised": "2022-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/oliverian": {
    "exists": true,
    "revised": "2025-10-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/olympusacademy": {
    "exists": true,
    "revised": "2022-10-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/olympusview": {
    "exists": false,
@@ -4260,7 +4260,7 @@
   "index/oneidabaptist": {
    "exists": true,
    "revised": "2025-10-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/onewayfarm": {
    "exists": false,
@@ -4275,7 +4275,7 @@
   "index/openskywild": {
    "exists": true,
    "revised": "2024-02-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ouachitahills": {
    "exists": false,
@@ -4284,8 +4284,8 @@
   },
   "index/outbackexp": {
    "exists": true,
-   "revised": "2022-08-02",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-14",
+   "fetched": "2026-10-23"
   },
   "index/owenscross": {
    "exists": false,
@@ -4320,7 +4320,7 @@
   "index/pacificquest": {
    "exists": true,
    "revised": "2022-10-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/palmbeach": {
    "exists": false,
@@ -4335,7 +4335,7 @@
   "index/palmetto": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/palmettolow": {
    "exists": false,
@@ -4365,7 +4365,7 @@
   "index/paradisecove": {
    "exists": true,
    "revised": "2025-10-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/parkwoodbhs": {
    "exists": false,
@@ -4390,7 +4390,7 @@
   "index/pathway": {
    "exists": true,
    "revised": "2023-05-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pathwaysarg": {
    "exists": false,
@@ -4435,7 +4435,7 @@
   "index/pettycreek": {
    "exists": true,
    "revised": "2023-02-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/phoenixinstitute": {
    "exists": false,
@@ -4445,7 +4445,7 @@
   "index/phoenixoutdoor": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/piercetonwoods": {
    "exists": true,
@@ -4465,17 +4465,17 @@
   "index/pillarsofhope": {
    "exists": true,
    "revised": "2022-09-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pinecreek": {
    "exists": true,
    "revised": "2021-01-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pinehaven": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pineridge": {
    "exists": false,
@@ -4490,7 +4490,7 @@
   "index/pineviewchrist": {
    "exists": true,
    "revised": "2022-04-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pineviewhomes": {
    "exists": false,
@@ -4500,7 +4500,7 @@
   "index/pineyridge": {
    "exists": true,
    "revised": "2022-04-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/pineyridgemo": {
    "exists": true,
@@ -4550,7 +4550,7 @@
   "index/prayermtn": {
    "exists": true,
    "revised": "2021-11-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/premiereed": {
    "exists": true,
@@ -4580,12 +4580,12 @@
   "index/projectpatch": {
    "exists": true,
    "revised": "2021-10-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/provocanyon": {
    "exists": true,
-   "revised": "2022-08-04",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/psi": {
    "exists": false,
@@ -4620,7 +4620,7 @@
   "index/rebekah": {
    "exists": true,
    "revised": "2022-03-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/reclamation": {
    "exists": false,
@@ -4635,7 +4635,7 @@
   "index/redcliffascent": {
    "exists": true,
    "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/redhawkaz": {
    "exists": true,
@@ -4655,7 +4655,7 @@
   "index/redriver": {
    "exists": true,
    "revised": "2022-09-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/redrivernorman": {
    "exists": false,
@@ -4695,7 +4695,7 @@
   "index/refugeranch": {
    "exists": true,
    "revised": "2022-03-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/remingtonhouse": {
    "exists": false,
@@ -4725,7 +4725,7 @@
   "index/resolution": {
    "exists": true,
    "revised": "2021-10-16",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/restartwashington": {
    "exists": true,
@@ -4765,7 +4765,7 @@
   "index/rivendell": {
    "exists": true,
    "revised": "2022-04-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/rivendellarkansas": {
    "exists": false,
@@ -4830,7 +4830,7 @@
   "index/rockymountain": {
    "exists": true,
    "revised": "2022-03-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/rockymtnfrontier": {
    "exists": false,
@@ -4845,7 +4845,7 @@
   "index/rootstransition": {
    "exists": true,
    "revised": "2024-02-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/ropwilderness": {
    "exists": false,
@@ -4870,7 +4870,7 @@
   "index/royalgorge": {
    "exists": true,
    "revised": "2022-09-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/royalhaven": {
    "exists": true,
@@ -4885,7 +4885,7 @@
   "index/sagewalk": {
    "exists": true,
    "revised": "2022-03-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/salemranch": {
    "exists": false,
@@ -4920,7 +4920,7 @@
   "index/sanmarcos": {
    "exists": true,
    "revised": "2022-03-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sanmartin": {
    "exists": false,
@@ -4955,7 +4955,7 @@
   "index/secondchances": {
    "exists": true,
    "revised": "2022-09-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/secondnature": {
    "exists": false,
@@ -4965,7 +4965,7 @@
   "index/sedonasky": {
    "exists": true,
    "revised": "2025-11-18",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/seedswilderness": {
    "exists": true,
@@ -4975,7 +4975,7 @@
   "index/senecaranch": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sequelcourtland": {
    "exists": false,
@@ -5025,7 +5025,7 @@
   "index/sevenstars": {
    "exists": true,
    "revised": "2021-04-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/shadowmtn": {
    "exists": false,
@@ -5050,22 +5050,22 @@
   "index/sheppardpratt": {
    "exists": true,
    "revised": "2021-07-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/shilohrtc": {
    "exists": true,
-   "revised": "2021-10-17",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/shodair": {
    "exists": true,
    "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/shortridge": {
    "exists": true,
    "revised": "2025-10-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/shortridgeacademy": {
    "exists": false,
@@ -5090,7 +5090,7 @@
   "index/skyview": {
    "exists": true,
    "revised": "2022-09-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/slatecanyon": {
    "exists": false,
@@ -5114,8 +5114,8 @@
   },
   "index/snentrada": {
    "exists": true,
-   "revised": "2021-04-14",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/snteenranch": {
    "exists": true,
@@ -5125,17 +5125,17 @@
   "index/snuintas": {
    "exists": true,
    "revised": "2024-03-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/solsticeeast": {
    "exists": true,
    "revised": "2025-11-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/solsticewest": {
    "exists": true,
-   "revised": "2024-03-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/somerset": {
    "exists": false,
@@ -5150,7 +5150,7 @@
   "index/southwood": {
    "exists": true,
    "revised": "2021-06-23",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sovjourney": {
    "exists": false,
@@ -5174,8 +5174,8 @@
   },
   "index/springridge": {
    "exists": true,
-   "revised": "2022-07-11",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-14",
+   "fetched": "2026-10-23"
   },
   "index/sscheff": {
    "exists": true,
@@ -5190,7 +5190,7 @@
   "index/starguides": {
    "exists": true,
    "revised": "2022-12-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/starlight": {
    "exists": true,
@@ -5215,7 +5215,7 @@
   "index/stonemountain": {
    "exists": true,
    "revised": "2021-09-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/stormridge": {
    "exists": true,
@@ -5239,8 +5239,8 @@
   },
   "index/summitme": {
    "exists": true,
-   "revised": "2021-11-06",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/summitoaks": {
    "exists": false,
@@ -5255,27 +5255,27 @@
   "index/summitschool": {
    "exists": true,
    "revised": "2022-03-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/summityouth": {
    "exists": true,
    "revised": "2021-12-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sundancecanyon": {
    "exists": true,
    "revised": "2022-12-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sunhawk": {
    "exists": true,
    "revised": "2021-09-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sunrisebeach": {
    "exists": true,
    "revised": "2022-03-02",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sunrisecs": {
    "exists": false,
@@ -5285,27 +5285,27 @@
   "index/sunrisertc": {
    "exists": true,
    "revised": "2022-12-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/sunsetbay": {
    "exists": true,
    "revised": "2022-08-26",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/suwsidaho": {
    "exists": true,
    "revised": "2024-01-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/suwsnc": {
    "exists": true,
    "revised": "2023-08-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/swiftriver": {
    "exists": true,
    "revised": "2021-10-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/synanon": {
    "exists": true,
@@ -5330,7 +5330,7 @@
   "index/taylormanor": {
    "exists": true,
    "revised": "2021-07-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/tcid": {
    "exists": false,
@@ -5355,7 +5355,7 @@
   "index/teenhelp": {
    "exists": true,
    "revised": "2022-09-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/teenmentor": {
    "exists": true,
@@ -5375,7 +5375,7 @@
   "index/teensincrisis": {
    "exists": true,
    "revised": "2021-01-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/teenswithproblems": {
    "exists": true,
@@ -5385,7 +5385,7 @@
   "index/telosrtc": {
    "exists": true,
    "revised": "2022-12-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/tennyson": {
    "exists": false,
@@ -5420,17 +5420,17 @@
   "index/theseed": {
    "exists": true,
    "revised": "2021-10-09",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/thevillage": {
    "exists": true,
    "revised": "2021-03-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/threepoints": {
    "exists": true,
    "revised": "2022-10-05",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/threeriversbh": {
    "exists": false,
@@ -5455,7 +5455,7 @@
   "index/thrivetc": {
    "exists": true,
    "revised": "2022-04-19",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/tierrablanca": {
    "exists": true,
@@ -5470,7 +5470,7 @@
   "index/timberline": {
    "exists": true,
    "revised": "2025-10-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/timberridge": {
    "exists": true,
@@ -5504,8 +5504,8 @@
   },
   "index/trailscarolina": {
    "exists": true,
-   "revised": "2024-02-13",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/trainingcenterin": {
    "exists": false,
@@ -5515,7 +5515,7 @@
   "index/tranquilitybay": {
    "exists": true,
    "revised": "2022-09-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/transport": {
    "exists": true,
@@ -5530,7 +5530,7 @@
   "index/trianglecross": {
    "exists": true,
    "revised": "2022-08-24",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/trinityteen": {
    "exists": true,
@@ -5539,13 +5539,13 @@
   },
   "index/tripledivide": {
    "exists": true,
-   "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/truenorth": {
    "exists": true,
    "revised": "2021-09-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/tti": {
    "exists": false,
@@ -5554,13 +5554,13 @@
   },
   "index/tulsaboys": {
    "exists": true,
-   "revised": "2025-10-24",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/turnabout": {
    "exists": true,
    "revised": "2022-12-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/turnaboutranch": {
    "exists": false,
@@ -5570,12 +5570,12 @@
   "index/turnaboutstillwater": {
    "exists": true,
    "revised": "2022-12-13",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/turnbridge": {
    "exists": true,
    "revised": "2026-07-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/turningpoint": {
    "exists": false,
@@ -5590,7 +5590,7 @@
   "index/turningwinds": {
    "exists": true,
    "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/tworivers": {
    "exists": false,
@@ -5605,7 +5605,7 @@
   "index/uintaacademy": {
    "exists": true,
    "revised": "2023-03-31",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/universalhealth": {
    "exists": true,
@@ -5640,7 +5640,7 @@
   "index/valleyview": {
    "exists": true,
    "revised": "2022-04-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/vantagepoint": {
    "exists": false,
@@ -5660,7 +5660,7 @@
   "index/viaquest": {
    "exists": true,
    "revised": "2023-05-29",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/victoryboys": {
    "exists": false,
@@ -5675,7 +5675,7 @@
   "index/viewpoint": {
    "exists": true,
    "revised": "2022-02-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/visionboys": {
    "exists": false,
@@ -5739,8 +5739,8 @@
   },
   "index/waypoint": {
    "exists": true,
-   "revised": "2022-12-14",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/waysideunion": {
    "exists": false,
@@ -5785,7 +5785,7 @@
   "index/westridge": {
    "exists": true,
    "revised": "2023-02-15",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/westwoodlodge": {
    "exists": false,
@@ -5805,12 +5805,12 @@
   "index/whetstone": {
    "exists": true,
    "revised": "2021-10-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/whiteriver": {
    "exists": true,
    "revised": "2022-10-12",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/whiterock": {
    "exists": false,
@@ -5825,7 +5825,7 @@
   "index/wildernessquest": {
    "exists": true,
    "revised": "2022-01-27",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/wildernesstc": {
    "exists": true,
@@ -5855,7 +5855,7 @@
   "index/willowsprings": {
    "exists": true,
    "revised": "2022-01-06",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/windsorlaurel": {
    "exists": false,
@@ -5865,7 +5865,7 @@
   "index/wingate": {
    "exists": true,
    "revised": "2024-02-22",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/wingsoffaith": {
    "exists": false,
@@ -5875,7 +5875,7 @@
   "index/wolfcreek": {
    "exists": true,
    "revised": "2021-09-17",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/woodbury": {
    "exists": true,
@@ -5890,7 +5890,7 @@
   "index/woodlandhills": {
    "exists": true,
    "revised": "2021-09-01",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/woodlandsprings": {
    "exists": false,
@@ -5920,7 +5920,7 @@
   "index/woodwardaca": {
    "exists": true,
    "revised": "2022-03-07",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/woodwardcomm": {
    "exists": false,
@@ -5954,8 +5954,8 @@
   },
   "index/yellowstoneranch": {
    "exists": true,
-   "revised": "2023-01-08",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-13",
+   "fetched": "2026-10-23"
   },
   "index/yesacademy": {
    "exists": false,
@@ -5975,7 +5975,7 @@
   "index/youthcareinc": {
    "exists": true,
    "revised": "2023-02-14",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/youthdev": {
    "exists": false,
@@ -5985,7 +5985,7 @@
   "index/youthfoundation": {
    "exists": true,
    "revised": "2021-05-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "index/youthopportunity": {
    "exists": false,
@@ -5999,8 +5999,8 @@
   },
   "index/youthvillagestn": {
    "exists": true,
-   "revised": "2024-01-22",
-   "fetched": "2026-10-05"
+   "revised": "2026-10-09",
+   "fetched": "2026-10-23"
   },
   "index/yova": {
    "exists": false,
@@ -6025,7 +6025,7 @@
   "mhs": {
    "exists": true,
    "revised": "2018-01-20",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "naas": {
    "exists": false,
@@ -6050,12 +6050,12 @@
   "standards": {
    "exists": true,
    "revised": "2019-12-03",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "teens": {
    "exists": true,
    "revised": "2018-01-21",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "timberline": {
    "exists": false,
@@ -6075,7 +6075,7 @@
   "watchlist": {
    "exists": true,
    "revised": "2025-08-28",
-   "fetched": "2026-10-05"
+   "fetched": "2026-10-23"
   },
   "whatisthetti": {
    "exists": false,
@@ -6088,13 +6088,26 @@
    "page": "index/kansascitytc",
    "updated_at": "2025-12-10 02:29:23",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 364,
+   "samples": [
+    {
+     "reddit": "kansas city girls academy was formerly called highland girls academy",
+     "ours": ""
+    },
+    {
+     "reddit": "jeff pirtle worked at kansas city girls academy pirtle was also a therapist admin at ne...",
+     "ours": ""
+    },
+    {
+     "reddit": "in december 2025 two former residents filed suit against",
+     "ours": "no information is known about abuse neglect allegations and lawsuits at kansas city gir..."
+    }
+   ]
   },
   "7": {
    "page": "index/acadiahealth",
-   "updated_at": "2026-06-07 23:49:17",
+   "updated_at": "2026-10-15 22:19:21",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6104,9 +6117,22 @@
    "page": "index/achreekranch",
    "updated_at": "2026-06-07 23:49:17",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 200,
+   "samples": [
+    {
+     "reddit": "2021",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "10": {
    "page": "index/active-programs/active-programs-alabama",
@@ -6129,7 +6155,7 @@
    "updated_at": "2026-06-07 23:49:17",
    "edited": false,
    "differs": false,
-   "changed": 0,
+   "changed": 2,
    "samples": []
   },
   "13": {
@@ -6551,11 +6577,24 @@
   },
   "64": {
    "page": "index/boystown",
-   "updated_at": "2026-06-08 17:34:52",
+   "updated_at": "2026-10-10 03:11:31",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 760,
+   "samples": [
+    {
+     "reddit": "1921",
+     "ours": "1917"
+    },
+    {
+     "reddit": "",
+     "ours": "previous alternate names boys town rtc father flanagans boys home"
+    },
+    {
+     "reddit": "",
+     "ours": "boys town was formerly called father flanagans boys home father edward flanagan a pries..."
+    }
+   ]
   },
   "65": {
    "page": "index/brownschools",
@@ -6767,15 +6806,28 @@
   },
   "92": {
    "page": "index/alabamaclinical",
-   "updated_at": "2026-06-23 22:28:44",
+   "updated_at": "2026-10-09 23:19:31",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 193,
+   "samples": [
+    {
+     "reddit": "counselling",
+     "ours": "counseling"
+    },
+    {
+     "reddit": "assitance",
+     "ours": "assistance"
+    },
+    {
+     "reddit": "",
+     "ours": "was"
+    }
+   ]
   },
   "93": {
    "page": "index/ascentwild",
-   "updated_at": "2026-06-24 18:44:52",
+   "updated_at": "2026-10-09 23:28:32",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6802,11 +6854,15 @@
    "updated_at": "2026-06-07 23:48:59",
    "edited": false,
    "differs": true,
-   "changed": 5,
+   "changed": 6,
    "samples": [
     {
      "reddit": "sex",
      "ours": "gender as assigned at birth"
+    },
+    {
+     "reddit": "gulch",
+     "ours": ""
     }
    ]
   },
@@ -6828,7 +6884,7 @@
   },
   "100": {
    "page": "index/calo",
-   "updated_at": "2026-06-07 23:48:58",
+   "updated_at": "2026-10-10 03:09:44",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6844,7 +6900,7 @@
   },
   "103": {
    "page": "index/copperhills",
-   "updated_at": "2026-06-07 23:48:58",
+   "updated_at": "2026-10-10 03:21:44",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6860,7 +6916,7 @@
   },
   "105": {
    "page": "index/diamondranch",
-   "updated_at": "2026-06-07 23:48:57",
+   "updated_at": "2026-10-13 18:28:07",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6868,7 +6924,7 @@
   },
   "106": {
    "page": "index/elevationsrtc",
-   "updated_at": "2026-06-07 23:48:57",
+   "updated_at": "2026-10-09 23:26:35",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6876,11 +6932,24 @@
   },
   "107": {
    "page": "index/falconridge",
-   "updated_at": "2026-06-24 18:48:33",
+   "updated_at": "2026-10-13 02:23:13",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 878,
+   "samples": [
+    {
+     "reddit": "current administration as of october 2026 joette hayden academic director jarrett shoem...",
+     "ours": ""
+    },
+    {
+     "reddit": "failed to obtain his social work licensing over the past 5 to 10 years and",
+     "ours": ""
+    },
+    {
+     "reddit": "",
+     "ours": "and"
+    }
+   ]
   },
   "108": {
    "page": "index/highimpact",
@@ -6953,7 +7022,7 @@
   },
   "116": {
    "page": "index/academysister",
-   "updated_at": "2026-06-07 23:48:55",
+   "updated_at": "2026-10-15 22:18:16",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6961,7 +7030,7 @@
   },
   "118": {
    "page": "index/acadiamt",
-   "updated_at": "2026-06-07 23:48:54",
+   "updated_at": "2026-10-15 22:19:35",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -6971,9 +7040,22 @@
    "page": "index/achreekranch",
    "updated_at": "2026-06-07 23:48:54",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 200,
+   "samples": [
+    {
+     "reddit": "2021",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "171": {
    "page": "index/adeonasovereign",
@@ -6985,7 +7067,7 @@
   },
   "172": {
    "page": "index/adirondackleader",
-   "updated_at": "2026-06-24 18:50:43",
+   "updated_at": "2026-10-15 22:22:54",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7033,7 +7115,7 @@
   },
   "179": {
    "page": "index/alpineacademy",
-   "updated_at": "2026-06-07 23:48:42",
+   "updated_at": "2026-10-09 23:21:02",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7041,7 +7123,7 @@
   },
   "180": {
    "page": "index/alternativeyouth",
-   "updated_at": "2026-06-07 23:48:42",
+   "updated_at": "2026-10-15 22:26:44",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7065,7 +7147,7 @@
   },
   "184": {
    "page": "index/anneewakee",
-   "updated_at": "2026-06-07 23:48:42",
+   "updated_at": "2026-10-16 17:57:59",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7073,7 +7155,7 @@
   },
   "185": {
    "page": "index/arivaca",
-   "updated_at": "2026-06-07 23:48:41",
+   "updated_at": "2026-10-09 23:25:41",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7105,7 +7187,7 @@
   },
   "191": {
    "page": "index/aspenachievement",
-   "updated_at": "2026-06-24 18:51:13",
+   "updated_at": "2026-10-10 02:52:41",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7113,7 +7195,7 @@
   },
   "193": {
    "page": "index/aspeninstitute",
-   "updated_at": "2026-06-24 18:51:09",
+   "updated_at": "2026-10-11 19:13:25",
    "edited": false,
    "differs": false,
    "changed": 2,
@@ -7137,15 +7219,15 @@
   },
   "196": {
    "page": "index/atlantisleadership",
-   "updated_at": "2026-06-07 23:48:39",
+   "updated_at": "2026-10-10 02:53:26",
    "edited": false,
    "differs": false,
-   "changed": 2,
+   "changed": 0,
    "samples": []
   },
   "197": {
    "page": "index/azleway",
-   "updated_at": "2026-06-08 17:34:37",
+   "updated_at": "2026-10-10 02:54:13",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7225,7 +7307,7 @@
   },
   "209": {
    "page": "index/blueridge",
-   "updated_at": "2026-06-07 23:48:36",
+   "updated_at": "2026-10-10 02:57:44",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7305,7 +7387,7 @@
   },
   "223": {
    "page": "index/bssanmarcos",
-   "updated_at": "2026-06-24 18:46:06",
+   "updated_at": "2026-10-14 01:26:21",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7321,11 +7403,16 @@
   },
   "226": {
    "page": "index/canyonstate",
-   "updated_at": "2026-06-24 18:49:41",
+   "updated_at": "2026-10-14 06:59:50",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 10,
+   "samples": [
+    {
+     "reddit": "until 2000",
+     "ours": "1949 1998 arizona boys ranch queen creek campus boys ranch"
+    }
+   ]
   },
   "227": {
    "page": "index/capstonetc",
@@ -7385,7 +7472,7 @@
   },
   "235": {
    "page": "index/cedarridge",
-   "updated_at": "2026-06-07 23:48:31",
+   "updated_at": "2026-10-16 19:03:16",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7425,15 +7512,15 @@
   },
   "243": {
    "page": "index/chamberlain",
-   "updated_at": "2026-06-07 23:48:29",
+   "updated_at": "2026-10-14 10:44:20",
    "edited": false,
    "differs": false,
-   "changed": 0,
+   "changed": 2,
    "samples": []
   },
   "244": {
    "page": "index/cherokeecreek",
-   "updated_at": "2026-06-07 23:48:29",
+   "updated_at": "2026-10-12 18:32:14",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7441,7 +7528,7 @@
   },
   "245": {
    "page": "index/cherrygulch",
-   "updated_at": "2026-06-07 23:48:29",
+   "updated_at": "2026-10-10 03:13:57",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7457,27 +7544,66 @@
   },
   "247": {
    "page": "index/chrysalis",
-   "updated_at": "2026-06-07 23:48:28",
+   "updated_at": "2026-10-10 03:15:38",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 297,
+   "samples": [
+    {
+     "reddit": "",
+     "ours": "previous alternate names chrysalis therapeutic boarding school chrysalis academy"
+    },
+    {
+     "reddit": "2008",
+     "ours": "1998"
+    },
+    {
+     "reddit": "alexina",
+     "ours": "alexine"
+    }
+   ]
   },
   "248": {
    "page": "index/cinnamonhills",
-   "updated_at": "2026-06-07 23:48:28",
+   "updated_at": "2026-10-10 03:20:25",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 567,
+   "samples": [
+    {
+     "reddit": "expeirence",
+     "ours": "experience"
+    },
+    {
+     "reddit": "tenagers",
+     "ours": "teenagers"
+    },
+    {
+     "reddit": "it is important to note that",
+     "ours": ""
+    }
+   ]
   },
   "251": {
    "page": "index/achreekranch",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 200,
+   "samples": [
+    {
+     "reddit": "2021",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "337": {
    "page": "index/ashcreekranch",
@@ -7489,7 +7615,7 @@
   },
   "362": {
    "page": "index/achreekranch",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-09 23:30:48",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7499,9 +7625,22 @@
    "page": "index/bssanmarcos",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 414,
+   "samples": [
+    {
+     "reddit": "previous alternate names the brown schools at san marcos 1940 2005",
+     "ours": ""
+    },
+    {
+     "reddit": "initially",
+     "ours": "intially"
+    },
+    {
+     "reddit": "san marcos treatment center was formerly called the brown schools at san marcos it is o...",
+     "ours": ""
+    }
+   ]
   },
   "471": {
    "page": "index/carlbrook",
@@ -7518,7 +7657,7 @@
   },
   "492": {
    "page": "index/clarinda",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 02:19:39",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7558,7 +7697,7 @@
   },
   "497": {
    "page": "index/coppercanyon",
-   "updated_at": "2026-06-18 17:01:15",
+   "updated_at": "2026-10-11 19:07:42",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7582,7 +7721,7 @@
   },
   "502": {
    "page": "index/crossroads",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-10 03:23:31",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7622,7 +7761,7 @@
   },
   "507": {
    "page": "index/deschuteswild",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-10 03:24:00",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7638,11 +7777,16 @@
   },
   "510": {
    "page": "index/discoveryaca",
-   "updated_at": "2026-06-24 19:08:45",
+   "updated_at": "2026-10-14 06:59:50",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 7,
+   "samples": [
+    {
+     "reddit": "previous alternate names oasis ascent from 2022",
+     "ours": ""
+    }
+   ]
   },
   "511": {
    "page": "index/discoveryconnect",
@@ -7654,7 +7798,7 @@
   },
   "512": {
    "page": "index/discoveryranch",
-   "updated_at": "2026-06-24 19:08:53",
+   "updated_at": "2026-10-10 03:26:23",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7662,15 +7806,20 @@
   },
   "513": {
    "page": "index/discoveryranchgirls",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 06:59:50",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 6,
+   "samples": [
+    {
+     "reddit": "ascent inc discovery ranch for girls",
+     "ours": ""
+    }
+   ]
   },
   "514": {
    "page": "index/dundee",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-15 22:17:26",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7678,7 +7827,7 @@
   },
   "515": {
    "page": "index/eagleranch",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-10 03:31:08",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7702,15 +7851,20 @@
   },
   "521": {
    "page": "index/elkmountain",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 06:59:50",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 10,
+   "samples": [
+    {
+     "reddit": "",
+     "ours": "this section is currently under construction and will be updated"
+    }
+   ]
   },
   "522": {
    "page": "index/elkriver",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-12 18:35:58",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7745,7 +7899,7 @@
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
    "differs": false,
-   "changed": 3,
+   "changed": 0,
    "samples": []
   },
   "528": {
@@ -7766,7 +7920,7 @@
   },
   "530": {
    "page": "index/explorations",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 02:21:26",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7774,7 +7928,7 @@
   },
   "533": {
    "page": "index/familyfoundation",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-15 22:25:51",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7798,7 +7952,7 @@
   },
   "536": {
    "page": "index/fulshear",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 23:54:22",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7806,7 +7960,7 @@
   },
   "537": {
    "page": "index/galenaridge",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 18:26:19",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7814,7 +7968,7 @@
   },
   "538": {
    "page": "index/gatewayaca",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 00:50:31",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7870,7 +8024,7 @@
   },
   "545": {
    "page": "index/grove",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 00:51:38",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7894,7 +8048,7 @@
   },
   "548": {
    "page": "index/havenwood",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 00:55:51",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7902,7 +8056,7 @@
   },
   "549": {
    "page": "index/heartlightmini",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 00:57:54",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7918,7 +8072,7 @@
   },
   "551": {
    "page": "index/heritageschools",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 00:58:03",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7944,9 +8098,22 @@
    "page": "index/hydeme",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 836,
+   "samples": [
+    {
+     "reddit": "hyde has been run by the gauld family since it opened tuition is 68 300 a year in 2020 ...",
+     "ours": ""
+    },
+    {
+     "reddit": "before founding hyde joe gauld taught and worked in administration at berwick academy a...",
+     "ours": "program structure no information is currently known regarding"
+    },
+    {
+     "reddit": "board allegedly forced him out in the late 1970s over extreme teaching methods and phys...",
+     "ours": "specifics"
+    }
+   ]
   },
   "560": {
    "page": "index/innercept",
@@ -7982,7 +8149,7 @@
   },
   "565": {
    "page": "index/islandview",
-   "updated_at": "2026-06-24 22:27:41",
+   "updated_at": "2026-10-11 19:13:14",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -7990,7 +8157,7 @@
   },
   "566": {
    "page": "index/ivyridge",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-15 22:16:12",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8014,7 +8181,7 @@
   },
   "569": {
    "page": "index/jrotenberg",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 06:59:50",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8053,9 +8220,22 @@
    "page": "index/kansascitytc",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 364,
+   "samples": [
+    {
+     "reddit": "kansas city girls academy was formerly called highland girls academy",
+     "ours": ""
+    },
+    {
+     "reddit": "jeff pirtle worked at kansas city girls academy pirtle was also a therapist admin at ne...",
+     "ours": ""
+    },
+    {
+     "reddit": "in december 2025 two former residents filed suit against",
+     "ours": "no information is known about abuse neglect allegations and lawsuits at kansas city gir..."
+    }
+   ]
   },
   "573": {
    "page": "index/kidscenters",
@@ -8091,7 +8271,7 @@
   },
   "577": {
    "page": "index/laeuropa",
-   "updated_at": "2026-06-24 18:54:51",
+   "updated_at": "2026-10-14 01:06:25",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8101,9 +8281,22 @@
    "page": "index/lakehouse",
    "updated_at": "2026-06-24 18:52:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 557,
+   "samples": [
+    {
+     "reddit": "2024",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "579": {
    "page": "index/lakeland",
@@ -8123,7 +8316,7 @@
   },
   "582": {
    "page": "index/lavaheights",
-   "updated_at": "2026-06-24 18:49:16",
+   "updated_at": "2026-10-14 01:10:40",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8147,7 +8340,7 @@
   },
   "585": {
    "page": "index/lifelineut",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:11:20",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8189,13 +8382,26 @@
    "page": "index/maplehall",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 125,
+   "samples": [
+    {
+     "reddit": "2024",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "591": {
    "page": "index/maplelake",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:03:37",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8211,7 +8417,7 @@
   },
   "593": {
    "page": "index/maryville",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:13:09",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8259,7 +8465,7 @@
   },
   "599": {
    "page": "index/mingus",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:14:57",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8291,7 +8497,7 @@
   },
   "603": {
    "page": "index/montanaaca",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 18:21:45",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8323,7 +8529,7 @@
   },
   "607": {
    "page": "index/mountainhome",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:16:33",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8349,9 +8555,22 @@
    "page": "index/mountainsprings",
    "updated_at": "2026-06-24 18:55:06",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 254,
+   "samples": [
+    {
+     "reddit": "previous alternate names academy at cedar mountain until 2004",
+     "ours": ""
+    },
+    {
+     "reddit": "it",
+     "ours": "is"
+    },
+    {
+     "reddit": "teenage",
+     "ours": "teenager"
+    }
+   ]
   },
   "611": {
    "page": "index/mountbachelor",
@@ -8363,7 +8582,7 @@
   },
   "612": {
    "page": "index/mountvalley",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:19:01",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8389,9 +8608,14 @@
    "page": "index/natsap",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 18,
+   "samples": [
+    {
+     "reddit": "",
+     "ours": "38 9849362 77 0891874 149m data 3m1 1e3 4m5 3m4 1s0x0 0x93783671aed27748 8m2 3d38 98498..."
+    }
+   ]
   },
   "617": {
    "page": "index/ncboystc",
@@ -8411,11 +8635,16 @@
   },
   "619": {
    "page": "index/newhavenrtc",
-   "updated_at": "2026-06-24 18:52:20",
+   "updated_at": "2026-10-14 10:44:20",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 5,
+   "samples": [
+    {
+     "reddit": "",
+     "ours": "previous alternate names new haven"
+    }
+   ]
   },
   "620": {
    "page": "index/newhopetc",
@@ -8437,9 +8666,22 @@
    "page": "index/newleaforegon",
    "updated_at": "2026-06-24 18:56:16",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 140,
+   "samples": [
+    {
+     "reddit": "2011",
+     "ours": "present"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    },
+    {
+     "reddit": "was",
+     "ours": "is"
+    }
+   ]
   },
   "624": {
    "page": "index/newvisionwild",
@@ -8531,7 +8773,7 @@
   },
   "637": {
    "page": "index/olympusacademy",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-13 18:28:07",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8555,7 +8797,7 @@
   },
   "640": {
    "page": "index/outbackexp",
-   "updated_at": "2026-06-24 18:56:25",
+   "updated_at": "2026-10-14 11:08:38",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8579,7 +8821,7 @@
   },
   "643": {
    "page": "index/paradisecove",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-12 19:14:51",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8651,7 +8893,7 @@
   },
   "652": {
    "page": "index/prayermtn",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-16 19:06:44",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8683,7 +8925,7 @@
   },
   "657": {
    "page": "index/provocanyon",
-   "updated_at": "2026-06-24 18:45:58",
+   "updated_at": "2026-10-14 01:23:53",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8851,7 +9093,7 @@
   },
   "680": {
    "page": "index/shilohrtc",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:29:34",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8883,7 +9125,7 @@
   },
   "684": {
    "page": "index/snentrada",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:27:04",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8915,10 +9157,10 @@
   },
   "688": {
    "page": "index/solsticewest",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:30:57",
    "edited": false,
    "differs": false,
-   "changed": 2,
+   "changed": 0,
    "samples": []
   },
   "689": {
@@ -8939,7 +9181,7 @@
   },
   "691": {
    "page": "index/springridge",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 10:11:49",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8963,7 +9205,7 @@
   },
   "694": {
    "page": "index/stonemountain",
-   "updated_at": "2026-06-24 18:57:10",
+   "updated_at": "2026-10-16 19:05:56",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -8971,7 +9213,7 @@
   },
   "696": {
    "page": "index/summitme",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:33:45",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9043,7 +9285,7 @@
   },
   "705": {
    "page": "index/swiftriver",
-   "updated_at": "2026-06-24 18:50:39",
+   "updated_at": "2026-10-15 22:18:24",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9155,7 +9397,7 @@
   },
   "721": {
    "page": "index/trailscarolina",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:38:47",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9166,7 +9408,7 @@
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
    "differs": false,
-   "changed": 0,
+   "changed": 1,
    "samples": []
   },
   "724": {
@@ -9179,7 +9421,7 @@
   },
   "725": {
    "page": "index/tripledivide",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:39:48",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9195,7 +9437,7 @@
   },
   "727": {
    "page": "index/tulsaboys",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:47:34",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9222,7 +9464,7 @@
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
    "differs": true,
-   "changed": 3117,
+   "changed": 3127,
    "samples": [
     {
      "reddit": "hamden woodbury killingworth and other connecticut locations residential treatment center",
@@ -9304,7 +9546,7 @@
   },
   "742": {
    "page": "index/waypoint",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:41:06",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9416,7 +9658,7 @@
   },
   "763": {
    "page": "index/yellowstoneranch",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:45:18",
    "edited": false,
    "differs": false,
    "changed": 0,
@@ -9442,9 +9684,22 @@
    "page": "index/youthvillagestn",
    "updated_at": "2026-06-08 19:38:15",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 241,
+   "samples": [
+    {
+     "reddit": "information about the program structure at youth villages has not been added yet if you...",
+     "ours": ""
+    },
+    {
+     "reddit": "fox13 memphis reported that alegend jones a 17 year old in the care of youth villages i...",
+     "ours": ""
+    },
+    {
+     "reddit": "no survivor testimonies for youth villages have been added here yet if you have a first...",
+     "ours": ""
+    }
+   ]
   },
   "771": {
    "page": "mhs",
@@ -9456,11 +9711,24 @@
   },
   "776": {
    "page": "index/sanmarcos",
-   "updated_at": "2026-06-08 19:38:15",
+   "updated_at": "2026-10-14 01:46:41",
    "edited": false,
-   "differs": false,
-   "changed": 0,
-   "samples": []
+   "differs": true,
+   "changed": 345,
+   "samples": [
+    {
+     "reddit": "",
+     "ours": "previous alternate names the brown schools at san marcos 1940 2005"
+    },
+    {
+     "reddit": "seperated",
+     "ours": "separated"
+    },
+    {
+     "reddit": "",
+     "ours": "san marcos treatment center was formerly called the brown schools at san marcos"
+    }
+   ]
   },
   "781": {
    "page": "standards",
@@ -9496,24 +9764,11 @@
   },
   "798": {
    "page": "index/mountainsprings",
-   "updated_at": "2026-08-29 00:58:24",
+   "updated_at": "2026-10-14 01:17:55",
    "edited": true,
-   "differs": true,
-   "changed": 164,
-   "samples": [
-    {
-     "reddit": "",
-     "ours": "information about the founders or notable staff at mountain springs preparatory academy..."
-    },
-    {
-     "reddit": "",
-     "ours": "information about the program structure at mountain springs preparatory academy has not..."
-    },
-    {
-     "reddit": "",
-     "ours": "neglect or lawsuits involving mountain springs preparatory academy has not been added y..."
-    }
-   ]
+   "differs": false,
+   "changed": 0,
+   "samples": []
   }
  }
 }
