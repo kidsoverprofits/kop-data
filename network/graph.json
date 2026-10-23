@@ -7,7 +7,7 @@
    "edges": 4063,
    "facilityMatches": 698,
    "withYears": 507,
-   "withDeaths": 33,
+   "withDeaths": 34,
    "rebranded": 236,
    "profileEdges": 1846,
    "staffMovementEdges": 8,
@@ -16522,7 +16522,8 @@
    "board": {
     "x": -621,
     "y": 32.58
-   }
+   },
+   "deaths": 9
   },
   {
    "id": "wayne-lippold",
