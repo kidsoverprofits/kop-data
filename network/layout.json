@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2070,
-    "simulated": 2067,
+    "nodes": 2069,
+    "simulated": 2066,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -733,6 +733,11 @@
       "y": -261.5,
       "r": 14.2
     },
+    "bethel-boys-academy": {
+      "x": -297.7,
+      "y": -1246.9,
+      "r": 14.2
+    },
     "brent-charles-hall": {
       "x": 46.9,
       "y": -539.5,
@@ -968,11 +973,6 @@
       "y": 57.9,
       "r": 13.6
     },
-    "bethel-boys-academy": {
-      "x": -297.7,
-      "y": -1246.9,
-      "r": 14.2
-    },
     "cherry-gulch": {
       "x": -118.4,
       "y": 658.4,
@@ -997,11 +997,6 @@
       "x": 318.1,
       "y": -82.6,
       "r": 14.3
-    },
-    "eagle-point-christian-academy": {
-      "x": -277.5,
-      "y": -1192.5,
-      "r": 14.2
     },
     "eckerd-connects": {
       "x": 243.5,
@@ -3322,6 +3317,11 @@
       "x": -27.6,
       "y": 144.7,
       "r": 4
+    },
+    "eagle-point-christian-academy": {
+      "x": -277.5,
+      "y": -1192.5,
+      "r": 14.2
     },
     "east-ridge-recovery-center": {
       "x": -1649.9,
@@ -6091,11 +6091,6 @@
     "john-baisden-sr": {
       "x": -328,
       "y": -37,
-      "r": 4
-    },
-    "john-fountain": {
-      "x": -366.3,
-      "y": -1285,
       "r": 4
     },
     "john-gordon": {
