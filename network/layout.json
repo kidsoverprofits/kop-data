@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2069,
-    "simulated": 2066,
+    "nodes": 2071,
+    "simulated": 2068,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -753,6 +753,11 @@
       "y": -1112.3,
       "r": 14.2
     },
+    "jeff-scott": {
+      "x": 262.4,
+      "y": 345.6,
+      "r": 13.7
+    },
     "john-l-singleton": {
       "x": 610.9,
       "y": 172.2,
@@ -787,6 +792,11 @@
       "x": -802.3,
       "y": -404.8,
       "r": 16
+    },
+    "telos-academy": {
+      "x": 554,
+      "y": 272.7,
+      "r": 14.3
     },
     "w-kimball-delamare": {
       "x": 357.9,
@@ -847,11 +857,6 @@
       "x": 683.6,
       "y": -269.8,
       "r": 14.2
-    },
-    "jeff-scott": {
-      "x": 262.4,
-      "y": 345.6,
-      "r": 13.7
     },
     "kreg-gillman": {
       "x": 180.3,
@@ -928,11 +933,6 @@
       "y": 172.5,
       "r": 14.5
     },
-    "telos-academy": {
-      "x": 554,
-      "y": 272.7,
-      "r": 14.3
-    },
     "the-pinnacle-schools": {
       "x": -919.4,
       "y": 573.8,
@@ -952,6 +952,11 @@
       "x": -1150.5,
       "y": -75.4,
       "r": 14.3
+    },
+    "a-better-way-youth-academy": {
+      "x": -473.6,
+      "y": -966.7,
+      "r": 14.2
     },
     "academy-at-dundee-ranch": {
       "x": -197.1,
@@ -3798,6 +3803,11 @@
       "y": -137,
       "r": 13.7
     },
+    "lu-vaughn": {
+      "x": 291.9,
+      "y": -80.3,
+      "r": 4
+    },
     "luke-hallows": {
       "x": 307.1,
       "y": -755.3,
@@ -3937,6 +3947,11 @@
       "x": 325.3,
       "y": -352,
       "r": 13.1
+    },
+    "mike-mckinney": {
+      "x": 364.9,
+      "y": 101.6,
+      "r": 4
     },
     "mike-merchant": {
       "x": 450.2,
@@ -5603,6 +5618,11 @@
       "y": 501.5,
       "r": 4
     },
+    "galumalemana-alema-s-fitisemanu-ii": {
+      "x": -319.9,
+      "y": -525.9,
+      "r": 4
+    },
     "gary-dean": {
       "x": -438.6,
       "y": -331.7,
@@ -6633,11 +6653,6 @@
       "y": -320.8,
       "r": 4
     },
-    "lu-vaughn": {
-      "x": 291.9,
-      "y": -80.3,
-      "r": 4
-    },
     "lucy-taylor": {
       "x": 649.4,
       "y": 378.8,
@@ -6918,11 +6933,6 @@
       "y": -43.3,
       "r": 4
     },
-    "mike-mckinney": {
-      "x": 364.9,
-      "y": 101.6,
-      "r": 4
-    },
     "mike-palmer": {
       "x": -481.7,
       "y": -1657.6,
@@ -6987,6 +6997,11 @@
       "x": -593.6,
       "y": -1339.9,
       "r": 13.6
+    },
+    "nathan-sellers": {
+      "x": 67.2,
+      "y": -383,
+      "r": 4
     },
     "national-association-of-therapeutic-wilderness-camping": {
       "x": 857.7,
@@ -7683,11 +7698,6 @@
       "y": 588.9,
       "r": 4
     },
-    "sterling-deveraux": {
-      "x": -765.6,
-      "y": -702.7,
-      "r": 4
-    },
     "steve-and-glenda-roach": {
       "x": -67.5,
       "y": -1407.2,
@@ -8142,11 +8152,6 @@
       "x": 805.9,
       "y": 220.4,
       "r": 4
-    },
-    "a-better-way-youth-academy": {
-      "x": -473.6,
-      "y": -966.7,
-      "r": 14.2
     },
     "a-world-of-opportunity-llc": {
       "x": -1840.8,
@@ -9941,6 +9946,11 @@
     "st-josephs-villa": {
       "x": -1758.3,
       "y": -835.2,
+      "r": 4
+    },
+    "sterling-devereux": {
+      "x": -567.5,
+      "y": -1033.3,
       "r": 4
     },
     "stone-of-help-group-homes": {
