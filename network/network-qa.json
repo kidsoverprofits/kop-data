@@ -5,7 +5,7 @@
   "company": 7,
   "acquirer": 2,
   "record": 6,
-  "suggestion": 14,
+  "suggestion": 15,
   "rebrand": 92,
   "deaths": 4
  },
@@ -4797,7 +4797,7 @@
     "Drawn as a program because its name gave no other clue.",
     "Board frame: YSI",
     "KOP record #10580",
-    "Connected to: Youth Services International, YSI of Utah, Sterling Deveraux"
+    "Connected to: Youth Services International, YSI of Utah, A Better Way Youth Academy"
    ],
    "options": [
     {
@@ -5380,6 +5380,31 @@
     "name": "Northstar Academy"
    },
    "node": "northstar-academy"
+  },
+  {
+   "id": "suggestion:oak-ridge-treatment-center",
+   "section": "suggestion",
+   "name": "Oak Ridge Treatment Center",
+   "question": "Is the map's \"Oak Ridge Treatment Center\" one of these KOP records?",
+   "evidence": [
+    "A shared word stem, nothing more; roughly half of these are different places.",
+    "Board frame: Unframed",
+    "Connected to: Necco Center"
+   ],
+   "options": [
+    {
+     "value": "100677",
+     "label": "Oak Ridge facility (#100677)"
+    },
+    {
+     "value": "none",
+     "label": "No, a different place"
+    }
+   ],
+   "subject": {
+    "name": "Oak Ridge Treatment Center"
+   },
+   "node": "oak-ridge-treatment-center"
   },
   {
    "id": "suggestion:riverbend",
@@ -7665,27 +7690,27 @@
    }
   },
   {
-   "id": "rebrand:auldern-academy--sequel-tsi-north-carolina",
+   "id": "rebrand:sequel-tsi-north-carolina--auldern-academy",
    "section": "rebrand",
-   "name": "Auldern Academy / Sequel TSI North Carolina",
-   "question": "\"Auldern Academy\" and \"Sequel TSI North Carolina\" are both closed and the board joins them as a rename. Which was the earlier name?",
+   "name": "Sequel TSI North Carolina / Auldern Academy",
+   "question": "\"Sequel TSI North Carolina\" and \"Auldern Academy\" are both closed and the board joins them as a rename. Which was the earlier name?",
    "evidence": [
     "The board says: rebrand (facility profile)",
-    "Read as drawn: Auldern Academy became Sequel TSI North Carolina."
+    "Read as drawn: Sequel TSI North Carolina became Auldern Academy."
    ],
    "options": [
     {
-     "value": "Auldern Academy",
-     "label": "Auldern Academy came first (as drawn)"
+     "value": "Sequel TSI North Carolina",
+     "label": "Sequel TSI North Carolina came first (as drawn)"
     },
     {
-     "value": "Sequel TSI North Carolina",
-     "label": "Sequel TSI North Carolina came first"
+     "value": "Auldern Academy",
+     "label": "Auldern Academy came first"
     }
    ],
    "subject": {
-    "from": "Auldern Academy",
-    "to": "Sequel TSI North Carolina",
+    "from": "Sequel TSI North Carolina",
+    "to": "Auldern Academy",
     "raw": "rebrand (facility profile)"
    }
   },
