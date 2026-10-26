@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2071,
-    "simulated": 2068,
+    "nodes": 2070,
+    "simulated": 2067,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -8308,11 +8308,6 @@
       "y": -1427.4,
       "r": 4
     },
-    "ascend-behavioral-health": {
-      "x": -1940.4,
-      "y": -1089.8,
-      "r": 4
-    },
     "ashcreek-academy": {
       "x": -222.8,
       "y": -408.3,
@@ -9403,11 +9398,6 @@
       "y": -12,
       "r": 4
     },
-    "mingus-mountain-estate-residential-center-inc": {
-      "x": -1907.8,
-      "y": -1121.5,
-      "r": 4
-    },
     "miracle-houses-winchester-i": {
       "x": -1724.8,
       "y": -892.8,
@@ -10356,6 +10346,11 @@
     "kim-smith": {
       "x": 203.1,
       "y": -562.9,
+      "r": 4
+    },
+    "mingus-mountain-estate-residential-center-inc": {
+      "x": -1907.8,
+      "y": -1121.5,
       "r": 4
     },
     "tupou-fakahua": {
