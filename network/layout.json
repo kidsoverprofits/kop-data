@@ -2,8 +2,8 @@
   "meta": {
     "sourceHash": "eb3d221bc5b1",
     "ticks": 300,
-    "nodes": 2070,
-    "simulated": 2067,
+    "nodes": 2072,
+    "simulated": 2069,
     "isolated": 3,
     "extent": {
       "minX": -2035.8,
@@ -618,6 +618,11 @@
       "y": 293.5,
       "r": 14.2
     },
+    "monarch-school": {
+      "x": -66.1,
+      "y": -364.2,
+      "r": 14.3
+    },
     "mountain-springs-preparatory-academy": {
       "x": -113.9,
       "y": 401.5,
@@ -687,11 +692,6 @@
       "x": -613.5,
       "y": 100.4,
       "r": 14.2
-    },
-    "monarch-school": {
-      "x": -66.1,
-      "y": -364.2,
-      "r": 14.3
     },
     "montana-academy": {
       "x": 673.7,
@@ -787,6 +787,11 @@
       "x": -108.6,
       "y": -162.5,
       "r": 14.3
+    },
+    "spring-creek-lodge-academy": {
+      "x": -58,
+      "y": -1081.3,
+      "r": 14.4
     },
     "synanon": {
       "x": -802.3,
@@ -917,11 +922,6 @@
       "x": -76.6,
       "y": -184.2,
       "r": 14.2
-    },
-    "spring-creek-lodge-academy": {
-      "x": -58,
-      "y": -1081.3,
-      "r": 14.4
     },
     "steve-cartisano": {
       "x": 111.1,
@@ -1813,6 +1813,11 @@
       "y": 213.3,
       "r": 14.5
     },
+    "paula-riggs": {
+      "x": 161.2,
+      "y": -170.9,
+      "r": 13.2
+    },
     "peninsula-village": {
       "x": 308,
       "y": 483.4,
@@ -2102,6 +2107,11 @@
       "x": 177.9,
       "y": 414.2,
       "r": 13.7
+    },
+    "clearview-girls-academy": {
+      "x": 327.6,
+      "y": -526.6,
+      "r": 14.4
     },
     "cliff-stockton": {
       "x": 624.2,
@@ -2622,11 +2632,6 @@
       "x": 467.8,
       "y": 96.1,
       "r": 4
-    },
-    "paula-riggs": {
-      "x": 161.2,
-      "y": -170.9,
-      "r": 13.2
     },
     "phil-clark": {
       "x": 323.7,
@@ -3157,11 +3162,6 @@
       "x": 586.9,
       "y": -180.7,
       "r": 4
-    },
-    "clearview-horizon": {
-      "x": 280.3,
-      "y": -435.2,
-      "r": 14.2
     },
     "columbus-girls-academy": {
       "x": -1455.5,
@@ -4042,6 +4042,11 @@
       "x": -1245.5,
       "y": 25.2,
       "r": 4
+    },
+    "pacific-coast-academy": {
+      "x": 27.6,
+      "y": -1341.6,
+      "r": 14.5
     },
     "parker-keoni-anderson": {
       "x": 872.6,
@@ -5168,6 +5173,11 @@
       "y": 191.6,
       "r": 4
     },
+    "clearview-horizon": {
+      "x": 280.3,
+      "y": -435.2,
+      "r": 14.2
+    },
     "clint-firth": {
       "x": 241,
       "y": 191.5,
@@ -5266,6 +5276,11 @@
     "dan-slaugh": {
       "x": 859.7,
       "y": 214.7,
+      "r": 4
+    },
+    "dan-wakefield": {
+      "x": -7.1,
+      "y": -1365.9,
       "r": 4
     },
     "dana-karkotsky": {
@@ -6006,6 +6021,11 @@
     "jennifer-snyder": {
       "x": -796.4,
       "y": 56.9,
+      "r": 4
+    },
+    "jeremiah-guidos": {
+      "x": 110.4,
+      "y": -496.2,
       "r": 4
     },
     "jeremy-cottle": {
@@ -7092,11 +7112,6 @@
       "x": 37.4,
       "y": -1191.2,
       "r": 13.9
-    },
-    "pacific-coast-academy": {
-      "x": 27.6,
-      "y": -1341.6,
-      "r": 14.5
     },
     "paige-deffert": {
       "x": 637.3,
@@ -8653,11 +8668,6 @@
       "y": -680.3,
       "r": 4
     },
-    "clearview-girls-academy": {
-      "x": 327.6,
-      "y": -526.6,
-      "r": 14.4
-    },
     "coffee-creek-center": {
       "x": -1535.9,
       "y": -983.7,
@@ -8711,11 +8721,6 @@
     "cuyahoga-hills-jcf": {
       "x": -1259.9,
       "y": -1194.3,
-      "r": 4
-    },
-    "dan-wakefield": {
-      "x": -7.1,
-      "y": -1365.9,
       "r": 4
     },
     "danville-rtc": {
@@ -9206,6 +9211,11 @@
     "kim-gregory": {
       "x": 916.2,
       "y": -518.7,
+      "r": 4
+    },
+    "kimberley-sparks": {
+      "x": 53.4,
+      "y": -1167.9,
       "r": 4
     },
     "king-county-juvenile-detention-center": {
