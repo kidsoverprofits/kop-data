@@ -6,7 +6,7 @@
    "nodes": 2072,
    "edges": 4071,
    "facilityMatches": 697,
-   "withYears": 507,
+   "withYears": 506,
    "withDeaths": 34,
    "rebranded": 232,
    "profileEdges": 1858,
@@ -15220,15 +15220,14 @@
     "corporate": 2,
     "staff": 1
    },
-   "facilityId": 14148,
-   "uniqueName": "Pacific Coast Academy",
+   "facilityId": 100678,
+   "uniqueName": "New Hope Academy",
    "dates": "",
    "isolated": false,
    "board": {
     "x": -147.87,
     "y": -649.96
-   },
-   "years": "1998-1999"
+   }
   },
   {
    "id": "new-horizons-for-young-women",
