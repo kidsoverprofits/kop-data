@@ -1,12 +1,12 @@
 {
  "meta": {
-  "sourceHash": "6c769881b11a",
+  "sourceHash": "eb3d221bc5b1",
   "facilitySource": "facilities_v2",
   "counts": {
    "nodes": 2075,
    "edges": 4074,
-   "facilityMatches": 697,
-   "withYears": 506,
+   "facilityMatches": 696,
+   "withYears": 505,
    "withDeaths": 34,
    "rebranded": 232,
    "profileEdges": 1858,
@@ -3320,7 +3320,7 @@
     "x": -569.75,
     "y": -511.43
    },
-   "years": "from 2001"
+   "years": "from 2017"
   },
   {
    "id": "wilderness-quest",
@@ -57375,19 +57375,14 @@
    "degreeByCategory": {
     "leadership": 1
    },
-   "facilityId": 100175,
-   "uniqueName": "Three Strands Wilderness",
+   "facilityId": null,
+   "uniqueName": null,
    "dates": "",
    "isolated": false,
    "board": {
     "x": 962.72,
     "y": 131.46
-   },
-   "years": "2019-2020",
-   "otherNames": [
-    "Three Strands",
-    "3 Strands"
-   ]
+   }
   },
   {
    "id": "threepeaks-ascent-rtc",
