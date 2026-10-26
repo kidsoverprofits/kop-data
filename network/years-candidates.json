@@ -1,26 +1,5 @@
 [
  {
-  "id": "a-better-way-youth-academy",
-  "name": "A Better Way Youth Academy",
-  "kind": "facility",
-  "place": "Vaitele, Samoa",
-  "start": 1996,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.unsilenced.org/portfolio-items/a-better-way-youth-academy/",
-    "quote": "I was sent to a foster home I believe Rodney Rice is sister in Utah for a week before I was sent to Western Samoa the first month what was then called Robert Louis Stevenson what is opened in 1996."
-   },
-   {
-    "url": "https://wwaspsurvivors.com/wwasp-programs/paradise-cove/",
-    "quote": "It started off as Robert Louis Stevenson Youth Academy. Then it changed to A better way youth academy, finally when I left in 1997 it was called Coral Reef Academy."
-   }
-  ],
-  "note": "Second pass. Survivor accounts say the Samoa program opened in 1996 as Robert Louis Stevenson Youth Academy, then went by A Better Way Youth Academy and by 1997 Coral Reef Academy (StrugglingTeens still visited 'A Better Way's Coral Reef Academy' in 2002). No closing year found."
- },
- {
   "id": "abm-ministries",
   "name": "ABM Ministries",
   "kind": "church",
@@ -38,48 +17,6 @@
   "note": "Years come from the r/troubledteens wiki Missouri table (read from the repo's markdown_output mirror because Reddit blocks fetching); it dates ABM and Lighthouse together, not separately."
  },
  {
-  "id": "academy-at-canyon-creek",
-  "name": "Academy at Canyon Creek",
-  "kind": "facility",
-  "place": "Springville, UT, United States",
-  "start": 2005,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/provo-canyon-school/",
-    "quote": "In 2005, PCS also opened a program called Somerset/Academy at Canyon Creek , which was targeted towards a younger age group"
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/article_5235.shtml",
-    "quote": "Academy At Canyon Creek is a new coed residential program scheduled to open on January 16, 2005 for students ages 13-17.5."
-   }
-  ],
-  "note": "Second pass. Provo Canyon School opened it in Springville, UT in 2005 (the StrugglingTeens notice is dated December 2005, so the opening may have slipped to early 2006). It later became part of the Provo Canyon School Springville campus; the year it dropped the name was not found."
- },
- {
-  "id": "academy-of-eastern-arizona",
-  "name": "Academy of Eastern Arizona",
-  "kind": "facility",
-  "place": "Holbrook, AZ, United States",
-  "start": 2010,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/cdx/search/cdx?url=academyofeasternarizona.com&output=json&limit=1",
-    "quote": "Earliest Wayback Machine capture of academyofeasternarizona.com: 20100727"
-   },
-   {
-    "url": "https://www.strugglingteens.com/artman/publish/printer_AcademyEasternArizonaNP_100331.shtml",
-    "quote": "Mar 31, 2010"
-   }
-  ],
-  "note": "Second pass. Evidence of operating by 2010 only, not a founding date (StrugglingTeens profile dated March 31, 2010; site first archived July 2010). The site showed a hosting error page by 2013, so it probably closed around 2012-2013, but no closing year was found."
- },
- {
   "id": "academy-of-new-horizons",
   "name": "Academy of New Horizons",
   "kind": "facility",
@@ -89,19 +26,7 @@
   "stillOperating": false,
   "confidence": "low",
   "sources": [],
-  "note": "Nothing reliable found; the r/troubledteens wiki page says no information is known."
- },
- {
-  "id": "acadia-village",
-  "name": "Acadia Village",
-  "kind": "facility",
-  "place": "Louisville, TN, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "Likely the Louisville, TN campus now called Village Behavioral Health (Acadia Healthcare), but no source giving its opening year or confirming the Acadia Village name was found."
+  "note": "Only trace found: the NYSED 'List of Closed Nonpublic Schools' (p12.nysed.gov/nonpub/documents/closed-schools.pdf, updated Jan 2012) has a row 'Academy of New Horizons (St. Johnsville)' with a date-closed column, but the PDF returns 403 to fetch and the Wayback copy is blocked, so the date could not be copied; nothing else online mentions the school or Mary Pauer."
  },
  {
   "id": "accelerated-christian-education",
@@ -214,64 +139,6 @@
   "note": "Secondary source; another summary ties its principles to the East Ridge clinic Tom Powers set up in Hankins, NY in 1961. Current status not confirmed."
  },
  {
-  "id": "alldredge-academy",
-  "name": "Alldredge Academy",
-  "kind": "facility",
-  "place": "Davis, WV, United States",
-  "start": 1999,
-  "end": 2007,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/alldredge-academy/",
-    "quote": "Alldredge Academy (later called Alldredge Wilderness Journey and the Ayne Institute) was a behavior-modification program that opened in 1999."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/alldredge-academy/",
-    "quote": "in 2007 the program dropped the third phase"
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/alldredge-academy/",
-    "quote": "On December 16th 2008, Alldredge announced that the program will be closed on December 31, 2008."
-   }
-  ],
-  "note": "Renamed Alldredge Wilderness Journey in 2007 (per the same page); the renamed program closed December 31, 2008."
- },
- {
-  "id": "alldredge-wilderness-journey",
-  "name": "Alldredge Wilderness Journey",
-  "kind": "facility",
-  "place": "Davis, WV, United States",
-  "start": 1999,
-  "end": 2008,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/alldredge-academy/",
-    "quote": "Alldredge Academy (1999-2008) Davis, WV"
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/AlldredgeAcademyBN_081216.shtml",
-    "quote": "Alldredge Wilderness Journey will bid its final student farewell on December 31, 2008."
-   }
-  ],
-  "note": "Opened in 1999 as Alldredge Academy; took the Alldredge Wilderness Journey name around 2007; closed December 31, 2008."
- },
- {
-  "id": "alternative-youth-adventures",
-  "name": "Alternative Youth Adventures",
-  "kind": "facility",
-  "place": "Boulder, MT, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found."
- },
- {
   "id": "amikids",
   "name": "AMIkids",
   "kind": "parent",
@@ -291,56 +158,6 @@
    }
   ],
   "note": "Founded 1969 as Associated Marine Institutes (AMI); renamed AMIkids in 2009, which is a rename, not an end."
- },
- {
-  "id": "anasazi-foundation",
-  "name": "ANASAZI Foundation",
-  "kind": "facility",
-  "place": "Mesa, AZ, United States",
-  "start": 1988,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://anasazi.org/",
-    "quote": "Founded in 1988, Anasazi is a 501(c)(3) nonprofit."
-   },
-   {
-    "url": "https://anasazi.org/",
-    "quote": "Commencing in 1968, Larry D. Olsen and Ezekiel C. Sanchez gleaned and developed the Anasazi Way from years of trial, error, and experience walking in nature with thousands of young people."
-   }
-  ],
-  "note": "The Foundation dates from 1988; its founders' wilderness method goes back to 1968."
- },
- {
-  "id": "anchor-academy",
-  "name": "Anchor Academy",
-  "kind": "facility",
-  "place": "Havre, MT, United States",
-  "start": null,
-  "end": 2007,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.kfvs12.com/story/6937614/anchor-academy-moving-to-vanduser/",
-    "quote": "Published: Aug. 15, 2007 at 8:22 PM CDT"
-   }
-  ],
-  "note": "The August 2007 article says directors planned to move students to Vanduser, MO 'after shutting down their school in Havre, Montana'; the year comes from the article date. A 2003 Havre article says it moved to the Havre site four years earlier (about 1999), with no year stated."
- },
- {
-  "id": "anderson-academy",
-  "name": "Anderson Academy",
-  "kind": "facility",
-  "place": "Vero Beach, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found."
  },
  {
   "id": "anderson-creek-school",
@@ -364,23 +181,6 @@
   "note": "Blog source; closing is 'around 1986' and a commenter says it still ran in the 1987 school year. The Karum Group bankruptcy case is 66 B.R. 436 (Bankr. W.D. Wash. 1986)."
  },
  {
-  "id": "anneewakee-school",
-  "name": "Anneewakee School",
-  "kind": "facility",
-  "place": "Douglasville, GA, United States",
-  "start": 1962,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Anneewakee_Treatment_Center_for_Emotionally_Disturbed_Youth",
-    "quote": "Opening in 1962, the center was a wilderness treatment center for troubled boys."
-   }
-  ],
-  "note": "Renamed New Anneewakee / Inner Harbour Hospital / Inner Harbour for Children and Families after a 1990 lawsuit; the year the Anneewakee name ended was not found. The campus now runs as Youth Villages Inner Harbour Campus."
- },
- {
   "id": "appalachian-wilderness-camp",
   "name": "Appalachian Wilderness Camp",
   "kind": "facility",
@@ -389,42 +189,42 @@
   "end": null,
   "stillOperating": false,
   "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; only a directory address in Cleveland, GA 30528."
+  "sources": [
+   {
+    "url": "https://www.outdoored.com/companies/appalachian-wilderness-camp/",
+    "quote": "Updated: April 2, 2002"
+   },
+   {
+    "url": "https://dhs.georgia.gov/outdoor-child-caring-programs",
+    "quote": "June 25, 2007 Outdoor Therapeutic Camps were renamed to Outdoor Child Caring Programs."
+   }
+  ],
+  "note": "It was the boys' camp of the Georgia Department of Human Resources' state-run Outdoor Therapeutic Program (PO Box 1066, Cleveland GA; listed 2002 on OutdoorEd, not Eckerd). Unsilenced's closed-programs list gives 'Appalachian Wilderness Camp' and 'Roosevelt Wilderness Camp' as closed 2009 per a search snippet, but that page is JS-rendered and the row could not be copied, so no end year is set."
  },
  {
   "id": "arkansas-juvenile-assessment-and-treatment-center",
   "name": "Arkansas Juvenile Assessment and Treatment Center",
   "kind": "facility",
   "place": "Alexander, AR, United States",
-  "start": null,
+  "start": 1905,
   "end": null,
   "stillOperating": true,
-  "confidence": "low",
+  "confidence": "high",
   "sources": [
    {
-    "url": "https://www.arkansasonline.com/news/2019/mar/22/state-rethinks-pick-of-firm-to-operate-/",
-    "quote": "Rite of Passage has been running the 120-bed Arkansas Juvenile Assessment and Treatment Center since 2016"
-   }
-  ],
-  "note": "Rite of Passage has run it since 2016 (not the opening year); a search snippet said the facility began in 1905 as a Girls Industrial School, but no readable page with that sentence was found."
- },
- {
-  "id": "ashby-academy",
-  "name": "Ashby Academy",
-  "kind": "facility",
-  "place": "Ashby, MA, United States",
-  "start": null,
-  "end": 2007,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
+    "url": "https://humanservices.arkansas.gov/divisions-shared-services/youth-services/facilities/ajatc/",
+    "quote": "What is now the Arkansas Juvenile Assessment & Treatment Center (AJATC) was established in 1905 as a Girls Industrial School."
+   },
    {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/massachusetts/ashby-academy/",
-    "quote": "Parents, students at a loss as school in Ashby is closed 2007-09-04"
+    "url": "https://humanservices.arkansas.gov/divisions-shared-services/youth-services/facilities/ajatc/",
+    "quote": "In the late 1970s, Youth Services began housing both boys and girls at the center."
+   },
+   {
+    "url": "https://www.arkansasonline.com/news/2016/jul/08/juvenile-lockup-gets-new-operator-20160-1/",
+    "quote": "Publicized troubles at the youth lockup began in 2003"
    }
   ],
-  "note": "Closed abruptly in September 2007 (Boston Globe headline listed by Unsilenced); a blog says it lasted just over a year, so it likely opened about 2006, but no founding year is stated."
+  "note": "State DYS facility at 1501 Woody Drive, Alexander AR, founded 1905 as the Girls Industrial School; operators Cornell (to 2007), G4S (2007-2016), Rite of Passage (from August 2016, $10.4M/yr contract); still open."
  },
  {
   "id": "aspen-youth-alternatives",
@@ -461,31 +261,6 @@
   "note": "Wikipedia lists Aspen Youth Services as Aspen Education Group's former name but gives no year for the rename; 1997 is when Aspen Education Group was formed, so the end year is inferred. Founding year not found."
  },
  {
-  "id": "aspiro-group",
-  "name": "Aspiro Group",
-  "kind": "parent",
-  "place": "Mount Pleasant, UT, United States",
-  "start": 2005,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/daniels-academy/",
-    "quote": "From 2005 until 2013, he worked as the Founder/CEO of the Aspiro Group, which bought Daniels Academy in 2013."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/daniels-academy/",
-    "quote": "He helped create the Aspiro Group in 2006, and served as the President and a Board Member until 2013."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/aspiro-wilderness-adventure-therapy/",
-    "quote": "Aspiro Wilderness Adventure Therapy is a behavior-modification program founded in 2005."
-   }
-  ],
-  "note": "Second pass. Staff bios on the same page give 2005 and 2006 for the group's creation, and Aspiro Wilderness itself dates from 2005. ASPIRO GROUP, INC. is still an active Utah corporation, but aspiroadventure.com now redirects to ThreePeaks, so it may have been renamed; no year found for that."
- },
- {
   "id": "athenas-circle-of-providence",
   "name": "Athena's Circle of Providence",
   "kind": "facility",
@@ -495,7 +270,7 @@
   "stillOperating": false,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found; no source on this Youth Services International program could be located."
+  "note": "No page online mentions 'Athena's Circle' (or 'Athenas Circle') as a Providence RI program or a Youth Services International site; YSI's company history names no Rhode Island program. Nothing found."
  },
  {
   "id": "aura-rtc",
@@ -519,23 +294,6 @@
   "note": "California licence (Evolve Growth Initiatives, LLC) first issued 2019 per CCLD; Evolve itself dates from 2014, so this home may predate 2019 under an earlier licence."
  },
  {
-  "id": "avalon-hills-residential-eating-disorder-program",
-  "name": "Avalon Hills Residential Eating Disorder Program",
-  "kind": "facility",
-  "place": "Paradise, UT, United States",
-  "start": 2003,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/utah/avalon-hills-residential-eating-disorders-program/",
-    "quote": "Avalon Hills Eating Disorder Program (2003-present) Logan/Mendon, UT"
-   }
-  ],
-  "note": "Year from Unsilenced's program list (secondary); the program's own site gives no founding year. Cache Valley location (Logan/Mendon/Paradise)."
- },
- {
   "id": "bain-capital",
   "name": "Bain Capital",
   "kind": "parent",
@@ -551,27 +309,6 @@
    }
   ],
   "note": ""
- },
- {
-  "id": "bell-academy",
-  "name": "Bell Academy",
-  "kind": "facility",
-  "place": "Terra Bella, CA, United States",
-  "start": 2003,
-  "end": 2004,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/horizon-academy/",
-    "quote": "Around 2003 he attempted to open a program called Bell Academy in California which was swiftly shut down due to licensing issues."
-   },
-   {
-    "url": "https://wwaspsurvivors.com/wwasp-programs/horizon-academy-northwest-academy/",
-    "quote": "Just before Casa By The Sea closed in 2004, Administrator Jade Robinson headed back Stateside, taking a group of kids from Casa with him, to open Bell Academy in Terra Bella, California."
-   }
-  ],
-  "note": "Second pass. Jade Robinson's WWASP program in Terra Bella, CA lasted only months before California's licensing refusal moved it to Nevada as Horizon Academy. Sources differ between 2003 and 2004 for the opening; it ended by 2004."
  },
  {
   "id": "beloit-juvenile-correctional-facility",
@@ -612,28 +349,29 @@
   "note": "Berean Baptist Church in Springfield, MO, where Jeffrey Ables has been pastor since 2000; organized two months after the first meeting."
  },
  {
-  "id": "bethesda-home-for-girls",
-  "name": "Bethesda Home for Girls",
-  "kind": "facility",
-  "place": "Forrest County, MS, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found: web search budget ran out and the search engines tried were rate-limited, so this name was not researched fully."
- },
- {
   "id": "bible-baptist-temple",
   "name": "Bible Baptist Temple",
   "kind": "church",
   "place": "",
-  "start": null,
-  "end": null,
+  "start": 1971,
+  "end": 2018,
   "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; could not identify which Bible Baptist Temple this is (Roloff network, later Riverside Baptist Church)."
+  "confidence": "medium",
+  "sources": [
+   {
+    "url": "https://rbcstjoe.com/our-story",
+    "quote": "Seven months later, on August 20, 1971, Bible Baptist Temple was officially chartered."
+   },
+   {
+    "url": "https://rbcstjoe.com/our-story",
+    "quote": "In January 2018, the church family voted to change the name of Bible Baptist Temple to Riverside Baptist Church."
+   },
+   {
+    "url": "https://rbcstjoe.com/our-story",
+    "quote": "In January of 2008, after much prayer and preparation, Pastor Gary Williams passed the torch to Bill G. Marshall."
+   }
+  ],
+  "note": "Matched on the rename: Bible Baptist Temple of Saint Joseph, Missouri (chartered 1971, pastors Gary Williams then Bill G. Marshall) became Riverside Baptist Church in January 2018; the Roloff link itself was not found online, so confirm this is the map's church before trusting the years."
  },
  {
   "id": "bill-and-melinda-gates-foundation",
@@ -674,58 +412,16 @@
   "note": "1992 is when Bill Lane began transport work; the source does not say that the firm itself was founded that year."
  },
  {
-  "id": "birdseye-boys-ranch",
-  "name": "Birdseye Boys Ranch",
-  "kind": "facility",
-  "place": "Payson, UT, United States",
-  "start": 1989,
-  "end": 2009,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "Kazien Academy (formerly known as Birdseye Boys Ranch and Birdseye RTC) is a behavior-modification program that opened in 1989."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "Around 2009, the program was renamed as Birdseye RTC, and the program was moved to a new location about 2 miles away."
-   }
-  ],
-  "note": "Renamed Birdseye RTC around 2009 (approximate). Another summary gave 2014 for the rename and some reports say it opened in 1977."
- },
- {
-  "id": "birdseye-rtc",
-  "name": "Birdseye RTC",
-  "kind": "facility",
-  "place": "Payson, UT, United States",
-  "start": 2009,
-  "end": 2016,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "Around 2009, the program was renamed as Birdseye RTC, and the program was moved to a new location about 2 miles away."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "the program's name was changed to Kaizen Academy shortly after in February of 2016."
-   }
-  ],
-  "note": "Opened as Birdseye Boys Ranch in 1989; this name from about 2009; renamed Kaizen Academy in February 2016. The 2009 date is approximate and another summary gave 2014."
- },
- {
   "id": "bledsoe-youth-academy",
   "name": "Bledsoe Youth Academy",
   "kind": "facility",
   "place": "Gallatin, TN, United States",
   "start": null,
   "end": null,
-  "stillOperating": false,
+  "stillOperating": true,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found."
+  "note": "Formerly Volunteer Youth Academy (220 Hickory Ave S, Gallatin); a search snippet of its old site volunteeryouthacademy.com said it was founded in 2005, but the site is offline and no live page could be fetched with that year (Tennessee Lookout, WKRN and reddit mirrors return 403/404). Operated by Youth Opportunity Investments by 2020 (Vermont has placed there since 2020 per VTDigger, paraphrased); open today."
  },
  {
   "id": "blue-hills-academy",
@@ -736,20 +432,34 @@
   "end": null,
   "stillOperating": false,
   "confidence": "low",
-  "sources": [],
-  "note": "An April 1999 StrugglingTeens item calls it 'fairly new', so it probably opened in the late 1990s, but no year was found."
+  "sources": [
+   {
+    "url": "https://www.strugglingteens.com/archives/1999/4/np02.html",
+    "quote": "The Blue Hills Academy is a fairly new, highly structured, residential high school"
+   },
+   {
+    "url": "https://www.strugglingteens.com/archives/1999/9/visit01.html",
+    "quote": "Schools & Program Visits - Sep, 1999 Issue #61"
+   }
+  ],
+  "note": "Emotional growth boarding school for boys 12-17 in a newly built log home above Humboldt/Dewey AZ, executive director Sonja C. Fullwood; 'fairly new' in April 1999 so it opened about 1998. Unsilenced's closed-programs list gives 2010 as the year closed per a search snippet, but the page is JS-rendered and the row could not be copied, so no end year is set."
  },
  {
   "id": "bootcamps-for-teens",
   "name": "Bootcamps for Teens",
   "kind": "other",
   "place": "",
-  "start": null,
+  "start": 2002,
   "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; appears to be a WWASPS referral or marketing name rather than a facility."
+  "stillOperating": true,
+  "confidence": "medium",
+  "sources": [
+   {
+    "url": "https://www.reddit.com/r/troubledteens/wiki/index/bootcampsforteens",
+    "quote": "Boot Camps for Teens (2002-present)"
+   }
+  ],
+  "note": "WWASP referral website registered August 2002 with Kevin Richey as registrant (r/troubledteens wiki; the page title is the only text copied because every reddit mirror returned 404/blocked). The wiki says 'present'; the input marks it closed, so the end year is left open for the owner."
  },
  {
   "id": "bowie-county-detention-center",
@@ -775,10 +485,10 @@
   "place": "",
   "start": null,
   "end": null,
-  "stillOperating": false,
+  "stillOperating": true,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found."
+  "note": "County agency at 601B Main Street, Texarkana TX; Texas Human Resources Code 152.0251 sets up its juvenile board and a 2006 Texarkana Gazette piece puts about 50 children in its Juvenile Probation and Detention Center, but no page gives a founding year."
  },
  {
   "id": "boys-town",
@@ -798,23 +508,6 @@
   "note": "Founded by Father Edward Flanagan in Omaha as Father Flanagan's Boys' Home."
  },
  {
-  "id": "brighter-path-courtland",
-  "name": "Brighter Path Courtland",
-  "kind": "facility",
-  "place": "Courtland, AL, United States",
-  "start": 1990,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.brighterpathcourtland.com/",
-    "quote": "Brighter Path Courtland was established in 1990 as a residential treatment facility, certified by the Alabama Department of Mental Health, serving males placed by the Alabama Department of Human Resources and Alabama State Multiple Needs."
-   }
-  ],
-  "note": "Second pass. The facility's own site gives 1990 for the campus (earlier Three Springs / Sequel TSI Courtland); the Brighter Path name came later under Vivant. Courtland's town council voted in April 2025 to revoke its business license, so current status is uncertain."
- },
- {
   "id": "broward-youth-treatment-center",
   "name": "Broward Youth Treatment Center",
   "kind": "facility",
@@ -824,7 +517,7 @@
   "stillOperating": true,
   "confidence": "low",
   "sources": [],
-  "note": "Still a Florida DJJ residential program; no opening year found."
+  "note": "8301 South Palm Drive, Pembroke Pines; Florida DJJ reports show Youth Services International running it (2015 report, 28 beds) and Youth Opportunity Investments now (FY2023-24, 40 beds), but no page states an opening year and the DJJ PDFs did not render as text."
  },
  {
   "id": "browning-distance-learning-academy",
@@ -932,8 +625,13 @@
   "end": null,
   "stillOperating": true,
   "confidence": "low",
-  "sources": [],
-  "note": "Still operating (Acadia Healthcare). A ZoomInfo summary says it was established in 2004, but this was not verified, so no year is given."
+  "sources": [
+   {
+    "url": "https://www.cedarcresthospital.com/about/",
+    "quote": "For 25 years, Cedar Crest Hospital & Residential Treatment Center has continued to grow and provide a range of treatment"
+   }
+  ],
+  "note": "3500 I-35, Belton TX, 158-bed psychiatric hospital + adolescent RTC (Acadia). The hospital's pages say 'over 30 years' and 'for 25 years' without a year; a directory snippet gave 'Year Founded: 1988' but that line was not on the fetched page, so no start year is set."
  },
  {
   "id": "certs",
@@ -953,27 +651,6 @@
   "note": "Second pass. CERTS's own blog says founder Kent Tasso started his first program, Kolob Canyon RTC, in 2002 (Moonridge in 2004, La Europa the next year); a search summary said 2001 for the group but no page stating it was found."
  },
  {
-  "id": "charles-britt-academy",
-  "name": "Charles Britt Academy",
-  "kind": "facility",
-  "place": "St. Petersburg, FL, United States",
-  "start": null,
-  "end": 2022,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.levylaw.com/charles-britt-academy-sexual-abuse-lawsuits/",
-    "quote": "In June 2022, the Charles Britt Academy in St. Petersburg, Florida, was shut down by the state's Department of Juvenile Justice after a series of serious child abuse allegations came to light."
-   },
-   {
-    "url": "https://www.yahoo.com/news/us/articles/juvenile-boys-program-st-pete-140200509.html",
-    "quote": "Britt Technical Youth Academy, a 24-bed program which operated for decades under a handful of names, closed temporarily in 2022 after reports that staffers abused children."
-   }
-  ],
-  "note": "Second pass. DJJ closed the Sequel-run Charles Britt Academy in June 2022; the program reopened as Britt Technical Youth Academy under Wayne Halfway House and paused again after June 30, 2026. No opening year found; it 'operated for decades' (earlier Charles J. Britt Halfway House)."
- },
- {
   "id": "charles-h-hickey-jr-school",
   "name": "Charles H. Hickey, Jr. School",
   "kind": "facility",
@@ -989,23 +666,6 @@
    }
   ],
   "note": "Ran as the Maryland Training School for Boys 1918-1985, then under the Hickey name; the institution may predate 1918 under an older name. Current status not confirmed."
- },
- {
-  "id": "cherokee-creek-boys-school",
-  "name": "Cherokee Creek Boys School",
-  "kind": "facility",
-  "place": "Westminster, SC, United States",
-  "start": 2003,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Cherokee_Creek_Boys_School",
-    "quote": "Cherokee Creek Boys School was founded in 2003 by Beth and Ron Black."
-   }
-  ],
-  "note": "Its website (cherokeecreek.net) and NATSAP listing are still live."
  },
  {
   "id": "chilanko-lodge",
@@ -1029,23 +689,6 @@
   "note": "Second pass. Evidence of operating by 2000 only, not a founding date: the earliest archived chilankolodge.com (Feb 2000) already calls it a 'Resort,Treatment Center'; the Sudweeks bought the B.C. lodge in 1986 and wintered the teens at Punta Chivato, Baja California (hence the Mexico place). The site's '1923' is the lodge building, not the program; a CBC story of Feb 28, 2001 shows it still running. No closing year found."
  },
  {
-  "id": "cinnamon-hills-youth-crisis-center",
-  "name": "Cinnamon Hills Youth Crisis Center",
-  "kind": "facility",
-  "place": "Saint George, UT, United States",
-  "start": 1994,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/cinnamon-hills-youth-crisis-center/",
-    "quote": "Cinnamon Hills Youth Crisis Center is a behavior-modification program that appears to have opened in 1994"
-   }
-  ],
-  "note": "Conflicting: BCS says it appears to have opened in 1994, Cause IQ gives the nonprofit as formed in 1996, and the program's own site claims 52 years of service (about 1974). Founder Jack L. Williams."
- },
- {
   "id": "cole-ranch-rtc",
   "name": "Cole Ranch RTC",
   "kind": "facility",
@@ -1067,30 +710,6 @@
   "note": "California licence (Evolve Growth Initiatives, LLC) first issued 2022 per CCLD; Evolve itself dates from 2014, so this home may predate 2022 under an earlier licence."
  },
  {
-  "id": "columbus-girls-academy",
-  "name": "Columbus Girls Academy",
-  "kind": "facility",
-  "place": "Seale, AL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; an AG News article says the directors Bob and Karla Lee have run it since 2003, which is not a founding year."
- },
- {
-  "id": "columbus-youth-academy",
-  "name": "Columbus Youth Academy",
-  "kind": "facility",
-  "place": "Tampa, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found: web search budget ran out and the search engines tried were rate-limited, so this name was not researched fully. Wikipedia lists a 'Columbus Juvenile Residential Facility' in Hillsborough County with no dates."
- },
- {
   "id": "come-back-youth-services",
   "name": "Come Back Youth Services",
   "kind": "parent",
@@ -1100,7 +719,7 @@
   "stillOperating": false,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found for the company itself; the Casa by the Sea program it is linked to ran 1998-2004 per the 1000 places blog."
+  "note": "No page online names 'Come Back Youth Services' (or 'Comeback'); the WWASP Survivors and Wikipedia pages on Casa by the Sea (opened 1998, raided and closed September 10, 2004) name only Dace Goulding and WWASP as operator. Nothing found."
  },
  {
   "id": "community-psychiatric-centers",
@@ -1122,48 +741,6 @@
    }
   ],
   "note": "In December 1995 CPC announced a spin-off of its US psychiatric business. No source was found for when the CPC name itself ended (it reportedly became Transitional Hospitals Corp.), so end is left blank."
- },
- {
-  "id": "compass-rose-academy",
-  "name": "Compass Rose Academy",
-  "kind": "facility",
-  "place": "Wabash, IN, United States",
-  "start": 2012,
-  "end": 2024,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://josiahwhites.org/compass-rose-academy-to-close-doors-after-12-years/",
-    "quote": "Compass Rose Academy (CRA) was started in 2012 as an effort to supplement revenue"
-   },
-   {
-    "url": "https://josiahwhites.org/compass-rose-academy-to-close-doors-after-12-years/",
-    "quote": "CRA will be halting programming and services on March 31, 2024."
-   }
-  ],
-  "note": "Second pass. Josiah White's own announcement: started 2012, programming ended March 31, 2024."
- },
- {
-  "id": "copper-hills-youth-center",
-  "name": "Copper Hills Youth Center",
-  "kind": "facility",
-  "place": "West Jordan, UT, United States",
-  "start": 1997,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/rivendell-of-utah/",
-    "quote": "Rivendell of Utah was ordered to close in May of 1997. Another program, called Copper Hills Youth Center, immediately opened in its place."
-   },
-   {
-    "url": "https://data.cms.gov/data-api/v1/dataset/4bdd6342-510f-42fd-9a75-3068e84d80ec/data?filter[PRVDR_NUM]=464011",
-    "quote": "\"FAC_NAME\":\"COPPER HILLS YOUTH CENTER\" \"CITY_NAME\":\"WEST JORDAN\" \"ORGNL_PRTCPTN_DT\":\"19970611\""
-   }
-  ],
-  "note": "Second pass. Copper Hills opened in 1997 at Rivendell of Utah's West Jordan site when Rivendell was ordered closed (PitchBook also lists 1997 as founding year). Still run by UHS. CMS Provider of Services data agrees: Rivendell of Utah's provider record ends 1997-06-10 and Copper Hills' begins 1997-06-11."
  },
  {
   "id": "cottonwood-treatment-center",
@@ -1200,27 +777,6 @@
   "note": "Knoxville, TN system that owns Peninsula (behavioral health)."
  },
  {
-  "id": "cramer-creek-school",
-  "name": "Cramer Creek School",
-  "kind": "facility",
-  "place": "Clinton, MT, United States",
-  "start": 2008,
-  "end": 2010,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/artman/publish/CramerCreekBN_100224.shtml",
-    "quote": "The development of Cramer Creek in 2008 was a direct response to the market conditions, whereby the sister facilities were receiving more referrals than there were openings."
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/CramerCreekBN_100224.shtml",
-    "quote": "February 23, 2010"
-   }
-  ],
-  "note": "Second pass. Social Learning Environments opened Cramer Creek in 2008 and announced on February 23, 2010 that it was consolidating it into The High Frontier."
- },
- {
   "id": "crc-health-group",
   "name": "CRC Health Group",
   "kind": "parent",
@@ -1248,10 +804,10 @@
   "place": "Crestview, FL, United States",
   "start": null,
   "end": null,
-  "stillOperating": false,
+  "stillOperating": true,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found: web search budget ran out and the search engines tried were rate-limited, so this name was not researched fully."
+  "note": "State-owned DJJ campus at 4449 Straightline Road, Crestview FL (secure 56 beds + 24-bed non-secure), provider Youth Opportunity Investments (CARF first accredited 2019); no page gives the opening year or the earlier YSI/CSC era."
  },
  {
   "id": "cypress-creek-academy",
@@ -1263,7 +819,7 @@
   "stillOperating": false,
   "confidence": "low",
   "sources": [],
-  "note": "No reliable year found: web search budget ran out and the search engines tried were rate-limited, so this name was not researched fully."
+  "note": "No page online names a 'Cypress Creek Academy' in Houston tied to CSC, YSI, Rite of Passage or the Brown Schools; every hit is the Florida DJJ Cypress Creek facility (Lecanto, Rite of Passage) or Cypress Creek High School. Status unverified; nothing found."
  },
  {
   "id": "dallas-county-juvenile-department",
@@ -1275,7 +831,7 @@
   "stillOperating": true,
   "confidence": "low",
   "sources": [],
-  "note": "Still operating; the county's page gives no founding year."
+  "note": "County agency (about 1,000 staff, five facilities); its own pages and annual reports give no founding year; an OJP-digitised 1980 annual report shows it existed by then. Nothing dated found."
  },
  {
   "id": "dallas-county-juvenile-facility",
@@ -1286,8 +842,13 @@
   "end": null,
   "stillOperating": true,
   "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; the county's Lyle B. Medlock Residential Treatment Center page gives no opening year."
+  "sources": [
+   {
+    "url": "https://capitol.texas.gov/tlodocs/81R/billtext/html/SR00318F.htm",
+    "quote": "the department named one of its four residential centers in his honor, the Lyle B. Medlock Treatment Center."
+   }
+  ],
+  "note": "Lyle B. Medlock Residential Treatment Center, 1566 E. Langdon Road, Dallas (county-run, 72 beds, boys 13-17); no page gives the opening or naming year, only the 2009 Senate resolution, the 2015 PREA audit and the 2017 scandal coverage."
  },
  {
   "id": "dallas-county-youth-village-secure-program",
@@ -1309,27 +870,6 @@
    }
   ],
   "note": "Second pass. Correctional Services Corporation (YSI parent) filings list a CSC-managed Dallas County Secure Post-Adjudication Facility under a 1998 contract; that it is the same program as the Youth Village secure / Last Chance program is an inference, so low confidence."
- },
- {
-  "id": "daniels-academy",
-  "name": "Daniels Academy",
-  "kind": "facility",
-  "place": "Heber City, UT, United States",
-  "start": 2008,
-  "end": 2025,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/daniels-academy/",
-    "quote": "Daniels Academy is a behavior-modification program that opened in 2008."
-   },
-   {
-    "url": "https://www.privateschoolreview.com/daniels-academy-profile",
-    "quote": "Daniels Academy (Closed 2025) - Heber City, UT"
-   }
-  ],
-  "note": "Closing year comes only from a school-directory page title; no news report of the closure was found."
  },
  {
   "id": "danville-rtc",
@@ -1384,27 +924,6 @@
   "confidence": "low",
   "sources": [],
   "note": "No reliable year found; the Florida DJJ program page gives no opening date."
- },
- {
-  "id": "desert-hills-new-mexico",
-  "name": "Desert Hills - New Mexico",
-  "kind": "facility",
-  "place": "Albuquerque, NM, United States",
-  "start": null,
-  "end": 2019,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://1000placesudontwanttobe.wordpress.com/2021/07/31/851-desert-hills/",
-    "quote": "Desert Hills located in Albuquerque, New Mexico closed in 2019."
-   },
-   {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/new-mexico/desert-hills-of-new-mexico/",
-    "quote": "Acadia facility closes amid abuse allegations 2019-04-05"
-   }
-  ],
-  "note": "Closed 2019 under Acadia Healthcare; no founding year found."
  },
  {
   "id": "developmental-behavioral-consultants",
@@ -1525,56 +1044,6 @@
   "note": "Founded as Straight, Inc. in 1976; renamed The Straight Foundation in 1985; this name since 1995."
  },
  {
-  "id": "e-ma-laku",
-  "name": "E-ma-laku",
-  "kind": "facility",
-  "place": "Suches, GA, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; the research ran out of web searches before this could be looked up."
- },
- {
-  "id": "eagle-cove-academy",
-  "name": "Eagle Cove Academy",
-  "kind": "facility",
-  "place": "Benton, TN, United States",
-  "start": 2017,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/cdx/search/cdx?url=eaglecoveacademy.org&output=json&limit=1",
-    "quote": "Earliest Wayback Machine capture of eaglecoveacademy.org: 20170521"
-   }
-  ],
-  "note": "Second pass. Operating by May 2017 per the first Wayback capture of eaglecoveacademy.org (evidence of operating, not a founding date); rebrand year to Embark at The Forge not found."
- },
- {
-  "id": "eagle-ranch-academy",
-  "name": "Eagle Ranch Academy",
-  "kind": "facility",
-  "place": "Saint George, UT, United States",
-  "start": 2003,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://eagleranchacademy.com/",
-    "quote": "Eagle Ranch Academy is a CARF-accredited residential treatment center helping teens ages 12-17 heal, grow, and reunite with their families since 2003."
-   },
-   {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/utah/eagle-ranch-academy/",
-    "quote": "Eagle Ranch Academy (2005-present) St. George, UT"
-   }
-  ],
-  "note": "Conflict: the program's own site says since 2003; Unsilenced and the 1000 places blog say 2005."
- },
- {
   "id": "east-ridge-recovery-center",
   "name": "East Ridge Recovery Center",
   "kind": "facility",
@@ -1590,31 +1059,6 @@
    }
   ],
   "note": "Founded by Tom Powers as the East Ridge Clinic; the same page says its All Addicts Anonymous community still operates. No closing year found."
- },
- {
-  "id": "eckerd-academy-of-the-blue-ridge",
-  "name": "Eckerd Academy of the Blue Ridge",
-  "kind": "facility",
-  "place": "Suches, GA, United States",
-  "start": 1996,
-  "end": 2011,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/artman/publish/EckerdAcademyBlueRidgeNP_071212.shtml",
-    "quote": "Eckerd Academy of Blue Ridge was originally founded in 1996"
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/EckerdAcademyBlueRidgeNP_071212.shtml",
-    "quote": "was re-opened for private pay clients in October 2007"
-   },
-   {
-    "url": "https://www.royalgazette.com/other/news/article/20191209/mother-my-children-were-traumatised/",
-    "quote": "An Eckerd spokesman said that the organisation had moved away from residential care in favour of community-based services several years ago and that the Georgia centre closed in 2011."
-   }
-  ],
-  "note": "Founded 1996 (as Camp E-Ma-Laku per the map); reopened under this name for private pay in October 2007; the Georgia centre closed in 2011."
  },
  {
   "id": "eckerd-youth-alternatives",
@@ -1650,171 +1094,6 @@
   "note": "Generic role label, not an organisation; no year applies."
  },
  {
-  "id": "elan-school",
-  "name": "Elan School",
-  "kind": "facility",
-  "place": "Poland, ME, United States",
-  "start": 1970,
-  "end": 2011,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/%C3%89lan_School",
-    "quote": "Élan School was founded in 1970 by Joseph Ricci, a former heroin addict who had worked with young people in drug treatment facilities"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/%C3%89lan_School",
-    "quote": "On March 23, 2011, the Élan School announced it would be closing on April 1, 2011."
-   }
-  ],
-  "note": "Closed April 1, 2011."
- },
- {
-  "id": "elements-wilderness-program",
-  "name": "Elements Wilderness Program",
-  "kind": "facility",
-  "place": "Huntington, UT, United States",
-  "start": 2008,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/active-programs/active-programs-utah",
-    "quote": "Elements Wilderness Program | 2008 | HEAL | Huntington, UT"
-   },
-   {
-    "url": "https://web.archive.org/cdx/search/cdx?url=elementswilderness.com&output=json&limit=1",
-    "quote": "Earliest Wayback Machine capture of elementswilderness.com: 20080821"
-   }
-  ],
-  "note": "Second pass. The r/troubledteens wiki Utah active-programs table gives 2008 in its Year Opened column, and the first Wayback capture of elementswilderness.com is August 2008."
- },
- {
-  "id": "embark-at-flathead-valley",
-  "name": "Embark at Flathead Valley",
-  "kind": "facility",
-  "place": "Marion, MT, United States",
-  "start": 2022,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/flatheadvalley",
-    "quote": "Embark at Flathead Valley is an Embark Behavioral Health behavior-modification program that opened in 2022."
-   }
-  ],
-  "note": "Second pass. The troubledteens wiki says it opened in 2022 on the former Montana Academy campus, a few months after Montana Academy closed; the Embark location page now redirects to Chrysalis, so it may have closed or merged."
- },
- {
-  "id": "embark-at-hobble-creek",
-  "name": "Embark at Hobble Creek",
-  "kind": "facility",
-  "place": "Springville, UT, United States",
-  "start": 2020,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/hobblecreek",
-    "quote": "Embark at Hobble Creek is an Embark Behavioral Health behavior modification program that opened in 2020."
-   }
-  ],
-  "note": "Second pass. The troubledteens wiki gives its opening year as 2020."
- },
- {
-  "id": "embark-at-the-forge",
-  "name": "Embark at The Forge",
-  "kind": "facility",
-  "place": "Benton, TN, United States",
-  "start": 2021,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/cdx/search/cdx?url=forgeschoolrtc.com&output=json&limit=1",
-    "quote": "Earliest Wayback Machine capture of forgeschoolrtc.com: 20210117"
-   }
-  ],
-  "note": "Second pass. Opened as The Forge School (Benton, TN) and later took the Embark name; its site is first archived in January 2021 (the site said \"2021 The Forge School\"), and directories say its NPI dates from November 2020. Operating-by evidence only."
- },
- {
-  "id": "equine-journeys-adolescent-rtc",
-  "name": "Equine Journeys Adolescent RTC",
-  "kind": "facility",
-  "place": "Loa, UT, United States",
-  "start": 2011,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&organization_name=equine+journeys*",
-    "quote": "EQUINE JOURNEYS, LLC 2011-09-09 LOA UT"
-   },
-   {
-    "url": "https://web.archive.org/cdx/search/cdx?url=equinejourneys.org&output=json&limit=1",
-    "quote": "Earliest Wayback Machine capture of equinejourneys.org: 20110703"
-   }
-  ],
-  "note": "Second pass. The program site equinejourneys.org (Loa, Utah, adolescent RTC) is first archived in July 2011 and Equine Journeys, LLC in Loa got its NPI in September 2011; evidence it was operating by 2011, not a founding date."
- },
- {
-  "id": "eva-carlston-academy",
-  "name": "Eva Carlston Academy",
-  "kind": "parent",
-  "place": "",
-  "start": 2011,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/eva-carlston-academy/",
-    "quote": "Eva Carlston Academy is a behavior-modification program that opened in 2011."
-   }
-  ],
-  "note": "Conflicting: Breaking Code Silence says opened 2011; LinkedIn company profile lists Founded: 2010."
- },
- {
-  "id": "evangelhouse-christian-academy",
-  "name": "Evangelhouse Christian Academy",
-  "kind": "facility",
-  "place": "St. Martinville, LA, United States",
-  "start": 1995,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://evangelhouse.com/christian-boarding-school-for-girls-in-louisiana/",
-    "quote": "The Evangelhouse therapeutic boarding school was established in 1995 to serve Christian families with a quality residential treatment option for troubled teen girls."
-   }
-  ],
-  "note": "Run by Teen Challenge of Acadiana under this trade name; year is from the school's own site."
- },
- {
-  "id": "evangeline-christian-academy",
-  "name": "Evangeline Christian Academy",
-  "kind": "facility",
-  "place": "St. Martinville, LA, United States",
-  "start": 1995,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.allkindsoftherapy.com/partners/evangel-house-christian-academy",
-    "quote": "Established in 1995, the academy offers a unique integration of Joint Commission® accredited behavioral healthcare in a non-denominational Christian environment."
-   }
-  ],
-  "note": "Same St. Martinville school as Evangelhouse (same address, same 1995 founding); which name came first and the year of the name change were not found."
- },
- {
   "id": "everglades-youth-academy",
   "name": "Everglades Youth Academy",
   "kind": "facility",
@@ -1842,31 +1121,6 @@
    }
   ],
   "note": "Second pass. The BBB profile for Everyday Life, Inc. (6955 Broach Rd, Bryan, TX) gives a founding date of April 1, 2000. Still operating (CARF accredited, NPI active)."
- },
- {
-  "id": "evoke-entrada",
-  "name": "Evoke Entrada",
-  "kind": "facility",
-  "place": "Santa Clara, UT, United States",
-  "start": 2015,
-  "end": 2024,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/evokeentrada",
-    "quote": "Evoke Entrada is a behavior modification program that was created in 2015."
-   },
-   {
-    "url": "https://1000placesudontwanttobe.wordpress.com/2024/08/25/997-evoke-therapy-programs/",
-    "quote": "Evoke Therapy Programs was formed as a rebranding of some of the Second Nature Wilderness program in 2015."
-   },
-   {
-    "url": "https://1000placesudontwanttobe.wordpress.com/2024/08/25/997-evoke-therapy-programs/",
-    "quote": "The Oregon location closed in 2021 and the Utah based location closed in 2024."
-   }
-  ],
-  "note": "Second pass. Rebranded from Second Nature Entrada in 2015; Evoke announced its closure in August 2024 and the Santa Clara, Utah program shut in 2024."
  },
  {
   "id": "evoke-therapy-programs",
@@ -1957,78 +1211,6 @@
   "note": "Renamed OPI Houston (Optimum Performance Institute) on July 4, 2025 and the program continues under that name; the 2004 start is only the LinkedIn company field (low confidence)."
  },
  {
-  "id": "g4s-youth-services-llc",
-  "name": "G4s Youth Services LLC",
-  "kind": "parent",
-  "place": "",
-  "start": 1997,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20220519114306/https://truecorebehavioral.com/about/",
-    "quote": "TrueCore first partnered with the Florida Department of Juvenile Justice in 1997."
-   }
-  ],
-  "note": "1997 is when the business (later TrueCore) first contracted with Florida DJJ, not a proven founding year; the year G4S Youth Services became TrueCore was not found (truecorebehavioral.com now serves unrelated spam)."
- },
- {
-  "id": "gateway-academy-rite-of-passage",
-  "name": "Gateway Academy",
-  "kind": "facility",
-  "place": "UT, United States",
-  "start": 2002,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/utah/gateway-academy/",
-    "quote": "Gateway Academy (2002-present) Draper/Salt Lake City, UT"
-   }
-  ],
-  "note": "Year from Unsilenced's program list (secondary) for Gateway Academy in Draper, UT; its link to Rite of Passage was not checked."
- },
- {
-  "id": "gateway-academy-teen-challenge",
-  "name": "Gateway Academy",
-  "kind": "facility",
-  "place": "UT, United States",
-  "start": 2012,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://archive.unsilenced.org/program-archive/us-programs/florida/gateway-academy/",
-    "quote": "Gateway Academy (2012-present) Bonifay, FL"
-   }
-  ],
-  "note": "Place mismatch: the Teen Challenge-linked Gateway Academy found is in Bonifay, FL (formerly Gateway Christian Military Academy), not Utah; accept only if this is the same node."
- },
- {
-  "id": "genesis-by-the-sea",
-  "name": "Genesis by the Sea",
-  "kind": "facility",
-  "place": "Baja California, Mexico",
-  "start": null,
-  "end": 2004,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://fornits.com/phpbb/index.php?topic=7401.0",
-    "quote": "POSTED: 9:58 am PDT September 13, 2004"
-   },
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/sunsetbay",
-    "quote": "Genesis by the Sea was raided in 2004 and 26 students were removed following an investigation by Mexican"
-   }
-  ],
-  "note": "Second pass. Mexican authorities shut Genesis by the Sea (south of Rosarito) along with Casa by the Sea in September 2004 (news reposted on fornits; the troubledteens wiki cites the LA Times on the 2004 raid). No opening year found."
- },
- {
   "id": "georgia-department-of-human-resources",
   "name": "Georgia Department of Human Resources",
   "kind": "government",
@@ -2109,27 +1291,6 @@
   "note": "Founded 1826 as the Philadelphia House of Refuge; at Glen Mills from 1892 and named Glen Mills Schools from 1911; residents removed and licences revoked in 2019."
  },
  {
-  "id": "glen-willow-academy",
-  "name": "Glen Willow Academy",
-  "kind": "facility",
-  "place": "Weaverville, NC, United States",
-  "start": 2011,
-  "end": 2012,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20111012140710/http://www.glenwillowacademy.com/",
-    "quote": "Copyright 2011 Glen Willow Academy"
-   },
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/ashevilleacademy",
-    "quote": "Asheville Academy for Girls was a Family Help & Wellness behavior-modification program that opened in 2012."
-   }
-  ],
-  "note": "Second pass. The October 2011 archived site of Glen Willow Academy (530 Upper Flat Creek Road, Weaverville, NC) was taking \"Founding Sisters\" admissions, so it was opening in 2011; the troubledteens wiki calls it the precursor of Asheville Academy for Girls, which opened in 2012 at that address."
- },
- {
   "id": "grace-christian-home-for-girls",
   "name": "Grace Christian Home for Girls",
   "kind": "facility",
@@ -2165,27 +1326,6 @@
    }
   ],
   "note": "Bought by Newport Academy in June 2019 and reopened on the same campus as Newport Academy Washington State; the 2019 quote is the press release dateline plus its first sentence."
- },
- {
-  "id": "greenbrier-academy",
-  "name": "Greenbrier Academy",
-  "kind": "facility",
-  "place": "Pence Springs, WV, United States",
-  "start": 2007,
-  "end": 2023,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/greenbrier-academy-for-girls/",
-    "quote": "Greenbrier Academy for Girls (2007-present)"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Greenbrier_Academy",
-    "quote": "Greenbrier Academy announced plans to close on March 13, 2023."
-   }
-  ],
-  "note": "Privateschoolreview lists 'Year Founded: 2007' and headlines it 'Closed 2024'; Wikipedia gives the March 2023 closure announcement. Breaking Code Silence page is outdated on closure."
  },
  {
   "id": "greenwood-associates-inc",
@@ -2268,48 +1408,6 @@
   "note": "No reliable year found for the Payson Homestead campus; parent Heritage Schools opened in Provo in 1984."
  },
  {
-  "id": "hidden-lake-academy",
-  "name": "Hidden Lake Academy",
-  "kind": "facility",
-  "place": "Dahlonega, GA, United States",
-  "start": 1994,
-  "end": 2011,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Hidden_Lake_Academy",
-    "quote": "The school was founded in 1994 by Dr. Leonard Buccelatto in Dahlonega, Georgia."
-   },
-   {
-    "url": "https://www.thedahloneganugget.com/news/filmmaker-focusing-hidden-lake-academy",
-    "quote": "From 1994 to 2011, students from around the nation came to the school"
-   }
-  ],
-  "note": "Filed for bankruptcy in 2009 and closed in 2011; the property is now Camp Hidden Lake."
- },
- {
-  "id": "high-impact",
-  "name": "High Impact",
-  "kind": "facility",
-  "place": "Baja California, Mexico",
-  "start": null,
-  "end": 2001,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.helpsavetroubledteens.com/high-impact-mexico.html",
-    "quote": "Shut down by Mexican authorities in December, 2001."
-   },
-   {
-    "url": "https://whenfarfromhome.wordpress.com/2016/03/22/testimony-about-the-high-impact-boot-camp-in-tecate-mexico/",
-    "quote": "The High Impact boot camp was closed in 2001 by the authorities in Mexico."
-   }
-  ],
-  "note": "Second pass. Tecate, Baja California boot camp co-owned by Dace Goulding; most sources say Mexican authorities shut it in late 2001, though WWASP Survivors mentions surveillance in September 2002 and others say 2002. No opening year found."
- },
- {
   "id": "highlands-youth-academy",
   "name": "Highlands Youth Academy",
   "kind": "facility",
@@ -2329,23 +1427,6 @@
    }
   ],
   "note": "Opened as Avon Park Youth Academy in 1998; closed when the TrueCore contract expired on Oct. 31, 2019."
- },
- {
-  "id": "hill-crest-behavioral-health",
-  "name": "Hill Crest Behavioral Health",
-  "kind": "parent",
-  "place": "Birmingham, AL, United States",
-  "start": 1925,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.bhamwiki.com/w/Hill_Crest_Hospital",
-    "quote": "The hospital was founded by psychiatrist James Becton in 1925."
-   }
-  ],
-  "note": "Second pass. Bhamwiki (seen in search results; page blocks direct fetch) says Hill Crest Hospital was founded by James Becton in 1925; it was later owned by Psychiatric Solutions and has been UHS-operated since 2010, consistent with its own site's 'more than 95 years'."
  },
  {
   "id": "hillsborough-girls-academy",
@@ -2419,23 +1500,6 @@
   "note": "Second pass. This name dates from the January 2021 dedication; the hospital itself began as the Western Institute of Neuropsychiatry partnership in 1986 and was University Neuropsychiatric Institute from 1994."
  },
  {
-  "id": "hyde-school",
-  "name": "Hyde School",
-  "kind": "facility",
-  "place": "Bath, ME, United States",
-  "start": 1966,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://hyde.edu/about/",
-    "quote": "Hyde School was founded in 1966 premised on the belief that Every Individual is Gifted with a Unique Potential that Defines a Destiny"
-   }
-  ],
-  "note": "Founded by Joseph Gauld."
- },
- {
   "id": "independent-educational-consultants-association",
   "name": "Independent Educational Consultants Association",
   "kind": "association",
@@ -2472,23 +1536,6 @@
    }
   ],
   "note": "The hospital's own site says since 1980; a staffing directory says 1990. 1980 preferred as the owner's statement."
- },
- {
-  "id": "j-bar-j-youth-services",
-  "name": "J Bar J Youth Services",
-  "kind": "parent",
-  "place": "",
-  "start": 1968,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.jbarj.org/about",
-    "quote": "J Bar J Youth Services is a 501 © (3) non-profit corporation founded in 1968"
-   }
-  ],
-  "note": ""
  },
  {
   "id": "jacksonville-youth-academy",
@@ -2544,23 +1591,6 @@
   "note": "Wikipedia's infobox gives 1951 as the founding year (as the Joint Commission on Accreditation of Hospitals); the sentence's wording 'renamed' is ambiguous."
  },
  {
-  "id": "josiah-whites",
-  "name": "Josiah White's",
-  "kind": "facility",
-  "place": "Wabash, IN, United States",
-  "start": 1850,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://josiahwhites.org/about/the-josiah-white-story/",
-    "quote": "Josiah White's exists because of a mission set in motion in 1850"
-   }
-  ],
-  "note": "1850 is the founding bequest; the Wabash institute (White's Institute, later White's Residential and Family Services) is sometimes dated 1853."
- },
- {
   "id": "journey-home",
   "name": "Journey Home",
   "kind": "facility",
@@ -2583,69 +1613,6 @@
   "confidence": "low",
   "sources": [],
   "note": "No reliable year found for the Rockdale facility under any of its names."
- },
- {
-  "id": "judge-rotenberg-educational-center",
-  "name": "Judge Rotenberg Educational Center",
-  "kind": "facility",
-  "place": "Canton, MA, United States",
-  "start": 1971,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Judge_Rotenberg_Educational_Center",
-    "quote": "The Judge Rotenberg Center was founded by Matthew Israel in 1971 as the Behavior Research Institute (BRI)."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Judge_Rotenberg_Educational_Center",
-    "quote": "In 1994, the center changed its name to the Judge Rotenberg Educational Center"
-   }
-  ],
-  "note": "Founded as Behavior Research Institute in 1971; this name from 1994."
- },
- {
-  "id": "kaizen-academy",
-  "name": "Kaizen Academy",
-  "kind": "facility",
-  "place": "Payson, UT, United States",
-  "start": 1989,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "This program was originally opened in 1989 under the name Birdseye Boys Ranch. There are also conflicting reports that the program opened in 1977."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/kaizen-academy-birdseye-boys-ranch/",
-    "quote": "She was arrested and the program's name was changed to Kaizen Academy shortly after in 2016."
-   }
-  ],
-  "note": "Opened as Birdseye Boys Ranch in 1989 (some reports say 1977), renamed Birdseye RTC around 2014 and Kaizen Academy in 2016."
- },
- {
-  "id": "kansas-city-girls-academy",
-  "name": "Kansas City Girls Academy",
-  "kind": "facility",
-  "place": "Kansas City, MO, United States",
-  "start": 2007,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.yelp.com/biz/kansas-city-girls-academy-kansas-city",
-    "quote": "Around 2007 Teen Challenge Southeast purchased the property and established Highlands Girls Academy."
-   },
-   {
-    "url": "https://www.yelp.com/biz/kansas-city-girls-academy-kansas-city",
-    "quote": "In 2018 Alan & Denee Biggers became the new Executive Directors of the program and renamed it Kansas City Girls Academy."
-   }
-  ],
-  "note": "Second pass. The business's own history (seen in search results for its Yelp listing) says Teen Challenge started Highlands Girls Academy around 2007 on a 1983 campus and renamed it Kansas City Girls Academy in 2018; the name itself dates from 2018."
  },
  {
   "id": "kentucky-river-academy",
@@ -2704,39 +1671,6 @@
    }
   ],
   "note": "Second pass. Founders McCulla and Smith say they introduced the Keystone name in 2000, and the LLC's certificate of formation was filed January 23, 2001; UHS bought it via KEYS Group Holdings in 2005-2006 and still used the LLC in a 2012 Medicaid settlement, so no end year is given."
- },
- {
-  "id": "king-george-school",
-  "name": "King George School",
-  "kind": "facility",
-  "place": "Sutton, VT, United States",
-  "start": 1998,
-  "end": 2011,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/King_George_School_(Sutton,_Vermont)",
-    "quote": "Founded by educator Linda Houghton, the school opened September 5, 1998."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/King_George_School_(Sutton,_Vermont)",
-    "quote": "In May 2011, school head Gerard Jones announced that due to lack of sufficient funding, the school would close on June 4, 2011, after graduating its last class."
-   }
-  ],
-  "note": ""
- },
- {
-  "id": "kissimmee-youth-academy",
-  "name": "Kissimmee Youth Academy",
-  "kind": "facility",
-  "place": "Kissimmee, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; Wikipedia lists a 'Sequel TSI of Kissimmee (2009 - 2016)', which may be a predecessor but is not confirmed as the same program."
  },
  {
   "id": "koinonia-foster-homes",
@@ -2804,18 +1738,6 @@
   "confidence": "low",
   "sources": [],
   "note": "No reliable year found; the research ran out of web searches before this could be looked up."
- },
- {
-  "id": "laurel-oaks-behavioral-health-center",
-  "name": "Laurel Oaks Behavioral Health Center",
-  "kind": "facility",
-  "place": "Dothan, AL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found."
  },
  {
   "id": "law-enforcement-assistance-administration",
@@ -2919,31 +1841,6 @@
   "note": "Wikipedia says it became defunct 'in the mid-1990s'; no exact closing year was found."
  },
  {
-  "id": "lighthouse-christian-academy",
-  "name": "Lighthouse Christian Academy",
-  "kind": "facility",
-  "place": "Piedmont, MO, United States",
-  "start": 1999,
-  "end": 2024,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://kaylasurvivors.com/investigation/lighthouse-christian-academy/",
-    "quote": "Mar. 6, 2024: ABM Ministries' boarding school, Lighthouse Christian Academy in Piedmont, officially closed and all staff were dismissed."
-   },
-   {
-    "url": "https://ministrywatch.com/another-missouri-boarding-school-closes-following-abuse-claims/",
-    "quote": "On March 6, ABM Ministries Lighthouse Christian Academy in Piedmont, Missouri, told the Missouri Department of Social Services it was officially closed."
-   },
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/active-programs/active-programs-missouri",
-    "quote": "ABM Ministries/Lighthouse Christian Academy | 1999-2024 | HEAL | Piedmont, MO"
-   }
-  ],
-  "note": "Closed March 6, 2024 after the owners were arrested; the 1999 start comes only from the r/troubledteens wiki table, which dates ABM and Lighthouse together."
- },
- {
   "id": "lighthouse-for-boys",
   "name": "Lighthouse for Boys",
   "kind": "facility",
@@ -2959,23 +1856,6 @@
    }
   ],
   "note": "Founding year is from a secondary blog; no closing year found (Fornits lists opened and closed as unknown)."
- },
- {
-  "id": "lighthouse-of-northwest-florida",
-  "name": "Lighthouse of Northwest Florida",
-  "kind": "facility",
-  "place": "Jay, FL, United States",
-  "start": null,
-  "end": 2013,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://wiki.fornits.com/index.php/Lighthouse_Ministries_of_North_West_Florida",
-    "quote": "2013 is was reported that the owners had decided to close the facility"
-   }
-  ],
-  "note": "Formerly Victory Christian Academy (moved from California to Jay, FL); year of the rename not found; closing source is a survivor wiki only."
  },
  {
   "id": "luna",
@@ -3262,27 +2142,6 @@
   "note": "No opening year found; still listed as an Evolve Treatment Centers San Diego-area location."
  },
  {
-  "id": "mountain-home-academy",
-  "name": "Mountain Home Academy",
-  "kind": "facility",
-  "place": "Mountain Home, ID, United States",
-  "start": 2003,
-  "end": 2021,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://idahocapitalsun.com/2024/01/04/idaho-investigators-repeatedly-found-kids-in-danger-treatment-programs-faced-few-consequences/",
-    "quote": "Sequel, a massive for-profit corporation that’s been a frequent target of national criticism of the troubled teen industry, operated a facility in Mountain Home that was investigated five times from 2014 to 2020. It closed in 2021 amid national outcry over reports of abuse and deaths at its facilities nationwide, but the state of Idaho never took any enforcement action against it."
-   },
-   {
-    "url": "https://www.dandb.com/businessdirectory/threespringsidaho-mountainhome-id-16894165.html",
-    "quote": "Three Springs Idaho has been providing Individual And Family Services from Mountain Home since 2003."
-   }
-  ],
-  "note": "Second pass. Closure in 2021 is from the Idaho Capital Sun (APM Reports, April 2022, says Sequel announced the shutdown of its 60-bed Mountain Home center 'in June'). The 2003 start is only a Dun & Bradstreet directory line for Three Springs Idaho seen in search results (page is Cloudflare-blocked), so treat it as weak."
- },
- {
   "id": "multi-county-interlocal-government-operation",
   "name": "Multi-County Interlocal Government Operation",
   "kind": "government",
@@ -3349,43 +2208,6 @@
   "note": "Formed January 1999 by the founders of six programs; still active."
  },
  {
-  "id": "new-hope-boys-home",
-  "name": "New Hope Boys Home",
-  "kind": "facility",
-  "place": "Kerrville, TX, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found."
- },
- {
-  "id": "new-horizons-for-young-women",
-  "name": "New Horizons for Young Women",
-  "kind": "facility",
-  "place": "Orrington, ME, United States",
-  "start": 2001,
-  "end": 2008,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/artman/publish/NewHorizonsBN_081012.shtml",
-    "quote": "New Horizons for Young Women started in 2001 with the vision of creating a supportive and nurturing outdoor therapy program"
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/NewHorizonsBN_081012.shtml",
-    "quote": "New Horizons for Young Women will no longer be able to continue to serve adolescent girls and their families as of October 10, 2008."
-   },
-   {
-    "url": "https://1000placesudontwanttobe.wordpress.com/2013/11/15/182-new-horizons-for-young-women/",
-    "quote": "It opened in 2001 and closed down around 2008 when the dangers of wilderness programs had become known to the general public resulting in a period of reduction of profit."
-   }
-  ],
-  "note": "Second pass. The program's own closing notice on StrugglingTeens (October 2008) gives both the 2001 start and the October 10, 2008 closure."
- },
- {
   "id": "new-lifehouse-academy",
   "name": "New Lifehouse Academy",
   "kind": "facility",
@@ -3401,40 +2223,6 @@
    }
   ],
   "note": ""
- },
- {
-  "id": "new-summit-academy",
-  "name": "New Summit Academy",
-  "kind": "facility",
-  "place": "Costa Rica;; Quepos, Costa Rica",
-  "start": 2005,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.newsummitacademy.com/",
-    "quote": "Our school was established in 2005, through a partnership between the founders and eleven families seeking better options for their sons’ education."
-   }
-  ],
-  "note": "No year found for the switch from the Coronado Academy name."
- },
- {
-  "id": "new-vision-wilderness",
-  "name": "New Vision Wilderness",
-  "kind": "facility",
-  "place": "Medford, WI, United States",
-  "start": 2007,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.linkedin.com/pulse/new-vision-wilderness-soars-heights-thomas-ahern",
-    "quote": "NVW was founded in February of 2007 as the first wilderness therapy program in the state of Wisconsin."
-   }
-  ],
-  "note": "Closed by Embark in late 2023 or early 2024 ('after almost 17 years'; Behavioral Health Business, Feb 2024), but no source found states the closing year in a quote."
  },
  {
   "id": "newport-academy",
@@ -3468,23 +2256,6 @@
   "confidence": "low",
   "sources": [],
   "note": "The company's site gives no founding year."
- },
- {
-  "id": "norris-academy",
-  "name": "Norris Academy",
-  "kind": "facility",
-  "place": "Andersonville, TN, United States",
-  "start": 2009,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://norrisacademytn.com/history-of-norris-academy/",
-    "quote": "Norris Academy was established as a Psychiatric Residential Treatment Facility (PRTF) in January 2009 just outside of Knoxville, Tennessee."
-   }
-  ],
-  "note": "Quote taken from the search snippet of the facility's own history page (page returned an error on fetch); moved to Andersonville in summer 2018."
  },
  {
   "id": "northwest-association-international-school-visitation-team",
@@ -3594,23 +2365,6 @@
   "note": "No reliable year found; run by Gulf Coast Youth Services (UHS) for Florida DJJ."
  },
  {
-  "id": "olympus-academy",
-  "name": "Olympus Academy",
-  "kind": "facility",
-  "place": "Hurricane, UT, United States",
-  "start": null,
-  "end": 2017,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/olympus-academy/",
-    "quote": "The facility closed in on May 31st, 2017 for an unnamed reason."
-   }
-  ],
-  "note": "Breaking Code Silence says it 'reportedly opened in 2013' (too weak to use as start); it sat on the former Diamond Ranch Academy site in Hurricane."
- },
- {
   "id": "olympus-view-hospital-rtc",
   "name": "Olympus View Hospital RTC",
   "kind": "facility",
@@ -3694,48 +2448,6 @@
   "note": "Founded as the First Century Christian Fellowship; renamed Moral Re-Armament in 1938."
  },
  {
-  "id": "pacific-coast-academy",
-  "name": "Pacific Coast Academy",
-  "kind": "facility",
-  "place": "Apia, Samoa",
-  "start": 1999,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.deseret.com/1999/8/10/19459920/cartisano-back-in-business-outside-u-s-br-he-urges-parents-to-send-teens-to-overseas-camps/",
-    "quote": "He urges parents to send teens to overseas camps Published: Aug 10, 1999"
-   },
-   {
-    "url": "https://www.deseret.com/1999/8/10/19459920/cartisano-back-in-business-outside-u-s-br-he-urges-parents-to-send-teens-to-overseas-camps/",
-    "quote": "Allred was setting up a new program, the Arizona-based Pacific Coast Academy with facilities in Samoa."
-   },
-   {
-    "url": "https://culteducation.com/group/1184-teen-boot-camps/20198-american-canadian-teens-removed-from-samoan-reform-camp-amid-abuseallegations.html",
-    "quote": "American, Canadian teens removed from Samoan reform camp amid abuse allegations Nando Times/July 22, 2001"
-   }
-  ],
-  "note": "Second pass. A Deseret News article of August 1999 says the program was being set up then, so 1999 is the start; 23 teens were removed in July 2001, but no source found confirms the closing year."
- },
- {
-  "id": "pacific-quest",
-  "name": "Pacific Quest",
-  "kind": "facility",
-  "place": "Hilo, HI, United States",
-  "start": 2004,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.prweb.com/releases/pacific_quest_celebrates_ten_year_anniversary/prweb11503621.htm",
-    "quote": "Pacific Quest was founded in 2004 by Mike and Suzanne McKinney and Chris Kaiser."
-   }
-  ],
-  "note": "Own ten-year-anniversary press release (Jan 2014) says 2004; All Kinds of Therapy lists 'Year Founded 2003'."
- },
- {
   "id": "palm-beach-regional-juvenile-correctional-center",
   "name": "Palm Beach Regional Juvenile Correctional Center",
   "kind": "facility",
@@ -3816,60 +2528,6 @@
   "note": "Second pass. Announced in November 2024 as opening soon; a June 2025 release says it opened late the previous year, so late 2024. Still operating."
  },
  {
-  "id": "parc-place",
-  "name": "Parc Place",
-  "kind": "facility",
-  "place": "Chandler, AZ, United States",
-  "start": 1994,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.sec.gov/Archives/edgar/data/876726/0000950133-97-002587.txt",
-    "quote": "Effective August 1, 1994, the Company purchased certain assets of Parc Place, Limited Partnership (Parc Place), an Arizona limited partnership, for $843,000 in cash and the assumption of liabilities and notes payable in the amount of $80,000."
-   },
-   {
-    "url": "https://www.sec.gov/Archives/edgar/data/876726/0000950133-98-001184.txt",
-    "quote": "On October 31, 1997, the Company sold all of its behavioral health business other than its programs in the State of Texas which are currently being held for sale."
-   }
-  ],
-  "note": "Second pass. 1994 is when Youth Services International bought Parc Place (through its subsidiary Southwestern Children's Health Services), so the program existed before then; YSI sold its behavioral health business, Parc Place included, in October 1997. The Chandler site later became Oasis Behavioral Health; the year the Parc Place name ended was not found."
- },
- {
-  "id": "pathway-of-madison-county",
-  "name": "Pathway of Madison County",
-  "kind": "government",
-  "place": "Owens Cross Rds, AL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found; Wikipedia lists 'Sequel TSI of Owens Cross Roads' among Sequel's closed facilities, without a date."
- },
- {
-  "id": "peninsula-village",
-  "name": "Peninsula Village",
-  "kind": "facility",
-  "place": "Louisville, TN, United States",
-  "start": 1986,
-  "end": 2009,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.slideshare.net/slideshow/peninsula-village-presentation/769804",
-    "quote": "established in 1986, is a long-term residential treatment center specializing in treating adolescents who have not been successful in other treatment settings"
-   },
-   {
-    "url": "https://www.reddit.com/r/troubledteens/wiki/index/thevillage/",
-    "quote": "In 2009, the program changed ownership from Covenant Health to Acadia Healthcare and changed its name to The Village"
-   }
-  ],
-  "note": "Both quotes come from search-result snippets; the pages could not be opened to check them. Acadia bought it in 2009 and renamed it; it still runs as Village Behavioral Health."
- },
- {
   "id": "peoples-baptist-church",
   "name": "People's Baptist Church",
   "kind": "church",
@@ -3885,77 +2543,6 @@
    }
   ],
   "note": "Roloff's church in Corpus Christi, TX; Wiley Cameron led it after Roloff died in 1982."
- },
- {
-  "id": "phoenix-outdoor",
-  "name": "Phoenix Outdoor",
-  "kind": "facility",
-  "place": "Conover, NC, United States",
-  "start": 2004,
-  "end": 2013,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20041218005515/http://www.phoenixoutdoor.com/",
-    "quote": "Earliest Wayback Machine capture of phoenixoutdoor.com: 20041218005515"
-   },
-   {
-    "url": "https://web.archive.org/web/20130904154338/http://phoenixoutdoor.crchealth.com/",
-    "quote": "Last Wayback Machine capture of phoenixoutdoor.crchealth.com still showing the Phoenix Outdoor program: 20130904154338"
-   },
-   {
-    "url": "https://web.archive.org/web/20140107181636/http://phoenixoutdoor.crchealth.com/",
-    "quote": "Phil © 2014 Suws Carolinas."
-   }
-  ],
-  "note": "Second pass. Website evidence only: the program's site was up by December 2004 (operating by then, not a founding date), and by January 2014 its address redirected to SUWS of the Carolinas, so it closed or was folded into SUWS around 2013."
- },
- {
-  "id": "pine-view-christian-academy",
-  "name": "Pine View Christian Academy",
-  "kind": "facility",
-  "place": "MS, United States",
-  "start": 2006,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.fornits.com/phpbb/index.php?topic=20522.0",
-    "quote": "Boot camp ordered to pay Seymour men $900G Elizabeth Benton, Register Staff 12/16/2006 A Mississippi military boot camp has been ordered to pay $900,000 in a case involving a Seymour man who said he was tortured at the camp."
-   },
-   {
-    "url": "https://www.fornits.com/phpbb/index.php?topic=20522.0",
-    "quote": "The boot camp is still in operation under the name Pine View Academy, said Paolillo?s Mississippi-based attorney, George Yoder."
-   }
-  ],
-  "note": "Second pass. Lower bound only: a December 2006 news item (reposted on Fornits) says the former Bethel Boys Academy in Lucedale, MS was then operating as Pine View Academy; it was still called Eagle Point Christian Academy in March 2005. Later names include Gulf Coast Academy; no end year found."
- },
- {
-  "id": "piney-ridge-center",
-  "name": "Piney Ridge Center",
-  "kind": "facility",
-  "place": "Fayetteville, AR, United States",
-  "start": 2000,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20000831011549/http://www.pineyridgecenter.com:80/",
-    "quote": "Earliest Wayback Machine capture of pineyridgecenter.com: 20000831011549"
-   },
-   {
-    "url": "https://arktimes.com/arkansas-blog/2024/11/01/name-change-approved-for-fayetteville-youth-psychiatric-facility-with-checkered-history",
-    "quote": "by Lara Farrar November 1, 2024"
-   },
-   {
-    "url": "https://arktimes.com/arkansas-blog/2024/11/01/name-change-approved-for-fayetteville-youth-psychiatric-facility-with-checkered-history",
-    "quote": "Piney Ridge Treatment Center in Fayetteville , a 102-bed psychiatric residential treatment facility owned by Acadia Healthcare, will change its name to Yellow Rock Behavioral Health ."
-   }
-  ],
-  "note": "Second pass. Start is only a lower bound: the website was up by August 2000, and its CEO said in August 2021 it had served the area for 25 years (about 1996), but no source states the year. Renamed Yellow Rock Behavioral Health (Acadia) in late 2024, which still operates, so 2024 ends the Piney Ridge name."
  },
  {
   "id": "pinnacle-behavioral-health-inc",
@@ -3977,18 +2564,6 @@
    }
   ],
   "note": "Second pass. The company's own site (Huntsville, AL) says it was founded in 2006, when Elk River Treatment Program took its first client and The Pinnacle Schools opened. Its website was still captured in 2024."
- },
- {
-  "id": "polk-halfway-house",
-  "name": "Polk Halfway House",
-  "kind": "facility",
-  "place": "Bartow, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "Current DJJ program (operated by TrueCore per a FY18-19 DJJ review); no opening year found."
  },
  {
   "id": "polk-youth-development-center",
@@ -4014,31 +2589,6 @@
    }
   ],
   "note": "Second pass. Correctional Services Corporation's 2003 10-K lists the Polk City Youth Training Center with operations commencing in 1997 (column 'Year Operations Commenced'); CSC/YSI lost the contract in 2003 and Ramsay Youth Services took over the 350-bed Polk Youth Development Center, so the facility itself did not close then. Closing year not found."
- },
- {
-  "id": "pompano-youth-treatment-center",
-  "name": "Pompano Youth Treatment Center",
-  "kind": "facility",
-  "place": "Pompano Beach, FL, United States",
-  "start": 1997,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://www.sec.gov/Archives/edgar/data/876726/0000950133-98-001184.txt",
-    "quote": "In October 1997, the Company was awarded two contracts by the State of Florida, Department of Juvenile Justice, to operate existing 40-bed male and 30-bed female juvenile corrections facilities in Pompano and Daytona Beaches, respectively."
-   },
-   {
-    "url": "https://www.sec.gov/Archives/edgar/data/876726/0000950133-98-001184.txt",
-    "quote": "The Company commenced operations in November 1997 at both facilities."
-   },
-   {
-    "url": "https://www.sun-sentinel.com/local/palm-beach/fl-palm-detention-center-folo-20160317-story.html",
-    "quote": "PUBLISHED: March 17, 2016 at 5:28 PM EDT"
-   }
-  ],
-  "note": "Second pass. YSI began running an existing 40-bed Pompano facility (listed as 'Pompano Academy') in November 1997, so 1997 is when YSI's operation started, not necessarily the opening. In March 2016 the state ended YSI's contract for the Pompano Youth Treatment Center; Sequel ran it by 2017 and the site is now Rite of Passage's Pompano Youth Academy. The year the old name ended was not found."
  },
  {
   "id": "ponca-pines-academy",
@@ -4104,98 +2654,6 @@
   "note": "Second pass. Arizona group-home company bought by Youth Services International in October 1994 (it existed before that, so 1994 is a lower bound) and sold with YSI's behavioral health business in October 1997. No closing year found."
  },
  {
-  "id": "psychiatric-solutions-inc",
-  "name": "Psychiatric Solutions Inc",
-  "kind": "parent",
-  "place": "",
-  "start": 1997,
-  "end": 2010,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Psychiatric_Solutions",
-    "quote": "Joey Jacobs and Bryce DeHaven, former executives of Hospital Corporation of America for over 20 years, founded Psychiatric Solutions, Inc. in 1997."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Psychiatric_Solutions",
-    "quote": "On May 17, 2010 Psychiatric Solutions was purchased by Universal Health Services."
-   }
-  ],
-  "note": "Ended as an independent company when UHS bought it in 2010."
- },
- {
-  "id": "ramsay-youth-services",
-  "name": "Ramsay Youth Services",
-  "kind": "parent",
-  "place": "",
-  "start": 1999,
-  "end": 2003,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/ramsay-youth-services-inc",
-    "quote": "To better reflect the company's shift in focus, Ramsay Health Care officially changed its name to Ramsay Youth Services in January 1999."
-   },
-   {
-    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/ramsay-youth-services-inc",
-    "quote": "Later in 1988 Healthcare Services also would change its name, becoming Ramsay Health Care, Inc."
-   },
-   {
-    "url": "https://www.lexpert.ca/big-deals/psychiatric-solutions-acquires-ramsay-youth-services/345403",
-    "quote": "On June 30, 2003, Psychiatric Solutions, Inc. acquired Ramsay Youth Services, Inc."
-   }
-  ],
-  "note": "Formerly Ramsay Health Care (name from 1988); this name from 1999; acquired by Psychiatric Solutions in 2003, so the map's 'open' status looks wrong."
- },
- {
-  "id": "rancho-valmora",
-  "name": "Rancho Valmora",
-  "kind": "facility",
-  "place": "Valmora, NM, United States",
-  "start": 1994,
-  "end": 2009,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://valmoraretreat.wixsite.com/mysite",
-    "quote": "In 1994 it was purchased by Bill McKay and converted into an adolescent treatment center."
-   },
-   {
-    "url": "https://valmoraretreat.wixsite.com/mysite",
-    "quote": "Renamed “Rancho Valmora”, its doors closed in 2009."
-   },
-   {
-    "url": "https://1000placesudontwanttobe.wordpress.com/2014/06/14/267-rancho-valmora/",
-    "quote": "It was in operation from the early 1990s to 2009 where it closed down."
-   }
-  ],
-  "note": "Second pass. The current owner's history page (Valmora Retreat) says the old sanatorium was bought in 1994 and turned into the Rancho Valmora adolescent treatment center, which closed in 2009; a survivor blog agrees on 2009. The same page also says 1995 for the school conversion."
- },
- {
-  "id": "red-hawk-academy-for-girls",
-  "name": "Red Hawk Academy for Girls",
-  "kind": "facility",
-  "place": "Littlefield, AZ, United States",
-  "start": 2018,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20230109163017/https://old.reddit.com/r/troubledteens/wiki/index/redhawkaz",
-    "quote": "Red Hawk Academy for Girls is a behavior modification program that opened in 2018."
-   },
-   {
-    "url": "https://web.archive.org/web/20230109163017/https://old.reddit.com/r/troubledteens/wiki/index/redhawkaz",
-    "quote": "Red Hawk RTC Accepts Their First Student (Struggling Teens, 4/17/2018)"
-   }
-  ],
-  "note": "Second pass. The r/troubledteens wiki says it opened in 2018 and cites a Struggling Teens item of April 2018 on its first student; listed as still operating."
- },
- {
   "id": "remuda-ranch-programs",
   "name": "Remuda Ranch Programs",
   "kind": "parent",
@@ -4250,27 +2708,6 @@
   "note": "Second pass. The company's own site says it began in 1986 (David Gilcrease, Hurricane, UT). The site was live through May 2015 and the domain was parked for sale by 2016, so 2015 is a low-confidence closing year from website evidence."
  },
  {
-  "id": "ridge-creek-school",
-  "name": "Ridge Creek School",
-  "kind": "facility",
-  "place": "Dahlonega, GA, United States",
-  "start": 1994,
-  "end": 2011,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Hidden_Lake_Academy",
-    "quote": "The school was founded in 1994 by Dr. Leonard Buccelatto in Dahlonega, Georgia."
-   },
-   {
-    "url": "https://jilliestake.blogspot.com/2011/07/news-flash-ridge-creek-school-is.html",
-    "quote": "Plans are to close Friday July 22, 2011 if the GAO, ORCC, DFCS, CPS, GBI, FBI or the Sheriff's department do not shut them down Monday."
-   }
-  ],
-  "note": "Founded as Hidden Lake Academy in 1994; renamed Ridge Creek School after its 2009 bankruptcy; closed July 2011."
- },
- {
   "id": "ridgeview-group-home",
   "name": "Ridgeview Group Home",
   "kind": "facility",
@@ -4315,27 +2752,6 @@
    }
   ],
   "note": "Second pass. The UHS careers page for the Benton hospital dates it to 1985; a 2025 Benton Courier article says it began forty years earlier."
- },
- {
-  "id": "rivendell-of-utah",
-  "name": "Rivendell of Utah",
-  "kind": "facility",
-  "place": "West Jordan, UT, United States",
-  "start": 1986,
-  "end": 1997,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/rivendell-of-utah/",
-    "quote": "Rivendell of Utah (also called Rivendell Psychiatric Hospital of Utah) was a behavior-modification program that opened sometime in 1986."
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/rivendell-of-utah/",
-    "quote": "Rivendell of Utah was ordered to close in May of 1997. Another program, called Copper Hills Youth Center, immediately opened in its place."
-   }
-  ],
-  "note": "Replaced at the same address by Copper Hills Youth Center in 1997."
  },
  {
   "id": "rivendell-psychiatric-hospital",
@@ -4445,27 +2861,6 @@
   "note": "Second pass. SAFE (Orlando) replaced Straight-Orlando on August 14, 1992 (Orlando Weekly, January 2003); the nonprofit S.A.F.E. Inc was incorporated later by Brian Seeber. Closure year not found."
  },
  {
-  "id": "samaritan-daytop-village",
-  "name": "Samaritan Daytop Village",
-  "kind": "facility",
-  "place": "Briarwood, NY, United States",
-  "start": 2015,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Daytop",
-    "quote": "In late 2015, Daytop Village merged with Samaritan Village, another 50+ year old health and human services nonprofit organization with a specialty in drug and alcohol treatment."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Daytop",
-    "quote": "It was founded in 1963 in Tottenville, Staten Island by Daniel Harold Casriel along with Monsignor William B. O'Brien."
-   }
-  ],
-  "note": "The merged name dates from 2015 (merger agreement 2014); Daytop Village was founded 1963 and Samaritan Village's history page traces its roots to a 1960 Queens clinic."
- },
- {
   "id": "san-juan-wilderness-therapy",
   "name": "San Juan Wilderness Therapy",
   "kind": "facility",
@@ -4546,27 +2941,6 @@
   "note": "Second pass. Its own site, archived February 2005, says it was formed in April 2004; savingteens.org was still live in 2026."
  },
  {
-  "id": "second-nature-entrada",
-  "name": "Second Nature Entrada",
-  "kind": "facility",
-  "place": "Santa Clara, UT, United States",
-  "start": null,
-  "end": 2015,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/evoke-entrada/",
-    "quote": "The program was formerly known as Second Nature Entrada until it was rebranded in 2015"
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/evoke-entrada/",
-    "quote": "In 2004, he purchased Second Nature Entrada and, in 2015, rebranded it Evoke Entrada."
-   }
-  ],
-  "note": "Renamed Evoke Entrada in 2015. Existed by 2004 (bought by Rick Heizer); its own founding year not found (Second Nature brand dates from 1998)."
- },
- {
   "id": "second-nature-entrada-cascades",
   "name": "Second Nature Entrada & Cascades",
   "kind": "parent",
@@ -4618,74 +2992,6 @@
   "note": "Year comes from its NATSAP directory profile, which the program writes itself."
  },
  {
-  "id": "sequel-transition-academy",
-  "name": "Sequel Transition Academy",
-  "kind": "facility",
-  "place": "Sioux Falls, SD, United States",
-  "start": 2013,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20131126081251/http://sequelyouthservices.com/html/staffsecure-transition.html",
-    "quote": "Established in 2013, Sequel Transition Academy is a step down, transition program for males age 16-20 that have completed a long-term residential program."
-   }
-  ],
-  "note": "Second pass. Sequel's own program page (archived November 2013) says it was established in 2013, 7 miles west of Sioux Falls; the program continues under Vivant as Brighter Transition Youth Treatment Center, rename year not found, so no end year is given for the old name."
- },
- {
-  "id": "sequel-tsi-courtland",
-  "name": "Sequel TSI Courtland",
-  "kind": "facility",
-  "place": "Courtland, AL, United States",
-  "start": 2009,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Sequel_Youth_and_Family_Services",
-    "quote": "In September 2009, Sequel Youth and Family Services acquired Three Springs Inc. (TSI), an operator of youth behavioral health facilities based in Huntsville, Alabama."
-   }
-  ],
-  "note": "Second pass. The Sequel TSI name dates from Sequel's September 2009 purchase of Three Springs; the program later became Brighter Path Courtland under Vivant (formed September 2021), but no rename year was quoted."
- },
- {
-  "id": "sequel-tsi-montgomery",
-  "name": "Sequel TSI Montgomery",
-  "kind": "facility",
-  "place": "Montgomery, AL, United States",
-  "start": 2013,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.brighterpathmontgomery.com/",
-    "quote": "Brighter Path Montgomery was established in 2013 as a residential treatment facility serving females in need of a secure environment and in need of intensive residential treatment services."
-   }
-  ],
-  "note": "Now Brighter Path Montgomery (Sequel TSI of Alabama was renamed Brighter Path of Alabama, reported 2022); rename year not quoted."
- },
- {
-  "id": "sequel-tsi-tuskegee",
-  "name": "Sequel TSI Tuskegee",
-  "kind": "facility",
-  "place": "Tuskegee, AL, United States",
-  "start": 2009,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Sequel_Youth_and_Family_Services",
-    "quote": "In September 2009, Sequel Youth and Family Services acquired Three Springs Inc. (TSI), an operator of youth behavioral health facilities based in Huntsville, Alabama."
-   }
-  ],
-  "note": "Second pass. The Sequel TSI name dates from Sequel's September 2009 purchase of Three Springs (the Tuskegee program was earlier Three Springs School of Tuskegee); it now runs as Brighter Path Tuskegee under Vivant, rename year not found."
- },
- {
   "id": "sequel-youth-and-family-services",
   "name": "Sequel Youth and Family Services",
   "kind": "parent",
@@ -4705,23 +3011,6 @@
    }
   ],
   "note": "Founded 1999; in 2021 it closed about half its centres and sold most of the rest to Vivant, so 2021 is a sale year, not a formal dissolution (APM in 2022: 'Sequel has all but vanished')."
- },
- {
-  "id": "silverado-boys-ranch",
-  "name": "Silverado Boys Ranch",
-  "kind": "facility",
-  "place": "Panguitch, UT, United States",
-  "start": 2006,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://web.archive.org/web/20060721173604/http://www.silveradoboysranch.com:80/",
-    "quote": "Earliest Wayback Machine capture of silveradoboysranch.com (page title 'Silverado Boys Ranch'): 20060721 (2006)"
-   }
-  ],
-  "note": "Second pass. Only evidence of operating by 2006 (the program's own site; by 2019 the domain carried unrelated content). No founding or closure year found."
  },
  {
   "id": "snowden-cottage-academy",
@@ -4782,56 +3071,6 @@
   "note": "Not researched: web search budget used up; sayla.org is an unrelated San Antonio lawyers group."
  },
  {
-  "id": "southwood-psychiatric-hospital",
-  "name": "Southwood Psychiatric Hospital",
-  "kind": "facility",
-  "place": "Pittsburgh, PA, United States",
-  "start": 1984,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://southwoodhospital.com/about/",
-    "quote": "Since its inception in 1984, Southwood has emerged as a leader in the deliverance of psychiatric services to youth and their families."
-   }
-  ],
-  "note": "Second pass. Its own About page dates it to 1984; still operating near Pittsburgh (now Southwood Children's Behavioral Healthcare)."
- },
- {
-  "id": "st-augustine-youth-academy",
-  "name": "St Augustine Youth Academy",
-  "kind": "facility",
-  "place": "St. Augustine, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "Not researched: web search budget used up."
- },
- {
-  "id": "st-johns-youth-academy",
-  "name": "St John's Youth Academy",
-  "kind": "facility",
-  "place": "St. Augustine, FL, United States",
-  "start": null,
-  "end": 2022,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.levylaw.com/st-johns-youth-academy-sexual-abuse-lawsuits/",
-    "quote": "Incidents of abuse forced St. John's Youth Academy to close in 2022."
-   },
-   {
-    "url": "https://www.levylaw.com/st-johns-youth-academy-sexual-abuse-lawsuits/",
-    "quote": "In October 2022, accusations emerged that personnel at St. John's Youth Academy had been instigating fights among the youth held there and had been inappropriately involved with them."
-   }
-  ],
-  "note": "Second pass. DJJ shut the Sequel TSI program at 4500 Avenue D after a riot in October 2022 and ended the contract (News4JAX, 28 Oct 2022). The site now runs as St. Augustine Youth Academy. No opening year was found; its NPI record dates only from 2010-05-24."
- },
- {
   "id": "st-pauls-preparatory-academy",
   "name": "St Paul's Preparatory Academy",
   "kind": "facility",
@@ -4847,23 +3086,6 @@
    }
   ],
   "note": "Wikipedia lists it under Defunct schools with its closure date in parentheses; no founding year found, and the Wikipedia article of the same name is an unrelated Arlington, Texas school."
- },
- {
-  "id": "star-guides-wilderness-therapy",
-  "name": "Star Guides Wilderness Therapy",
-  "kind": "facility",
-  "place": "St. George, UT, United States",
-  "start": 2008,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://gust.com/companies/starguides",
-    "quote": "Founded July 2008"
-   }
-  ],
-  "note": "Founding year from a Gust company profile field (quote shorter than 5 words); founders include Brian Pace."
  },
  {
   "id": "stone-of-help-group-homes",
@@ -4924,23 +3146,6 @@
   "note": "KCUR (April 2022) says Successful Dreams 'starts running the facility on May 1' (Lakeside Academy, 2022); a search summary said the Parsons, KS agency has operated since 2005 but no verbatim quote was obtained."
  },
  {
-  "id": "summit-achievement",
-  "name": "Summit Achievement",
-  "kind": "facility",
-  "place": "Stow, ME, United States",
-  "start": 1996,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://summitachievement.com/about/our-history/",
-    "quote": "Since 1996, Summit Achievement has been a leader in residential treatment for adolescents."
-   }
-  ],
-  "note": "Second pass. The program's own history page gives 1996. Still operating in Stow, Maine."
- },
- {
   "id": "summit-view-youth-correctional-facility",
   "name": "Summit View Youth Correctional Facility",
   "kind": "facility",
@@ -4956,27 +3161,6 @@
    }
   ],
   "note": "Opened June 1, 2000 under YSI; YSI pulled out of its contract in September 2001 per the Las Vegas Sun (paywalled, no verbatim quote). The state reopened it in 2016 as Summit View Youth Center."
- },
- {
-  "id": "synanon",
-  "name": "Synanon",
-  "kind": "parent",
-  "place": "",
-  "start": 1958,
-  "end": 1991,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/Synanon",
-    "quote": "Synanon was founded in 1958 by Charles Dederich Sr."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Synanon",
-    "quote": "That bankrupted Synanon, which formally dissolved in 1991."
-   }
-  ],
-  "note": ""
  },
  {
   "id": "talisman-programs",
@@ -5032,23 +3216,6 @@
   "note": "Operating under TrueCore via a DJJ contract; no opening year found."
  },
  {
-  "id": "teen-challenge-of-acadiana-inc",
-  "name": "Teen Challenge of Acadiana Inc",
-  "kind": "parent",
-  "place": "St. Martinville, LA, United States",
-  "start": 1995,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://evangelhouse.com/christian-boarding-school-for-girls-in-louisiana/",
-    "quote": "The Evangelhouse therapeutic boarding school was established in 1995 to serve Christian families with a quality residential treatment option for troubled teen girls."
-   }
-  ],
-  "note": "The corporation still operates as Evangelhouse Christian Academy (its trade name); Cause IQ also gives the nonprofit's year formed as 1995."
- },
- {
   "id": "teen-discovery",
   "name": "Teen Discovery",
   "kind": "other",
@@ -5071,11 +3238,15 @@
   "confidence": "low",
   "sources": [
    {
-    "url": "https://en.wikipedia.org/wiki/Academy_at_Ivy_Ridge",
-    "quote": "However, the Teen Help subsidiary of WWASPS was still marketing for the school as late as March 2007."
+    "url": "https://wwaspsurvivors.com/about-wwasp/owners-staff/",
+    "quote": "Owner of Teen Help, the marketing arm of WWASP."
+   },
+   {
+    "url": "https://www.strugglingteens.com/news/teenhelp/wwaspteenhelpdebate.html",
+    "quote": "Teen Help actually has only been a marketing, screening and admissions group that refers parents and their children to WWASP programs, and occasionally to other programs."
    }
   ],
-  "note": "No founding or closing year found; the quote only shows it was still active in March 2007."
+  "note": "Teen Help LLC (St. George UT) was WWASP's marketing and admissions arm, owned by Robert Lichfield; it predates WWASP's 1998 founding (Lichfield managed Brightway from 1993) and WWASP was out of business by 2010. No page gives a founding or dissolution year for Teen Help itself; a Utah business-registry lookup would."
  },
  {
   "id": "tennessee-department-of-human-services",
@@ -5140,60 +3311,6 @@
   "note": "Renamed ISEPP in 2011 (continues under that name); some sources give 1971 as the founding year."
  },
  {
-  "id": "the-john-dewey-academy",
-  "name": "The John Dewey Academy",
-  "kind": "facility",
-  "place": "Great Barrington, MA, United States",
-  "start": 1985,
-  "end": 2022,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/news/after-35-years-john-dewey-academy-has-a-new-owner/",
-    "quote": "John Dewey Academy was founded in 1985 by Tom and Carole Bratter with the dream of offering a different path to struggling teens."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/John_Dewey_Academy",
-    "quote": "the school closed in 2022, with Baum stating 'Reboot, revise, re-staff — everything's on the table.'"
-   }
-  ],
-  "note": "Bought by head of school David Baum in 2020; closed in 2022 to 'reboot'."
- },
- {
-  "id": "the-seed",
-  "name": "The Seed",
-  "kind": "facility",
-  "place": "Fort Lauderdale, FL, United States",
-  "start": 1970,
-  "end": 2001,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://en.wikipedia.org/wiki/The_Seed_(organization)",
-    "quote": "The Seed was a controversial drug rehabilitation program in the United States that operated between 1970 and 2001."
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/The_Seed_(organization)",
-    "quote": "By 2001, only the original Fort Lauderdale location remained, and the founder, Arthur Barker, retired and dissolved the organisation."
-   }
-  ],
-  "note": ""
- },
- {
-  "id": "the-wardle-home",
-  "name": "The Wardle Home",
-  "kind": "facility",
-  "place": "ID, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No reliable source found; the Reddit wiki page could not be fetched and search access was exhausted."
- },
- {
   "id": "thompson-academy",
   "name": "Thompson Academy",
   "kind": "facility",
@@ -5209,52 +3326,6 @@
    }
   ],
   "note": "Closure set for January 4, 2013 (DJJ letter to YSI dated August 2, 2012); opening year not found."
- },
- {
-  "id": "three-points-center",
-  "name": "Three Points Center",
-  "kind": "facility",
-  "place": "Hurricane, UT, United States",
-  "start": 2014,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/three-points-center/",
-    "quote": "Three Points Center is a WWASP-affiliated behavior modification that was founded in 2014 by Dr. Norm Thibault."
-   }
-  ],
-  "note": "Source is an advocacy group's profile; the program's website is still up."
- },
- {
-  "id": "three-rivers-montana",
-  "name": "Three Rivers Montana",
-  "kind": "facility",
-  "place": "Hamilton, MT, United States",
-  "start": 2004,
-  "end": 2009,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.bozemandailychronicle.com/news/three-rivers-montana-to-close/article_7072254f-9dd6-5a55-9402-f43d25ecd46b.html",
-    "quote": "Three Rivers Montana, a Belgrade-based wilderness program for troubled teens, plans to close Feb. 28, laying off its 37 employees, executive director Marylis Filipovich said Thursday."
-   },
-   {
-    "url": "https://www.bozemandailychronicle.com/news/three-rivers-montana-to-close/article_7072254f-9dd6-5a55-9402-f43d25ecd46b.html",
-    "quote": "\"datePublished\":\"2009-01-30T23:00:00-07:00\""
-   },
-   {
-    "url": "https://strugglingteens.com/artman/publish/ThreeRiversMontanaNP_040427.shtml",
-    "quote": "Posted: Apr 27, 2004"
-   },
-   {
-    "url": "https://web.archive.org/web/20040509070621/http://www.threeriversmontana.org:80/",
-    "quote": "Earliest Wayback Machine capture of threeriversmontana.org: 20040509"
-   }
-  ],
-  "note": "Second pass. A StrugglingTeens 'New Perspectives' piece introduced the program in April 2004; a June 2006 visit report says it was 'in its third year of operations'. It closed Feb. 28, 2009 (Bozeman Daily Chronicle, 30 Jan 2009: 'Three Rivers opened five years ago'). Sources place it in Belgrade (mail address Manhattan, MT), not Hamilton, so check the map's place."
  },
  {
   "id": "three-springs-duck-river",
@@ -5303,39 +3374,6 @@
   "note": "Founded as Timberlawn Sanitarium in 1917 and closed on February 16, 2018 after state and federal safety actions."
  },
  {
-  "id": "timberline-knolls-rtc",
-  "name": "Timberline Knolls RTC",
-  "kind": "facility",
-  "place": "Lemont, IL, United States",
-  "start": 2006,
-  "end": 2025,
-  "stillOperating": false,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.globenewswire.com/news-release/2021/02/25/2182795/0/en/Timberline-Knolls-Residential-Treatment-Center-Celebrates-15-Years-of-Service.html",
-    "quote": "Since the day we opened in March 2006, Timberline Knolls has been a vital source of uncompromising care and relentless compassion for women and girls who turn to us in their time of need"
-   },
-   {
-    "url": "https://www.cbsnews.com/chicago/news/timberline-knolls-closing-in-february",
-    "quote": "Acadia has made the decision to close its Timberline Knolls facility located in Lemont, Illinois, effective February 13, 2025."
-   }
-  ],
-  "note": "The map marks it open, but Acadia closed it February 13, 2025. The earlier Rock Creek Center on the site was not researched."
- },
- {
-  "id": "tipton-academy",
-  "name": "Tipton Academy",
-  "kind": "facility",
-  "place": "Tipton, KS, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No source found."
- },
- {
   "id": "trails-momentum",
   "name": "Trails Momentum",
   "kind": "facility",
@@ -5346,18 +3384,6 @@
   "confidence": "low",
   "sources": [],
   "note": "No reliable source found; trailsmomentum.com now redirects to an unrelated site and search access was exhausted."
- },
- {
-  "id": "treasure-coast-boys-academy",
-  "name": "Treasure Coast Boys Academy",
-  "kind": "facility",
-  "place": "Vero Beach, FL, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [],
-  "note": "No source giving a founding year found; directory listings show it at 801 154th Ave, Vero Beach, but search access was exhausted."
  },
  {
   "id": "trinity-hunt-partners",
@@ -5375,40 +3401,6 @@
    }
   ],
   "note": "Second pass. Lower bound only: the site existed by March 2004. Its site says 'For over 22 years' but gives no founding year, so the real founding is probably a few years earlier."
- },
- {
-  "id": "true-north-wilderness-program",
-  "name": "True North Wilderness Program",
-  "kind": "facility",
-  "place": "Waitsfield, VT, United States",
-  "start": 2005,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://truenorthevolution.com/about/",
-    "quote": "True North has prioritized a focus on our core philosophies since welcoming the very first student in 2005."
-   }
-  ],
-  "note": "Second pass. truenorthwilderness.com now redirects to True North Evolution in Waitsfield, VT, the same program under a new name, which took its first student in 2005. The year of the rename is unknown."
- },
- {
-  "id": "turnbridge",
-  "name": "Turnbridge",
-  "kind": "facility",
-  "place": "New Haven, CT, United States",
-  "start": 2003,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "high",
-  "sources": [
-   {
-    "url": "https://www.naatp.org/membership/member-news/turnbridger-celebrates-20-years/jan-27-2023",
-    "quote": "Founded by CEO David Vieau in 2003, Turnbridge was envisioned to dramatically improve behavioral healthcare."
-   }
-  ],
-  "note": "Second pass. NAATP member news on Turnbridge's 20th anniversary gives 2003 as the founding year (it operated as Turning Point before renaming to Turnbridge)."
  },
  {
   "id": "uhs-of-kootenai-river",
@@ -5512,8 +3504,17 @@
   "end": null,
   "stillOperating": false,
   "confidence": "low",
-  "sources": [],
-  "note": "No reliable year found: web search budget ran out and the search engines tried were rate-limited, so this name was not researched fully. Breaking Code Silence describes it as part of Aspiro Group Inc."
+  "sources": [
+   {
+    "url": "https://www.fornits.com/phpbb/index.php?topic=31004.0",
+    "quote": "Started by physics_gal, August 28, 2010, 04:56:38 PM"
+   },
+   {
+    "url": "https://www.strugglingteens.com/artman/publish/printer_AspiroGroupBN_111221.shtml",
+    "quote": "Vantage Point, (neurologically diverse adolescents ages 13-17)."
+   }
+  ],
+  "note": "Vantage Point by Aspiro (Aspiro Group, Provo/Mt. Pleasant UT) for neurodiverse teens; a Fornits thread shows it existed by August 2010 and Woodbury Reports lists it in December 2011. No opening or rename year found; vantagepointaspiro.com no longer resolves."
  },
  {
   "id": "vermont-state-board-of-education",
@@ -5531,39 +3532,6 @@
    }
   ],
   "note": "Second pass. The 1900 US Bureau of Education history of education in Vermont dates the state board of education to an 1856 law. The board has been reorganised since then, so treat 1856 as when the body began."
- },
- {
-  "id": "victory-christian-academy",
-  "name": "Victory Christian Academy",
-  "kind": "facility",
-  "place": "Ramona, CA, United States",
-  "start": null,
-  "end": 1991,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://vice.com/en_ca/article/vbzexd/how-christian-reform-schools-get-away-with-brutal-child-abuse",
-    "quote": "In 1991, Palmer closed Victory Christian Academy after the state of California pushed for licensure."
-   },
-   {
-    "url": "https://thehumanist.com/magazine/may-june-2009/features/lockdown-are-teens-and-taxpayers-paying-the-price-at-christian-reform-schools/",
-    "quote": "After many attempts and court battles, the school was finally ordered closed down by a San Diego judge in 1992."
-   }
-  ],
-  "note": "Second pass. The Ramona home run by Mike Palmer closed in 1991 (Vice, citing a 1991 LA Times story; The Humanist says a judge ordered it closed in 1992); Palmer moved on to Jay, Florida. A survivor was sent there in 1986, but no opening year was found."
- },
- {
-  "id": "village-behavioral-health-treatment-center",
-  "name": "Village Behavioral Health Treatment Center",
-  "kind": "facility",
-  "place": "Louisville, TN, United States",
-  "start": null,
-  "end": null,
-  "stillOperating": true,
-  "confidence": "low",
-  "sources": [],
-  "note": "No year found; its site says only 'For more than eight years' with no founding date."
  },
  {
   "id": "visionquest",
@@ -5646,31 +3614,6 @@
   "note": "Founded 1919 as the State Home for Dependent and Neglected Children (Waco State Home); became Waco Center for Youth after the 1979 transfer to Texas MHMR."
  },
  {
-  "id": "walkabout-therapeutic-expeditions",
-  "name": "Walkabout Therapeutic Expeditions",
-  "kind": "facility",
-  "place": "Lehi, UT, United States",
-  "start": 2001,
-  "end": 2004,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://www.breakingcodesilence.org/outback-therapeutic-expeditions/",
-    "quote": "Outback Therapeutic Expeditions is a behavior-modification program founded in 2001"
-   },
-   {
-    "url": "https://www.breakingcodesilence.org/outback-therapeutic-expeditions/",
-    "quote": "It was originally named 'Walkabout' but changed its name to Outback Therapeutic Expeditions in 2004."
-   },
-   {
-    "url": "https://www.deseret.com/2004/9/21/19851594/walkabout-therapeutic-of-lehi-changes-its-name/",
-    "quote": "Walkabout Therapeutic Expeditions of Lehi, a program of Aspen Education Group, has changed its name to Outback Therapeutic Expeditions."
-   }
-  ],
-  "note": "Second pass. Founded 2001 as Walkabout; renamed Outback Therapeutic Expeditions in September 2004 (Deseret News, 21 Sep 2004)."
- },
- {
   "id": "walnut-creek-rtc",
   "name": "Walnut Creek RTC",
   "kind": "facility",
@@ -5686,44 +3629,6 @@
    }
   ],
   "note": "Second pass. California Community Care Licensing first licensed Evolve's Walnut Creek group home on 10 July 2020, and it is still licensed."
- },
- {
-  "id": "wayne-county-girls-program",
-  "name": "Wayne County Girls Program",
-  "kind": "facility",
-  "place": "Jesup, GA, United States",
-  "start": 2001,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "low",
-  "sources": [
-   {
-    "url": "https://kidsoverprofits.org/three-springs-inc/",
-    "quote": "Wayne County Girls Program 2001"
-   }
-  ],
-  "note": "Second pass. Lower bound only: the Three Springs page holds an archived Wayne County Girls Program web page from 17 Dec 2001, so it was operating by 2001. No opening or closing year found (Three Springs went to Sequel in 2009)."
- },
- {
-  "id": "waypoint-academy",
-  "name": "WayPoint Academy",
-  "kind": "facility",
-  "place": "Huntsville, UT, United States",
-  "start": 2013,
-  "end": 2025,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "http://ogden-valley.blogspot.com/2012/12/green-valley-academy-changes-name-to.html",
-    "quote": "The facility plans to open in March, 2013."
-   },
-   {
-    "url": "https://members.natsap.org/natsapbulletin/Details/cascade-programs-acquired-waypoint-academy-253089",
-    "quote": "This transaction was finalized on February 10, 2025"
-   }
-  ],
-  "note": "Second pass. Planned as Green Valley Academy, renamed Waypoint Academy before its planned March 2013 opening; Cascade Programs bought it in February 2025 and renamed it Cascade Lodge, so the Waypoint name ended in 2025."
  },
  {
   "id": "western-youth",
@@ -5762,23 +3667,6 @@
    }
   ],
   "note": "Second pass. Dun & Bradstreet's listing (seen in search results; the page itself returned 403) gives 2000 for the Nephi academy owned by Mark and Cheryl Sudweeks. A statement the owners posted in 2004 shows it was running then. No closing year found."
- },
- {
-  "id": "willow-creek-school",
-  "name": "Willow Creek School",
-  "kind": "facility",
-  "place": "Provo, UT, United States",
-  "start": 2005,
-  "end": null,
-  "stillOperating": false,
-  "confidence": "medium",
-  "sources": [
-   {
-    "url": "https://strugglingteens.com/artman/publish/article_5107.shtml",
-    "quote": "Opening July/2005"
-   }
-  ],
-  "note": "Second pass. A StrugglingTeens notice posted 25 May 2005 announced that the Provo school would open in July 2005. Its NPI (1841367935, enumerated 2006-11-30) is still listed as active, and no closing year was found."
  },
  {
   "id": "willow-grove-llc",
