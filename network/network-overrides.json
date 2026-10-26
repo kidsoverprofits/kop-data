@@ -1273,14 +1273,6 @@
       "source": "KOP facility records (pastNames / currentName) and Map Renames, 2026-10-09 rebrand list"
     },
     {
-      "name": "Ascend Behavioral Health",
-      "kind": "facility",
-      "network": "Unframed",
-      "near": "Accelerated Christian Education",
-      "status": "closed or rebranded",
-      "source": "KOP facility records (pastNames / currentName) and Map Renames, 2026-10-09 rebrand list"
-    },
-    {
       "name": "Mingus Mountain Estate Residential Center, Inc.",
       "kind": "facility",
       "network": "Unframed",
@@ -5024,13 +5016,6 @@
     {
       "from": "Arizona Ranch School",
       "to": "The Chazen Institute",
-      "relationship": "rebrand",
-      "category": "corporate",
-      "source": "KOP facility records (pastNames / currentName) and Map Renames, 2026-10-09 rebrand list"
-    },
-    {
-      "from": "Ascend Behavioral Health",
-      "to": "Mingus Mountain Estate Residential Center, Inc.",
       "relationship": "rebrand",
       "category": "corporate",
       "source": "KOP facility records (pastNames / currentName) and Map Renames, 2026-10-09 rebrand list"
