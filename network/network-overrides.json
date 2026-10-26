@@ -3476,14 +3476,14 @@
     },
     {
       "name": "Altamont Capital Partners",
-      "kind": "other",
+      "kind": "investor",
       "near": "Sequel Youth and Family Services",
       "status": "open",
       "source": "https://altamontcapital.com/news/altamont-capital-partners-invests-in-sequel-youth-family-services/ (majority equity investment, September 1, 2017)"
     },
     {
       "name": "Levine Leichtman Capital Partners",
-      "kind": "other",
+      "kind": "investor",
       "aliases": [
         "LLCP"
       ],
@@ -3493,7 +3493,7 @@
     },
     {
       "name": "Alaris Royalty Corp.",
-      "kind": "other",
+      "kind": "investor",
       "aliases": [
         "Alaris Royalty",
         "Alaris Equity Partners"
@@ -3504,7 +3504,7 @@
     },
     {
       "name": "Patriot Capital",
-      "kind": "other",
+      "kind": "investor",
       "near": "Sequel Youth and Family Services",
       "status": "open",
       "source": "https://www.patriot-capital.com/portfolio-companies/sequel-youth-and-family-services/ (growth financing, exited Q1 2008)"
