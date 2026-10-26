@@ -3,8 +3,8 @@
   "sourceHash": "eb3d221bc5b1",
   "facilitySource": "facilities_v2",
   "counts": {
-   "nodes": 2072,
-   "edges": 4071,
+   "nodes": 2075,
+   "edges": 4074,
    "facilityMatches": 697,
    "withYears": 506,
    "withDeaths": 34,
@@ -13,7 +13,7 @@
    "staffMovementEdges": 8,
    "staffListEdges": 530,
    "relationEdges": 0,
-   "addedPeople": 787,
+   "addedPeople": 790,
    "withPersonId": 1108,
    "kind_person": 1111,
    "kind_facility": 816,
@@ -21,8 +21,9 @@
    "kind_association": 14,
    "kind_government": 16,
    "kind_church": 7,
-   "kind_other": 14,
-   "edge_corporate": 929,
+   "kind_investor": 7,
+   "kind_other": 10,
+   "edge_corporate": 932,
    "edge_family": 47,
    "edge_survivor": 6,
    "edge_referral": 12,
@@ -56,6 +57,7 @@
    "association",
    "government",
    "church",
+   "investor",
    "other"
   ],
   "chains": [
@@ -1334,6 +1336,43 @@
    "years": "1967-2005"
   },
   {
+   "id": "innerchange",
+   "name": "InnerChange",
+   "aliases": [],
+   "kind": "parent",
+   "status": "open",
+   "chain": "",
+   "regions": [
+    "Embark"
+   ],
+   "natsap": false,
+   "importance": 22601,
+   "degree": 27,
+   "degreeByCategory": {
+    "corporate": 10,
+    "leadership": 9,
+    "clinical": 2,
+    "admissions": 4,
+    "unknown": 1,
+    "staff": 1
+   },
+   "facilityId": null,
+   "uniqueName": null,
+   "dates": "",
+   "isolated": false,
+   "board": {
+    "x": 805.58,
+    "y": 57.87
+   },
+   "years": "2006-2018",
+   "otherNames": [
+    "Solacium",
+    "Solacium Holdings, LLC",
+    "Solacium Group",
+    "InnerChange Programs"
+   ]
+  },
+  {
    "id": "oasis-ascent",
    "name": "OASIS Ascent",
    "aliases": [],
@@ -1391,43 +1430,6 @@
    "years": "from 2008",
    "otherNames": [
     "Wilderness Training & Consulting LLC"
-   ]
-  },
-  {
-   "id": "innerchange",
-   "name": "InnerChange",
-   "aliases": [],
-   "kind": "parent",
-   "status": "open",
-   "chain": "",
-   "regions": [
-    "Embark"
-   ],
-   "natsap": false,
-   "importance": 22601,
-   "degree": 25,
-   "degreeByCategory": {
-    "corporate": 8,
-    "leadership": 9,
-    "clinical": 2,
-    "admissions": 4,
-    "unknown": 1,
-    "staff": 1
-   },
-   "facilityId": null,
-   "uniqueName": null,
-   "dates": "",
-   "isolated": false,
-   "board": {
-    "x": 805.58,
-    "y": 57.87
-   },
-   "years": "2006-2018",
-   "otherNames": [
-    "Solacium",
-    "Solacium Holdings, LLC",
-    "Solacium Group",
-    "InnerChange Programs"
    ]
   },
   {
@@ -41277,6 +41279,32 @@
    "personId": 120
   },
   {
+   "id": "paradigm-treatment-centers",
+   "name": "Paradigm Treatment Centers",
+   "aliases": [],
+   "kind": "facility",
+   "status": "open",
+   "chain": "Altior",
+   "regions": [
+    "Altior"
+   ],
+   "natsap": false,
+   "importance": 28749,
+   "degree": 2,
+   "degreeByCategory": {
+    "corporate": 2
+   },
+   "facilityId": 10601,
+   "uniqueName": "Paradigm Treatment Centers",
+   "dates": "",
+   "isolated": false,
+   "board": {
+    "x": 579.59,
+    "y": -85.08
+   },
+   "years": "from 2011"
+  },
+  {
    "id": "pathway-family-cener",
    "name": "Pathway Family Cener",
    "aliases": [],
@@ -47535,7 +47563,7 @@
     "Alaris Royalty",
     "Alaris Equity Partners"
    ],
-   "kind": "other",
+   "kind": "investor",
    "status": "open",
    "chain": "",
    "regions": [
@@ -47554,7 +47582,9 @@
    "board": {
     "x": -732.78,
     "y": -17.25
-   }
+   },
+   "investorId": 3,
+   "investorKind": "Royalty or specialty finance"
   },
   {
    "id": "alaska-baptist-family-services",
@@ -47616,7 +47646,7 @@
    "id": "altamont-capital-partners",
    "name": "Altamont Capital Partners",
    "aliases": [],
-   "kind": "other",
+   "kind": "investor",
    "status": "open",
    "chain": "",
    "regions": [
@@ -47635,7 +47665,9 @@
    "board": {
     "x": -739.56,
     "y": -17.25
-   }
+   },
+   "investorId": 4,
+   "investorKind": "Private equity firm"
   },
   {
    "id": "amikids-beaufort",
@@ -49720,6 +49752,36 @@
    "personId": 2216
   },
   {
+   "id": "cic-partners",
+   "name": "CIC Partners",
+   "aliases": [],
+   "kind": "investor",
+   "status": "",
+   "chain": "",
+   "regions": [
+    "Embark"
+   ],
+   "natsap": false,
+   "importance": 0,
+   "degree": 1,
+   "degreeByCategory": {
+    "corporate": 1
+   },
+   "facilityId": null,
+   "uniqueName": null,
+   "dates": "",
+   "isolated": false,
+   "board": {
+    "x": 805.58,
+    "y": 57.87
+   },
+   "addedFrom": [
+    "investors"
+   ],
+   "investorId": 6,
+   "investorKind": "Private equity firm"
+  },
+  {
    "id": "coffee-creek-center",
    "name": "Coffee Creek Center",
    "aliases": [],
@@ -49844,6 +49906,35 @@
     "x": -957.46,
     "y": -549.5
    }
+  },
+  {
+   "id": "cressey-company",
+   "name": "Cressey & Company",
+   "aliases": [],
+   "kind": "investor",
+   "status": "",
+   "chain": "",
+   "regions": [
+    "Embark"
+   ],
+   "natsap": false,
+   "importance": 0,
+   "degree": 1,
+   "degreeByCategory": {
+    "corporate": 1
+   },
+   "facilityId": null,
+   "uniqueName": null,
+   "dates": "",
+   "isolated": false,
+   "board": {
+    "x": 805.58,
+    "y": 57.87
+   },
+   "addedFrom": [
+    "investors"
+   ],
+   "investorId": 7
   },
   {
    "id": "cross-creek-academy",
@@ -53018,7 +53109,7 @@
    "aliases": [
     "LLCP"
    ],
-   "kind": "other",
+   "kind": "investor",
    "status": "open",
    "chain": "",
    "regions": [
@@ -53037,7 +53128,9 @@
    "board": {
     "x": -736.17,
     "y": -17.25
-   }
+   },
+   "investorId": 2,
+   "investorKind": "Private equity firm"
   },
   {
    "id": "life",
@@ -54647,32 +54740,6 @@
    }
   },
   {
-   "id": "paradigm-treatment-centers",
-   "name": "Paradigm Treatment Centers",
-   "aliases": [],
-   "kind": "facility",
-   "status": "open",
-   "chain": "Altior",
-   "regions": [
-    "Altior"
-   ],
-   "natsap": false,
-   "importance": 28749,
-   "degree": 1,
-   "degreeByCategory": {
-    "corporate": 1
-   },
-   "facilityId": 10601,
-   "uniqueName": "Paradigm Treatment Centers",
-   "dates": "",
-   "isolated": false,
-   "board": {
-    "x": 579.59,
-    "y": -85.08
-   },
-   "years": "from 2011"
-  },
-  {
    "id": "parc-place",
    "name": "Parc Place",
    "aliases": [],
@@ -54731,7 +54798,7 @@
    "id": "patriot-capital",
    "name": "Patriot Capital",
    "aliases": [],
-   "kind": "other",
+   "kind": "investor",
    "status": "open",
    "chain": "",
    "regions": [
@@ -54750,7 +54817,9 @@
    "board": {
     "x": -729.38,
     "y": -17.25
-   }
+   },
+   "investorId": 1,
+   "investorKind": "Private equity firm"
   },
   {
    "id": "paul-donnelly",
@@ -54917,6 +54986,36 @@
    ],
    "edCon": true,
    "personId": 854
+  },
+  {
+   "id": "pine-tree-equity-partners",
+   "name": "Pine Tree Equity Partners",
+   "aliases": [],
+   "kind": "investor",
+   "status": "",
+   "chain": "",
+   "regions": [
+    "Altior"
+   ],
+   "natsap": false,
+   "importance": 0,
+   "degree": 1,
+   "degreeByCategory": {
+    "corporate": 1
+   },
+   "facilityId": null,
+   "uniqueName": null,
+   "dates": "",
+   "isolated": false,
+   "board": {
+    "x": 579.59,
+    "y": -85.08
+   },
+   "addedFrom": [
+    "investors"
+   ],
+   "investorId": 5,
+   "investorKind": "Private equity firm"
   },
   {
    "id": "pine-view-christian-academy",
@@ -113770,6 +113869,51 @@
    "crossesChain": false,
    "crossesRegion": true,
    "provenance": "staff-list"
+  },
+  {
+   "id": "i0001",
+   "source": "pine-tree-equity-partners",
+   "target": "paradigm-treatment-centers",
+   "category": "corporate",
+   "roles": [
+    "investor"
+   ],
+   "raw": "investor, from 2019 (investor record)",
+   "direction": "none",
+   "crossesChain": false,
+   "crossesRegion": false,
+   "provenance": "investors",
+   "years": "from 2019"
+  },
+  {
+   "id": "i0002",
+   "source": "cic-partners",
+   "target": "innerchange",
+   "category": "corporate",
+   "roles": [
+    "majority owner"
+   ],
+   "raw": "majority owner, 2006-2011 (investor record)",
+   "direction": "acquirer",
+   "crossesChain": false,
+   "crossesRegion": false,
+   "provenance": "investors",
+   "years": "2006-2011"
+  },
+  {
+   "id": "i0003",
+   "source": "cressey-company",
+   "target": "innerchange",
+   "category": "corporate",
+   "roles": [
+    "investor"
+   ],
+   "raw": "investor, 2011-2018 (investor record)",
+   "direction": "none",
+   "crossesChain": false,
+   "crossesRegion": false,
+   "provenance": "investors",
+   "years": "2011-2018"
   }
  ]
 }
