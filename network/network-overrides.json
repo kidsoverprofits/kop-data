@@ -54,6 +54,8 @@
     "                edge id: ids are row positions and the next export",
     "                moves them. `relationships` cannot reach an unlabelled",
     "                line, because the wording is what is missing.",
+    "                \"drop\": true takes a board line off the map instead",
+    "                (a rebrand between two places that are not one program).",
     "views         - other lists the map can open on, offered as \"Start from\":",
     "                {\"key\": {\"label\": \"Shown in the select\", \"names\": [...]}}.",
     "                Keys are lowercase with hyphens; \"default\" is the headline.",
@@ -3517,6 +3519,12 @@
     }
   ],
   "lines": [
+    {
+      "from": "Paradise Cove",
+      "to": "A Better Way Youth Academy",
+      "drop": true,
+      "source": "Owner, 2026-10-25 (plan item 4.3-11): not a rename. Paradise Cove (Aufaga, Upolu, 1994 to about 2000) and A Better Way Youth Academy, an earlier name of Coral Reef Academy (Vaitele), were separate WWASPS programs in Samoa; the 2026-10-12 rename merge was undone."
+    },
     {
       "from": "Spring Ridge Academy",
       "to": "NATSAP",
