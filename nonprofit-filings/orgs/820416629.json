@@ -11,6 +11,18 @@
  "url": "https://projects.propublica.org/nonprofits/organizations/820416629",
  "filings": [
   {
+   "year": 2025,
+   "period": "202512",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F820416629_202512_990EZ_2026073124451454.pdf"
+  },
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F820416629_202412_990EZ_2026052624201504.pdf"
+  },
+  {
    "year": 2023,
    "period": "202312",
    "form": "990-EZ",

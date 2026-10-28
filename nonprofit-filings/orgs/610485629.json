@@ -11,6 +11,12 @@
  "url": "https://projects.propublica.org/nonprofits/organizations/610485629",
  "filings": [
   {
+   "year": 2025,
+   "period": "202512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F610485629_202512_990_2026081224511406.pdf"
+  },
+  {
    "year": 2024,
    "period": "202412",
    "form": "990",

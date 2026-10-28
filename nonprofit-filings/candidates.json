@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13",
+ "built": "2026-10-28",
  "sources": [
   "IRS Exempt Organizations Business Master File",
   "ProPublica Nonprofit Explorer"
@@ -69,6 +69,38 @@
    "address": "209 Forty Mile Ave",
    "zip": "99701",
    "ruling": "1978-08"
+  },
+  {
+   "ein": "833200138",
+   "name": "Amikids Inc",
+   "dba": "Amikids Alabama Family Services",
+   "city": "Montgomery",
+   "state": "AL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Montgomery; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "600 Interstate Park Dr Ste 601",
+   "zip": "36109",
+   "ruling": "1983-09"
   },
   {
    "ein": "630320193",
@@ -531,6 +563,70 @@
    "ruling": "1946-03"
   },
   {
+   "ein": "237271062",
+   "name": "Teen Challenge Of Birmingham Inc",
+   "dba": "",
+   "city": "Lincoln",
+   "state": "AL",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 2588530,
+   "address": "Po Box 270",
+   "zip": "35096",
+   "ruling": "1973-03"
+  },
+  {
+   "ein": "237412402",
+   "name": "The Bridge Inc",
+   "dba": "",
+   "city": "Gadsden",
+   "state": "AL",
+   "ntee": "F200",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100569,
+     "how": "its name",
+     "name": "The Bridge, Inc.",
+     "place": "Gadsden, AL",
+     "status": "Open",
+     "same_town": true
+    },
+    {
+     "kind": "facility",
+     "id": 100570,
+     "how": "its name",
+     "name": "The Bridge, Inc.",
+     "place": "Mobile, AL",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "More than one record has this name."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 7573107,
+   "address": "3232 Lay Springs Rd",
+   "zip": "35904",
+   "ruling": "1974-11"
+  },
+  {
    "ein": "630302145",
    "name": "United Methodist Childrens Home",
    "dba": "",
@@ -625,6 +721,29 @@
    "address": "Po Box 6813",
    "zip": "36302",
    "ruling": "1995-05"
+  },
+  {
+   "ein": "710420376",
+   "name": "Adult And Teen Challenge Of Arkansas Inc",
+   "dba": "",
+   "city": "Hot Springs",
+   "state": "AR",
+   "ntee": "O55Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 25,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1144843,
+   "address": "1679 N Highway 7",
+   "zip": "71909",
+   "ruling": "1971-03"
   },
   {
    "ein": "510172844",
@@ -920,8 +1039,8 @@
    "flags": [
     "The IRS has it in Helena; the record is somewhere else or names no town."
    ],
-   "filings": 7,
-   "years": "2017-2023",
+   "filings": 8,
+   "years": "2017-2024",
    "latest_year": 2023,
    "latest_revenue": 38435,
    "address": "625 Pecan",
@@ -1040,8 +1159,10 @@
      "same_town": true
     }
    ],
-   "match": "matched",
-   "flags": [],
+   "match": "check",
+   "flags": [
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
    "filings": 24,
    "years": "2001-2024",
    "latest_year": 2023,
@@ -1254,8 +1375,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 15,
-   "years": "2007-2024",
+   "filings": 16,
+   "years": "2007-2025",
    "latest_year": 2023,
    "latest_revenue": 1651770,
    "address": "Po Box 8237",
@@ -1380,8 +1501,8 @@
    "years": "2001-2024",
    "latest_year": 2022,
    "latest_revenue": 30480555,
-   "address": "Po Box 86537",
-   "zip": "85754",
+   "address": "401 N Bonita Ave",
+   "zip": "85745",
    "ruling": "1977-09"
   },
   {
@@ -2470,6 +2591,29 @@
    "ruling": "2000-04"
   },
   {
+   "ein": "680304933",
+   "name": "Faith Home Teen Challenge",
+   "dba": "",
+   "city": "Ceres",
+   "state": "CA",
+   "ntee": "F200",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 25,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 855493,
+   "address": "6643 Faith Home Rd",
+   "zip": "95307",
+   "ruling": "1994-01"
+  },
+  {
    "ein": "941172768",
    "name": "Faith Home Teen Ranch",
    "dba": "",
@@ -2739,6 +2883,29 @@
    "address": "1780 Vernon Street",
    "zip": "95678",
    "ruling": "1991-09"
+  },
+  {
+   "ein": "770119359",
+   "name": "Greater San Francisco Teen Challenge Inc",
+   "dba": "",
+   "city": "San Francisco",
+   "state": "CA",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 28,
+   "years": "1997-2024",
+   "latest_year": 2023,
+   "latest_revenue": 875805,
+   "address": "1464 Valencia St",
+   "zip": "94110",
+   "ruling": "1986-11"
   },
   {
    "ein": "942559262",
@@ -3257,8 +3424,8 @@
    "years": "2020-2023",
    "latest_year": 2022,
    "latest_revenue": 1449028,
-   "address": "4900 Angeles Vista Blvd",
-   "zip": "90043",
+   "address": "4028 Kenway Ave",
+   "zip": "90008",
    "ruling": "2018-11"
   },
   {
@@ -3851,6 +4018,29 @@
    "ruling": "1996-09"
   },
   {
+   "ein": "680358004",
+   "name": "Redwood Teen Challenge",
+   "dba": "",
+   "city": "Eureka",
+   "state": "CA",
+   "ntee": "X99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2000-2025",
+   "latest_year": 2023,
+   "latest_revenue": 1316653,
+   "address": "1435 7th St",
+   "zip": "95501",
+   "ruling": "1998-04"
+  },
+  {
    "ein": "942148477",
    "name": "Remi-vista",
    "dba": "",
@@ -3883,6 +4073,29 @@
    "ruling": "1979-06"
   },
   {
+   "ein": "680070116",
+   "name": "Sacramento Valley Teen Challenge Inc",
+   "dba": "",
+   "city": "Sacramento",
+   "state": "CA",
+   "ntee": "F34Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1682968,
+   "address": "Po Box 276737",
+   "zip": "95827",
+   "ruling": "1986-03"
+  },
+  {
    "ein": "954335986",
    "name": "San Gabriel Childrens Center Inc",
    "dba": "",
@@ -3913,6 +4126,29 @@
    "address": "1211 Center Court Dr Ste 105",
    "zip": "91724",
    "ruling": "1995-10"
+  },
+  {
+   "ein": "770071828",
+   "name": "South Bay Teen Challenge",
+   "dba": "",
+   "city": "San Jose",
+   "state": "CA",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1731995,
+   "address": "Po Box 24309",
+   "zip": "95154",
+   "ruling": "1986-01"
   },
   {
    "ein": "330521169",
@@ -4065,6 +4301,75 @@
    "address": "18646 Oxnard St",
    "zip": "91356",
    "ruling": "1973-11"
+  },
+  {
+   "ein": "770123596",
+   "name": "Teen Challenge Of East Bay Inc",
+   "dba": "",
+   "city": "San Jose",
+   "state": "CA",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 813681,
+   "address": "Po Box 24309",
+   "zip": "95154",
+   "ruling": "1987-03"
+  },
+  {
+   "ein": "770151684",
+   "name": "Teen Challenge Of Monterey Bay Inc",
+   "dba": "",
+   "city": "Watsonville",
+   "state": "CA",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1891564,
+   "address": "Po Box 1807",
+   "zip": "95077",
+   "ruling": "1992-11"
+  },
+  {
+   "ein": "952683852",
+   "name": "Teen Challenge Of Southern California",
+   "dba": "",
+   "city": "Riverside",
+   "state": "CA",
+   "ntee": "F220",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2002-2025",
+   "latest_year": 2023,
+   "latest_revenue": 14199733,
+   "address": "5445 Chicago Ave",
+   "zip": "92507",
+   "ruling": "1969-09"
   },
   {
    "ein": "953203759",
@@ -4345,7 +4650,7 @@
    "years": "2021-2023",
    "latest_year": 2023,
    "latest_revenue": 278367,
-   "address": "14960 Woodcarver Rd 203",
+   "address": "12265 Oracle Blvd Ste 200",
    "zip": "80921",
    "ruling": "2021-09"
   },
@@ -4504,6 +4809,29 @@
    "ruling": "2008-09"
   },
   {
+   "ein": "463747988",
+   "name": "Teen Challenge Of Colorado Springs",
+   "dba": "",
+   "city": "Colorado Spgs",
+   "state": "CO",
+   "ntee": "O99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 4,
+   "years": "2013-2016",
+   "latest_year": 2016,
+   "latest_revenue": 2836,
+   "address": "1515 Auto Mall Loop",
+   "zip": "80920",
+   "ruling": "2014-05"
+  },
+  {
    "ein": "320201442",
    "name": "The Link School",
    "dba": "",
@@ -4624,6 +4952,198 @@
    "ruling": "1983-08"
   },
   {
+   "ein": "200954381",
+   "name": "Amikids Inc",
+   "dba": "Amikids Wings Texas Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Ctr Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "203267389",
+   "name": "Amikids Inc",
+   "dba": "Pcmi Properties Inc",
+   "city": "Panama City",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Panama City; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "Po Box 268",
+   "zip": "32402",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "204439611",
+   "name": "Amikids Inc",
+   "dba": "Amikids Volusia Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "204525491",
+   "name": "Amikids Inc",
+   "dba": "Amikids Family Services Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "205117049",
+   "name": "Amikids Inc",
+   "dba": "Amikids Infinity Chicago Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Ctr Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "237155996",
+   "name": "Amikids Inc",
+   "dba": "Amikids Tampa Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
    "ein": "237228523",
    "name": "Amikids Inc",
    "dba": "Amikids Pinellas Inc",
@@ -4633,6 +5153,15 @@
    "subsection": "03",
    "found_in": "irs",
    "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
     {
      "kind": "facility",
      "id": 11134,
@@ -4645,7 +5174,8 @@
    ],
    "match": "check",
    "flags": [
-    "Matched by the second name the IRS lists for it, which can be a trust, a foundation or a support group named after the program."
+    "Matched by the second name the IRS lists for it, which can be a trust, a foundation or a support group named after the program.",
+    "More than one record has this name."
    ],
    "filings": 0,
    "years": "",
@@ -4653,6 +5183,1574 @@
    "latest_revenue": null,
    "address": "2220 62nd Ave S",
    "zip": "33712",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "237440836",
+   "name": "Amikids Inc",
+   "dba": "",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 54362336,
+   "address": "5918 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "260211141",
+   "name": "Amikids Inc",
+   "dba": "Amikids Acadiana Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "262264274",
+   "name": "Amikids Inc",
+   "dba": "Amikids Louisiana Properties Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "264132820",
+   "name": "Amikids Inc",
+   "dba": "Amikids Georgia Properties Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "271234477",
+   "name": "Amikids Inc",
+   "dba": "Amikids South Carolina Properties I",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "271738261",
+   "name": "Amikids Inc",
+   "dba": "Amikids Texas Properties Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "271980951",
+   "name": "Amikids Inc",
+   "dba": "Amikids Florida Properties Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "274233434",
+   "name": "Amikids Inc",
+   "dba": "Amikids N Carolina Properties",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "274233587",
+   "name": "Amikids Inc",
+   "dba": "Amikids Infinity Wake County Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "453526063",
+   "name": "Amikids Inc",
+   "dba": "Amikids New Mexico Properties",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "471150680",
+   "name": "Amikids Inc",
+   "dba": "Amikids St Louis Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "474616882",
+   "name": "Amikids Inc",
+   "dba": "Amikids Clay Co Inc",
+   "city": "Green Cv Spgs",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Green Cv Spgs; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "501 Lemon St",
+   "zip": "32043",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "475113829",
+   "name": "Amikids Inc",
+   "dba": "Amikids Caddo Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "570791258",
+   "name": "Amikids Inc",
+   "dba": "Amikids Beaufort Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "570925626",
+   "name": "Amikids Inc",
+   "dba": "Amikids Wings Piedmont Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "571060912",
+   "name": "Amikids Inc",
+   "dba": "Amikids Bennettsville Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "581712853",
+   "name": "Amikids Inc",
+   "dba": "Amikids Baton Rouge Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "582335222",
+   "name": "Amikids Inc",
+   "dba": "Amikids White Pines Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "582622478",
+   "name": "Amikids Inc",
+   "dba": "Amikids Savannah River Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "591163198",
+   "name": "Amikids Inc",
+   "dba": "Amikids Greater Fort Lauderdale Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "591447527",
+   "name": "Amikids Inc",
+   "dba": "Amikids Jacksonville Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "591546202",
+   "name": "Amikids Inc",
+   "dba": "Amikids Panama City Marine Institut",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "591561549",
+   "name": "Amikids Inc",
+   "dba": "Amikids Miami-dade Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "592553270",
+   "name": "Amikids Inc",
+   "dba": "Amikids Manatee Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "592661387",
+   "name": "Amikids Inc",
+   "dba": "Amikids Behavioral Health Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "592869412",
+   "name": "Amikids Inc",
+   "dba": "Amikids Space Coast Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "592878383",
+   "name": "Amikids Inc",
+   "dba": "Group Return",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "I400",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 58530495,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "592898416",
+   "name": "Amikids Inc",
+   "dba": "Amikids Peninsula Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593045041",
+   "name": "Amikids Inc",
+   "dba": "Amikids Orlando Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593048922",
+   "name": "Amikids Inc",
+   "dba": "Amikids Gainesville Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593051944",
+   "name": "Amikids Inc",
+   "dba": "Amikids Pensacola Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593052865",
+   "name": "Amikids Inc",
+   "dba": "Amikids Southwest Florida Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593082682",
+   "name": "Amikids Inc",
+   "dba": "Amikids Brunswick Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593095734",
+   "name": "Amikids Inc",
+   "dba": "Amikids Foundation Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593191294",
+   "name": "Amikids Inc",
+   "dba": "Amikids Pasco Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Ctr Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593213051",
+   "name": "Amikids Inc",
+   "dba": "Amikids Tallahassee Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593217810",
+   "name": "Amikids Inc",
+   "dba": "Amikids Yes Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593326596",
+   "name": "Amikids Inc",
+   "dba": "Amikids Big Cypress Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Ctr Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593343504",
+   "name": "Amikids Inc",
+   "dba": "Bay Area Marine Institute Inc",
+   "city": "St Petersburg",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in St Petersburg; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "12022 Gandy Blvd N",
+   "zip": "33702",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593392378",
+   "name": "Amikids Inc",
+   "dba": "South Carolina Wilderness Inst Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593392379",
+   "name": "Amikids Inc",
+   "dba": "Amikids Sand Hills Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593498450",
+   "name": "Amikids Inc",
+   "dba": "Amikids Virginia Wilderness Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593525382",
+   "name": "Amikids Inc",
+   "dba": "Amikids Duval Inc",
+   "city": "Jacksonville",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Jacksonville; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "2334 Butler Ave",
+   "zip": "32209",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593531532",
+   "name": "Amikids Inc",
+   "dba": "Amikids Emerald Coast Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "650101637",
+   "name": "Amikids Inc",
+   "dba": "Amikids Georgetown Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Drive 1590 Eas",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "650706618",
+   "name": "Amikids Inc",
+   "dba": "Amikids Sarasota County Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "742401524",
+   "name": "Amikids Inc",
+   "dba": "Amikids Rio Grande Valley Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "852733933",
+   "name": "Amikids Inc",
+   "dba": "Amikids New Mexico Inc",
+   "city": "Tampa",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Tampa; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5915 Benjamin Center Dr",
+   "zip": "33634",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "993533997",
+   "name": "Amikids Inc",
+   "dba": "Bay County",
+   "city": "Panama City",
+   "state": "FL",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Panama City; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "200 E Beach Dr",
+   "zip": "32401",
    "ruling": "1983-09"
   },
   {
@@ -5313,6 +7411,52 @@
    "ruling": "1942-05"
   },
   {
+   "ein": "471905154",
+   "name": "Global Teen Challenge Business Solutions Inc",
+   "dba": "",
+   "city": "Columbus",
+   "state": "GA",
+   "ntee": "P29",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 4,
+   "years": "2015-2018",
+   "latest_year": 2018,
+   "latest_revenue": 0,
+   "address": "15 W 10th St",
+   "zip": "31901",
+   "ruling": "2016-02"
+  },
+  {
+   "ein": "592479228",
+   "name": "Global Teen Challenge Inc",
+   "dba": "",
+   "city": "Columbus",
+   "state": "GA",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 24182359,
+   "address": "15 W 10th St",
+   "zip": "31901",
+   "ruling": "1985-04"
+  },
+  {
    "ein": "582360395",
    "name": "Hla Inc",
    "dba": "Hidden Lake Academy",
@@ -5435,6 +7579,75 @@
    "ruling": "2001-03"
   },
   {
+   "ein": "061573276",
+   "name": "Teen Challenge International Atlanta Inc",
+   "dba": "",
+   "city": "Lithonia",
+   "state": "GA",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 20,
+   "years": "2005-2024",
+   "latest_year": 2023,
+   "latest_revenue": 162331,
+   "address": "1753 Stephenson Rd",
+   "zip": "30058",
+   "ruling": "2000-09"
+  },
+  {
+   "ein": "593302759",
+   "name": "Teen Challenge International Inc",
+   "dba": "",
+   "city": "Columbus",
+   "state": "GA",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 3453886,
+   "address": "15 W 10th St",
+   "zip": "31901",
+   "ruling": "1996-05"
+  },
+  {
+   "ein": "593319814",
+   "name": "Teen Challenge Job Training Inc",
+   "dba": "",
+   "city": "Columbus",
+   "state": "GA",
+   "ntee": "X21Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 21,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 10594141,
+   "address": "15 W 10th St",
+   "zip": "31901",
+   "ruling": "1996-07"
+  },
+  {
    "ein": "581413499",
    "name": "Twin Cedars Youth and Family Services Inc",
    "dba": "",
@@ -5518,8 +7731,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 23,
-   "years": "2002-2024",
+   "filings": 24,
+   "years": "2002-2025",
    "latest_year": 2023,
    "latest_revenue": 46610662,
    "address": "5400 Kirkwood Blvd Sw",
@@ -5589,6 +7802,29 @@
    "ruling": "1964-02"
   },
   {
+   "ein": "470601957",
+   "name": "Teen Challenge Of The Midlands Inc",
+   "dba": "",
+   "city": "Colfax",
+   "state": "IA",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 3879180,
+   "address": "900 N League Rd",
+   "zip": "50054",
+   "ruling": "1978-06"
+  },
+  {
    "ein": "820393140",
    "name": "Boise Christian Homes Inc",
    "dba": "Christian Childrens Ranch",
@@ -5639,10 +7875,21 @@
      "place": "Clark Fork, ID",
      "status": "Open",
      "same_town": true
+    },
+    {
+     "kind": "operator",
+     "id": 500025,
+     "how": "its name",
+     "name": "Elk Mountain Academy, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
     }
    ],
-   "match": "matched",
-   "flags": [],
+   "match": "check",
+   "flags": [
+    "More than one record has this name."
+   ],
    "filings": 24,
    "years": "2001-2024",
    "latest_year": 2023,
@@ -5703,8 +7950,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 24,
-   "years": "2001-2023",
+   "filings": 26,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 100815,
    "address": "330 W Main St",
@@ -5799,7 +8046,7 @@
    "years": "2013-2024",
    "latest_year": 2022,
    "latest_revenue": 125548,
-   "address": "1255 Meadowood Rd",
+   "address": "1265 Meadowood Rd",
    "zip": "83864",
    "ruling": "2011-06"
   },
@@ -6138,6 +8385,29 @@
    "ruling": "1948-03"
   },
   {
+   "ein": "363093044",
+   "name": "Teen Challenge Illinois",
+   "dba": "",
+   "city": "Carlinville",
+   "state": "IL",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 25,
+   "years": "2000-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1674610,
+   "address": "Po Box 620",
+   "zip": "62626",
+   "ruling": "1964-04"
+  },
+  {
    "ein": "362177140",
    "name": "The Allendale Association",
    "dba": "",
@@ -6414,6 +8684,29 @@
    "address": "1346 N Delaware St",
    "zip": "46202",
    "ruling": "2017-03"
+  },
+  {
+   "ein": "351262844",
+   "name": "Indiana Teen Challenge Inc",
+   "dba": "",
+   "city": "Lebanon",
+   "state": "IN",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2025",
+   "latest_year": 2023,
+   "latest_revenue": 2939925,
+   "address": "Po Box 564",
+   "zip": "46052",
+   "ruling": "1972-03"
   },
   {
    "ein": "350877578",
@@ -7168,6 +9461,29 @@
    "ruling": "1966-06"
   },
   {
+   "ein": "481112801",
+   "name": "Teen Challenge Of The Midwest Inc",
+   "dba": "",
+   "city": "Stockton",
+   "state": "KS",
+   "ntee": "X21",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 17,
+   "years": "2006-2022",
+   "latest_year": 2022,
+   "latest_revenue": 3618,
+   "address": "507 N Oak St",
+   "zip": "67669",
+   "ruling": "2004-09"
+  },
+  {
    "ein": "611312008",
    "name": "All Gods Children Inc",
    "dba": "",
@@ -7219,8 +9535,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 25,
-   "years": "2000-2024",
+   "filings": 26,
+   "years": "2000-2025",
    "latest_year": 2023,
    "latest_revenue": 6827297,
    "address": "Po Box 550",
@@ -7281,8 +9597,8 @@
    "flags": [
     "The IRS has it in Lexington; the record is somewhere else or names no town."
    ],
-   "filings": 17,
-   "years": "2008-2024",
+   "filings": 18,
+   "years": "2008-2025",
    "latest_year": 2024,
    "latest_revenue": 40462,
    "address": "1351 Newtown Pike",
@@ -7555,7 +9871,7 @@
    "years": "2001-2024",
    "latest_year": 2023,
    "latest_revenue": 0,
-   "address": "Po Box 10",
+   "address": "3233 Shaw Rd",
    "zip": "42069",
    "ruling": "1996-05"
   },
@@ -7650,6 +9966,29 @@
    "address": "2823 Frankfort Ave",
    "zip": "40206",
    "ruling": "1946-03"
+  },
+  {
+   "ein": "311078213",
+   "name": "Teen Challenge Of Kentucky Inc",
+   "dba": "",
+   "city": "Louisville",
+   "state": "KY",
+   "ntee": "F22",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 19,
+   "years": "2006-2024",
+   "latest_year": 2023,
+   "latest_revenue": 734560,
+   "address": "1151 E Broadway",
+   "zip": "40204",
+   "ruling": "2004-01"
   },
   {
    "ein": "720408988",
@@ -7946,20 +10285,11 @@
      "place": "St. Martinville, LA",
      "status": "Open",
      "same_town": true
-    },
-    {
-     "kind": "facility",
-     "id": 13745,
-     "how": "its name",
-     "name": "Teen Challenge of Acadiana",
-     "place": "St. Martinville, LA",
-     "status": "Unknown",
-     "same_town": true
     }
    ],
    "match": "check",
    "flags": [
-    "More than one record has this name."
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
    ],
    "filings": 21,
    "years": "2002-2022",
@@ -8002,6 +10332,29 @@
    "ruling": "1967-09"
   },
   {
+   "ein": "042401399",
+   "name": "Adult & Teen Challenge Northeast Inc",
+   "dba": "",
+   "city": "Brockton",
+   "state": "MA",
+   "ntee": "F330",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 25,
+   "years": "2000-2024",
+   "latest_year": 2023,
+   "latest_revenue": 14459574,
+   "address": "1311 Main St",
+   "zip": "02301",
+   "ruling": "1971-05"
+  },
+  {
    "ein": "042489805",
    "name": "Judge Rotenberg Educational Center Inc",
    "dba": "",
@@ -8023,8 +10376,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 22,
-   "years": "2001-2024",
+   "filings": 23,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 102285901,
    "address": "240 Turnpike St",
@@ -8055,8 +10408,8 @@
    "flags": [
     "The IRS has it in Needham; the record is somewhere else or names no town."
    ],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 239863306,
    "address": "160 Gould St Ste 300 Ste 30",
@@ -8187,6 +10540,68 @@
    "ruling": "1970-12"
   },
   {
+   "ein": "882535595",
+   "name": "Allegany Boys Camp Inc",
+   "dba": "",
+   "city": "Oldtown",
+   "state": "MD",
+   "ntee": "X99",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100528,
+     "how": "its name",
+     "name": "Allegany Boys Camp",
+     "place": "Oldstown, MD",
+     "status": "Unknown",
+     "same_town": true
+    }
+   ],
+   "match": "matched",
+   "flags": [],
+   "filings": 2,
+   "years": "2023-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1857257,
+   "address": "20700 Wagner Cutoff Rd Se",
+   "zip": "21555",
+   "ruling": "2022-11"
+  },
+  {
+   "ein": "520591645",
+   "name": "Oldfields School Inc",
+   "dba": "",
+   "city": "Sparks Glenco",
+   "state": "MD",
+   "ntee": "B250",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100573,
+     "how": "its name",
+     "name": "Oldfields School",
+     "place": "MD",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Sparks Glenco; the record is somewhere else or names no town."
+   ],
+   "filings": 23,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 6806496,
+   "address": "1500 Glencoe Rd",
+   "zip": "21152",
+   "ruling": "1938-11"
+  },
+  {
    "ein": "270407260",
    "name": "Silver Oak Academy",
    "dba": "",
@@ -8215,6 +10630,75 @@
    "address": "Po Box 250",
    "zip": "21757",
    "ruling": "2025-10"
+  },
+  {
+   "ein": "263027379",
+   "name": "Teen Challenge Of Baltimore Inc",
+   "dba": "",
+   "city": "Baltimore",
+   "state": "MD",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 15,
+   "years": "2010-2024",
+   "latest_year": 2024,
+   "latest_revenue": 194438,
+   "address": "101 N Potomac St",
+   "zip": "21224",
+   "ruling": "2009-02"
+  },
+  {
+   "ein": "237072144",
+   "name": "Teen Challenge Of Md Inc",
+   "dba": "",
+   "city": "Capitol Hgts",
+   "state": "MD",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2000-2023",
+   "latest_year": 2022,
+   "latest_revenue": 206449,
+   "address": "6900 Central Ave",
+   "zip": "20743",
+   "ruling": "1970-06"
+  },
+  {
+   "ein": "270560817",
+   "name": "Tri-state Teen Challenge Inc",
+   "dba": "",
+   "city": "Cumberland",
+   "state": "MD",
+   "ntee": "P30",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 2,
+   "years": "2019-2020",
+   "latest_year": 2020,
+   "latest_revenue": 58278,
+   "address": "Po Box 1513",
+   "zip": "21501",
+   "ruling": "2009-09"
   },
   {
    "ein": "010322532",
@@ -8249,6 +10733,38 @@
    "ruling": "1974-02"
   },
   {
+   "ein": "010211509",
+   "name": "Gould Academy",
+   "dba": "",
+   "city": "Bethel",
+   "state": "ME",
+   "ntee": "B250",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100672,
+     "how": "its name",
+     "name": "Gould Academy",
+     "place": "ME",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Bethel; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 16397006,
+   "address": "39 Church St",
+   "zip": "04217",
+   "ruling": "1942-10"
+  },
+  {
    "ein": "016021559",
    "name": "Hyde School",
    "dba": "",
@@ -8277,6 +10793,38 @@
    "address": "616 High St",
    "zip": "04530",
    "ruling": "1966-04"
+  },
+  {
+   "ein": "010211536",
+   "name": "North Yarmouth Academy",
+   "dba": "",
+   "city": "Yarmouth",
+   "state": "ME",
+   "ntee": "B250",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100674,
+     "how": "its name",
+     "name": "North Yarmouth Academy",
+     "place": "ME",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Yarmouth; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2024,
+   "latest_revenue": 15133256,
+   "address": "148 Main St",
+   "zip": "04096",
+   "ruling": "1952-04"
   },
   {
    "ein": "381443363",
@@ -8428,9 +10976,32 @@
    "years": "2001-2024",
    "latest_year": 2023,
    "latest_revenue": 17089530,
-   "address": "1030 N River Rd",
-   "zip": "48609",
+   "address": "Po Box 251",
+   "zip": "48820",
    "ruling": "2020-09"
+  },
+  {
+   "ein": "382784643",
+   "name": "Lansing Teen Challenge",
+   "dba": "",
+   "city": "Charlotte",
+   "state": "MI",
+   "ntee": "O55",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 17,
+   "years": "2001-2017",
+   "latest_year": 2017,
+   "latest_revenue": 434436,
+   "address": "Po Box 6",
+   "zip": "48813",
+   "ruling": "1988-06"
   },
   {
    "ein": "381471325",
@@ -8454,8 +11025,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 2743822,
    "address": "26530 Eureka Rd",
@@ -8525,6 +11096,29 @@
    "ruling": "1953-01"
   },
   {
+   "ein": "382044097",
+   "name": "Teen Challenge Of Saginaw Inc",
+   "dba": "",
+   "city": "Saginaw",
+   "state": "MI",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 394774,
+   "address": "818 S Michigan Ave",
+   "zip": "48602",
+   "ruling": "1974-08"
+  },
+  {
    "ein": "381802396",
    "name": "The Ark",
    "dba": "",
@@ -8587,6 +11181,29 @@
    "ruling": "1964-08"
   },
   {
+   "ein": "381963049",
+   "name": "Western Michigan Teen Challenge",
+   "dba": "",
+   "city": "Norton Shores",
+   "state": "MI",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1005275,
+   "address": "440 E Pontaluna Rd",
+   "zip": "49444",
+   "ruling": "2002-12"
+  },
+  {
    "ein": "237153536",
    "name": "180 Degrees Inc",
    "dba": "",
@@ -8615,6 +11232,29 @@
    "address": "1301 7th St E",
    "zip": "55106",
    "ruling": "1972-05"
+  },
+  {
+   "ein": "371578706",
+   "name": "Haiti Teen Challenge",
+   "dba": "",
+   "city": "Minneapolis",
+   "state": "MN",
+   "ntee": "Q33",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 15,
+   "years": "2010-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1615845,
+   "address": "740 E 24th St",
+   "zip": "55404",
+   "ruling": "2009-10"
   },
   {
    "ein": "411723574",
@@ -8674,7 +11314,7 @@
    "years": "2003-2024",
    "latest_year": 2023,
    "latest_revenue": 1373834,
-   "address": "219 N High St",
+   "address": "Po Box 26",
    "zip": "56258",
    "ruling": "2004-03"
   },
@@ -8801,6 +11441,29 @@
    "ruling": "2007-09"
   },
   {
+   "ein": "411517351",
+   "name": "Minnesota Teen Challenge Inc",
+   "dba": "",
+   "city": "Minneapolis",
+   "state": "MN",
+   "ntee": "F200",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 76631072,
+   "address": "740 E 24th St",
+   "zip": "55404",
+   "ruling": "1998-06"
+  },
+  {
    "ein": "411682025",
    "name": "North Homes Inc",
    "dba": "",
@@ -8852,8 +11515,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 4910696,
    "address": "1111 W 22nd St",
@@ -8953,6 +11616,29 @@
    "address": "13637 60th Sw St",
    "zip": "55321",
    "ruling": "1988-12"
+  },
+  {
+   "ein": "431353323",
+   "name": "Adult & Teen Challenge Usa",
+   "dba": "",
+   "city": "Ozark",
+   "state": "MO",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 2899819,
+   "address": "5250 N Towne Centre Dr",
+   "zip": "65721",
+   "ruling": "1985-04"
   },
   {
    "ein": "431024440",
@@ -9078,6 +11764,38 @@
    "address": "216 County Road 4761",
    "zip": "63901",
    "ruling": "2007-08"
+  },
+  {
+   "ein": "430654856",
+   "name": "Evangelical Childrens Home",
+   "dba": "",
+   "city": "Saint Louis",
+   "state": "MO",
+   "ntee": "P730",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100692,
+     "how": "its name",
+     "name": "Evangelical Children's Home",
+     "place": "St. Louis County, MO",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Saint Louis; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 12446251,
+   "address": "8240 Saint Charles Rock Rd",
+   "zip": "63114",
+   "ruling": "1958-09"
   },
   {
    "ein": "430815080",
@@ -9264,6 +11982,59 @@
    "ruling": "2002-02"
   },
   {
+   "ein": "430914542",
+   "name": "Mid America Teen Challenge Training Center Inc",
+   "dba": "",
+   "city": "Cpe Girardeau",
+   "state": "MO",
+   "ntee": "F22",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 26,
+   "years": "2001-2025",
+   "latest_year": 2024,
+   "latest_revenue": 5169731,
+   "address": "Po Box 1089",
+   "zip": "63702",
+   "ruling": "1970-05"
+  },
+  {
+   "ein": "430697046",
+   "name": "Missouri Baptist Childrens Home",
+   "dba": "",
+   "city": "Bridgeton",
+   "state": "MO",
+   "ntee": "X99",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100693,
+     "how": "its name",
+     "name": "Missouri Baptist Children’s Home",
+     "place": "Bridgeton, MO",
+     "status": "Open",
+     "same_town": true
+    }
+   ],
+   "match": "matched",
+   "flags": [],
+   "filings": 24,
+   "years": "2000-2024",
+   "latest_year": 2023,
+   "latest_revenue": 5952118,
+   "address": "11300 Saint Charles Rock Rd",
+   "zip": "63044",
+   "ruling": "2006-06"
+  },
+  {
    "ein": "440648649",
    "name": "Missouri Girls Town Foundation Inc",
    "dba": "",
@@ -9292,6 +12063,71 @@
    "address": "Po Box 59",
    "zip": "65262",
    "ruling": "1969-10"
+  },
+  {
+   "ein": "430415670",
+   "name": "Missouri Military Academy",
+   "dba": "",
+   "city": "Mexico",
+   "state": "MO",
+   "ntee": "B200",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100682,
+     "how": "its name",
+     "name": "Missouri Military Academy",
+     "place": "MO",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Mexico; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 12854118,
+   "address": "204 N Grand St",
+   "zip": "65265",
+   "ruling": "1949-11"
+  },
+  {
+   "ein": "811612127",
+   "name": "Ozarks Teen Challenge",
+   "dba": "",
+   "city": "Reeds Spring",
+   "state": "MO",
+   "ntee": "F99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 11357,
+     "how": "its name",
+     "name": "Ozarks Teen Challenge",
+     "place": "Branson West, MO",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Reeds Spring; the record is somewhere else or names no town.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 9,
+   "years": "2016-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1163307,
+   "address": "512 Purist Ln",
+   "zip": "65737",
+   "ruling": "2016-09"
   },
   {
    "ein": "812482294",
@@ -9382,6 +12218,52 @@
    "address": "Po Box 6",
    "zip": "65337",
    "ruling": "2001-01"
+  },
+  {
+   "ein": "203459311",
+   "name": "Teen Challenge International Neosho Mo",
+   "dba": "",
+   "city": "Neosho",
+   "state": "MO",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 17,
+   "years": "2008-2024",
+   "latest_year": 2023,
+   "latest_revenue": 869001,
+   "address": "18527 E Highway 86",
+   "zip": "64850",
+   "ruling": "2006-08"
+  },
+  {
+   "ein": "430886733",
+   "name": "Teen Challenge Of St Louis",
+   "dba": "",
+   "city": "High Ridge",
+   "state": "MO",
+   "ntee": "P28Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2023",
+   "latest_year": 2022,
+   "latest_revenue": 927192,
+   "address": "2650 Appletree Acres Ln",
+   "zip": "63049",
+   "ruling": "1996-01"
   },
   {
    "ein": "463641008",
@@ -9504,6 +12386,29 @@
    "ruling": "2003-09"
   },
   {
+   "ein": "454670832",
+   "name": "Mercy House Teen Challenge",
+   "dba": "",
+   "city": "Georgetown",
+   "state": "MS",
+   "ntee": "F22",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 12,
+   "years": "2013-2024",
+   "latest_year": 2023,
+   "latest_revenue": 4283047,
+   "address": "1110 Mary St",
+   "zip": "39078",
+   "ruling": "2013-03"
+  },
+  {
    "ein": "640303087",
    "name": "Methodist Childrens Homes of Mississippi",
    "dba": "",
@@ -9624,6 +12529,29 @@
    "address": "44 County Road 772",
    "zip": "38683",
    "ruling": "2019-09"
+  },
+  {
+   "ein": "640639631",
+   "name": "Teen Challenge Of Mississippi",
+   "dba": "",
+   "city": "Poplarville",
+   "state": "MS",
+   "ntee": "X99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 227508,
+   "address": "Po Box 188",
+   "zip": "39470",
+   "ruling": "1999-01"
   },
   {
    "ein": "640665916",
@@ -9874,6 +12802,52 @@
    "ruling": "2021-06"
   },
   {
+   "ein": "831832406",
+   "name": "Adult & Teen Challenge Of Sandhills North Carolina",
+   "dba": "",
+   "city": "Carthage",
+   "state": "NC",
+   "ntee": "A70",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 7,
+   "years": "2018-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1380243,
+   "address": "444 Farm Life School Rd",
+   "zip": "28327",
+   "ruling": "2019-05"
+  },
+  {
+   "ein": "208144826",
+   "name": "Albemarle Teen Challenge",
+   "dba": "",
+   "city": "Elizabethtown",
+   "state": "NC",
+   "ntee": "P46",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 9,
+   "years": "2008-2016",
+   "latest_year": 2016,
+   "latest_revenue": 218186,
+   "address": "1456 Lula Long Rd",
+   "zip": "28337",
+   "ruling": "2007-09"
+  },
+  {
    "ein": "560554413",
    "name": "Alexander Youth Network",
    "dba": "",
@@ -9902,6 +12876,70 @@
    "address": "6220 Thermal Rd",
    "zip": "28211",
    "ruling": "1987-03"
+  },
+  {
+   "ein": "453067896",
+   "name": "Amikids Inc",
+   "dba": "Amikids Nc Family Services Inc",
+   "city": "Wilmington",
+   "state": "NC",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Wilmington; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "3329 Wrightsville Ave Unit F",
+   "zip": "28403",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "814642209",
+   "name": "Amikids Inc",
+   "dba": "Amikids Virginia Inc",
+   "city": "Wilmington",
+   "state": "NC",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Wilmington; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "3329 Wrightsville Ave Unit F",
+   "zip": "28403",
+   "ruling": "1983-09"
   },
   {
    "ein": "560529993",
@@ -10182,13 +13220,36 @@
     "Matched by the second name the IRS lists for it, which can be a trust, a foundation or a support group named after the program.",
     "The IRS has it in Charlotte; the record is somewhere else or names no town."
    ],
-   "filings": 2,
-   "years": "2022-2023",
+   "filings": 3,
+   "years": "2022-2024",
    "latest_year": 2023,
    "latest_revenue": 128889,
    "address": "3743 Havenwood Rd",
    "zip": "28205",
    "ruling": "2022-02"
+  },
+  {
+   "ein": "261531747",
+   "name": "Teen Challenge Of The Smokies Inc",
+   "dba": "",
+   "city": "Franklin",
+   "state": "NC",
+   "ntee": "F60",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 15,
+   "years": "2009-2023",
+   "latest_year": 2023,
+   "latest_revenue": 467914,
+   "address": "Po Box 2157",
+   "zip": "28744",
+   "ruling": "2008-03"
   },
   {
    "ein": "414254121",
@@ -10347,6 +13408,52 @@
    "ruling": "1946-03"
   },
   {
+   "ein": "450460831",
+   "name": "North Dakota Adult & Teen Challenge Inc",
+   "dba": "",
+   "city": "Mandan",
+   "state": "ND",
+   "ntee": "B20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 21,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 2048547,
+   "address": "1406 2nd St Nw",
+   "zip": "58554",
+   "ruling": "2003-01"
+  },
+  {
+   "ein": "455136807",
+   "name": "North Dakota Teen Challenge Foundation",
+   "dba": "",
+   "city": "Mandan",
+   "state": "ND",
+   "ntee": "F22",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 13,
+   "years": "2012-2024",
+   "latest_year": 2023,
+   "latest_revenue": 204614,
+   "address": "1406 2nd St Nw",
+   "zip": "58554",
+   "ruling": "2014-08"
+  },
+  {
    "ein": "450417138",
    "name": "Prairie Learning Center Inc",
    "dba": "",
@@ -10462,8 +13569,8 @@
    "years": "2011-2024",
    "latest_year": 2023,
    "latest_revenue": 3703650,
-   "address": "4801 Sargent Rd Ne",
-   "zip": "20017",
+   "address": "14100 Crawford St",
+   "zip": "68010",
    "ruling": "1920-03"
   },
   {
@@ -10843,6 +13950,15 @@
    "found_in": "irs",
    "candidates": [
     {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    },
+    {
      "kind": "facility",
      "id": 12746,
      "how": "the second name the IRS lists for it",
@@ -10855,6 +13971,7 @@
    "match": "check",
    "flags": [
     "Matched by the second name the IRS lists for it, which can be a trust, a foundation or a support group named after the program.",
+    "More than one record has this name.",
     "The IRS has it in Farmington; the record is somewhere else or names no town."
    ],
    "filings": 0,
@@ -10864,6 +13981,29 @@
    "address": "851 Andrea Dr Bldg E",
    "zip": "87401",
    "ruling": "1983-09"
+  },
+  {
+   "ein": "850333739",
+   "name": "New Mexico Teen Challenge",
+   "dba": "",
+   "city": "Albuquerque",
+   "state": "NM",
+   "ntee": "P730",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1667799,
+   "address": "Po Box 20610",
+   "zip": "87154",
+   "ruling": "1985-10"
   },
   {
    "ein": "880114925",
@@ -11080,6 +14220,29 @@
    "ruling": "1966-11"
   },
   {
+   "ein": "880381800",
+   "name": "Teen Challenge Of Nevada Inc",
+   "dba": "",
+   "city": "Sparks",
+   "state": "NV",
+   "ntee": "B99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 986100,
+   "address": "Po Box 1136",
+   "zip": "89432",
+   "ruling": "1998-08"
+  },
+  {
    "ein": "880119296",
    "name": "Vitality Unlimited",
    "dba": "Vitality Center",
@@ -11174,6 +14337,36 @@
    "ruling": "1938-12"
   },
   {
+   "ein": "141341197",
+   "name": "Childrens Home of Kingston",
+   "dba": "",
+   "city": "Kingston",
+   "state": "NY",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100650,
+     "how": "its name",
+     "name": "Children’s Home of Kingston",
+     "place": "Kingston, NY",
+     "status": "Closed",
+     "same_town": true
+    }
+   ],
+   "match": "matched",
+   "flags": [],
+   "filings": 22,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 6954106,
+   "address": "26 Grove St",
+   "zip": "12401",
+   "ruling": "1945-01"
+  },
+  {
    "ein": "161034793",
    "name": "Gow School",
    "dba": "",
@@ -11204,6 +14397,36 @@
    "ruling": "1974-12"
   },
   {
+   "ein": "141462234",
+   "name": "Green Chimneys School for Little Folk",
+   "dba": "",
+   "city": "Brewster",
+   "state": "NY",
+   "ntee": "F33Z",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 12056,
+     "how": "its name",
+     "name": "Green Chimneys",
+     "place": "Brewster, NY",
+     "status": "Open",
+     "same_town": true
+    }
+   ],
+   "match": "matched",
+   "flags": [],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 21947348,
+   "address": "400 Doansburg Road Box 719",
+   "zip": "10509",
+   "ruling": "1960-03"
+  },
+  {
    "ein": "160743039",
    "name": "Hillside Childrens Center",
    "dba": "Vp Financial Services",
@@ -11232,6 +14455,29 @@
    "address": "1183 Monroe Ave",
    "zip": "14620",
    "ruling": "1955-06"
+  },
+  {
+   "ein": "113161238",
+   "name": "Long Island Teen Challenge",
+   "dba": "",
+   "city": "West Babylon",
+   "state": "NY",
+   "ntee": "F220",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2001-2022",
+   "latest_year": 2022,
+   "latest_revenue": 3434454,
+   "address": "309 Old Farmingdale Rd",
+   "zip": "11704",
+   "ruling": "1994-12"
   },
   {
    "ein": "812902832",
@@ -11326,6 +14572,38 @@
    "ruling": "1983-10"
   },
   {
+   "ein": "131635286",
+   "name": "Spence School",
+   "dba": "",
+   "city": "New York",
+   "state": "NY",
+   "ntee": "B200",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100636,
+     "how": "its name",
+     "name": "Spence School",
+     "place": "Manhattan, NY",
+     "status": "Unknown",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in New York; the record is somewhere else or names no town."
+   ],
+   "filings": 23,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 58057667,
+   "address": "22 E 91st St",
+   "zip": "10128",
+   "ruling": "1942-03"
+  },
+  {
    "ein": "131740485",
    "name": "St Christophers Inc",
    "dba": "",
@@ -11356,6 +14634,38 @@
    "address": "71 Broadway",
    "zip": "10522",
    "ruling": "1935-01"
+  },
+  {
+   "ein": "900683122",
+   "name": "Successful Dreams Inc",
+   "dba": "",
+   "city": "New York",
+   "state": "NY",
+   "ntee": "P20",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500015,
+     "how": "its name",
+     "name": "Successful Dreams",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in New York; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "342 E 119th St Apt 3b",
+   "zip": "10035",
+   "ruling": "2014-08"
   },
   {
    "ein": "112167091",
@@ -11409,7 +14719,8 @@
    ],
    "match": "check",
    "flags": [
-    "The IRS has it in Brooklyn; the record is somewhere else or names no town."
+    "The IRS has it in Brooklyn; the record is somewhere else or names no town.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
    ],
    "filings": 24,
    "years": "2001-2024",
@@ -11503,8 +14814,8 @@
    "flags": [
     "The IRS has it in New Hyde Park; the record is somewhere else or names no town."
    ],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 133905803,
    "address": "1985 Marcus Ave Ste 100",
@@ -11604,6 +14915,29 @@
    "ruling": "1970-11"
   },
   {
+   "ein": "237303165",
+   "name": "Cincinnati Teen Challenge Inc",
+   "dba": "",
+   "city": "Milford",
+   "state": "OH",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 556829,
+   "address": "Po Box 249",
+   "zip": "45150",
+   "ruling": "1973-08"
+  },
+  {
    "ein": "384046325",
    "name": "Freedom Youth Program",
    "dba": "",
@@ -11694,6 +15028,29 @@
    "ruling": "1953-01"
   },
   {
+   "ein": "474376867",
+   "name": "His Hope Teen Challenge Inc",
+   "dba": "",
+   "city": "Miamisburg",
+   "state": "OH",
+   "ntee": "P20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 9,
+   "years": "2016-2024",
+   "latest_year": 2023,
+   "latest_revenue": 821837,
+   "address": "201 N 4th St",
+   "zip": "45342",
+   "ruling": "2015-10"
+  },
+  {
    "ein": "821994866",
    "name": "Lifes Right Direction Inc",
    "dba": "",
@@ -11752,6 +15109,29 @@
    "address": "4515 Superior Ave",
    "zip": "44103",
    "ruling": "1979-09"
+  },
+  {
+   "ein": "341313938",
+   "name": "Ohio Valley Teen Challenge Inc",
+   "dba": "",
+   "city": "Youngstown",
+   "state": "OH",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2000-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1857861,
+   "address": "1319 Florencedale Ave",
+   "zip": "44505",
+   "ruling": "1980-12"
   },
   {
    "ein": "260472588",
@@ -11844,6 +15224,52 @@
    "ruling": "2020-07"
   },
   {
+   "ein": "237298073",
+   "name": "Teen Challenge For Girls Inc",
+   "dba": "",
+   "city": "Columbus",
+   "state": "OH",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 354524,
+   "address": "Po Box 24099",
+   "zip": "43224",
+   "ruling": "1985-06"
+  },
+  {
+   "ein": "341081503",
+   "name": "Teen Challenge Of Greater Cleveland",
+   "dba": "",
+   "city": "Perry",
+   "state": "OH",
+   "ntee": "O55Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 459402,
+   "address": "Po Box 115",
+   "zip": "44081",
+   "ruling": "1970-11"
+  },
+  {
    "ein": "821446429",
    "name": "The One Way Farm",
    "dba": "City of Refuge",
@@ -11871,8 +15297,8 @@
    "years": "2020-2024",
    "latest_year": 2023,
    "latest_revenue": 0,
-   "address": "6131 E River Rd",
-   "zip": "45014",
+   "address": "2290 Dixie Hwy",
+   "zip": "45015",
    "ruling": "2020-04"
   },
   {
@@ -12338,6 +15764,38 @@
    "ruling": "1970-02"
   },
   {
+   "ein": "930677650",
+   "name": "J Bar J Youth Services Inc",
+   "dba": "",
+   "city": "Bend",
+   "state": "OR",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500011,
+     "how": "its name",
+     "name": "J Bar J Youth Services",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Bend; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 12780186,
+   "address": "62895 Hamby Rd",
+   "zip": "97701",
+   "ruling": "1972-11"
+  },
+  {
    "ein": "237345990",
    "name": "Janus Youth Programs Inc",
    "dba": "",
@@ -12483,8 +15941,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 9,
-   "years": "2016-2024",
+   "filings": 10,
+   "years": "2016-2025",
    "latest_year": 2023,
    "latest_revenue": 1859861,
    "address": "70 Sw Century Dr Ste 100 Pmb 118",
@@ -12522,6 +15980,29 @@
    "address": "1001 Molalla Ave Ste 209",
    "zip": "97045",
    "ruling": "1976-12"
+  },
+  {
+   "ein": "204542972",
+   "name": "Teen Challenge Of The Hawaiianislands",
+   "dba": "",
+   "city": "Portland",
+   "state": "OR",
+   "ntee": "O50",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 18,
+   "years": "2006-2024",
+   "latest_year": 2023,
+   "latest_revenue": 535519,
+   "address": "18600 Se Mcloughlin Blvd",
+   "zip": "97267",
+   "ruling": "2006-07"
   },
   {
    "ein": "231352080",
@@ -12609,8 +16090,8 @@
    "flags": [
     "The IRS has it in Villanova; the record is somewhere else or names no town."
    ],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 509336163,
    "address": "444 Devereux Dr",
@@ -12659,15 +16140,6 @@
    "candidates": [
     {
      "kind": "facility",
-     "id": 100420,
-     "how": "its name",
-     "name": "Glen Mills Schools",
-     "place": "Glen Mills, PA",
-     "status": "Unknown",
-     "same_town": true
-    },
-    {
-     "kind": "facility",
      "id": 11643,
      "how": "its name",
      "name": "The Clock Tower Schools",
@@ -12676,10 +16148,8 @@
      "same_town": true
     }
    ],
-   "match": "check",
-   "flags": [
-    "More than one record has this name."
-   ],
+   "match": "matched",
+   "flags": [],
    "filings": 24,
    "years": "2001-2024",
    "latest_year": 2023,
@@ -12719,6 +16189,84 @@
    "ruling": "1996-09"
   },
   {
+   "ein": "251631576",
+   "name": "Naaman Center",
+   "dba": "",
+   "city": "Rehrersburg",
+   "state": "PA",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 2049017,
+   "address": "33 Teen Challenge Rd",
+   "zip": "19550",
+   "ruling": "1990-09"
+  },
+  {
+   "ein": "923137154",
+   "name": "Pennsylvania Adult And Teen Challenge",
+   "dba": "",
+   "city": "Rehrersburg",
+   "state": "PA",
+   "ntee": "F12",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 1,
+   "years": "2024",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "33 Teen Challenge Rd",
+   "zip": "19550",
+   "ruling": "2023-12"
+  },
+  {
+   "ein": "231365964",
+   "name": "Phelps School",
+   "dba": "",
+   "city": "Malvern",
+   "state": "PA",
+   "ntee": "B250",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100558,
+     "how": "its name",
+     "name": "The Phelps School",
+     "place": "PA",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Malvern; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2025",
+   "latest_year": 2023,
+   "latest_revenue": 3753708,
+   "address": "583 Sugartown Rd",
+   "zip": "19355",
+   "ruling": "1948-08"
+  },
+  {
    "ein": "271962061",
    "name": "Summit Academy Inc",
    "dba": "",
@@ -12749,6 +16297,29 @@
    "address": "660 Griffin Pond Rd",
    "zip": "18411",
    "ruling": "2011-03"
+  },
+  {
+   "ein": "660313822",
+   "name": "Teen Challenge De Puerto Rico Inc",
+   "dba": "",
+   "city": "Bayamon",
+   "state": "PR",
+   "ntee": "O50",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 13,
+   "years": "2011-2024",
+   "latest_year": 2023,
+   "latest_revenue": 4307969,
+   "address": "Po Box 4273",
+   "zip": "00958",
+   "ruling": "2012-05"
   },
   {
    "ein": "200655240",
@@ -12901,6 +16472,102 @@
    "address": "Five Kids Way",
    "zip": "02860",
    "ruling": ""
+  },
+  {
+   "ein": "205117121",
+   "name": "Amikids Inc",
+   "dba": "Amikids Infinity Marlboro Inc",
+   "city": "Clio",
+   "state": "SC",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Clio; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "201 Jefferson St",
+   "zip": "29525",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "593012877",
+   "name": "Amikids Inc",
+   "dba": "Camp White Pines Ii Inc",
+   "city": "Jonesville",
+   "state": "SC",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Jonesville; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "742 T Bishop Rd",
+   "zip": "29353",
+   "ruling": "1983-09"
+  },
+  {
+   "ein": "853070061",
+   "name": "Amikids Inc",
+   "dba": "Amikids Aspen Inc",
+   "city": "Columbia",
+   "state": "SC",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "operator",
+     "id": 500018,
+     "how": "its name",
+     "name": "AMIkids, Inc.",
+     "place": "",
+     "status": "",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Columbia; the record is somewhere else or names no town."
+   ],
+   "filings": 0,
+   "years": "",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "2 Office Park Ct Ste 103",
+   "zip": "29223",
+   "ruling": "1983-09"
   },
   {
    "ein": "570446897",
@@ -13074,14 +16741,16 @@
      "same_town": true
     }
    ],
-   "match": "matched",
-   "flags": [],
+   "match": "check",
+   "flags": [
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
    "filings": 24,
    "years": "2001-2024",
    "latest_year": 2023,
    "latest_revenue": 420248,
-   "address": "20515 N Fraser St",
-   "zip": "29440",
+   "address": "Po Box 1437",
+   "zip": "29442",
    "ruling": "2003-04"
   },
   {
@@ -13173,6 +16842,75 @@
    "address": "334 3rd St Sw",
    "zip": "57350",
    "ruling": "1973-02"
+  },
+  {
+   "ein": "460319355",
+   "name": "Teen Challenge Of The Dakotas",
+   "dba": "",
+   "city": "Brookings",
+   "state": "SD",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2024,
+   "latest_revenue": 1441387,
+   "address": "600 W 16th Ave S",
+   "zip": "57006",
+   "ruling": "1974-10"
+  },
+  {
+   "ein": "620912757",
+   "name": "Adult & Teen Challenge Heartland Inc",
+   "dba": "",
+   "city": "Memphis",
+   "state": "TN",
+   "ntee": "P30",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1218079,
+   "address": "1340 Madison Ave",
+   "zip": "38104",
+   "ruling": "1997-12"
+  },
+  {
+   "ein": "621865658",
+   "name": "Adult And Teen Challenge Inc Tennessee Valley",
+   "dba": "",
+   "city": "Savannah",
+   "state": "TN",
+   "ntee": "P80",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2002-2024",
+   "latest_year": 2023,
+   "latest_revenue": 517708,
+   "address": "1450 Florence Rd",
+   "zip": "38372",
+   "ruling": "2002-02"
   },
   {
    "ein": "620524534",
@@ -13424,6 +17162,52 @@
    "ruling": "2008-12"
   },
   {
+   "ein": "621087104",
+   "name": "Teen Challenge International Nashville Headquarters",
+   "dba": "",
+   "city": "Madison",
+   "state": "TN",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 15,
+   "years": "2001-2015",
+   "latest_year": 2015,
+   "latest_revenue": 128515,
+   "address": "901 N Summerfield Dr",
+   "zip": "37115",
+   "ruling": "1980-09"
+  },
+  {
+   "ein": "621022117",
+   "name": "Teen Challenge Of The Mid-south Inc",
+   "dba": "",
+   "city": "Chattanooga",
+   "state": "TN",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1303353,
+   "address": "1108 W 33rd St",
+   "zip": "37410",
+   "ruling": "1978-07"
+  },
+  {
    "ein": "620488043",
    "name": "Tennessee Baptist Childrens Homes Inc",
    "dba": "",
@@ -13574,6 +17358,84 @@
    "address": "3712 Wichita St",
    "zip": "76119",
    "ruling": "1942-12"
+  },
+  {
+   "ein": "741816616",
+   "name": "Adult & Teen Challenge Of Texas",
+   "dba": "",
+   "city": "San Antonio",
+   "state": "TX",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 25,
+   "years": "1999-2024",
+   "latest_year": 2023,
+   "latest_revenue": 9927319,
+   "address": "3850 S Loop 1604 W",
+   "zip": "78264",
+   "ruling": "1976-02"
+  },
+  {
+   "ein": "263846094",
+   "name": "Adult & Teen Challenge Of The Greater South",
+   "dba": "",
+   "city": "Houston",
+   "state": "TX",
+   "ntee": "P20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 15,
+   "years": "2008-2022",
+   "latest_year": 2022,
+   "latest_revenue": 1815565,
+   "address": "Po Box 751055",
+   "zip": "77275",
+   "ruling": "2009-03"
+  },
+  {
+   "ein": "365106538",
+   "name": "Anchor Academy Inc",
+   "dba": "",
+   "city": "Waco",
+   "state": "TX",
+   "ntee": "B28",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 10636,
+     "how": "its name",
+     "name": "Anchor Home for Boys",
+     "place": "Zapata, TX",
+     "status": "Closed",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in Waco; the record is somewhere else or names no town."
+   ],
+   "filings": 1,
+   "years": "2024",
+   "latest_year": null,
+   "latest_revenue": null,
+   "address": "5033 Pine Ave",
+   "zip": "76710",
+   "ruling": "2025-03"
   },
   {
    "ein": "113740159",
@@ -14328,6 +18190,29 @@
    "ruling": "2001-06"
   },
   {
+   "ein": "751492601",
+   "name": "Fort Worth Teen Challenge Inc",
+   "dba": "",
+   "city": "Fort Worth",
+   "state": "TX",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 228881,
+   "address": "747 Samuels Ave",
+   "zip": "76102",
+   "ruling": "1983-09"
+  },
+  {
    "ein": "832453469",
    "name": "Gold Star Academy",
    "dba": "",
@@ -14379,8 +18264,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 24,
-   "years": "2001-2024",
+   "filings": 25,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 6791022,
    "address": "143 Forest Service Road 233",
@@ -14910,7 +18795,7 @@
    "years": "2020-2022",
    "latest_year": 2022,
    "latest_revenue": 412549,
-   "address": "1618 Driftwood Dr",
+   "address": "3479 Navajo Cir",
    "zip": "75224",
    "ruling": "2014-11"
   },
@@ -15033,6 +18918,38 @@
    "address": "29818 E Hawthorne Dr",
    "zip": "77386",
    "ruling": "2019-08"
+  },
+  {
+   "ein": "741914638",
+   "name": "Roy Maas Youth Alternatives Inc",
+   "dba": "",
+   "city": "San Antonio",
+   "state": "TX",
+   "ntee": "",
+   "subsection": "03",
+   "found_in": "irs",
+   "candidates": [
+    {
+     "kind": "facility",
+     "id": 100540,
+     "how": "its name",
+     "name": "Roy Maas Youth Alternatives",
+     "place": "Boerne, TX",
+     "status": "Open",
+     "same_town": false
+    }
+   ],
+   "match": "check",
+   "flags": [
+    "The IRS has it in San Antonio; the record is somewhere else or names no town."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 12220025,
+   "address": "3103 West Ave",
+   "zip": "78213",
+   "ruling": "1977-05"
   },
   {
    "ein": "760595783",
@@ -15217,7 +19134,7 @@
    "years": "2001-2024",
    "latest_year": 2023,
    "latest_revenue": 57691685,
-   "address": "2385 W Expressway 83",
+   "address": "Po Box 1373",
    "zip": "78586",
    "ruling": "1973-08"
   },
@@ -15252,6 +19169,52 @@
    "address": "Po Box 158",
    "zip": "76864",
    "ruling": "1996-10"
+  },
+  {
+   "ein": "421712382",
+   "name": "Tcep",
+   "dba": "",
+   "city": "El Paso",
+   "state": "TX",
+   "ntee": "P80",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 13,
+   "years": "2007-2019",
+   "latest_year": 2019,
+   "latest_revenue": 296442,
+   "address": "Po Box 640008",
+   "zip": "79904",
+   "ruling": "2007-01"
+  },
+  {
+   "ein": "751757538",
+   "name": "Teen Challenge-adult Centers Of Texas Inc",
+   "dba": "",
+   "city": "Midland",
+   "state": "TX",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1359995,
+   "address": "Po Box 251",
+   "zip": "79702",
+   "ruling": "2002-10"
   },
   {
    "ein": "743021647",
@@ -15527,8 +19490,8 @@
    ],
    "match": "matched",
    "flags": [],
-   "filings": 23,
-   "years": "2001-2024",
+   "filings": 24,
+   "years": "2001-2025",
    "latest_year": 2023,
    "latest_revenue": 3437941,
    "address": "10223 Boys Ranch Rd",
@@ -15655,7 +19618,7 @@
    "years": "2001-2024",
    "latest_year": 2023,
    "latest_revenue": 6822177,
-   "address": "770 East St George Blvd",
+   "address": "770 E St George Blvd",
    "zip": "84770",
    "ruling": "1998-10"
   },
@@ -15847,6 +19810,29 @@
    "ruling": "2012-01"
   },
   {
+   "ein": "113642526",
+   "name": "Adult & Teen Challenge Virginia Inc",
+   "dba": "",
+   "city": "Fredericksbrg",
+   "state": "VA",
+   "ntee": "E99",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2003-2024",
+   "latest_year": 2023,
+   "latest_revenue": 553048,
+   "address": "6806 River Rd",
+   "zip": "22407",
+   "ruling": "2003-11"
+  },
+  {
    "ein": "540505868",
    "name": "Blue Ridge School Incorporated",
    "dba": "",
@@ -15898,7 +19884,8 @@
    ],
    "match": "check",
    "flags": [
-    "The IRS has it in Fincastle; the record is somewhere else or names no town."
+    "The IRS has it in Fincastle; the record is somewhere else or names no town.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
    ],
    "filings": 21,
    "years": "2004-2024",
@@ -16126,6 +20113,29 @@
    "address": "Po Box 3160",
    "zip": "22604",
    "ruling": "1971-05"
+  },
+  {
+   "ein": "521226269",
+   "name": "Mid-atlantic Teen Challenge",
+   "dba": "",
+   "city": "Virginia Bch",
+   "state": "VA",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 24,
+   "years": "2001-2024",
+   "latest_year": 2022,
+   "latest_revenue": 550770,
+   "address": "5101 Cleveland St Ste 100",
+   "zip": "23462",
+   "ruling": "1981-09"
   },
   {
    "ein": "540618173",
@@ -16383,9 +20393,9 @@
    "candidates": [
     {
      "kind": "facility",
-     "id": 12133,
+     "id": 12142,
      "how": "the second name the IRS lists for it",
-     "name": "Bennington School",
+     "name": "VPI South Vermont & New England School for Girls",
      "place": "Bennington, VT",
      "status": "Open",
      "same_town": true
@@ -16586,6 +20596,75 @@
    "ruling": "1980-07"
   },
   {
+   "ein": "842947228",
+   "name": "Adult And Teen Challenge Of New Inc",
+   "dba": "",
+   "city": "Green Bay",
+   "state": "WI",
+   "ntee": "F33",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 4,
+   "years": "2021-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1231135,
+   "address": "999 N Military Ave",
+   "zip": "54303",
+   "ruling": "2019-11"
+  },
+  {
+   "ein": "823783283",
+   "name": "Adult And Teen Challenge Super Thrift Store Inc",
+   "dba": "",
+   "city": "Milwaukee",
+   "state": "WI",
+   "ntee": "P19",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 7,
+   "years": "2018-2024",
+   "latest_year": 2023,
+   "latest_revenue": 362267,
+   "address": "5333 N 91st St",
+   "zip": "53225",
+   "ruling": "2018-07"
+  },
+  {
+   "ein": "822144057",
+   "name": "Adult Teen Challenge Of Western Wisconsin Inc",
+   "dba": "",
+   "city": "La Crosse",
+   "state": "WI",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 7,
+   "years": "2018-2024",
+   "latest_year": 2023,
+   "latest_revenue": 689644,
+   "address": "Po Box 126",
+   "zip": "54602",
+   "ruling": "2018-03"
+  },
+  {
    "ein": "390806398",
    "name": "Lad Lake Inc",
    "dba": "",
@@ -16710,6 +20789,29 @@
    "ruling": "2021-04"
   },
   {
+   "ein": "391447329",
+   "name": "Teen Challenge International Of Wisconsin Inc",
+   "dba": "",
+   "city": "Milwaukee",
+   "state": "WI",
+   "ntee": "",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 23,
+   "years": "2001-2024",
+   "latest_year": 2023,
+   "latest_revenue": 1358838,
+   "address": "9236 W Appleton Ave",
+   "zip": "53225",
+   "ruling": "1994-04"
+  },
+  {
    "ein": "237271921",
    "name": "Tomorrows Children Inc",
    "dba": "",
@@ -16768,6 +20870,29 @@
    "address": "1123 N Water St Ste 400",
    "zip": "53202",
    "ruling": "1977-04"
+  },
+  {
+   "ein": "311070836",
+   "name": "Appalachian Teen Challenge",
+   "dba": "",
+   "city": "Princeton",
+   "state": "WV",
+   "ntee": "F22Z",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 22,
+   "years": "2001-2023",
+   "latest_year": 2023,
+   "latest_revenue": 1176628,
+   "address": "1651 Unity Rd",
+   "zip": "24739",
+   "ruling": "1983-04"
   },
   {
    "ein": "550360198",
@@ -16862,6 +20987,29 @@
    "ruling": "1988-10"
   },
   {
+   "ein": "275219233",
+   "name": "Northern Appalachian Teen Challenge Inc",
+   "dba": "",
+   "city": "Clarksburg",
+   "state": "WV",
+   "ntee": "F60",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 14,
+   "years": "2011-2024",
+   "latest_year": 2023,
+   "latest_revenue": 327582,
+   "address": "Po Box 4253",
+   "zip": "26302",
+   "ruling": "2011-08"
+  },
+  {
    "ein": "550579420",
    "name": "Stepping Stone Incorporated",
    "dba": "",
@@ -16892,6 +21040,29 @@
    "ruling": "1983-09"
   },
   {
+   "ein": "843460922",
+   "name": "Adult & Teen Challenge Black Hills",
+   "dba": "",
+   "city": "Sundance",
+   "state": "WY",
+   "ntee": "F20",
+   "subsection": "3",
+   "found_in": "researcher",
+   "candidates": [],
+   "match": "check",
+   "flags": [
+    "No KOP record is named like it: name the company or facility in the finder.",
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
+   "filings": 4,
+   "years": "2021-2024",
+   "latest_year": 2023,
+   "latest_revenue": 132774,
+   "address": "18048 Us Highway 14",
+   "zip": "82729",
+   "ruling": "2023-05"
+  },
+  {
    "ein": "431155204",
    "name": "Heart Of America Teen Challenge Inc",
    "dba": "",
@@ -16911,8 +21082,10 @@
      "same_town": true
     }
    ],
-   "match": "matched",
-   "flags": [],
+   "match": "check",
+   "flags": [
+    "Sent in by Amber Foster, Teen Challenge Network research map (https://teenchallenge-network.netlify.app, CC BY-SA 4.0), researcher upload 2026-10-27. Teen Challenge corporations whose IRS returns list officers. Many run adult programs only: check the corporation runs a youth program before linking it."
+   ],
    "filings": 23,
    "years": "2001-2023",
    "latest_year": 2021,
@@ -16977,7 +21150,7 @@
    "years": "2018-2025",
    "latest_year": 2022,
    "latest_revenue": 945849,
-   "address": "3304 East I-80 Service Road",
+   "address": "3304 East I 80 Service Road",
    "zip": "82009",
    "ruling": "2016-04"
   },

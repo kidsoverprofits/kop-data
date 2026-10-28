@@ -1,0 +1,70 @@
+{
+ "ein": "471905154",
+ "name": "Global Teen Challenge Business Solutions Inc",
+ "address": "15 W 10th St",
+ "city": "Columbus",
+ "state": "GA",
+ "zip": "31901",
+ "ntee": "P29",
+ "subsection": "3",
+ "ruling": "2016-02",
+ "url": "https://projects.propublica.org/nonprofits/organizations/471905154",
+ "filings": [
+  {
+   "year": 2018,
+   "period": "201809",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=09_2019_prefixes_46-48%2F471905154_201809_990EZ_2019093016705077.pdf",
+   "revenue": 0,
+   "expenses": 100000,
+   "assets": 1,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2017,
+   "period": "201709",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=04_2018_prefixes_45-51%2F471905154_201709_990EZ_2018041915264643.pdf",
+   "revenue": 0,
+   "expenses": 67002,
+   "assets": 100000,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2016,
+   "period": "201609",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F471905154_201609_990EZ_2017092514768348.pdf",
+   "revenue": 0,
+   "expenses": 850,
+   "assets": 167002,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2015,
+   "period": "201509",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_08_EO%2F47-1905154_990_201509.pdf",
+   "revenue": 202790,
+   "expenses": 34938,
+   "assets": 167852,
+   "liabilities": 0,
+   "officer_pay": 0,
+   "other_salaries": 1662,
+   "program_revenue": 202790,
+   "gifts_grants": 0
+  }
+ ]
+}

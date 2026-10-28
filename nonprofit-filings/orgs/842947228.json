@@ -1,0 +1,62 @@
+{
+ "ein": "842947228",
+ "name": "Adult And Teen Challenge Of New Inc",
+ "address": "999 N Military Ave",
+ "city": "Green Bay",
+ "state": "WI",
+ "zip": "54303",
+ "ntee": "F33",
+ "subsection": "3",
+ "ruling": "2019-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/842947228",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F842947228_202412_990_2026030623977812.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F842947228_202312_990_2025022623127611.pdf",
+   "revenue": 1231135,
+   "expenses": 327314,
+   "assets": 2353936,
+   "liabilities": 651998,
+   "officer_pay": 105925,
+   "other_salaries": 67721,
+   "program_revenue": 0,
+   "gifts_grants": 1139781
+  },
+  {
+   "year": 2022,
+   "period": "202212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F842947228_202212_990_2023082921570488.pdf",
+   "revenue": 939120,
+   "expenses": 148170,
+   "assets": 2573170,
+   "liabilities": 518479,
+   "officer_pay": 101000,
+   "other_salaries": 0,
+   "program_revenue": 0,
+   "gifts_grants": 938959
+  },
+  {
+   "year": 2021,
+   "period": "202112",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F842947228_202112_990EZ_2023013120864142.pdf",
+   "revenue": 107219,
+   "expenses": 129896,
+   "assets": 76455,
+   "liabilities": 2561,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

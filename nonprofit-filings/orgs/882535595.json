@@ -1,0 +1,34 @@
+{
+ "ein": "882535595",
+ "name": "Allegany Boys Camp Inc",
+ "address": "20700 Wagner Cutoff Rd Se",
+ "city": "Oldtown",
+ "state": "MD",
+ "zip": "21555",
+ "ntee": "X99",
+ "subsection": "3",
+ "ruling": "2022-11",
+ "url": "https://projects.propublica.org/nonprofits/organizations/882535595",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F882535595_202412_990_2025081423659588.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202312",
+   "form": "990",
+   "pdf": "",
+   "revenue": 1857257,
+   "expenses": 1067904,
+   "assets": 3061101,
+   "liabilities": 54421,
+   "officer_pay": 71113,
+   "other_salaries": 382991,
+   "program_revenue": 321794,
+   "gifts_grants": 1110698
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "ein": "843460922",
+ "name": "Adult & Teen Challenge Black Hills",
+ "address": "18048 Us Highway 14",
+ "city": "Sundance",
+ "state": "WY",
+ "zip": "82729",
+ "ntee": "F20",
+ "subsection": "3",
+ "ruling": "2023-05",
+ "url": "https://projects.propublica.org/nonprofits/organizations/843460922",
+ "filings": [
+  {
+   "year": 2024,
+   "period": "202410",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F843460922_202410_990EZ_2025041023339696.pdf"
+  },
+  {
+   "year": 2023,
+   "period": "202310",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_84-85%2F843460922_202310_990EZ_2024011722243323.pdf",
+   "revenue": 132774,
+   "expenses": 111334,
+   "assets": 120275,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2022,
+   "period": "202210",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2023_prefixes_84-85%2F843460922_202210_990EZ_2023101821732158.pdf",
+   "revenue": 118098,
+   "expenses": 81704,
+   "assets": 98835,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2021,
+   "period": "202110",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2023_prefixes_84-85%2F843460922_202110_990EZ_2023101721722598.pdf",
+   "revenue": 89683,
+   "expenses": 28986,
+   "assets": 62441,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

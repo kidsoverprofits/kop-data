@@ -1,0 +1,42 @@
+{
+ "ein": "270560817",
+ "name": "Tri-state Teen Challenge Inc",
+ "address": "Po Box 1513",
+ "city": "Cumberland",
+ "state": "MD",
+ "zip": "21501",
+ "ntee": "P30",
+ "subsection": "3",
+ "ruling": "2009-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/270560817",
+ "filings": [
+  {
+   "year": 2020,
+   "period": "202012",
+   "form": "990",
+   "pdf": "",
+   "revenue": 58278,
+   "expenses": 64642,
+   "assets": 11119,
+   "liabilities": 1383,
+   "officer_pay": 0,
+   "other_salaries": 52000,
+   "program_revenue": 0,
+   "gifts_grants": 58170
+  },
+  {
+   "year": 2019,
+   "period": "201912",
+   "form": "990",
+   "pdf": "",
+   "revenue": 79610,
+   "expenses": 80892,
+   "assets": 17363,
+   "liabilities": 1263,
+   "officer_pay": 0,
+   "other_salaries": 39758,
+   "program_revenue": 0,
+   "gifts_grants": 79496
+  }
+ ]
+}

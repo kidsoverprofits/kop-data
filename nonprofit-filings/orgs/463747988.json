@@ -1,0 +1,70 @@
+{
+ "ein": "463747988",
+ "name": "Teen Challenge Of Colorado Springs",
+ "address": "1515 Auto Mall Loop",
+ "city": "Colorado Spgs",
+ "state": "CO",
+ "zip": "80920",
+ "ntee": "O99",
+ "subsection": "3",
+ "ruling": "2014-05",
+ "url": "https://projects.propublica.org/nonprofits/organizations/463747988",
+ "filings": [
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_46-47%2F463747988_201612_990EZ_2018010415083407.pdf",
+   "revenue": 2836,
+   "expenses": 12809,
+   "assets": 480,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2016_12_EO%2F46-3747988_990EZ_201512.pdf",
+   "revenue": 8414,
+   "expenses": 56992,
+   "assets": 11405,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_09_EO%2F46-3747988_990EZ_201412.pdf",
+   "revenue": 65852,
+   "expenses": 50986,
+   "assets": 59983,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2015_09_EO%2F46-3747988_990EZ_201312.pdf",
+   "revenue": 48034,
+   "expenses": 2917,
+   "assets": 45117,
+   "liabilities": 0,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  }
+ ]
+}

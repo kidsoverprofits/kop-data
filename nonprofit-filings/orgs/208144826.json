@@ -1,0 +1,116 @@
+{
+ "ein": "208144826",
+ "name": "Albemarle Teen Challenge",
+ "address": "1456 Lula Long Rd",
+ "city": "Elizabethtown",
+ "state": "NC",
+ "zip": "28337",
+ "ntee": "P46",
+ "subsection": "3",
+ "ruling": "2007-09",
+ "url": "https://projects.propublica.org/nonprofits/organizations/208144826",
+ "filings": [
+  {
+   "year": 2016,
+   "period": "201612",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_20-22%2F208144826_201612_990_2018011215121118.pdf",
+   "revenue": 218186,
+   "expenses": 237926,
+   "assets": 425884,
+   "liabilities": 299605,
+   "officer_pay": 43698,
+   "other_salaries": 9738,
+   "program_revenue": 175031,
+   "gifts_grants": 41196
+  },
+  {
+   "year": 2015,
+   "period": "201512",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2017_02_EO%2F20-8144826_990_201512.pdf",
+   "revenue": 308860,
+   "expenses": 310588,
+   "assets": 447117,
+   "liabilities": 301097,
+   "officer_pay": 71600,
+   "other_salaries": 23500,
+   "program_revenue": 236608,
+   "gifts_grants": 69840
+  },
+  {
+   "year": 2014,
+   "period": "201412",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=08_2019_prefixes_20-22%2F208144826_201412_990_2019082116586765.pdf",
+   "revenue": 259716,
+   "expenses": 281656,
+   "assets": 461314,
+   "liabilities": 313566,
+   "officer_pay": 73100,
+   "other_salaries": 15732,
+   "program_revenue": 215647,
+   "gifts_grants": 34897
+  },
+  {
+   "year": 2013,
+   "period": "201312",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2014_08_EO%2F20-8144826_990_201312.pdf",
+   "revenue": 408941,
+   "expenses": 266631,
+   "assets": 435358,
+   "liabilities": 265670,
+   "officer_pay": 73500,
+   "other_salaries": 9600,
+   "program_revenue": 217985,
+   "gifts_grants": 190956
+  },
+  {
+   "year": 2012,
+   "period": "201212",
+   "form": "990",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2013_07_EO%2F20-8144826_990_201212.pdf",
+   "revenue": 249626,
+   "expenses": 242790,
+   "assets": 29872,
+   "liabilities": 2494,
+   "officer_pay": 60500,
+   "other_salaries": 4500,
+   "program_revenue": 224011,
+   "gifts_grants": 25474
+  },
+  {
+   "year": 2011,
+   "period": "201112",
+   "form": "990-EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2012_06_EO%2F20-8144826_990EZ_201112.pdf",
+   "revenue": 169513,
+   "expenses": 158267,
+   "assets": 21795,
+   "liabilities": 1253,
+   "officer_pay": null,
+   "other_salaries": null,
+   "program_revenue": null,
+   "gifts_grants": null
+  },
+  {
+   "year": 2010,
+   "period": "201012",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2011_07_EO%2F20-8144826_990EZ_201012.pdf"
+  },
+  {
+   "year": 2009,
+   "period": "200912",
+   "form": "990EZ",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2010_08_EO%2F20-8144826_990EZ_200912.pdf"
+  },
+  {
+   "year": 2008,
+   "period": "200812",
+   "form": "990R",
+   "pdf": "https://projects.propublica.org/nonprofits/download-filing?path=2009_11_EO%2F20-8144826_990R_200812.pdf"
+  }
+ ]
+}
