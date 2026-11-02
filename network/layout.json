@@ -483,6 +483,11 @@
       "y": -629.3,
       "r": 14.2
     },
+    "truecore-behavioral-solutions": {
+      "x": -1123.8,
+      "y": -440.7,
+      "r": 15.1
+    },
     "agape-boarding-school": {
       "x": -888.9,
       "y": -1409.9,
@@ -507,11 +512,6 @@
       "x": -484.9,
       "y": -122.6,
       "r": 15.3
-    },
-    "truecore-behavioral-solutions": {
-      "x": -1123.8,
-      "y": -440.7,
-      "r": 15.1
     },
     "wilderness-quest": {
       "x": 78.4,
@@ -688,6 +688,11 @@
       "y": 212.6,
       "r": 14.2
     },
+    "g4s-youth-services-llc": {
+      "x": -1144.1,
+      "y": -483.7,
+      "r": 14.1
+    },
     "lava-heights-academy": {
       "x": -613.5,
       "y": 100.4,
@@ -742,11 +747,6 @@
       "x": 46.9,
       "y": -539.5,
       "r": 14.2
-    },
-    "g4s-youth-services-llc": {
-      "x": -1144.1,
-      "y": -483.7,
-      "r": 14.1
     },
     "jade-robinson": {
       "x": -23.1,
@@ -1917,6 +1917,11 @@
       "x": 789.6,
       "y": 45.1,
       "r": 13.6
+    },
+    "timberline-academy": {
+      "x": -985,
+      "y": -6.1,
+      "r": 4
     },
     "timothy-brace": {
       "x": 62.5,
@@ -4417,11 +4422,6 @@
       "x": 28.9,
       "y": -836.7,
       "r": 13.6
-    },
-    "timberline-academy": {
-      "x": -985,
-      "y": -6.1,
-      "r": 4
     },
     "todd-hockenbury": {
       "x": -473.9,
