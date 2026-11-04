@@ -12,7 +12,7 @@
     "kinds         - person | facility | parent | association | government |",
     "                church | other. Wins over every rule.",
     "relationships - raw relationship string -> category and roles.",
-    "facilities    - board name -> facilities_v2 id, or null to accept no match.",
+    "facilities    - board name (or map id, where two board names are alike) -> facilities_v2 or related_facilities id, or null to accept no match.",
     "acquirers     - edge id -> the name of the party that did the acquiring.",
     "headline      - the organisations the map opens on, in order. Chosen for",
     "                influence and prevalence, which is an editorial judgement",
@@ -308,7 +308,48 @@
     "Anneewakee School": 12561,
     "Kids Helping Kids of Hebron, KY": 100123,
     "Sequel TSI Owens Cross Roads": 9644,
-    "Eckerd Academy of the Blue Ridge": 12514
+    "Eckerd Academy of the Blue Ridge": 12514,
+    "180 Ministries for Girls": 10369,
+    "Ozarks Teen Challenge": 11357,
+    "Teen Challenge Adventure Ranch": 11468,
+    "North Carolina Boys Academy": 11663,
+    "Harmony Teen Challenge": 11779,
+    "Bloom Home for Girls": 11979,
+    "Ruth's Haven Teen Girls Center": 12465,
+    "Columbus Teen Challenge": 12493,
+    "Victory House Teen Challenge": 12618,
+    "Eastern Appalachian Teen Challenge": 12799,
+    "Central Indiana Teen Challenge": 13286,
+    "The Refuge Girls Academy": 13358,
+    "Heart of America Teen Challenge": 13411,
+    "Grace Christian Home and Academy": 13766,
+    "Heartland Boys Academy": 13813,
+    "Teen Challenge Girls": 100083,
+    "Lakeside Academy (Minnesota)": 100099,
+    "Cross Christian Academy": 100210,
+    "Lebanon Girls Shelter": 100248,
+    "West Florida Teen Challenge Boys Ranch": 100549,
+    "Teen Challenge 30-bed boys' facility outside of Branson": 100704,
+    "Teen Challenge center for adolescent girls in Casper": 100705,
+    "Dallas Teen Challenge Boys Ranch": 100709,
+    "Teen Challenge Boston": 100725,
+    "Cape Fear Teen Challenge": 901001,
+    "Grace House Teen Challenge": 901002,
+    "Southeast Florida Women's Rehab": 901003,
+    "Alabama Teen Challenge Men's Induction Center": 901004,
+    "Teen Challenge adult female center in Ozark": 901005,
+    "Teen Challenge center in Alaska": 901006,
+    "Phoenix Center": 901007,
+    "Teen Challenge West Pennsylvania": 901008,
+    "Teen Challenge Training Center": 901009,
+    "Teen Challenge San Antonio": 901010,
+    "Central Florida Mens Rehab": 901011,
+    "Teen Challenge Shafter Induction Center": 901012,
+    "Teen Challenge Southern California": 901013,
+    "Teen Challenge Brockton": 901014,
+    "Brooklyn Teen Challenge": 901015,
+    "Teen Challenge of South Carolina": 901016,
+    "gateway-academy-teen-challenge": 11099
   },
   "acquirers": {
     "e0241": "Universal Health Services",
@@ -3508,6 +3549,318 @@
       "near": "Sequel Youth and Family Services",
       "status": "open",
       "source": "https://www.patriot-capital.com/portfolio-companies/sequel-youth-and-family-services/ (growth financing, exited Q1 2008)"
+    },
+    {
+      "name": "180 Ministries for Girls",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #10369)"
+    },
+    {
+      "name": "Ozarks Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #11357)"
+    },
+    {
+      "name": "Teen Challenge Adventure Ranch",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #11468)"
+    },
+    {
+      "name": "North Carolina Boys Academy",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #11663)"
+    },
+    {
+      "name": "Harmony Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "closed",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #11779)"
+    },
+    {
+      "name": "Bloom Home for Girls",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #11979)"
+    },
+    {
+      "name": "Ruth's Haven Teen Girls Center",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #12465)"
+    },
+    {
+      "name": "Columbus Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #12493)"
+    },
+    {
+      "name": "Victory House Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #12618)"
+    },
+    {
+      "name": "Eastern Appalachian Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #12799)"
+    },
+    {
+      "name": "Central Indiana Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #13286)"
+    },
+    {
+      "name": "The Refuge Girls Academy",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "closed",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #13358)"
+    },
+    {
+      "name": "Heart of America Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "closed",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #13411)"
+    },
+    {
+      "name": "Grace Christian Home and Academy",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #13766)"
+    },
+    {
+      "name": "Heartland Boys Academy",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #13813)"
+    },
+    {
+      "name": "Teen Challenge Girls",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100083)"
+    },
+    {
+      "name": "Lakeside Academy (Minnesota)",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100099)"
+    },
+    {
+      "name": "Cross Christian Academy",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100210)"
+    },
+    {
+      "name": "Lebanon Girls Shelter",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100248)"
+    },
+    {
+      "name": "West Florida Teen Challenge Boys Ranch",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100549)"
+    },
+    {
+      "name": "Teen Challenge 30-bed boys' facility outside of Branson",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100704)"
+    },
+    {
+      "name": "Teen Challenge center for adolescent girls in Casper",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100705)"
+    },
+    {
+      "name": "Dallas Teen Challenge Boys Ranch",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100709)"
+    },
+    {
+      "name": "Teen Challenge Boston",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #100725)"
+    },
+    {
+      "name": "Cape Fear Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901001)"
+    },
+    {
+      "name": "Grace House Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901002)"
+    },
+    {
+      "name": "Southeast Florida Women's Rehab",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901003)"
+    },
+    {
+      "name": "Alabama Teen Challenge Men's Induction Center",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901004)"
+    },
+    {
+      "name": "Teen Challenge adult female center in Ozark",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901005)"
+    },
+    {
+      "name": "Teen Challenge center in Alaska",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901006)"
+    },
+    {
+      "name": "Phoenix Center",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901007)"
+    },
+    {
+      "name": "Teen Challenge West Pennsylvania",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901008)"
+    },
+    {
+      "name": "Teen Challenge Training Center",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901009)"
+    },
+    {
+      "name": "Teen Challenge San Antonio",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901010)"
+    },
+    {
+      "name": "Central Florida Mens Rehab",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901011)"
+    },
+    {
+      "name": "Teen Challenge Shafter Induction Center",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901012)"
+    },
+    {
+      "name": "Teen Challenge Southern California",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901013)"
+    },
+    {
+      "name": "Teen Challenge Brockton",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901014)"
+    },
+    {
+      "name": "Brooklyn Teen Challenge",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901015)"
+    },
+    {
+      "name": "Teen Challenge of South Carolina",
+      "kind": "facility",
+      "network": "Teen Challenge",
+      "near": "Teen Challenge",
+      "status": "open",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04 (KOP record #901016)"
     }
   ],
   "lines": [
@@ -6328,6 +6681,286 @@
       "relationship": "operated 1990-2009",
       "category": "corporate",
       "source": "owner's research sheet; Sequel acquisition January 2, 2010"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "180 Ministries for Girls",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Ozarks Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Adventure Ranch",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "North Carolina Boys Academy",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Harmony Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Bloom Home for Girls",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Ruth's Haven Teen Girls Center",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Columbus Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Victory House Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Eastern Appalachian Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Central Indiana Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "The Refuge Girls Academy",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Heart of America Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Grace Christian Home and Academy",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Heartland Boys Academy",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Girls",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Lakeside Academy (Minnesota)",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Cross Christian Academy",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Lebanon Girls Shelter",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "West Florida Teen Challenge Boys Ranch",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge 30-bed boys' facility outside of Branson",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge center for adolescent girls in Casper",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Dallas Teen Challenge Boys Ranch",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Boston",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Cape Fear Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Grace House Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Southeast Florida Women's Rehab",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Alabama Teen Challenge Men's Induction Center",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge adult female center in Ozark",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge center in Alaska",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Phoenix Center",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge West Pennsylvania",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Training Center",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge San Antonio",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Central Florida Mens Rehab",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Shafter Induction Center",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Southern California",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge Brockton",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Brooklyn Teen Challenge",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
+    },
+    {
+      "from": "Teen Challenge",
+      "to": "Teen Challenge of South Carolina",
+      "relationship": "operator",
+      "category": "corporate",
+      "source": "KOP company links (Teen Challenge, company 22), item 29, 2026-11-04"
     }
   ],  "views": {
     "historical": {

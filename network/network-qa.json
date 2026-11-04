@@ -7,7 +7,7 @@
   "record": 6,
   "suggestion": 15,
   "rebrand": 92,
-  "deaths": 4
+  "deaths": 5
  },
  "answered": 0,
  "questions": [
@@ -4384,10 +4384,10 @@
    "name": "Teen Challenge",
    "question": "What is \"Teen Challenge\"?",
    "evidence": [
-    "The build guessed: parent (owns 9 organisations by corporate edge)",
+    "The build guessed: parent (owns 49 organisations by corporate edge)",
     "Board frame: Teen Challenge",
     "Years: from 1960",
-    "Connected to: George W Bush, Columbus Girls Academy, New Lifehouse Academy, New Hope Boys Home, Lakeland Girls Academy, Teen Challenge of Acadiana Inc and 13 more"
+    "Connected to: George W Bush, Columbus Girls Academy, New Lifehouse Academy, New Hope Boys Home, Lakeland Girls Academy, Teen Challenge of Acadiana Inc and 53 more"
    ],
    "options": [
     {
@@ -5235,7 +5235,7 @@
     "A shared word stem, nothing more; roughly half of these are different places.",
     "Board frame: Teen Challenge",
     "Years: from 1960",
-    "Connected to: George W Bush, Columbus Girls Academy, New Lifehouse Academy, New Hope Boys Home, Lakeland Girls Academy, Teen Challenge of Acadiana Inc and 13 more"
+    "Connected to: George W Bush, Columbus Girls Academy, New Lifehouse Academy, New Hope Boys Home, Lakeland Girls Academy, Teen Challenge of Acadiana Inc and 53 more"
    ],
    "options": [
     {
@@ -7817,6 +7817,32 @@
    ],
    "subject": {
     "program": "Asheville Academy for Girls"
+   }
+  },
+  {
+   "id": "deaths:lakeside-academy",
+   "section": "deaths",
+   "name": "Lakeside Academy",
+   "question": "The memorial lists 1 death at \"Lakeside Academy\". Which name on the map is that?",
+   "evidence": [
+    "Two or more names match it, so none shows the deaths until you pick one."
+   ],
+   "options": [
+    {
+     "value": "Lakeside Academy",
+     "label": "Lakeside Academy"
+    },
+    {
+     "value": "Lakeside Academy (Minnesota)",
+     "label": "Lakeside Academy (Minnesota)"
+    },
+    {
+     "value": "none",
+     "label": "None of these"
+    }
+   ],
+   "subject": {
+    "program": "Lakeside Academy"
    }
   },
   {
