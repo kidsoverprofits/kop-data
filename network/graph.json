@@ -6,7 +6,7 @@
    "nodes": 2075,
    "edges": 4076,
    "facilityMatches": 696,
-   "withYears": 505,
+   "withYears": 506,
    "withDeaths": 34,
    "rebranded": 232,
    "profileEdges": 1860,
@@ -14477,6 +14477,9 @@
    "years": "from 2007",
    "formerNames": [
     "Highlands Girls Academy"
+   ],
+   "otherNames": [
+    "Teen Challenge Kansas City Girls Academy"
    ]
   },
   {
@@ -21874,7 +21877,10 @@
     "x": -747.99,
     "y": -611.44
    },
-   "years": "1958-2022"
+   "years": "1958-2022",
+   "otherNames": [
+    "Teen Challenge Lakeland Girls Home"
+   ]
   },
   {
    "id": "lakeside-academy-of-kansas",
@@ -54230,7 +54236,11 @@
    "board": {
     "x": -778.09,
     "y": -623.54
-   }
+   },
+   "years": "2011-2013",
+   "otherNames": [
+    "Teen Challenge New Lifehouse"
+   ]
   },
   {
    "id": "new-morgan-academy",
