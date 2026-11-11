@@ -7,7 +7,7 @@
    "edges": 4122,
    "facilityMatches": 736,
    "withYears": 512,
-   "withDeaths": 33,
+   "withDeaths": 34,
    "adult": 16,
    "rebranded": 232,
    "profileEdges": 1866,
@@ -30318,6 +30318,7 @@
     "y": -292.62
    },
    "years": "from 1998",
+   "deaths": 1,
    "otherNames": [
     "Colorado County Juvenile Facility",
     "Colorado County Juvenile Residential Facility"
