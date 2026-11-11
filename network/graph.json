@@ -6,7 +6,7 @@
    "nodes": 2118,
    "edges": 4122,
    "facilityMatches": 736,
-   "withYears": 511,
+   "withYears": 512,
    "withDeaths": 33,
    "adult": 16,
    "rebranded": 232,
@@ -25130,7 +25130,8 @@
    "board": {
     "x": -937.1,
     "y": -518.95
-   }
+   },
+   "years": "from 1992"
   },
   {
    "id": "stephanie-householder",
@@ -54405,7 +54406,8 @@
    "board": {
     "x": -947.28,
     "y": -535.92
-   }
+   },
+   "currentName": "Empowering to Elevate Academy"
   },
   {
    "id": "momentum",
