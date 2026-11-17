@@ -6,7 +6,7 @@
    "nodes": 2127,
    "edges": 4144,
    "facilityMatches": 738,
-   "withYears": 513,
+   "withYears": 515,
    "withDeaths": 39,
    "adult": 16,
    "rebranded": 232,
@@ -4270,7 +4270,10 @@
     "y": 22.51
    },
    "years": "1988-2012",
-   "deaths": 1
+   "deaths": 1,
+   "otherNames": [
+    "Catherine Freer of Nevada"
+   ]
   },
   {
    "id": "cedar-ridge-academy",
@@ -16659,7 +16662,13 @@
     "x": -621,
     "y": 32.58
    },
-   "deaths": 11
+   "years": "from 1973",
+   "deaths": 11,
+   "otherNames": [
+    "VisionQuest Arizona",
+    "Vision Quest – 7 Directions",
+    "VisionQuest Residential Fort Worth"
+   ]
   },
   {
    "id": "wayne-lippold",
@@ -54633,15 +54642,18 @@
    "degreeByCategory": {
     "corporate": 1
    },
-   "facilityId": 13261,
-   "uniqueName": "Mohican Young Star Academy",
+   "facilityId": 100760,
+   "uniqueName": "Empowering to Elevate Academy",
    "dates": "",
    "isolated": false,
    "board": {
     "x": -947.28,
     "y": -535.92
    },
-   "currentName": "Empowering to Elevate Academy"
+   "years": "until 2025",
+   "otherNames": [
+    "Mohican"
+   ]
   },
   {
    "id": "momentum",
@@ -60064,7 +60076,10 @@
     "x": -977.49,
     "y": -539.31
    },
-   "years": "from 1971"
+   "years": "from 1971",
+   "formerNames": [
+    "Behavior Research Institute"
+   ]
   },
   {
    "id": "kim-smith",
