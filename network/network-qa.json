@@ -4,7 +4,7 @@
   "kind": 54,
   "company": 9,
   "record": 6,
-  "suggestion": 12,
+  "suggestion": 11,
   "rebrand": 89
  },
  "answered": 54,
@@ -3297,32 +3297,6 @@
     "name": "Talisman Programs"
    },
    "node": "talisman-programs"
-  },
-  {
-   "id": "suggestion:teen-challenge",
-   "section": "suggestion",
-   "name": "Teen Challenge",
-   "question": "Is the map's \"Teen Challenge\" one of these KOP records?",
-   "evidence": [
-    "A shared word stem, nothing more; roughly half of these are different places.",
-    "Board frame: Teen Challenge",
-    "Years: from 1960",
-    "Connected to: George W Bush, Columbus Girls Academy, New Lifehouse Academy, New Hope Boys Home, Lakeland Girls Academy, Teen Challenge of Acadiana Inc and 53 more"
-   ],
-   "options": [
-    {
-     "value": "100083",
-     "label": "Teen Challenge Girls (#100083)"
-    },
-    {
-     "value": "none",
-     "label": "No, a different place"
-    }
-   ],
-   "subject": {
-    "name": "Teen Challenge"
-   },
-   "node": "teen-challenge"
   },
   {
    "id": "suggestion:teen-discovery",

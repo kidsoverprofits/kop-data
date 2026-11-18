@@ -5,7 +5,7 @@
   "counts": {
    "nodes": 2127,
    "edges": 4144,
-   "facilityMatches": 738,
+   "facilityMatches": 739,
    "withYears": 515,
    "withDeaths": 39,
    "adult": 16,
@@ -503,15 +503,18 @@
     "corporate": 55,
     "leadership": 3
    },
-   "facilityId": null,
-   "uniqueName": null,
+   "facilityId": 100770,
+   "uniqueName": "Teen Challenge",
    "dates": "",
    "isolated": false,
    "board": {
     "x": -763.27,
     "y": -573.65
    },
-   "years": "from 1960"
+   "years": "from 1960",
+   "otherNames": [
+    "Teen Challenge Missouri"
+   ]
   },
   {
    "id": "correctional-services-corporation",
