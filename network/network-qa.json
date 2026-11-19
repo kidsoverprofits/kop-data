@@ -1,7 +1,7 @@
 {
  "sourceHash": "eb3d221bc5b1",
  "counts": {
-  "kind": 54,
+  "kind": 53,
   "company": 9,
   "record": 6,
   "suggestion": 11,
@@ -2473,59 +2473,6 @@
     "name": "Hill Crest Behavioral Health"
    },
    "node": "hill-crest-behavioral-health"
-  },
-  {
-   "id": "kind:laurel-hills-behavioral-health",
-   "section": "kind",
-   "name": "Laurel Hills Behavioral Health",
-   "question": "What is \"Laurel Hills Behavioral Health\"?",
-   "evidence": [
-    "The build guessed: parent (status marks an organisation, company wording)",
-    "Board frame: UHS",
-    "Connected to: Ramsay Youth Services, Universal Health Services"
-   ],
-   "options": [
-    {
-     "value": "facility",
-     "label": "A program"
-    },
-    {
-     "value": "parent",
-     "label": "A company (as guessed)"
-    },
-    {
-     "value": "association",
-     "label": "A trade group"
-    },
-    {
-     "value": "government",
-     "label": "A government body"
-    },
-    {
-     "value": "church",
-     "label": "A church"
-    },
-    {
-     "value": "investor",
-     "label": "An investor"
-    },
-    {
-     "value": "marketer",
-     "label": "A marketing or referral company"
-    },
-    {
-     "value": "person",
-     "label": "A person"
-    },
-    {
-     "value": "other",
-     "label": "Something else"
-    }
-   ],
-   "subject": {
-    "name": "Laurel Hills Behavioral Health"
-   },
-   "node": "laurel-hills-behavioral-health"
   },
   {
    "id": "kind:timberlawn-behavioral-health-system",
