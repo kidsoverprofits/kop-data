@@ -2019,9 +2019,13 @@
   "entries": [
    {
     "stream": "orr",
-    "detail": "Received an Office of Refugee Resettlement grant of about $7.4 million in April 2026 for short-term residential care of unaccompanied children.",
+    "detail": "Holds an Office of Refugee Resettlement grant (90ZU0687) for short-term residential care of unaccompanied children, awarded at about $3.7 million in April 2026 and since raised to about $7.4 million.",
     "years": "2026",
     "sources": [
+     {
+      "url": "https://www.usaspending.gov/award/ASST_NON_90ZU0687_075",
+      "label": "USAspending (grant record)"
+     },
      {
       "url": "https://www.highergov.com/grant/90ZU0687/",
       "label": "HigherGov (grant record)"
@@ -4483,7 +4487,7 @@
   "operator": "SVJC Commission",
   "confidence": "medium",
   "match": "matched",
-  "operating": "Used by ORR FY2022-2023",
+  "operating": "ORR January 2021 to June 2023; still a juvenile detention center (FY2025)",
   "flags": [],
   "candidates": [
    {
@@ -4494,9 +4498,25 @@
   "entries": [
    {
     "stream": "orr",
-    "detail": "Held unaccompanied children for the Office of Refugee Resettlement in secure care, in a 58-bed juvenile detention center, until about 2023.",
-    "years": "2022-2023",
+    "detail": "Held unaccompanied children for the Office of Refugee Resettlement in secure care under a 2009-2010 contract and under a grant that ran from January 2021 to June 2023 (90ZU0353, about $7.2 million). The 58-bed center still holds local youth as a juvenile detention center.",
+    "years": "2021-2023",
     "sources": [
+     {
+      "url": "https://www.usaspending.gov/award/ASST_NON_90ZU0353_075",
+      "label": "USAspending (grant record)"
+     },
+     {
+      "url": "https://www.highergov.com/grant/90ZU0353",
+      "label": "HigherGov (grant record)"
+     },
+     {
+      "url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=SHENANDOAH+VALLEY+JUVENILE",
+      "label": "FPDS (federal contracts)"
+     },
+     {
+      "url": "https://djj.virginia.gov/documents/about-djj/drg/Detention_Centers.pdf",
+      "label": "Virginia DJJ, detention centers FY2025"
+     },
      {
       "url": "https://www.elfinanciero.com.mx/mundo/2025/03/21/trump-abrira-un-centro-para-detener-a-ninos-migrantes-en-eu-esto-sabemos-de-su-plan/",
       "label": "elfinanciero.com.mx"
