@@ -2446,9 +2446,13 @@
   "entries": [
    {
     "stream": "orr",
-    "detail": "Holds an Office of Refugee Resettlement grant for unaccompanied children (90ZU0671), $8.44 million awarded in April 2026; the Washington Free Beacon reported more than $81 million in federal health and human services grants since 2017.",
+    "detail": "Holds an Office of Refugee Resettlement grant for unaccompanied children (90ZU0671), awarded at $8.44 million in April 2026 and since raised to $16.9 million; the Washington Free Beacon reported more than $81 million in federal health and human services grants since 2017.",
     "years": "2026",
     "sources": [
+     {
+      "url": "https://www.usaspending.gov/award/ASST_NON_90ZU0671_075",
+      "label": "USAspending (award record)"
+     },
      {
       "url": "https://www.highergov.com/grant/90ZU0671/",
       "label": "HigherGov (grant record)"
@@ -4405,7 +4409,7 @@
   "operator": "Commission",
   "confidence": "medium",
   "match": "matched",
-  "operating": "2023 award",
+  "operating": "ORR contracts 2009-2018 (closed out 2023)",
   "flags": [],
   "candidates": [
    {
@@ -4420,12 +4424,20 @@
   "entries": [
    {
     "stream": "orr",
-    "detail": "Received about $1.3 million in three federal health and human services awards in 2023 for secure beds for unaccompanied children.",
-    "years": "2023",
+    "detail": "Held Office of Refugee Resettlement contracts for secure beds for unaccompanied children in about 2009-2013 (about $5.0 million) and 2017-2018 (about $3.1 million). The negative amounts in 2023 are the government taking back about $1.3 million of unspent money as it closed those contracts out.",
+    "years": "2009-2018",
     "sources": [
      {
-      "url": "https://www.govconinabox.com/explore/contractors/profile/JJ2SNCZ35AJ3",
-      "label": "govconinabox.com"
+      "url": "https://www.usaspending.gov/award/CONT_AWD_HHSP233201700038C_7570_-NONE-_-NONE-",
+      "label": "USAspending (contract HHSP233201700038C)"
+     },
+     {
+      "url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID:HHSP233201700038C",
+      "label": "FPDS (contract HHSP233201700038C, close-out)"
+     },
+     {
+      "url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID:HHSP23320092905YC",
+      "label": "FPDS (contract HHSP23320092905YC)"
      }
     ],
     "confidence": "medium"
@@ -4575,9 +4587,13 @@
   "entries": [
    {
     "stream": "orr",
-    "detail": "Holds an Office of Refugee Resettlement grant (90ZU0670) of $15.08 million, awarded in April 2026, for shelter and transitional foster care of unaccompanied children on its residential campus.",
+    "detail": "Holds an Office of Refugee Resettlement grant (90ZU0670) for shelter and transitional foster care of unaccompanied children on its residential campus, awarded at $15.08 million in April 2026 and since raised to $30.2 million.",
     "years": "2026",
     "sources": [
+     {
+      "url": "https://www.usaspending.gov/award/ASST_NON_90ZU0670_075",
+      "label": "USAspending (award record)"
+     },
      {
       "url": "https://www.highergov.com/grant/90ZU0670/",
       "label": "HigherGov (grant record)"
