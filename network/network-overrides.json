@@ -69,6 +69,20 @@
   ],
   "merges": [
     {
+      "canonical": "Laurel Oaks Behavioral Health Center",
+      "note": "one program: the board's \"Laurel Hills Behavioral Health\" (UHS frame, owned by Ramsay Youth Services, acquired by UHS) is Laurel Oaks in Dothan, AL. Psychiatric Solutions' 2003 10-K lists Laurel Oaks as the only Laurel facility it got from Ramsay (June 2003): https://www.sec.gov/Archives/edgar/data/829608/000095014404003028/g87995e10vk.htm . No source names a Laurel Hills. Owner's yes, 2026-11-19 (plan 4.6 #18c K)",
+      "rows": [
+        {
+          "name": "Laurel Oaks Behavioral Health Center",
+          "network": "Rite of Passage"
+        },
+        {
+          "name": "Laurel Hills Behavioral Health",
+          "network": "UHS"
+        }
+      ]
+    },
+    {
       "canonical": "David Freedman",
       "note": "one person, drawn in both the FHW and Wilderness frames",
       "rows": [
@@ -182,6 +196,8 @@
     }
   },
   "facilities": {
+    "Journey Home": null,
+    "Hastings Youth Academy": 100694,
     "Lakeside Academy": 100098,
     "Normative Services Academy": 13410,
     "Solstice RTC": 10359,
@@ -394,6 +410,14 @@
   },
   "deaths": {},
   "nodes": [
+    {
+      "name": "Hastings Youth Academy",
+      "kind": "facility",
+      "network": "YOI",
+      "near": "Deep Creek Youth Academy",
+      "status": "rebranded",
+      "source": "Same campus as Deep Creek Youth Academy, 765 E Saint Johns Ave, Hastings, FL 32145: Hastings Youth Academy's 2020-21 school improvement plan (https://www.floridacims.org/plans/43738/view.pdf) and Deep Creek Youth Academy's school listing. Rename year unknown. KOP record #100694. Owner's yes, 2026-11-19 (plan 4.6 #18c L)"
+    },
     {
       "name": "Correctional Services Corporation",
       "kind": "parent",
@@ -4075,6 +4099,13 @@
     }
   ],
   "edges": [
+    {
+      "from": "Hastings Youth Academy",
+      "to": "Deep Creek Youth Academy",
+      "relationship": "rebrand",
+      "category": "corporate",
+      "source": "https://www.floridacims.org/plans/43738/view.pdf (Hastings Youth Academy, 765 E Saint Johns Ave, Hastings, FL, 2020-21); Deep Creek Youth Academy's school is at the same address. Rename year unknown (plan 4.6 #18c L)"
+    },
     {
       "from": "Governor George W. Bush of Texas",
       "to": "Roloff Evangelistic Enterprises",
