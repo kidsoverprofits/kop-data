@@ -1,5 +1,5 @@
 {
- "sourceHash": "eb3d221bc5b1",
+ "sourceHash": "d5cc2de04d88",
  "counts": {
   "kind": 53,
   "company": 9,
@@ -1192,7 +1192,7 @@
    "evidence": [
     "The build guessed: parent (status marks an organisation, company wording)",
     "Board frame: HOPE Group",
-    "Connected to: Integrity House, Zion HIlls Academy, Ken Huey, Havenwood Academy, Bryan Cook"
+    "Connected to: Integrity House, Zion Hills Academy, Ken Huey, Havenwood Academy, Bryan Cook"
    ],
    "options": [
     {

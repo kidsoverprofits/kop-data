@@ -1,6 +1,6 @@
 {
  "meta": {
-  "sourceHash": "eb3d221bc5b1",
+  "sourceHash": "d5cc2de04d88",
   "facilitySource": "facilities_v2",
   "counts": {
    "nodes": 2142,
@@ -26789,7 +26789,7 @@
   },
   {
    "id": "zion-hills-academy",
-   "name": "Zion HIlls Academy",
+   "name": "Zion Hills Academy",
    "aliases": [],
    "kind": "facility",
    "status": "closed",
