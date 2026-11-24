@@ -5,8 +5,8 @@
   "counts": {
    "nodes": 2147,
    "edges": 4204,
-   "facilityMatches": 739,
-   "withYears": 514,
+   "facilityMatches": 740,
+   "withYears": 515,
    "withDeaths": 39,
    "adult": 16,
    "rebranded": 234,
@@ -55734,14 +55734,15 @@
    "degreeByCategory": {
     "corporate": 1
    },
-   "facilityId": null,
-   "uniqueName": null,
+   "facilityId": 100813,
+   "uniqueName": "New Morgan Academy",
    "dates": "",
    "isolated": false,
    "board": {
     "x": -964.25,
     "y": -532.53
-   }
+   },
+   "years": "2000-2002"
   },
   {
    "id": "new-summit-academy",
