@@ -6,7 +6,7 @@
    "nodes": 2147,
    "edges": 4204,
    "facilityMatches": 739,
-   "withYears": 515,
+   "withYears": 514,
    "withDeaths": 39,
    "adult": 16,
    "rebranded": 234,
@@ -57780,15 +57780,14 @@
    "degreeByCategory": {
     "corporate": 1
    },
-   "facilityId": 13983,
-   "uniqueName": "Carolina Springs Academy",
+   "facilityId": 100811,
+   "uniqueName": "Seneca Ranch",
    "dates": "",
    "isolated": false,
    "board": {
     "x": -165.52,
     "y": -781.14
-   },
-   "years": "1998-2009"
+   }
   },
   {
    "id": "sequel-pomegranate",
