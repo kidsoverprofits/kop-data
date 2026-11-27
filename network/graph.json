@@ -6,7 +6,7 @@
    "nodes": 2147,
    "edges": 4204,
    "facilityMatches": 740,
-   "withYears": 515,
+   "withYears": 516,
    "withDeaths": 39,
    "adult": 16,
    "rebranded": 234,
@@ -56250,7 +56250,8 @@
    "board": {
     "x": -353.38,
     "y": -694.87
-   }
+   },
+   "years": "until 2004"
   },
   {
    "id": "paradigm-treatment-center-coeur-dalene-id",
